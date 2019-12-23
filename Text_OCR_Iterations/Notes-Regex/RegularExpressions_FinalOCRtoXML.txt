@@ -12,10 +12,23 @@ Searched for following characters and corrected case by case:
 \^ Results: 10 Unresolved: 1
 • Results: 12 Unresolved: 0
 
+»
+
 To Find Year / Page Headings:
-Find: \d{4}.+?\n Results: 64 -- need to correct each year and page number manually
+Find: \d{4}.+?\n Results: 64 -- need to correct each year and page number manually; need to move page number out of date element
 Replace: 
+<head>
+               <date>\0</date>
+</head>
 
 To Find each entry: 
 Find: (\.)(\n) Results: 1017 -- need to use clopen and then check instances where headers are tangled and give first and last entry open/close tags
-Replace: 
+Replace: \1</p></div>
+            <div type="entry">
+               <head>
+                  <date when="">
+
+To Clean Up Year / Page Headings after grabbing Entries:
+Find: (<div type="entry">\s+<head>\n*\s*<date when="">)(<head>\n*\s*<date>.+?)\n*(</date>)\n*(</head>)
+Results: 59
+Replace: \2\3\4\n\1
