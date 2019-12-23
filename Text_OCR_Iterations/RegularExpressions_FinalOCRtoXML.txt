@@ -1,0 +1,21 @@
+Regular Expressions used on OCR Final text file to create OCR Final XML file. 
+
+Find: V/ Replace: W Results 47
+Find: (Mr[s]*\.)(\n) Replace:\1\s\2
+Find: (Dr\.)(\n) Replace:\1\s\2
+
+Searched for following characters and corrected case by case: 
+© Results: 8 Unresolved: 5
+& Results: 706 Find: \s&\s Replace: \s&amp\s; Results: 665 Unresolved:41
+> Results: 24 Unresolved: 2 (besides for <note>)
+< Results: 6 Unresolved: 1 (besides for <note>)
+\^ Results: 10 Unresolved: 1
+• Results: 12 Unresolved: 0
+
+To Find Year / Page Headings:
+Find: \d{4}.+?\n Results: 64 -- need to correct each year and page number manually
+Replace: 
+
+To Find each entry: 
+Find: (\.)(\n) Results: 1017 -- need to use clopen and then check instances where headers are tangled and give first and last entry open/close tags
+Replace: 

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://ebeshero.github.io/MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
+<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -59,12 +56,12 @@
                      34126003337949<!--ebb:is the last digit a g? I think it's a 9, but check at Reading Central Library.--></idno>
 
                </msIdentifier>
-               <p>Our source text is marked as an "original carbon copy" of a typed transcript of
-                  Mary Russell Mitford's notebook. From the title page of the source text, "The
+               <p>Our source text is marked as an <q>original carbon copy</q> of a typed transcript of
+                  Mary Russell Mitford's notebook. From the title page of the source text, <q>The
                   transcript of which this is a copy is in the possession of the Public Library,
                   Reading, Berks, England. A photostat copy of the MS is also available at that
                   library. Copyright presumably rests with the British Museum. <date when="1955-07"
-                     >July 1955</date>."
+                     >July 1955</date>.</q>"
                   <!--ebb:Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
             </msDesc>
          </sourceDesc>
@@ -103,7 +100,7 @@
             <p>Mitford’s spelling and punctuation are retained, except where a word is split at the
                end of a line and the beginning of the next in the manuscript. Where Mitford’s
                spelling and hyphenation of words deviates from the standard, in order to facilitate
-               searching we are using the TEI elements “choice," “sic," and “reg" to encode both
+               searching we are using the TEI elements choice, sic, and reg to encode both
                Mitford’s spelling and the regular international standard of Oxford English spelling,
                following the first listed spelling in the Oxford English Dictionary. The long s and
                ligatured forms are not encoded.</p>
@@ -142,8 +139,8 @@
             <div type="title">
                <head>MARY RUSSELL MITFORD<lb/> Transcript of notebook of Mary Russell Mitford<lb/>
                   contained in the British Museum (P 24834 : C.60.b.7.)</head>
-               <p>The note-book has a printed title page "The Literary Pocket-Book; or, Companion
-                  for the lover of Nature &amp; Art, 1819". The size of the notebook is 13 x 8
+               <p>The note-book has a printed title page <q>The Literary Pocket-Book; or, Companion
+                  for the lover of Nature &amp; Art, 1819</q>. The size of the notebook is 13 x 8
                   cm.</p>
                <p>Miss Mitford's notes begin on 1 January 1819 and end 11 March 1823.</p>
                <p>The transcript of which this is a copy is in the possession of the Public Library,
@@ -181,14 +178,13 @@
                      ref="#Bertram_house">Bertram House</placeName>--dear
                      <persName ref="#Granny">Granny</persName>, dear <persName ref="#Mitford_Geo">Drum</persName>
                   &amp; <persName ref="#MRM">I</persName>--Our servants poor
-                     <persName>Lucy</persName>, <persName>Jane</persName> (who is going away) &amp;
-                     <persName>George</persName>--our pets--Dear <persName>Mossy</persName>--his
-                  sister <persName>May
-                     Fly</persName>--<persName>Nelly</persName>--<persName>Moses</persName>--(greyhounds)
+                     <persName ref="#Hill_Lucy">Lucy</persName>, <persName>Jane</persName> (who is going away) &amp;
+                     <persName ref="#George">George</persName>--our pets--Dear <persName ref="#Mossy_pet">Mossy</persName>--his
+                  sister <persName>May Fly</persName>--<persName>Nelly</persName>--<persName>Moses</persName>--(greyhounds)
                      <persName>Mob</persName> a borrowed greyhound--<persName>Whim</persName> our
                   squinting spaniel who came from
-                     <placeName>Lockinge</placeName>--<persName>Miranda</persName> our dear
-                  beautiful greyhound puppy--<persName>Selim</persName> our Persian Cat,
+                  <placeName>Lockinge</placeName>--<persName ref="#Miranda_pet">Miranda</persName> our dear
+                  beautiful greyhound puppy--<persName ref="#Selim_pet">Selim</persName> our Persian Cat,
                      <persName>Poll</persName> a tabby do--&amp; 22 Bantams--the old ones given me
                   by poor <persName>Jesse Clift</persName>.</head>
 
@@ -199,16 +195,16 @@
                      Thurs. 31 Dec.</date>
                </head>
                <p>Went with <persName ref="#Mitford_Geo">Papa</persName> &amp; <persName
-                     ref="#Webb_Eliza">Eliza Webb</persName> to <rs type="event">a dance</rs> at
+                     ref="#Webb_Eliza">Eliza Webb</persName> to <!--<rs type="event">-->a dance<!--</rs>--> at
                      <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>'s--very splendid--very
-                  delightful--much laughing--<persName>Mr. Crowther</persName> not to be
+                  delightful--much laughing--<persName ref="#Crowther_Mr">Mr. Crowther</persName> not to be
                   forgotten.</p>
             </div>
             <div type="entry">
                <head>
                   <date when="1819-01-01"/>
                </head>
-               <p>At <placeName>Farley Hill</placeName>--Happy day--<persName ref="#Dickinson_Mrs"
+               <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName>--Happy day--<persName ref="#Dickinson_Mrs"
                      >Mrs. D</persName>'s singing--<title>Where'er you walk</title>--<persName
                      ref="#Dickinson_Charles">Mr. D</persName>'s reading--<title>Count
                      Ugolino</title>.</p>
@@ -217,7 +213,7 @@
                <head>
                   <date when="1819-01-02">Sat. 2 Jan.</date>
                </head>
-               <p>Another happy day--at <placeName>Farley Hill</placeName>--<placeName
+               <p>Another happy day--at <placeName ref="#Farley_Hill">Farley Hill</placeName>--<placeName
                      ref="#Reading_city">Reading</placeName> &amp; <placeName ref="#Bertram_house"
                      >home</placeName>.</p>
             </div>
@@ -226,7 +222,7 @@
                   <date when="1819-01-03">Sun. 3 Jan.</date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--told dear <persName
-                     ref="#Russell_M">Mama</persName> all about <rs type="event">the Ball</rs>--read
+                     ref="#Russell_M">Mama</persName> all about <!--<rs type="event">-->the Ball<!--</rs>-->--read
                         <bibl><author>Burke</author></bibl> &amp; <bibl>the Reviews <title>the
                         B.C.</title> &amp; <title>the E.R.</title></bibl></p>
             </div>
@@ -239,7 +235,6 @@
                      week</rs>--<rs type="letter">And to <persName>Miss Brooke</persName></rs>. Read
                      <title ref="#Antiquary">the Antiquary</title> XX.</p>
             </div>
-            <!--ebb:ADD MORE ENTRIES FROM PAGE 1 here-->
             <div type="entry">
                <head>
                   <date when="1819-01-05">Tues. 5 Jan.</date>
@@ -316,9 +311,9 @@
                   <date when="1819-01-13">Wed. 13 Jan.</date>
                </head>
                <p><rs type="letter" subtype="received">Heard from dear <persName ref="#James_Miss"
-                        >Miss James</persName></rs>-- went Fir topping -- <bibl><rs type="letter"
+                        >Miss James</persName></rs>-- went Fir topping -- <rs type="letter"
                         >Wrote <title>a sonnet</title> &amp; letter to <persName
-                           ref="#Dickinson_Mrs">Mrs. Dickinson</persName></rs></bibl> -- at
+                           ref="#Dickinson_Mrs">Mrs. Dickinson</persName></rs> -- at
                      <placeName ref="#Bertram_house">home</placeName>.</p>
             </div>
             <div type="entry">
@@ -507,14 +502,14 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-02-02">Tues. 2 Feb.</date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> all day: Helped trim my new
-                  gown and read the <title>Eclectic Review</title> &amp; played with
-                     <persName>Miranda</persName>.</p>
+                  gown and read the <title ref="">Eclectic Review</title> &amp; played with
+                     <persName ref="#Miranda_pet">Miranda</persName>.</p>
             </div>
             <div type="entry">
                <head>
                   <date when="1819-02-11">Thurs. 11 Feb.</date>
                </head>
-               <p><rs type="event">Walked about <placeName>Farley Hill</placeName> -- <persName
+               <p><rs type="event">Walked about <placeName ref="#Farley_Hill">Farley Hill</placeName> -- <persName
                         ref="#Dickinson_Mrs">Mrs. Dick.</persName> brought me &amp; <persName
                         ref="#Hofland_B">Mrs. Hofland</persName>
                      <placeName ref="#Bertram_house">home</placeName> &amp; dined with us --
@@ -4130,26 +4125,5 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
 
          </div>
       </body>
-      <back>
-         <listPerson>
-            <person xml:id="Granny">
-               <!--rjp: Since both of the grandmothers of MRM have passed away prior to 1819 I am not sure who granny is. At the Mitford Workshops 2016 Lisa decided to we should for now give her the id of #Granny and return to research this further later. She is a significant part of Mitford's life and appears in most of her journal entries -->
-            </person>
-         </listPerson>
-         <listPerson>
-            <person xml:id="Palmer_Mad">
-               <!--rjp:I am adding these alternate names to the entry... she already exists in the SI-->
-               <persName>Lady M.P.</persName>
-               <persName>Lady Mad.</persName>
-               <persName>Lady Madalina Palmer</persName>
-               <persName>Lady M. Palmer</persName>
-               <persName>tiresome woman</persName>
-               <persName>my Lady</persName>
-               <!--LMW: Mr. Palmer's wife? First name "Madalina"? See 1820-09-09 Elford letter, referenced "Lady Madalina"-->
-            </person>
-         </listPerson>
-         
-
-      </back>
    </text>
 </TEI>
