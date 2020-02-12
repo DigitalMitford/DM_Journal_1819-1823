@@ -11,8 +11,10 @@ Searched for following characters and corrected case by case:
 < Results: 6 Unresolved: 1 (besides for <note>)
 \^ Results: 10 Unresolved: 1
 • Results: 12 Unresolved: 0
-
 »
+&o\. Results: 22 -- removed
+&c\. Results: 6 -- removed
+&e\. Results: 5 -- removed
 
 To Find Year / Page Headings:
 Find: \d{4}.+?\n Results: 64 -- need to correct each year and page number manually; need to move page number out of date element
@@ -32,3 +34,7 @@ To Clean Up Year / Page Headings after grabbing Entries:
 Find: (<div type="entry">\s+<head>\n*\s*<date when="">)(<head>\n*\s*<date>.+?)\n*(</date>)\n*(</head>)
 Results: 59
 Replace: \2\3\4\n\1
+
+To wrap the date at start of each entry"
+Find:  (<date when="">.+?)\t Results: 1016 -- one less than above but there were several corrections made as I went thru and corrected the spellings of all date text()
+Replace: \1</date></head><p>
