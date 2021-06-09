@@ -2453,8 +2453,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <pb n="19"/>
             <div type="entry">
                <head><date when="1819-08-11">Wed. 11 Aug.</date></head>
-               <p>At home -- heard from Mr. &amp; Mrs. Dickinson &amp; Miss Ogbourn. <persName ref="#Mitford_Geo">Drum</persName> &amp;
-                  Granny out all the morning at Wokingham &amp; Reading -- lay in my hay &amp; read
+               <p>At home -- heard from Mr. &amp; <persName>Mrs. Dickinson</persName> &amp; Miss Ogbourn. <persName ref="#Mitford_Geo">Drum</persName> &amp;
+                  <persName ref="#Granny">Granny</persName> out all the morning at Wokingham &amp; Reading -- lay in my hay &amp; read
                   Independence. &amp; Dressed my flowers.</p>
             </div>
             <div type="entry">
@@ -2465,7 +2465,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-08-13">Fri. 13 Aug.</date></head>
                <p>At home -- lay in the hay -- Bobby very amiable -- Mossy dear lamb rather better
-                  today -- dear Granny sat out of doors with me -- read Leighton Priory.</p>
+                  today -- dear <persName ref="#Granny">Granny</persName> sat out of doors with me -- read Leighton Priory.</p>
             </div>
             <div type="entry">
                <head><date when="1819-08-14">Sat. 14 Aug.</date></head>
@@ -2505,7 +2505,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-08-20">Fri. 20 Aug.</date></head>
-               <p>At home -- heard from Mrs. Hofland -- lay in the hay -- Mossy very amiable -- the
+               <p>At home -- heard from <persName>Mrs. Hofland</persName> -- lay in the hay -- Mossy very amiable -- the
                   blackbird came again -- read Opie's Lectures &amp; the Mysterious Wife.</p>
             </div>
             <div type="entry">
@@ -2576,13 +2576,13 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-09-01">Wed. 1 Sept.</date></head>
-               <p>At home -- went filberding with dear <persName ref="#Mitford_Geo">Drum</persName>, Granny &amp; Luce -- got a good many --
+               <p>At home -- went filberding with dear <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Granny">Granny</persName> &amp; Luce -- got a good many --
                   read the Eclectic Review -- missed dear Mossy very much indeed, sweet saint!</p>
             </div>
             <pb n="21"/>
             <div type="entry">
                <head><date when="1819-09-02">Thurs. 2 Sept.</date></head>
-               <p>At home -- lay in the Hay -- went Filberding with dear <persName ref="#Mitford_Geo">Drum</persName>, Granny &amp; Luce --
+               <p>At home -- lay in the Hay -- went Filberding with dear <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Granny">Granny</persName> &amp; Luce --
                   read the British Critic &amp; Burnet's History of his own Times -- missed my own
                   dear Mossy more &amp; more.</p>
             </div>
@@ -2600,14 +2600,14 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-09-05">Sun. 5 Sept.</date></head>
-               <p> At home -- finished Peter's Letters -- wrote to Mrs. Hofland &amp; <persName ref="#James_Miss">Miss James</persName> --
+               <p> At home -- finished Peter's Letters -- wrote to <persName>Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName> --
                   walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- missed my own dear Mossy more than ever, sweet
                   saint.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-06">Mon. 6 Sept.</date></head>
                <p>At home -- lay in the hay -- fed my bobbies -- read Peter's letters -- walked with
-                  Granny &amp; <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets. Missed my poor dear darling Mossy all day long
+                  <persName ref="#Granny">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets. Missed my poor dear darling Mossy all day long
                   -- sweet saint.</p>
             </div>
             <div type="entry">
@@ -2641,7 +2641,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-09-12">Sun. 12 Sept.</date></head>
                <p> At home -- sat in my hay -- read the Edinburgh Review &amp; Mons Egede <note resp="#coles">?</note>
-                  Journal in Greenland -- Mrs. Dickinson called -- walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the
+                  Journal in Greenland -- <persName>Mrs. Dickinson</persName> called -- walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the
                   pets -- wrote to <persName ref="#Elford_SirWm">Sir William</persName>-- missed my own dear sainted Mossy more &amp;
                   more every day.</p>
             </div>
@@ -2691,7 +2691,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-09-20">Mon. 20 Sept.</date></head>
                <p>At home -- went apple gathering -- got a great many -- almost cleared both the
-                  garden and Orchard -- Luce &amp; George &amp; Granny hard at work all day -- read
+                  garden and Orchard -- Luce &amp; George &amp; <persName ref="#Granny">Granny</persName> hard at work all day -- read
                   Mr. Hende's <note resp="#coles">?</note> Journey overland from India.</p>
             </div>
             <div type="entry">
@@ -2723,12 +2723,12 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At home -- <persName>Mrs. Raggett</persName> &amp; Mrs. Greenwell went home -- Mrs. Greenwell a very
                   pleasant woman &amp; very like Sir William Elford
                   <!-- RJP: comparison to Elford suggests possible relation -->-- walked in the
-                  garden wuth Granny &amp; Slops.</p>
+                  garden wuth <persName ref="#Granny">Granny</persName> &amp; Slops.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-26">Sun. 26 Sept.</date></head>
                <p>At home -- rode over to Wokingham to see Mr. Webb found him just after he had
-                  undergone another operation but tolerable considering -- dear Mrs. Dickinson drank
+                  undergone another operation but tolerable considering -- dear <persName>Mrs. Dickinson</persName> drank
                   tea with us -- very pleasant day -- missed my own poor dear Mossy very much always
                   -- Molly is a nice bitch but not like poor dear Mossy.</p>
             </div>
@@ -2751,7 +2751,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-09-30">Thurs. 30 Sept.</date></head>
                <p>At home -- wrote to Mr. Johnson -- heard from <persName>Mrs. Raggett</persName> &amp; Mrs, Greenwell --
-                  walked with dear Granny &amp; Slops -- read the Miser Married -- a clever
+                  walked with dear <persName ref="#Granny">Granny</persName> &amp; Slops -- read the Miser Married -- a clever
                   thing.</p>
             </div>
             <div type="entry">
@@ -2762,7 +2762,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-01">Sat. 2 Oct.</date></head>
-               <p>At home -- heard from Mrs. Hofland &amp; <persName ref="#James_Miss">Miss James</persName> -- worked at my shirt --
+               <p>At home -- heard from <persName>Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName> -- worked at my shirt --
                   walked with Molly -- dressed my flowers -- finished my letter to Sir William
                   Elford -- read Ellesmere.</p>
             </div>
@@ -2774,7 +2774,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-04">Mon. 4 Oct.</date></head>
-               <p> At home -- wrote to Mrs. Hofland &amp; began a letter to <persName ref="#James_Miss">Miss James</persName> -- read
+               <p> At home -- wrote to <persName>Mrs. Hofland</persName> &amp; began a letter to <persName ref="#James_Miss">Miss James</persName> -- read
                   Ellesmere -- &amp; played with little Molly Slops.</p>
             </div>
             <!-- RJP: note to self Slops = Molly -->
@@ -2782,7 +2782,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-10-05">Tues. 5 Oct.</date></head>
                <p>At home -- finished &amp; sent off my letter to <persName ref="#James_Miss">Miss James</persName> &amp; Mrs. Hofland.
-                  Worked at my shirt -- walked in the garden with Slops &amp; Granny -- read the new
+                  Worked at my shirt -- walked in the garden with Slops &amp; <persName ref="#Granny">Granny</persName> -- read the new
                   letters of Lady Russell -- interesting.</p>
             </div>
             <div type="entry">
@@ -2794,12 +2794,12 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-10-07">Thurs. 7 Oct.</date></head>
                <p>At home -- rode to Farley Hill -- dined there &amp; came home at night -- a very
-                  pleasant day indeed -- <persName ref="#Mitford_Geo">Drum</persName> was with me &amp; dear Granny at home.</p>
+                  pleasant day indeed -- <persName ref="#Mitford_Geo">Drum</persName> was with me &amp; dear <persName ref="#Granny">Granny</persName> at home.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-08">Fri. 8 Oct.</date></head>
                <p>At home -- dressed my flowers -- walked in the garden -- sent a pattern to Mrs.
-                  Newberry -- wrote to Miss Webb &amp; Mrs. Dickinson -- read Nicholls's
+                  Newberry -- wrote to Miss Webb &amp; <persName>Mrs. Dickinson</persName> -- read Nicholls's
                   Illustrations of Literature -- amusing enough.</p>
             </div>
             <div type="entry">
@@ -2817,7 +2817,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-10-11">Mon. 11 Oct. </date></head>
                <p>At Seymour Court -- Walked out with Miss Johnson &amp; Miss Biggs -- wrote to Mrs.
-                  Payn &amp; dear Granny -- a great deal of conversation -- a very pleasant day
+                  Payn &amp; dear <persName ref="#Granny">Granny</persName> -- a great deal of conversation -- a very pleasant day
                   indeed.</p>
             </div>
             <div type="entry">
@@ -2830,7 +2830,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-10-13">Wed. 13 Oct.</date></head>
                <p>At Seymour Court -- Came home to dinner -- called in the way at Mr. Payns &amp;
-                  Mr. Wakefields -- very pleasant ride -- found dear Granny quite well &amp; a
+                  Mr. Wakefields -- very pleasant ride -- found dear <persName ref="#Granny">Granny</persName> quite well &amp; a
                   letter from Aunt Mary -- read Dr. Leyden's Poet. remains.</p>
             </div>
             <div type="entry">
@@ -2841,7 +2841,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div>
                <head><date when="1819-10-15">Fri. 15 Oct.</date></head>
-               <p> At home -- walked to the Cross with dear Granny &amp; Slops -- eat some bad
+               <p> At home -- walked to the Cross with dear <persName ref="#Granny">Granny</persName> &amp; Slops -- eat some bad
                   mushrooms &amp; was very sick indeed all the afternoon. Got better in the evening
                   &amp; wrote to Mr. Johnson &amp; Miss Valpy.</p>
             </div>
@@ -2859,14 +2859,14 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-18">Mon. 18 Oct.</date></head>
-               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> went to London -- walked out with Granny &amp; Slops -- met Mr.
+               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> went to London -- walked out with <persName ref="#Granny">Granny</persName> &amp; Slops -- met Mr.
                   Talfourd who was coming to call here -- walked back with us but did not come in as
                   Mr. Champion was waiting to take him home -- he was exceedingly pleasant -- Read
                   Lord Bolingbroke's political Tracts -- famous.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-19">Tues. 19 Oct.</date></head>
-               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; Aunt Mary -- Mrs. Dickinson called to tea
+               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; Aunt Mary -- <persName>Mrs. Dickinson</persName> called to tea
                   &amp; took me with her to a dance at the Valpys -- very delightful evening with
                   Talfourd &amp; Miss Brook -- only unluckily missed dear <persName ref="#Mitford_Geo">Drum</persName> who had been there in
                   his way from Town &amp; went away just before I got there.</p>
@@ -2892,7 +2892,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-23">Sat. 23 Oct.</date></head>
-               <p>At home -- Heard from <persName ref="#James_Miss">Miss James</persName> -- walked int he garden with Granny &amp; Molly
+               <p>At home -- Heard from <persName ref="#James_Miss">Miss James</persName> -- walked int he garden with <persName ref="#Granny">Granny</persName> &amp; Molly
                   -- dressed my flowers -- read Lawrence's Lectures -- famous.</p>
             </div>
             <div type="entry">
@@ -2903,7 +2903,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-25">Mon. 25 Oct.</date></head>
-               <p>At home -- walked with Granny &amp; Slops to the Cross -- read the Edinburgh
+               <p>At home -- walked with <persName ref="#Granny">Granny</persName> &amp; Slops to the Cross -- read the Edinburgh
                   Magazine &amp; Age &amp; Youth by La Fontaine -- a pretty thing.</p>
             </div>
             <pb n="26"/>
@@ -2936,7 +2936,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-10-31">Sun. 31 Oct.</date></head>
-               <p>At home -- Mrs. Dickinson called &amp; brought me some flowers -- read Manners --
+               <p>At home -- <persName>Mrs. Dickinson</persName> called &amp; brought me some flowers -- read Manners --
                   a pretty thing.</p>
             </div>
             <div type="entry">
@@ -2962,7 +2962,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1819-11-05">Fri. 5 Nov.</date></head>
                <p>At home -- Mr. Merry sent me Mr. Talfourd's M.S. Petition - very fine. Walked with
-                  Granny &amp; Moll -- read the Monthly &amp; European Magazines.</p>
+                  <persName ref="#Granny">Granny</persName> &amp; Moll -- read the Monthly &amp; European Magazines.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-06">Sat. 6 Nov.</date></head>
@@ -2971,7 +2971,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-11-07">Sun. 7 Nov.</date></head>
-               <p>At home -- Dear Granny had not been well this week -- was better today dear love
+               <p>At home -- Dear <persName ref="#Granny">Granny</persName> had not been well this week -- was better today dear love
                   -- walked down the lane, with Luce &amp; Molly. Wrote to Mary Webb. Missed my poor
                   Mossy very much.</p>
             </div>
@@ -2988,7 +2988,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-11-10">Wed. 10 Nov.</date></head>
-               <p>At home -- heard from <persName ref="#Mitford_Geo">Drum</persName> -- Mrs. Dickinson came &amp; took me to Reading &amp;
+               <p>At home -- heard from <persName ref="#Mitford_Geo">Drum</persName> -- <persName>Mrs. Dickinson</persName> came &amp; took me to Reading &amp;
                   then back with her to Farley Hill where I dined &amp; slept -- Mr. D. came home in
                   the Evening -- a very pleasant day.</p>
             </div>
@@ -3011,7 +3011,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-11-14">Sun. 14 Nov.</date></head>
-               <p>At home -- heard from Mrs. Dickinson -- called with dear <persName ref="#Mitford_Geo">Drum</persName> at Farley Hill -- a
+               <p>At home -- heard from <persName>Mrs. Dickinson</persName> -- called with dear <persName ref="#Mitford_Geo">Drum</persName> at Farley Hill -- a
                   very pleasant morning -- came home to dinner -- wrote to Mrs. Rowden &amp;
                   finished my letter to Sir. W. Elford.</p>
             </div>
@@ -3069,98 +3069,98 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-11-24">Wed. 24 Nov. </date></head>
-               <p>At home -- altered a gown for dear Granny -- the cloth gown finished -- went
+               <p>At home -- altered a gown for dear <persName ref="#Granny">Granny</persName> -- the cloth gown finished -- went
                   firtopping -- fed my Bobby's -- read an attempt to prove a Dr. Wilmot wrote
                   <!-- rjp: verify this isn't supposed to be Junius -->Junius.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-25">Thurs. 25 Nov.</date></head>
-               <p>At home -- Granny &amp; <persName ref="#Mitford_Geo">Drum</persName> went to Winchester -- Mr. John Elliott came to look
+               <p>At home -- <persName ref="#Granny">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> went to Winchester -- Mr. John Elliott came to look
                   about the house &amp; the timber -- Bobbies came <note resp="#coles">to</note> be fed -- Luce &amp;I very
                   comfortable together.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-26">Fri. 26 Nov.</date></head>
-               <p>At home -- Dear <persName ref="#Mitford_Geo">Drum</persName> came home having left dear Granny at Winchester -- he brought
+               <p>At home -- Dear <persName ref="#Mitford_Geo">Drum</persName> came home having left dear <persName ref="#Granny">Granny</persName> at Winchester -- he brought
                   our pretty little bitch Miranda to see us for a week -- &amp; she knew is all just
                   as well as ever.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-27">Sat. 27 Nov.</date></head>
-               <p>At home -- wrote to dear Granny -- went to Reading with dear <persName ref="#Mitford_Geo">Drum</persName> -- called at the
+               <p>At home -- wrote to dear <persName ref="#Granny">Granny</persName> -- went to Reading with dear <persName ref="#Mitford_Geo">Drum</persName> -- called at the
                   Whites -- Brookes -- Newberrys &amp; Bulleys -- dined at the Valpys -- no company
                   but Miss Ross -- a very pleasant day -- came home at night &amp; found a beautiful
                   purse a present from Miss Harley.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-28">Sun. 28 Nov. </date></head>
-               <p>At home -- wrote to Miss Harley -- Miss Webb -- Mrs. Dickinson -- Mr. Palmer &amp;
-                  dear Granny -- could not go with <persName ref="#Mitford_Geo">Drum</persName> to Wokingham on account of the frost. Read
+               <p>At home -- wrote to Miss Harley -- Miss Webb -- <persName>Mrs. Dickinson</persName> -- Mr. Palmer &amp;
+                  dear <persName ref="#Granny">Granny</persName> -- could not go with <persName ref="#Mitford_Geo">Drum</persName> to Wokingham on account of the frost. Read
                   Sense &amp; Sensibility -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-29">Mon. 29 Nov.</date></head>
-               <p>At home -- dear <persName ref="#Mitford_Geo">Drum</persName> went to Ilsley -- dear Granny still at Winchester -- did some
+               <p>At home -- dear <persName ref="#Mitford_Geo">Drum</persName> went to Ilsley -- dear <persName ref="#Granny">Granny</persName> still at Winchester -- did some
                   tatting -- read Sense &amp; Sensibility -- wrote to the <note resp="#coles">?</note> -- had a great many
                   bobbies eating at my board.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-30">Tues. 30 Nov.</date></head>
-               <p>At home -- heard from dear Granny -- wrote to dear Granny -- did some tatting --
+               <p>At home -- heard from dear <persName ref="#Granny">Granny</persName> -- wrote to dear <persName ref="#Granny">Granny</persName> -- did some tatting --
                   read Symmon's Life of Milton -- very good -- Luce &amp; Molly very amiable -- want
                   Granny.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-01">Wed. 1 Dec.</date></head>
-               <p>At home -- heard from Mrs. Hofland -- Mr. &amp; Mrs. Dickinson came &amp; dined
+               <p>At home -- heard from <persName>Mrs. Hofland</persName> -- Mr. &amp; <persName>Mrs. Dickinson</persName> came &amp; dined
                   here -- dear <persName ref="#Mitford_Geo">Drum</persName> came home in the evening -- a very pleasant day -- wrote in the
                   morning to <persName ref="#Mitford_Geo">Drum</persName> at night to Granny.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-02">Thurs. 2 Dec.</date></head>
-               <p>At home -- Heard from dear Granny Mr. Johnson, &amp; <persName ref="#Elford_SirWm">Sir William</persName>with an
+               <p>At home -- Heard from dear <persName ref="#Granny">Granny</persName> Mr. Johnson, &amp; <persName ref="#Elford_SirWm">Sir William</persName>with an
                   excellent letter enclosed from Lord Ashburton to Mr. Waristoun which I
-                  transcribed. Wrote to dear Granny -- read the Eclectic &amp; British Critic
+                  transcribed. Wrote to dear <persName ref="#Granny">Granny</persName> -- read the Eclectic &amp; British Critic
                   Reviews.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-03">Fri. 3 Dec.</date></head>
                <p>At home -- Captain Tuppen came to course with <persName ref="#Mitford_Geo">Drum</persName> -- wrote to Mrs. Dickinson, Mr.
-                  Johnson, Mrs. Hofland, &amp; dear Granny --read Memoirs of the Rev. H. Martyn.
+                  Johnson, Mrs. Hofland, &amp; dear <persName ref="#Granny">Granny</persName> --read Memoirs of the Rev. H. Martyn.
                   Methodistical.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-04">Sat. 4 Dec.</date></head>
-               <p>At home -- Sent a hare &amp; some beetroot with my note to Mrs. Dickinson -- Heard
-                  from dear Granny &amp; Mary Webb -- wrote to <persName ref="#Elford_SirWm">Sir William</persName>-- read memoirs of
+               <p>At home -- Sent a hare &amp; some beetroot with my note to <persName>Mrs. Dickinson</persName> -- Heard
+                  from dear <persName ref="#Granny">Granny</persName> &amp; Mary Webb -- wrote to <persName ref="#Elford_SirWm">Sir William</persName>-- read memoirs of
                   H. Martyn.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-05">Sun. 5 Dec.</date></head>
                <p>At home -- walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- Luce washed Molly who looked
-                  like a little snowball sweet love -- wrote to Granny -- read Decision -- rather
+                  like a little snowball sweet love -- wrote to <persName ref="#Granny">Granny</persName> -- read Decision -- rather
                   methodistical but clever &amp; interesting.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-06">Mon. 6 Dec.</date></head>
-               <p>At home -- wrote to Mr. Palmer -- heard from dear Granny -- went firtopping -- got
+               <p>At home -- wrote to Mr. Palmer -- heard from dear <persName ref="#Granny">Granny</persName> -- went firtopping -- got
                   a great many -- a sweet dear little Bobby came to me to be fed &amp; ate as I
                   threw it to him sweet lamb.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-07">Tues. 7 Dec.</date></head>
-               <p>At home -- Heard from Mrs. Dickinson -- went Fir topping -- begin to get scarce --
+               <p>At home -- Heard from <persName>Mrs. Dickinson</persName> -- went Fir topping -- begin to get scarce --
                   fed my Bobbies under the trees -- read Florence Macarthy.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-08">Wed. 8 Dec.</date></head>
                <p>At home -- Heard from <persName ref="#James_Miss">Miss James</persName> -- went firtopping -- fed my bobbies -- wrote to
-                  <persName>Mr. Haydon</persName> &amp; Granny -- read Life of Princess Charlotte by Booth -- a catch
+                  <persName>Mr. Haydon</persName> &amp; <persName ref="#Granny">Granny</persName> -- read Life of Princess Charlotte by Booth -- a catch
                   penny thing.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-09">Thurs. 9 Dec.</date></head>
-               <p>At home -- Heard from Granny -- wrote to Mary Webb &amp; the Butcher -- went
+               <p>At home -- Heard from <persName ref="#Granny">Granny</persName> -- wrote to Mary Webb &amp; the Butcher -- went
                   firtopping -- fed a great many Bobbies dear lambs.</p>
             </div>
             <div type="entry">
@@ -3183,7 +3183,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-12-13">Mon. 13 Dec.</date></head>
-               <p>At home -- heard from dear Granny &amp; Mr. Johnson -- went with dear <persName ref="#Mitford_Geo">Drum</persName> to
+               <p>At home -- heard from dear <persName ref="#Granny">Granny</persName> &amp; Mr. Johnson -- went with dear <persName ref="#Mitford_Geo">Drum</persName> to
                   Reading -- called at the Brookes -- Whites -- Newberrys &amp; Valpys -- came home
                   to dinner -- a pleasant day -- fed my bobbies.</p>
             </div>
@@ -3195,7 +3195,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-12-15">Wed. 15 Dec.</date></head>
-               <p>At home -- dear Granny came back in great trim from Winchester -- God bless her!
+               <p>At home -- dear <persName ref="#Granny">Granny</persName> came back in great trim from Winchester -- God bless her!
                   -- fed my poor Bobbies &amp; other birds.</p>
             </div>
             <div type="entry">
@@ -3268,7 +3268,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1819-12-28">Tues. 28 Dec.</date></head>
-               <p>At home -- heard from Mrs. Dickinson -- fed my bobbies -- wrote to Sir William
+               <p>At home -- heard from <persName>Mrs. Dickinson</persName> -- fed my bobbies -- wrote to Sir William
                   Elford &amp; Miss Booth -- read Queen hoo Hill -- good.</p>
             </div>
             <div type="entry">
@@ -3325,7 +3325,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-01-07">Fri. 7 Jan.</date></head>
-               <p>At home -- heard from <persName>Mr. Haydon</persName> &amp; Mrs. Dickinson -- wrote to Mr. Haydon, Mrs.
+               <p>At home -- heard from <persName>Mr. Haydon</persName> &amp; <persName>Mrs. Dickinson</persName> -- wrote to Mr. Haydon, Mrs.
                   Dickinson &amp; Miss <persName>Eliza Webb</persName> -- read the Miniature -- fed my Bobbies -- worked
                   my shirt.</p>
             </div>
@@ -3362,30 +3362,30 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-01-15">Sat. 15 Jan.</date></head>
-               <p>Heard from Miss Webb -- wrote to Mrs. Dickinson -- <persName ref="#Mitford_Geo">Drum</persName> ill -- at home.</p>
+               <p>Heard from Miss Webb -- wrote to <persName>Mrs. Dickinson</persName> -- <persName ref="#Mitford_Geo">Drum</persName> ill -- at home.</p>
             </div>
             <pb n="33"/>
             <div type="entry">
                <head><date when="1820-01-16">Sun. 16 Jan.</date></head>
-               <p>Mrs. Dickinson sent for me to Farley Hill -- I went -- a very pleasant day.</p>
+               <p><persName>Mrs. Dickinson</persName> sent for me to Farley Hill -- I went -- a very pleasant day.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-17">Mon. 17 Jan.</date></head>
-               <p>At Farley Hill -- heard from <persName ref="#Mitford_Geo">Drum</persName> &amp; Granny -- Mr. Bocket <note resp="#coles">?</note> &amp; Mr.
+               <p>At Farley Hill -- heard from <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Granny">Granny</persName> -- Mr. Bocket <note resp="#coles">?</note> &amp; Mr.
                   Stephenson called -- looked over Mr. Dickinson's fine prints -- pleasant day.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-18">Tues. 18 Jan.</date></head>
-               <p>Mr. &amp; Mrs. Dickinson brought me home -- read Knox's Captivity in Ceylon --
+               <p>Mr. &amp; <persName>Mrs. Dickinson</persName> brought me home -- read Knox's Captivity in Ceylon --
                   <persName ref="#Mitford_Geo">Drum</persName> better.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-19">Wed. 19 Jan.</date></head>
-               <p>At home -- wrote to <persName>Mr. Haydon</persName> &amp; Mrs. Hofland -- <persName ref="#Mitford_Geo">Drum</persName> went to London.</p>
+               <p>At home -- wrote to <persName>Mr. Haydon</persName> &amp; <persName>Mrs. Hofland</persName> -- <persName ref="#Mitford_Geo">Drum</persName> went to London.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-20">Thurs. 20 Jan.</date></head>
-               <p>At home -- heard from Mrs. Dickinson about taking Hannah Ropley -- wrote to Mrs.
+               <p>At home -- heard from <persName>Mrs. Dickinson</persName> about taking Hannah Ropley -- wrote to Mrs.
                   Dickinson.</p>
             </div>
             <div type="entry">
@@ -3400,8 +3400,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-01-23">Sun. 23 Jan. </date></head>
-               <p>At home -- heard from Mrs. Hofland &amp; Miss Hawkes -- wrote to Miss Webb, Mrs.
-                  Dickinson, Mrs. Waterton, Mrs. Hofland &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
+               <p>At home -- heard from <persName>Mrs. Hofland</persName> &amp; Miss Hawkes -- wrote to Miss Webb, Mrs.
+                  Dickinson, Mrs. Waterton, <persName>Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-24">Mon. 24 Jan.</date></head>
@@ -3446,7 +3446,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1920-01-31">Mon. 31 Jan.</date></head>
                <p>At home -- went firtopping -- picked up a great many &amp; got a great deal of
-                  furse stumps -- heard from Mrs. Dickinson -- wrote to Sir William Elford.</p>
+                  furse stumps -- heard from <persName>Mrs. Dickinson</persName> -- wrote to Sir William Elford.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-01">Tues. 1 Feb.</date></head>
@@ -3480,24 +3480,24 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1920-02-06">Sun. 6 Feb.</date></head>
                <p>At home -- wrote to Mr. Palmer enclosing my letter to <persName ref="#Elford_SirWm">Sir William</persName>-- rode
-                  with <persName ref="#Mitford_Geo">Drum</persName> to Farley Hill -- saw Mrs. Dickinson -- Mrs. Allingham -- Mr. Rigby
+                  with <persName ref="#Mitford_Geo">Drum</persName> to Farley Hill -- saw <persName>Mrs. Dickinson</persName> -- Mrs. Allingham -- Mr. Rigby
                   &amp; the Miss Parfetts -- came home to dinner -- a pleasant morning -- read
                   Anastasius -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-07">Mon. 7 Feb.</date></head>
-               <p>At home -- wrote to Mrs. Hofland -- Lucy finished my new black bombazine gown --
+               <p>At home -- wrote to <persName>Mrs. Hofland</persName> -- Lucy finished my new black bombazine gown --
                   <persName ref="#Mitford_Geo">Drum</persName> went coursing, killed 4 hares &amp; a rabbit -- read Anastasius -- very fine
                   indeed.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-08">Tues. 8 Feb.</date></head>
-               <p>Sent a hare to Mrs. Hofland -- gave one to Mrs. Havell -- went firtopping -- got a
+               <p>Sent a hare to <persName>Mrs. Hofland</persName> -- gave one to Mrs. Havell -- went firtopping -- got a
                   great many -- read Anastasius. </p>
             </div>
             <div type="entry">
                <head><date when="1920-02-09">Wed. 9 Feb.</date></head>
-               <p>Went firtopping &amp; wooding with Granny &amp; Lucy in the plantation by poor
+               <p>Went firtopping &amp; wooding with <persName ref="#Granny">Granny</persName> &amp; Lucy in the plantation by poor
                   Mossy's grave -- got a great quantity of wood &amp; firtops -- read Windham's
                   speeches.</p>
             </div>
@@ -3537,7 +3537,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-02-16">Wed. 16 Feb.</date></head>
-               <p>Heard from Miss Eliza Webb, <persName ref="#James_Miss">Miss James</persName> &amp; Mrs. Hofland -- wrote to Sir William
+               <p>Heard from Miss <persName>Eliza Webb</persName>, <persName ref="#James_Miss">Miss James</persName> &amp; <persName>Mrs. Hofland</persName> -- wrote to Sir William
                   Elford -- read the First Volume of the Tales of Fancy containing the Shipwreck by
                   Miss Burney -- good -- &amp; Windham's Speeches good.</p>
             </div>
@@ -3553,18 +3553,18 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-02-18">Fri. 18 Feb.</date></head>
-               <p>At home -- went wooding with dear Granny in the lower Plantation -- got a great
+               <p>At home -- went wooding with dear <persName ref="#Granny">Granny</persName> in the lower Plantation -- got a great
                   deal -- read the Eskdale Herdboy (good) &amp; wrote to Mrs. Hofland.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-19">Sat. 19 Feb.</date></head>
-               <p>At home -- went wooding with dear Granny in the lower Plantation -- wrote to Miss
-                  James &amp; Mrs. Dickinson -- read Windham's Speeches -- very good.</p>
+               <p>At home -- went wooding with dear <persName ref="#Granny">Granny</persName> in the lower Plantation -- wrote to Miss
+                  James &amp; <persName>Mrs. Dickinson</persName> -- read Windham's Speeches -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-20">Sun. 20 Feb.</date></head>
-               <p>At home -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to Towm in the snow -- heard from Mrs. Dickinson --
-                  wrote to Mrs. Dickinson -- read Dudley -- very good.</p>
+               <p>At home -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to Towm in the snow -- heard from <persName>Mrs. Dickinson</persName> --
+                  wrote to <persName>Mrs. Dickinson</persName> -- read Dudley -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-21">Mon. 21 Feb.</date></head>
@@ -3584,7 +3584,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-02-24">Thurs. 24 Feb.</date></head>
-               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; Miss Rogers -- wrote to Mrs. Dickinson (to
+               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; Miss Rogers -- wrote to <persName>Mrs. Dickinson</persName> (to
                   tell her of the birth of Mrs. Woodburn's boy) &amp; to <persName ref="#James_Miss">Miss James</persName> -- read Riley's
                   narrative of the Loss of the Brig Commerce -- interesting but Munchausenish.</p>
             </div>
@@ -3605,12 +3605,12 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1920-02-28">Mon. 28 Feb.</date></head>
                <p>At home -- Dear <persName ref="#Mitford_Geo">Drum</persName> went into Reading for the Grand Jury -- went wooding in the
-                  lower plantation with dear Granny -- fed my Bobbies -- read Authentic Account of
+                  lower plantation with dear <persName ref="#Granny">Granny</persName> -- fed my Bobbies -- read Authentic Account of
                   the French Revolution -- interesting.</p>
             </div>
             <div type="entry">
                <head><date when="1920-02-29">Tues. 29 Feb.</date></head>
-               <p>At home -- heard from <persName ref="#Mitford_Geo">Drum</persName> -- dear Granny went into Reading -- wrote to <persName ref="#Mitford_Geo">Drum</persName> &amp;
+               <p>At home -- heard from <persName ref="#Mitford_Geo">Drum</persName> -- dear <persName ref="#Granny">Granny</persName> went into Reading -- wrote to <persName ref="#Mitford_Geo">Drum</persName> &amp;
                   to Dr. Harness -- fed my Bobbies -- Mrs. Valpy &amp; the Miss Valpys called --
                   went firtopping in the plantation -- got a great many -- fed my bobbies there --
                   read No Fiction -- sad methodistical stuff -- Heard from <persName ref="#Mitford_Geo">Drum</persName> again -- who went to
@@ -3623,7 +3623,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-03-02">Thurs. 2 Mar.</date></head>
-               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> -- helped Granny pack the China -- fed my Bobbies
+               <p>At home -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> -- helped <persName ref="#Granny">Granny</persName> pack the China -- fed my Bobbies
                   -- got a note from <persName ref="#James_Miss">Miss James</persName> -- went firtopping -- dear <persName ref="#Mitford_Geo">Drum</persName> came home.</p>
             </div>
             <div type="entry">
@@ -3652,7 +3652,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-03-07">Tues. 7 Mar.</date></head>
-               <p>At home -- Dear Mrs. Dickinson brought to bed of a girl -- went firtopping, got a
+               <p>At home -- Dear <persName>Mrs. Dickinson</persName> brought to bed of a girl -- went firtopping, got a
                   great many -- read the Life pf Wesley (Charles &amp; John) stupid enough.</p>
             </div>
             <div type="entry">
@@ -3728,8 +3728,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1920-03-20">Mon. 20 Mar.</date></head>
-               <p>At home -- wrote to Mrs. Rowden, Mrs. Dickinson &amp; <persName ref="#Elford_SirWm">Sir William</persName>-- walked
-                  to the Cross with dear Granny to look at Mr. Bodys house -- read Shakespeare &amp;
+               <p>At home -- wrote to Mrs. Rowden, <persName>Mrs. Dickinson</persName> &amp; <persName ref="#Elford_SirWm">Sir William</persName>-- walked
+                  to the Cross with dear <persName ref="#Granny">Granny</persName> to look at Mr. Bodys house -- read Shakespeare &amp;
                   his Times.</p>
             </div>
             <div type="entry">
@@ -3777,7 +3777,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-03-28">Tues. 28 Mar.</date></head>
-               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> went to Town -- went Violetting with Granny in Mr. Davies's &amp;
+               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> went to Town -- went Violetting with <persName ref="#Granny">Granny</persName> in Mr. Davies's &amp;
                   Mr. Body's Fields -- got a good many.</p>
             </div>
             <div type="entry">
@@ -3793,7 +3793,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-03-31">Fri. 31 Mar.</date></head>
-               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> &amp; Granny went to Reading -- went violetting Penge Wood way --
+               <p>At home -- <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Granny">Granny</persName> went to Reading -- went violetting Penge Wood way --
                   got a great many -- read the New London Magazine -- very good -- wrote to Mrs.
                   Joliffe.</p>
             </div>
@@ -3844,32 +3844,32 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-04-08">Sat. 8 Apl.</date></head>
-               <p>At home -- walked with dear Granny to James Smith's -- got very wet -- wrote to
+               <p>At home -- walked with dear <persName ref="#Granny">Granny</persName> to James Smith's -- got very wet -- wrote to
                   <persName ref="#Elford_SirWm">Sir William</persName>-- read Walsingham old &amp; bad.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-09">Sun. 9 Apl.</date></head>
-               <p>At home -- heard from <persName ref="#James_Miss">Miss James</persName> -- took a walk with dear Granny &amp; found some
+               <p>At home -- heard from <persName ref="#James_Miss">Miss James</persName> -- took a walk with dear <persName ref="#Granny">Granny</persName> &amp; found some
                   violets in a field near here -- wrote to Mary Webb.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-10">Mon. 10 Apl.</date></head>
-               <p>At home -- wrote to Eliza Webb, <persName ref="#James_Miss">Miss James</persName>, <persName>Mr. Haydon</persName> &amp; Dr. Harness --read
+               <p>At home -- wrote to <persName>Eliza Webb</persName>, <persName ref="#James_Miss">Miss James</persName>, <persName>Mr. Haydon</persName> &amp; Dr. Harness --read
                   the Eclectic &amp; British Critic Reviews &amp; King Coal's Levee
                   <!-- RJP: the first e in the double e has accent above it -->-- a pretty little
                   thing. </p>
             </div>
             <div type="entry">
                <head><date when="1820-04-11">Tues. 11 Apl.</date></head>
-               <p>At home -- heard from <persName>Mr. Haydon</persName> &amp; Mrs. Hofland -- finished my letter to Mr.
-                  Haydon &amp; <persName ref="#James_Miss">Miss James</persName> &amp; wrote to Mrs. Hofland -- signed a bond to Dr.
+               <p>At home -- heard from <persName>Mr. Haydon</persName> &amp; <persName>Mrs. Hofland</persName> -- finished my letter to Mr.
+                  Haydon &amp; <persName ref="#James_Miss">Miss James</persName> &amp; wrote to <persName>Mrs. Hofland</persName> -- signed a bond to Dr.
                   Harness -- walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-12">Wed. 12 Apl.</date></head>
                <p>At home -- read the New Monthly Magazine -- stranscribed the compliment of myself
-                  in it -- dear <persName ref="#Mitford_Geo">Drum</persName> &amp; Granny went to London -- went violetting with Lucy to Mr.
-                  Body's Fields &amp; Bertram House -- wrote to Mrs. Dickinson to go back with the
+                  in it -- dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Granny">Granny</persName> went to London -- went violetting with Lucy to Mr.
+                  Body's Fields &amp; Bertram House -- wrote to <persName>Mrs. Dickinson</persName> to go back with the
                   Magazine.</p>
             </div>
             <div type="entry">
@@ -3881,8 +3881,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-04-14">Fri. 14 Apl.</date></head>
-               <p>At home -- Heard from dear Granny &amp; Mrs. Dickinson -- lost dear Selim -- <persName ref="#Mitford_Geo">Drum</persName>
-                  and Granny came home in the Evening.</p>
+               <p>At home -- Heard from dear <persName ref="#Granny">Granny</persName> &amp; <persName>Mrs. Dickinson</persName> -- lost dear Selim -- <persName ref="#Mitford_Geo">Drum</persName>
+                  and <persName ref="#Granny">Granny</persName> came home in the Evening.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-15">Sat. 15 Apl.</date></head>
@@ -3892,7 +3892,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-04-16">Sun. 16 Apl. </date></head>
-               <p>At home -- heard from Mary &amp; <persName>Eliza Webb</persName> &amp; Mrs. Hayward (Mrs. H's letter
+               <p>At home -- heard from Mary &amp; <persName>Eliza Webb</persName> &amp; <persName>Mrs. Hayward</persName> (Mrs. H's letter
                   was to Papa) &amp; <persName>Mr. Dickinson</persName> -- dear <persName ref="#Mitford_Geo">Drum</persName> went to Town -- Mrs. Dickinson
                   called with the baby -- went violetting -- found a new bank in a field by the hill
                   -- wrote to Mrs. Voules &amp; Mr. Dickinson.</p>
@@ -3950,7 +3950,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-04-25">Tues. 25 Apl.</date></head>
-               <p>At home -- walked with dear Granny to Bertram House &amp; got primroses &amp;
+               <p>At home -- walked with dear <persName ref="#Granny">Granny</persName> to Bertram House &amp; got primroses &amp;
                   Cowslips -- made a Cowslip ball for <persName ref="#Mitford_Geo">Drum</persName> -- read Hodgkin's travels in Germany --
                   Good politics but middling writing.</p>
             </div>
@@ -3963,7 +3963,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <pb n="42"/>
             <div type="entry">
                <head><date when="1820-04-27">Thurs. 27 Apl.</date></head>
-               <p>At home -- went walking with dear Granny &amp; the pets up a lane leading to
+               <p>At home -- went walking with dear <persName ref="#Granny">Granny</persName> &amp; the pets up a lane leading to
                   Spencer's wood -- found a field with a quantity of wild periwinkle in the hedge --
                   very beautiful. Read Southey's Life of Wesley -- very good.</p>
             </div>
@@ -3976,7 +3976,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-04-29">Sat. 29 Apl.</date></head>
-               <p>At home -- went cowslipping with Granny &amp; the Pets in Bridgewater's meadows --
+               <p>At home -- went cowslipping with <persName ref="#Granny">Granny</persName> &amp; the Pets in Bridgewater's meadows --
                   <persName>Mr. Dickinson</persName> called -- read Hogg's Winter Evening's Tales -- famous.</p>
             </div>
             <div type="entry">
@@ -3998,7 +3998,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-03">Wed. 3 May</date></head>
-               <p>At home -- walked with Granny &amp; the Pes up Woodcock lane -- read the Diary of
+               <p>At home -- walked with <persName ref="#Granny">Granny</persName> &amp; the Pes up Woodcock lane -- read the Diary of
                   an Invalid on the Continent -- famous.</p>
             </div>
             <div type="entry">
@@ -4013,9 +4013,9 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-06">Sat. 6 May </date></head>
-               <p>At home -- went Cowslipping in the Meadows with dear Granny &amp; the Pets --
-                  heard from Mrs. Hayward with a beautiful basket of flower roots -- planted them
-                  out &amp; wrote Mrs. Hayward -- read Bonduca.</p>
+               <p>At home -- went Cowslipping in the Meadows with dear <persName ref="#Granny">Granny</persName> &amp; the Pets --
+                  heard from <persName>Mrs. Hayward</persName> with a beautiful basket of flower roots -- planted them
+                  out &amp; wrote <persName>Mrs. Hayward</persName> -- read Bonduca.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-07">Sun. 7 May</date></head>
@@ -4024,7 +4024,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-08">Mon. 8 May</date></head>
-               <p>At home -- Mr. White &amp; Capt. Tuppen called -- walked with Granny &amp; the
+               <p>At home -- Mr. White &amp; Capt. Tuppen called -- walked with <persName ref="#Granny">Granny</persName> &amp; the
                   pets -- read Burckhardt's Travels -- wrote to Miss Booth</p>
             </div>
             <pb n="43"/>
@@ -4040,7 +4040,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-11">Thurs. 11 May</date></head>
-               <p>At home -- went walking with Granny &amp; the pets -- heard from <persName ref="#James_Miss">Miss James</persName> --
+               <p>At home -- went walking with <persName ref="#Granny">Granny</persName> &amp; the pets -- heard from <persName ref="#James_Miss">Miss James</persName> --
                   watered my flowers -- read the Life of Wesley.</p>
             </div>
             <div type="entry">
@@ -4050,7 +4050,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-13">Sat. 13 May</date></head>
-               <p>At home -- went in the meadows with dear Granny -- Lucy finished my shilling {a}
+               <p>At home -- went in the meadows with dear <persName ref="#Granny">Granny</persName> -- Lucy finished my shilling {a}
                   yeard gown -- wrote to Mr. Green &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
             </div>
             <div type="entry">
@@ -4064,23 +4064,23 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             </div>
             <div type="entry">
                <head><date when="1820-05-16">Tues. 16 May</date></head>
-               <p>At home -- had a most flattering letter from Mr. MacFarlane with a ticket for his
-                  lectures -- wrote to Mr. MacFarlane -- read Mr. Edgeworth's Life -- very good.</p>
+               <p>At home -- had a most flattering letter from <persName>Mr. MacFarlane</persName> with a ticket for his
+                  lectures -- wrote to <persName>Mr. MacFarlane</persName> -- read Mr. Edgeworth's Life -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-17">Wed. 17 May</date></head>
-               <p>At home -- took a long walk with dear Granny &amp; the pets -- very pleasant --
+               <p>At home -- took a long walk with dear <persName ref="#Granny">Granny</persName> &amp; the pets -- very pleasant --
                   Dr. Valpy called -- read Mr. Edgeworth's Life.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-18">Thurs. 18 May</date></head>
                <p>At home -- dressed my flowers (of which dear <persName ref="#Mitford_Geo">Drum</persName> gets mea profusion) -- wrote to
-                  Mrs. Dickinson -- read Dr. Zouch's Memoirs of Sir Philip Sidney -- stupid. Heard
-                  from dear Mrs. Dickinson with some lilies of the Valley -- wrote to her again.</p>
+                  <persName>Mrs. Dickinson</persName> -- read Dr. Zouch's Memoirs of Sir Philip Sidney -- stupid. Heard
+                  from dear <persName>Mrs. Dickinson</persName> with some lilies of the Valley -- wrote to her again.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-19">Fri. 19 May</date></head>
-               <p>At home -- heard from <persName>Eliza Webb</persName> &amp; Mr. MacFarlane -- <persName>Mr. Dickinson</persName> came -- sat
+               <p>At home -- heard from <persName>Eliza Webb</persName> &amp; <persName>Mr. MacFarlane</persName> -- <persName>Mr. Dickinson</persName> came -- sat
                   here three hours &amp; then we went to Reading -- called at the Valpy's &amp; the
                   Newberrys. Came home to dinner -- walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- wrote to Miss
                   Brooke &amp; Eliza Webb.</p>
@@ -4088,7 +4088,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
             <div type="entry">
                <head><date when="1820-05-20">Sat. 20 May</date></head>
                <p>At home -- read the Fall of Jerusalem -- very good -- walked with dear Granny
-                  &amp; the pets -- made three pen wipers for Luce &amp; for Granny &amp; for Mud --
+                  &amp; the pets -- made three pen wipers for Luce &amp; for <persName ref="#Granny">Granny</persName> &amp; for Mud --
                   wrote to <persName>Mrs. Raggett</persName>.</p>
             </div>
             <pb n="44"/>
