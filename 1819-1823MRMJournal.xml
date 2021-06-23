@@ -249,24 +249,22 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <publisher>John Murray</publisher>
                   <date when="1819">1819</date>
                </bibl>
-                        
-                        
-                        
+                                   
             HISTORICAL PEOPLE   
             
-             <person xml:id="Armstrong_Mr" sex="1">
+             <person xml:id="Armstrong_Mr" sex="m">
             <persName>
                 <surname>Armstrong</surname>
             </persName>
         </person>
         
-        <person xml:id="Bacon_Mr" sex="1">
+        <person xml:id="Bacon_Mr" sex="m">
             <persName>
                 <surname>Bacon</surname>
             </persName>
         </person>
         
-                        <person xml:id="Bailley_Dr">
+                        <person xml:id="Bailley_Dr" sex="m">
             <persName>
                 <surname>Bailley</surname>
                 <rolename>Dr</rolename>
@@ -274,7 +272,9 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             <occupation>doctor</occupation>??
         </person>
         
-        <persName ref="#Biggs_Miss"> associated with Mr. and Miss Johnson (governess??)
+        <person xml:id="Biggs_Miss" sex="f"> associated with Mr. and Miss Johnson (governess??)
+        
+        <person xml:id="Boscawen_Col">
                         
                          <person xml:id="Boyd_Mrs" sex="f">
             <persName>
@@ -282,11 +282,11 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             </persName>
         </person>
         
-        <person xml:id="Budd_Mrs" sex="2"> LMW: there is also a Miss Budd who died, possibly married name Mrs. Parks. And George Whittaker married a Sarah Budd, mother of the Whittakers Mitford knew who became publishers. 
+        <person xml:id="Budd_Mrs" sex="f"> LMW: there is also a Miss Budd who died, possibly married name Mrs. Parks. And George Whittaker married a Sarah Budd, mother of the Whittakers Mitford knew who became publishers. 
             <persName>
                 <surname>Budd</surname>
             </persName>
-            <note type="bio" resp="#rjp">In the journal, Mitford mentions that Mrs. Budd lived in
+            <note resp="#rjp">In the journal, Mitford mentions that Mrs. Budd lived in
                 Bedford and died in childbirth on April 28, 1819.</note>
         </person>
         
@@ -295,9 +295,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                 <surname>Carter</surname>
             </persName>
         </person>
-        
-        <persName>Jeremy
-                     Chamberlaine</persName> the shoemaker
+  
                 <person xml:id="Chamberlaine_Jeremy" sex="m">
             <persName>
                 <surname>Chamberlaine</surname>
@@ -325,12 +323,12 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             <note resp="#rjp">Jesse Clift gave the Mitford family elderly bantams.</note>
         </person>
              
-               Mr Davies <person xml:id="Davies_Mr"> Farmer Davies same person?
-               <person xml:id="Davies_Mr" sex="1">
+               Mr Davies: Farmer Davies same person?
+               <person xml:id="Davies_Mr" sex="m">
             <persName>
                 <surname>Davies</surname>
             </persName>
-            <note type="bio" resp="#rjp">Owns a neighboring meadow.</note>
+            <note resp="#rjp">Owns a neighboring meadow.</note>
         </person>
         
         
@@ -362,36 +360,40 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             </persName>
         </person>
         
-         <person xml:id="Harley_Miss" sex="2"> LMW: Could this be transription error for Miss HAWLEY? Mr. Hawley marries Besty Broughton.
+        <person xml:id=="Greenwell_Mrs" sex="f">Mrs. Greenwell
+        </person>
+        
+         <person xml:id="Harley_Miss" sex="f"> LMW: Could this be transription error for Miss HAWLEY? Mr. Hawley marries Besty Broughton.
             <persName>
                 <surname>Harley</surname>
             </persName>
         </person>
         
-        <persName ref="#Havell_Mrs">Mrs.
+        <person xml:id="Havell_Mrs sex="f">
+        Mrs.
                         Havell</persName> Any connection to the circulating library?
                         
-         <person xml:id="Hayward_Mrs" sex="f">  LMW: Journal address Watlington. MRM also corresponds in 1830s with Abraham H (son? b. 1801) There is a Mr. and Mrs. Hayward with a first born daughter.  Mrs. first initial may be H. Mr's first initial may be W.
+         <person xml:id="Hayward_Mrs" sex="f">  LMW: Journal address Watlington. MRM also corresponds in 1830s with Abraham H (son? b. 1801) There is a Mr. and Mrs. Hayward with a first born daughter.  Mrs. first initial may be H. Mr's first initial may be W. Check ancestry tree.
             <persName>
                 <surname>Hayward</surname>
             </persName>
         </person>
         
-        <person xml:id="Harris_Mr" sex="1"> LMW: a local doctor, not the same as H Harris the covent garden prop.
+        <person xml:id="Harris_Mr" sex="m"> LMW: a local doctor, not the same as H Harris the covent garden prop.
             <persName>
                 <surname>Harris</surname>
             </persName>
         </person>
         
-        <persName ref="#Madison_Mrs">
+        <person xml:id="Madison_Mrs" sex="f">
         
-        <person xml:id="Maitland_Mr" sex="f">
+        <person xml:id="Maitland_Mr" sex="m">
             <persName>
                 <surname>Maitland</surname>
             </persName>
         </person>
         
-         <person xml:id="Newell_Mrs" sex="2">
+         <person xml:id="Newell_Mrs" sex="f">
             <persName>
                 <surname>Newell</surname>
             </persName>
@@ -425,10 +427,10 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                      research needed.</note>
                </person>
         
-        <persName ref="#Payn_Mra">Mrs.
+        <persName ref="#Payn_Mrs" sex="f">Mrs.
                   Payn</persName>  They live on the way to Seymour Court, near Wakefields
                   
-                  <persName ref="#Payn_Mr">Mr.
+                  <persName ref="#Payn_Mr" sex="m">Mr.
                   Payn</persName>
         
          <person xml:id="Piles_Mr" sex="m">
@@ -441,7 +443,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             <persName>
                 <surname>Pithers</surname>
             </persName>
-            <note type="bio" resp="#rjp">Owns a neighboring field.</note>
+            <note resp="#rjp">Owns a neighboring field.</note>
         </person>
         
          <person xml:id="Rapley_Betty" sex="f"> LMW: Elizabeth?
@@ -462,13 +464,13 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             </persName>
             </person>
             
-             <person xml:id="Spurling_Mr" sex="1">
+             <person xml:id="Spurling_Mr" sex="m">
             <persName>
                 <surname>Spurling</surname>
             </persName>
         </person>
         
-        <persName ref="#Taunton_Mrs">
+        <persName ref="#Taunton_Mrs" sex="f">
         
              <person xml:id="Voules_Mr" sex="m">
             <persName>
@@ -482,11 +484,13 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
             <note resp="#lmw">She receives one of Molly's puppies</note>
         </person>
         
-          <person xml:id="Walker_Mr" sex="2"> LMW: MRM corresponds with a Mrs. Walker in 1842
+          <person xml:id="Walker_Mr" sex="m"> LMW: MRM corresponds with a Mrs. Walker in 1842
             <persName>
                 <surname>Walker</surname>
             </persName>
         </person>
+        
+        <persName ref="#Waterton_Mrs">Mrs. Waterton</persName>
         
          <person xml:id="White_Mr." sex="m"> LMW: Tom White mentioned in connection with Captain Tuppen
             <persName>
@@ -561,9 +565,8 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                
                need id for 3miX COTTAGE?
                Can we map the various iields, woods, and walks? Would contacting Reading museum help, if we decide to?
-               
-               
                -->
+            
             <div type="entry">
                <head><date when="1819-01-01">Jany. the 1st</date> we were living at <placeName
                      ref="#Bertram_house">Bertram House</placeName>--dear
@@ -577,7 +580,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <placeName ref="#Lockinge">Lockinge</placeName>--<persName ref="#Miranda_pet">Miranda</persName> our dear
                   beautiful greyhound puppy--<persName ref="#Selim_pet">Selim</persName> our Persian Cat,
                      <persName ref="#Poll_pet">Poll</persName> a tabby do--&amp; 22 Bantams--the old ones given me
-                  by poor <persName>Jesse Cliff</persName>.</head>
+                  by poor <persName ref="#Cliff_Jesse">Jesse Cliff</persName>.</head>
 
             </div>
             <div type="entry">
@@ -944,11 +947,11 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <name ref="#primrose"
                      >primros</name>ing got the little basket full -- <rs type="letter">wrote to <persName
                         ref="#Elford_SirWm">Sir William Elford</persName></rs> --
-                  <bibl><author ref="#Forsyth_Jos">Forsyth</author>'s <title ref="#Remarks_Italy">Italy </title></bibl>-- charmed with
+                  <bibl><author ref="#Forsyth_Jos">Forsyth</author>'s <title ref="#Remarks_Italy">Italy </title></bibl> -- charmed with
                   it.</p>
                <p>
                   <rs type="event">On this day (<date when="1819-02-15">Monday the 15th</date>)
-                        <persName ref="#Mitford_Geo">Papa</persName> saw a pheasant's nest with 4
+                        <persName ref="#Mitford_Geo">Papa</persName> saw a <name ref="#pheasant">pheasant</name>'s nest with 4
                      eggs, which was found by one of <persName ref="#Griffin_Rich">Lord Braybrooke</persName>'s people
                      at <placeName ref="#BillingbearPk">Billingbear</placeName> whilst a party were coursing in the
                      <placeName ref="#BillingbearPk">park</placeName> -- very early indeed.</rs>
@@ -1022,8 +1025,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>Went <name ref="#fir">Fir</name>topping -- fed the Pets -- <persName ref="#May_Fly">Mayfly</persName>,
                      <persName ref="#Miranda_pet">Miranda</persName> &amp; <rs type="event">a new little bitch called
-                        <persName>Fly</persName> given us by young farmer
-                     <persName>Webb</persName></rs>.</p>
+                        <persName>Fly</persName> given us by young 
+                        <persName>farmer Webb</persName></rs>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1095,7 +1098,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> all day. <rs type="letter"
                      subtype="received">Heard from <persName ref="#Valpy_Penelope">Pen Valpy</persName></rs> -- read the
-                     <title>Monthly Magazine</title> -- Fed the pets.</p>
+                     <title ref="#MonthlyMag_>Monthly Magazine</title> -- Fed the pets.</p>
             </div>
             <div type="entry">
                <head>
@@ -1116,7 +1119,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>. <rs type="letter">Sent off my
                      letter to <persName ref="#James_Miss">Miss James</persName></rs> -- went
-                  <name ref="#fir">Fir</name>topping -- read the <title>Monthly Magazine</title>, &amp; <title>Anecdotes of
+                  <name ref="#fir">Fir</name>topping -- read the <title ref="#MonthlyMag">Monthly Magazine</title>, &amp; <title>Anecdotes of
                      distinguished persons</title>.</p>
             </div>
             <div type="entry">
@@ -1881,7 +1884,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="letter">wrote to
                         <persName ref="#James_Miss">Miss James</persName></rs> &amp; <rs
                      type="letter"><persName ref="#Elford_SirWm">Sir W. Elford</persName></rs> --
-                     <orgName>Mr. &amp; Mrs. Dickinson</orgName> drank tea with us -- Dear <persName
+                     <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName> drank tea with us -- Dear <persName
                      ref="#Dickinson_Mrs">Mrs. D.</persName> brought me some wild
                      <name ref="#lily_valley">lilies of the valley</name>.</p>
             </div>
@@ -2420,7 +2423,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- walked with <persName
                      ref="#Mitford_Geo">Drum</persName> &amp; the Pets -- <rs type="letter">sent off
-                     my letters to <persName ref="#Dickinson_Mrs"> Mrs. Dickinson</persName></rs>
+                     my letters to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName></rs>
                   &amp; <rs type="letter"><persName ref="#Elford_SirWm">Sir William
                         Elford</persName></rs> with <rs type="letter">note to <persName
                         ref="#Dickinson_Charles">Mr. D.</persName></rs> &amp; <rs type="letter"
@@ -2436,7 +2439,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                      type="event">went to <placeName ref="#Reading_city">Reading</placeName> &amp;
                         <placeName ref="#Wokingham_city">Wokingham</placeName> -- called on <persName ref="#Brooke_Miss">Miss
                         Brooke</persName> &amp; <persName ref="#Newell_Mrs">Mrs. Newell</persName> -- dined with
-                        <orgName>the Webbs</orgName> -- met <persName ref="#Carter_Mr">Mr. Carter</persName> there --
+                        <orgName ref="#Webbs">the Webbs</orgName> -- met <persName ref="#Carter_Mr">Mr. Carter</persName> there --
                      very pleasant day</rs> -- came <placeName ref="#Bertram_house">home</placeName>
                   at night.</p>
             </div>
@@ -2444,7 +2447,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <head>
                   <date when="1819-07-02">Fri. 2 July</date>
                </head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> -- read the <title>British
+               <p>At <placeName ref="#Bertram_house">home</placeName> -- read the <title ref="#British>British
                   Critic</title> &amp; <title ref="#EclecticRev">Eclectic</title> Reviews</title> -- so cold &amp; wet that
                   we had a fire -- cleared up rather in the Evening &amp; walked with dear <persName
                      ref="#Mitford_Geo">Drum</persName>. <rs type="event">Sent some of my Poems to
@@ -2853,7 +2856,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-08-11">Wed. 11 Aug.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- heard from <orgName>Mr. &amp; Mrs. Dickinson</orgName> &amp; <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName>. <persName ref="#Mitford_Geo">Drum</persName> &amp;
+                  >home</placeName> -- heard from <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName> &amp; <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName>. <persName ref="#Mitford_Geo">Drum</persName> &amp;
                   <persName ref="#Russell_M">Granny</persName> out all the morning at <placeName ref="#Wokingham_city">Wokingham</placeName> &amp; <placeName
                      ref="#Reading_city">Reading</placeName> -- lay in my hay &amp; read
                   Independence. &amp; Dressed my flowers.</p>
@@ -3163,15 +3166,15 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-09-22">Wed. 22 Sept.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName> -- went apple gathering -- visited dear <persName ref="#Mossy_pet">Mossy</persName>'s
-                  grave dear Angel -- a doves pretty feather lay just over his dear head -- read
+                  >home</placeName> -- wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName> -- went <name ref="#apple">apple</name> gathering -- visited dear <persName ref="#Mossy_pet">Mossy</persName>'s
+                  grave dear Angel -- a <name ref="#dove">dove</name>s pretty feather lay just over his dear head -- read
                   Ormsby's Letters from the Continent.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-23">Thurs. 23 Sept.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- Heard from <persName ref="#James_Miss">Miss James</persName> -- read the shipwreck of a French ship the Medusa
-                  -- horrible. <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; Mrs. Greenwell dined &amp; slept with us -- a
+                  -- horrible. <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> dined &amp; slept with us -- a
                   pleasant day.</p>
             </div>
             <pb n="23"/>
@@ -3181,15 +3184,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   >home</placeName> -- heard from <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- went into <placeName
                   ref="#Reading_city">Reading</placeName> with <persName
                      ref="#Russell_M">Mama</persName> <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp;
-                  Mrs. Greenwell -- made calls &amp; shopped. Mrs. R. gave me a very pretty gown --
+                  <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> -- made calls &amp; shopped. <persName ref="#Raggett_Mrs">Mrs. R.</persName> gave me a very pretty gown --
                   came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner -- they slept here -- another pleasant day.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-25">Sat. 25 Sept.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; Mrs. Greenwell went <placeName ref="#Bertram_house"
-                     >home</placeName> -- Mrs. Greenwell a very
+                  >home</placeName> -- <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> went home -- <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> a very
                   pleasant woman &amp; very like <persName ref="#Elford_SirWm">Sir William
                      Elford</persName>
                   <!-- RJP: comparison to Elford suggests possible relation -->-- walked in the
@@ -3222,12 +3224,12 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went to <placeName
                   ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName> to be measured for my new gown -- heard from
-                  <persName ref="#Webb_Mary_younger">Mary Webb</persName> -- read Branford pretty good -- &amp; the Edinburgh Review famous.</p>
+                  <persName ref="#Webb_Mary_younger">Mary Webb</persName> -- read Branford pretty good -- &amp; the <title ref="#EdinburghRev_per">Edinburgh Review</title> famous.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-30">Thurs. 30 Sept.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- wrote to <persName ref="#Johnson_Mr">Mr. Johnson</persName> -- heard from <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; Mrs. Greenwell --
+                  >home</placeName> -- wrote to <persName ref="#Johnson_Mr">Mr. Johnson</persName> -- heard from <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> --
                   walked with dear <persName ref="#Russell_M">Granny</persName> &amp; Slops -- read the Miser Married -- a clever
                   thing.</p>
             </div>
@@ -3268,14 +3270,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   >home</placeName> -- finished &amp; sent off my letter to <persName ref="#James_Miss">Miss James</persName> &amp; <persName
                      ref="#Hofland_B">Mrs. Hofland</persName>.
                   Worked at my shirt -- walked in the garden with Slops &amp; <persName ref="#Russell_M">Granny</persName> -- read the new
-                  letters of Lady Russell -- interesting.</p>
+                  <title ref="#Life_LadyRussell">letters of Lady Russell -- interesting.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-06">Wed. 6 Oct.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- Heard from <persName ref="#Johnson_Mr">Mr. Johnson</persName> -- went to <placeName
                   ref="#Reading_city">Reading</placeName> -- called at <persName ref="#Brooke_Mr">Mr. Brooke</persName>s --
-                  <orgName ref="#Newberys">Newberry's</orgName> -- <orgName ref="#Garrards">Garrards</orgName> -- <orgName ref="#Valpys">Valpy</orgName>s -- <orgName ref="#Reading_Inst">Institution</orgName> &amp; Miss Warwicks -- Came <placeName ref="#Bertram_house"
+                  <orgName ref="#Newberys">Newberry's</orgName> -- <orgName ref="#Garrards">Garrards</orgName> -- <orgName ref="#Valpys">Valpy</orgName>s -- <orgName ref="#Reading_Inst">Institution</orgName> &amp; <orgName ref="#MissWarwicks">Miss Warwicks</orgName> -- Came <placeName ref="#Bertram_house"
                      >home</placeName>
                   to dinner -- saw many people -- a very pleasant day.</p>
             </div>
@@ -3331,8 +3333,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-10-14">Thurs. 14 Oct.</date></head>
                <p>At <placeName ref="#SeymourCt">Seymour Court</placeName> -- heard from <persName ref="#Elford_SirWm">Sir William</persName>-- went to <placeName ref="#Wokingham_city">Wokingham</placeName> -- dined there &amp;
-                  met <persName ref="#Jeremy_Miss">Miss Jeremy</persName> &amp; James Wheeler -- came <placeName ref="#Bertram_house">home</placeName> at night -- a pleasant day --
-                  read Dr. Leyden's Poetical Remains -- very good.</p>
+                  met <persName ref="#Jeremy_Miss">Miss Jeremy</persName> &amp; <persName ref="#Wheeler_James">James Wheeler</persName> -- came <placeName ref="#Bertram_house">home</placeName> at night -- a pleasant day --
+                  read <persName ref="#Leyden_John">Dr. Leyden</persName>'s <title ref="#PR_JLeyden">Poetical Remains</title> -- very good.</p>
             </div>
             <div>
                <head><date when="1819-10-15">Fri. 15 Oct.</date></head>
@@ -3345,8 +3347,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-10-16">Sat. 16 Oct.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- pretty well again -- heard from <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName ref="#Newbery_Mrs">Mrs. Newberry</persName> --
-                  wrote to <persName ref="#Elford_SirWm">Sir William</persName>&amp; <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> -- read Sir Robert Howard's life of
-                  Richard 2nd -- a most curios book.</p>
+                  wrote to <persName ref="#Elford_SirWm">Sir William</persName>&amp; <persName ref="#Raggett_Mrs">Mrs. Raggett</persName> -- read <persName ref="#Howard_SirRob">Sir Robert Howard</persName>'s life of
+                  Richard 2nd -- a most curious book.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-17">Sun. 17 Oct.</date></head>
@@ -3356,22 +3358,22 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             </div>
             <div type="entry">
                <head><date when="1819-10-18">Mon. 18 Oct.</date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to London -- walked out with <persName ref="#Russell_M">Granny</persName> &amp; Slops -- met Mr.
-                  Talfourd who was coming to call here -- walked back with us but did not come in as
-                  Mr. Champion was waiting to take him home -- he was exceedingly pleasant -- Read
-                  Lord Bolingbroke's political Tracts -- famous.</p>
+               <p>At <placeName ref="#Bertram_house">home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to London -- walked out with <persName ref="#Russell_M">Granny</persName> &amp; Slops -- met <persName ref="#Talfourd_Thos">Mr.
+                  Talfourd</persName> who was coming to call here -- walked back with us but did not come in as
+                  <persName ref="#Champion_Mr">Mr. Champion</persName> was waiting to take him home -- he was exceedingly pleasant -- Read
+                  <persName ref="Bolinbroke">Lord Bolingbroke</persName>'s political Tracts -- famous.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-19">Tues. 19 Oct.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Webb_Mary_elder">Aunt Mary</persName> -- <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called to tea
-                  &amp; took me with her to a dance at <orgName ref="#Valpys">the Valpys </orgName> -- very delightful evening with
+                  &amp; took me with her to a dance at <orgName ref="#Valpys">the Valpys</orgName> -- very delightful evening with
                   <persName ref="#Talfourd_Thos">Talfourd</persName> &amp; <persName ref="#Brooke_Miss">Miss Brook</persName><!-- LMW: misspelled? --> -- only unluckily missed dear <persName ref="#Mitford_Geo">Drum</persName> who had been there in
-                  his way from Town &amp; went away just before I got there.</p>
+                  his way from <placeName ref="#London_city">Town</placeName> &amp; went away just before I got there.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-20">Wed. 20 Oct. </date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> gave me a beautiful new lcoak whcih he brought from Town --
-                  read Lord Bolingbroke's Remarks on English History published under the name of
+               <p>At <placeName ref="#Bertram_house">home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> gave me a beautiful new cloak which he brought from <placeName ref="#London_city">Town</placeName> --
+                  read <persName ref="Bolinbroke">Lord Bolingbroke</persName>'s Remarks on English History published under the name of
                   Humphrey Oldcastle -- famous.</p>
             </div>
             <div type="entry">
@@ -3404,7 +3406,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             </div>
             <div type="entry">
                <head><date when="1819-10-25">Mon. 25 Oct.</date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> -- walked with <persName ref="#Russell_M">Granny</persName> &amp; Slops to the Cross -- read the Edinburgh
+               <p>At <placeName ref="#Bertram_house">home</placeName> -- walked with <persName ref="#Russell_M">Granny</persName> &amp; Slops to <placeName ref="#ThreeMileCross">the Cross</placeName> -- read the Edinburgh
                   Magazine &amp; Age &amp; Youth by La Fontaine -- a pretty thing.</p>
             </div>
             <pb n="26"/>
@@ -3412,7 +3414,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-10-26">Tues. 26 Oct.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- Went to <placeName
                      ref="#Reading_city">Reading</placeName> to <placeName ref="#Whiteknights">White Knights</placeName> to the <persName ref="#Geo_SpencerChurchill">Duke</persName>'s sale &amp; then with the
-                  Webbs home to dinner to meet James Wheeler &amp; <persName ref="#Jeremy_Miss">Miss Jeremy</persName> -- came <placeName ref="#Bertram_house">home</placeName> at night
+                 0<orgName ref="#Webbs">Webbs</orgName> home to dinner to meet <persName ref="#Wheeler_James">James Wheeler</persName> &amp; <persName ref="#Jeremy_Miss">Miss Jeremy</persName> -- came <placeName ref="#Bertram_house">home</placeName> at night
                   -- met a great many people at the sale -- a pleasant day.</p>
             </div>
             <div type="entry">
@@ -3430,7 +3432,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-10-29">Fri. 29 Oct.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Webb_Mary_younger">Mary Webb</persName>. Read The Insane World stupid and
                   frantical -- &amp; Sir R.C. Hoare's Continuation of Eustace's Tour -- Humdrum --
-                  <persName ref="#Mitford_Geo">Drum</persName> killed 5 <name ref="#hare">hare</name>s at Tilehurst.</p>
+                  <persName ref="#Mitford_Geo">Drum</persName> killed 5 <name ref="#hare">hare</name>s at <placeName ref="#Tilehurst">Tilehurst</placeName>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-30">Sat. 30 0ct.</date></head>
@@ -3457,7 +3459,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-03">Wed. 3 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- Mr. Greene called &amp; was very pleasant -- read an Etymology of old
-                  Sayings proverbs &amp;c - &amp; some of the Monthly Magazine.</p>
+                  Sayings proverbs &amp;c - &amp; some of the <title ref="#MonthlyMag_>Monthly Magazine</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-04">Thurs. 4 Nov.</date></head>
@@ -3468,7 +3470,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-05">Fri. 5 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- Mr. Merry sent me <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>'s M.S. Petition - very fine. Walked with
-                  <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Moll</persName> -- read the Monthly &amp; European Magazines.</p>
+                  <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Moll</persName> -- read the <title ref="#MonthlyMag">Monthly</title> &amp; European Magazines.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-06">Sat. 6 Nov.</date></head>
@@ -3486,7 +3488,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-08">Mon. 8 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to London -- went <name ref="#fir">fir</name>topping got a good many -- <persName ref="#Hill_Lucy">Lucy</persName>
+                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">London</placeName> -- went <name ref="#fir">fir</name>topping got a good many -- <persName ref="#Hill_Lucy">Lucy</persName>
                   finished my pretty gray cloth gown -- read Harcourt.</p>
             </div>
             <div type="entry">
@@ -3509,14 +3511,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-11">Thurs. 11 Nov.</date></head>
                <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName> -- came <placeName ref="#Bertram_house"
-                  >home</placeName> in the morning. Ludlow drove me in the Gig. He had
-                  dear <persName ref="#Mitford_Geo">Drum</persName> back in the Evening -- read Legh's Travels in Egypt &amp; wrote to Mrs.
-                  Dickinson.</p>
+                  >home</placeName> in the morning. <persName ref="#Ludlow">Ludlow</persName> drove me in the Gig. He had
+                  dear <persName ref="#Mitford_Geo">Drum</persName> back in the Evening -- read Legh's Travels in Egypt &amp; wrote to <persName ref="#Dickinson_Mrs">Mrs.
+                  Dickinson</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-12">Fri. 12 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- read Walpole's Letters to Mr. Montagu -- charming -- wrote some more of
+                  >home</placeName> -- read <title ref="#WalpoletoMontagu">Walpole's Letters to Mr. Montagu</title> -- charming -- wrote some more of
                   my letter to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName>. Had the Piles a little <note resp="#coles"
                      >sic!</note></p>
@@ -3525,7 +3527,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-11-13">Sat. 13 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went <name ref="#fir">fir</name>topping did not get so many as usual -- read Legh's Travels in
-                  Egypt &amp; Haslitt's Lectures on Poetry -- heard from <persName ref="#Webb_Mary_elder">Aunt Mary</persName>.</p>
+                  Egypt &amp; Hazlitt's Lectures on Poetry -- heard from <persName ref="#Webb_Mary_elder">Aunt Mary</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-14">Sun. 14 Nov.</date></head>
@@ -3541,7 +3543,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-11-15">Mon. 15 Nov.</date></head>
                <p>Dear <persName ref="#Mitford_Geo">Drum</persName>'s birthday -- he went to our County Meeting about the Manchester
                   business &amp; seconded the resolutions -- I went <name ref="#fir">fir</name>topping -- did not get many
-                  -- Heard from <persName ref="#James_Miss">Miss James</persName>. Read Corinne.</p>
+                  -- Heard from <persName ref="#James_Miss">Miss James</persName>. Read <title ref="#Corinne_deS">Corinne</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-16">Tues. 16 Nov.</date></head>
@@ -3553,7 +3555,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-17">Wed. 17 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Johnson_Mr">Mr. Johnson</persName> went <placeName ref="#Bertram_house"
+                  >home</placeName> -- <persName ref="#Johnson_Mr">Mr. Johnson</persName> went <placeName ref="#SeymourCt"
                      >home</placeName> after breakfast -- worked a little of my shirt
                   yesterday -- read Purity of heart or the Ancient Costume. </p>
             </div>
@@ -3610,16 +3612,16 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-11-25">Thurs. 25 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> went to Winchester -- Mr. John Elliott came to look
-                  about the house &amp; the timber -- <name ref="#robin">Bobbie</name>s came <note resp="#coles">to</note> be fed -- <persName ref="#Hill_Lucy">Luce</persName> &amp;I very
+                  >home</placeName> -- <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="Winchester">Winchester</placeName> --  Mr. John Elliott came to look
+                  about the house &amp; the timber -- <name ref="#robin">Bobbie</name>s came <note resp="#coles">to</note> be fed -- <persName ref="#Hill_Lucy">Luce</persName> &amp; I very
                   comfortable together.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-26">Fri. 26 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> came <placeName ref="#Bertram_house"
-                     >home</placeName> having left dear <persName ref="#Russell_M">Granny</persName> at Winchester -- he brought
-                  our pretty little bitch Miranda to see us for a week -- &amp; she knew is all just
+                     >home</placeName> having left dear <persName ref="#Russell_M">Granny</persName> at <placeName ref="#Winchester">Winchester</placeName> -- he brought
+                  our pretty little bitch <persName ref="#Miranda_pet">Miranda</persName> to see us for a week -- &amp; she knew us all just
                   as well as ever.</p>
             </div>
             <div type="entry">
@@ -3627,22 +3629,22 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- wrote to dear <persName ref="#Russell_M">Granny</persName> -- went to <placeName
                   ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> -- called at the
-                  Whites -- <orgName ref="#Brookes">Brookes</orgName> -- <orgName ref="#Newberys">Newberrys</orgName> &amp; Bulleys -- dined at <orgName ref="#Valpys">the Valpys</orgName> -- no company
+                  <orgName ref="#Whites">Whites</orgName> -- <orgName ref="#Brookes">Brookes</orgName> -- <orgName ref="#Newberys">Newberrys</orgName> &amp; <orgName ref="#Bulleys">Bulleys</orgName> -- dined at <orgName ref="#Valpys">the Valpys</orgName> -- no company
                   but Miss Ross -- a very pleasant day -- came <placeName ref="#Bertram_house"
                      >home</placeName> at night &amp; found a beautiful
-                  purse a present from Miss Harley.</p>
+                  purse a present from <persName ref="#Harley_Miss">Miss Harley</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-28">Sun. 28 Nov. </date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- wrote to Miss Harley -- <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>> -- Mr. Palmer &amp;
+                  >home</placeName> -- wrote to Miss Harley -- <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>> -- <persName ref="#Palmer_CF">Mr. Palmer</persName> &amp;
                   dear <persName ref="#Russell_M">Granny</persName> -- could not go with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Wokingham_city">Wokingham</placeName> on account of the frost. Read
                   <title ref-#Sense_S">Sense &amp; Sensibility</title> -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-29">Mon. 29 Nov.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- dear <persName ref="#Mitford_Geo">Drum</persName> went to Ilsley -- dear <persName ref="#Russell_M">Granny</persName> still at Winchester -- did some
+                  >home</placeName> -- dear <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#Ilsley">Ilsley</placeName> -- dear <persName ref="#Russell_M">Granny</persName> still at <placeName ref="#Winchester_city">Winchester</placeName> -- did some
                   tatting -- <title ref-#Sense_S">read Sense &amp; Sensibility</title> -- wrote to the <note resp="#coles">?</note> -- had a great many
                   <name ref="#robin">bobbie</name>s eating at my board.</p>
             </div>
@@ -3673,8 +3675,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-12-03">Fri. 3 Dec.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Tuppen_Capt">Captain Tuppen</persName> came to course with <persName ref="#Mitford_Geo">Drum</persName> -- wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>, Mr.
-                  Johnson, <persName
+                  >home</placeName> -- <persName ref="#Tuppen_Capt">Captain Tuppen</persName> came to course with <persName ref="#Mitford_Geo">Drum</persName> -- wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>, <persName ref="#Johnson_Mr">Mr.
+                  Johnson</persName>, <persName
                      ref="#Hofland_B">Mrs. Hofland</persName>, &amp; dear <persName ref="#Russell_M">Granny</persName> --read Memoirs of the Rev. H. Martyn.
                   Methodistical.</p>
             </div>
@@ -3738,7 +3740,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-12-12">Sun. 12 Dec.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- fed a great many <name ref="#robin">bobbie</name>s &amp;
-                  other birds -- read Blackwood's Magazine -- famous -- &amp; the Life of Sand --
+                  other birds -- read <title ref="#Blackwoods">
+                     Blackwood's Magazine</title> -- famous -- &amp; the Life of Sand --
                   pretty well.</p>
             </div>
             <div type="entry">
@@ -3753,7 +3756,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-12-14">Tues. 14 Dec.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- heard from <persName ref="#Haydon">Mr. Haydon</persName> -- called at the Dickinsons -- came <placeName ref="#Bertram_house"
+                  >home</placeName> -- heard from <persName ref="#Haydon">Mr. Haydon</persName> -- called at the <orgName ref="#Dickinsons">Dickinsons</orgName> -- came <placeName ref="#Bertram_house"
                      >home</placeName> to
                   dinner -- read Clan Albyn -- a pretty thing only too Highlandish -- fed my dear
                   <name ref="#robin">bobbie</name>s &amp; a great many other <note resp="#coles">birds</note> -- poor lambs.</p>
@@ -3814,8 +3817,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-12-23">Thurs. 23 Dec.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- Heard from <persName ref="#Webb_Mary_younger">Mary Webb</persName> &amp; Heard from <persName ref="#Nooth_C">Miss Nooth</persName> -- went <name ref="#fir">fir</name>topping -- Mr.
-                  Dickinson called -- wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName> &amp; lent Charles Knyvett six of Dr.
+                  >home</placeName> -- Heard from <persName ref="#Webb_Mary_younger">Mary Webb</persName> &amp; Heard from <persName ref="#Nooth_C">Miss Nooth</persName> -- went <name ref="#fir">fir</name>topping -- <persName ref="#Dickinson_Charles">Mr.
+                  Dickinson</persName> called -- wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName> &amp; lent Charles Knyvett six of Dr.
                   Russell's sermons.</p>
             </div>
             <div type="entry">
@@ -3829,8 +3832,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- received a proof sheet from <persName
                   ref="#Dickinson_Charles">Mr. Dickinson</persName>, corrected it &amp; wrote a
-                  note to him. Walked with dear <persName ref="#Mitford_Geo">Drum</persName> -- fed my <name ref="#robin">bobbie</name>s -- read the Munster College
-                  boy Middling.</p>
+                  note to him. Walked with dear <persName ref="#Mitford_Geo">Drum</persName> -- fed my <name ref="#robin">bobbie</name>s -- read the Munster Cottage boy Middling.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-26">Sun. 26 Dec.</date></head>
@@ -3847,7 +3849,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1819-12-28">Tues. 28 Dec.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- fed my <name ref="#robin">bobbie</name>s -- wrote to <persName ref="#Elford_SirWm">Sir William
-                     Elford</persName> &amp; Miss Nooth -- read Queen hoo Hill -- good.</p>
+                     Elford</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName> -- read Queen hoo Hill -- good.</p>
             </div>
             <div type="entry">
                <head><date when="1819-12-29">Wed. 29 Dec.</date></head>
@@ -3860,7 +3862,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- heard from Mrs. Barningham <note resp="#coles">?</note> -- went to <placeName
                   ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName> -- called
-                  at <persName ref="#Harris_Mr">Mr. Harris</persName>'s, the Sowdens, <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Marsh_family">Marshes</orgName>, <orgName ref="#Whites">Whites</orgName>, <orgName ref="#Newberys">Newberry's</orgName> &amp; Jolyffe's
+                  at <persName ref="#Harris_Mr">Mr. Harris</persName>'s, the Sowdens, <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Marsh_family">Marshes</orgName>, <orgName ref="#Whites">Whites</orgName>, <orgName ref="#Newberys">Newberry's</orgName> &amp; <orgName ref="#Joliffes">Jolyffe's</orgName>
                   -- came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner -- a very pleasant morning.</p>
             </div>
@@ -3897,14 +3899,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-01-04">Tues 4 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- went <name ref="#fir">fir</name>topping -- fed my <name ref="#robin">Bobbie</name>s -- read the Ec: &amp; B.C. reviews
+                  >home</placeName> -- went <name ref="#fir">fir</name>topping -- fed my <name ref="#robin">Bobbie</name>s -- read the <title ref="#EclecticRev">Ec:</title> &amp; <title ref="#BritishCritic_per">B.C.</title> reviews
                   &amp; Hallam's View of Europe in the Middle Ages -- good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-05">Wed. 5 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; finished my letter to Heard from <persName ref="#Nooth_C">Miss Nooth</persName> -- Col.
-                  Boscawen called -- walked with <persName ref="#Mitford_Geo">Drum</persName> -- fed my <name ref="#robin">bobbie</name>s.</p>
+                  >home</placeName> -- wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; finished my letter to <!--LMW word missing?--> Heard from <persName ref="#Nooth_C">Miss Nooth</persName> -- <persName ref="#Boscawen_Col">Col.
+                  Boscawen</persName> called -- walked with <persName ref="#Mitford_Geo">Drum</persName> -- fed my <name ref="#robin">bobbie</name>s.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-06">Thurs. 6 Jan. </date></head>
@@ -3919,8 +3921,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-01-07">Fri. 7 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- wrote to <persName ref="#Haydon">Mr. Haydon</persName>, Mrs.
-                  Dickinson &amp; Miss <persName
+                  >home</placeName> -- heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- wrote to <persName ref="#Haydon">Mr. Haydon</persName>, <persName ref="#Dickinson_Mrs">Mrs.
+                  Dickinson</persName> &amp; Miss <persName
                      ref="#Webb_Eliza">Eliza Webb</persName> -- read the Miniature -- fed my <name ref="#robin">Bobbie</name>s -- worked
                   my shirt.</p>
             </div>
@@ -3944,14 +3946,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-01-11">Tues. 11 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- wrote to Leigh Hunt &amp; <persName ref="#Mitford_Geo">Drum</persName> who was at <placeName
-                  ref="#Reading_city">Reading</placeName> for the Sessions --
+                  >home</placeName> -- wrote to <persName ref="#Hunt">Leigh Hunt</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> who was at <placeName
+                     ref="#Reading_city">Reading</placeName> for the <rs type="event" ref="#QuarterSessions_Berks">Sessions</rs>--
                   <persName ref="#Hill_Lucy">Lucy</persName> better -- fed my <name ref="#robin">Bobbie</name>s -- read The Dead Letter Office.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-12">Wed. 12 Jan. </date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- read Clarissa.</p>
+                  >home</placeName> -- read <title ref="#Clarissa">Clarissa</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-13">Thurs. 13 Jan. </date></head>
@@ -3961,7 +3963,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-01-14">Fri. 14 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- fed my <name ref="#robin">Bobbie</name>s -- heard from <persName ref="#James_Miss">Miss James</persName> -- finished Clarissa -- very
+                  >home</placeName> -- fed my <name ref="#robin">Bobbie</name>s -- heard from <persName ref="#James_Miss">Miss James</persName> -- finished <title ref="#Clarissa">Clarissa</title> -- very
                   fine.</p>
             </div>
             <div type="entry">
@@ -3989,13 +3991,13 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-01-19">Wed. 19 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- wrote to <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName
-                     ref="#Hofland_B">Mrs. Hofland</persName> -- <persName ref="#Mitford_Geo">Drum</persName> went to London.</p>
+                     ref="#Hofland_B">Mrs. Hofland</persName> -- <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">London</placeName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-20">Thurs. 20 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> about taking Hannah Ropley -- wrote to Mrs.
-                  Dickinson.</p>
+                  >home</placeName> -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> about taking Hannah Rapley -- wrote to <persName ref="#Dickinson_Mrs">Mrs.
+                  Dickinson</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-21">Fri. 21 Jan.</date></head>
@@ -4009,20 +4011,20 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- dear <persName ref="#Mitford_Geo">Drum</persName> came <placeName ref="#Bertram_house"
                      >home</placeName> -- heard from <persName ref="#Webb_Mary_younger">Mary Webb</persName> -- went <name ref="#fir">fir</name>topping -- fed
-                  my <name ref="#robin">bobbie</name>s -- wrote to Miss Hawkes &amp; Mrs. Rowden.</p>
+                  my <name ref="#robin">bobbie</name>s -- wrote to Miss Hawkes &amp; <persName ref="#Rowden_Fr">Mrs. Rowden</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-23">Sun. 23 Jan. </date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- heard from <persName
-                     ref="#Hofland_B">Mrs. Hofland</persName> &amp; Miss Hawkes -- wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName>, Mrs.
-                  Dickinson, Mrs. Waterton, <persName
+                     ref="#Hofland_B">Mrs. Hofland</persName> &amp; Miss Hawkes -- wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName>, <persName ref="#Dickinson_Mrs">Mrs.
+                  Dickinson</persName>, <persName ref="#Waterton_Mrs">Mrs. Waterton</persName>, <persName
                      ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-24">Mon. 24 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- fed my <name ref="#robin">Bobbie</name>s -- wrote to <persName ref="#Elford_SirWm">Sir William</persName>-- Hannah Ropley went at
+                  >home</placeName> -- fed my <name ref="#robin">Bobbie</name>s -- wrote to <persName ref="#Elford_SirWm">Sir William</persName>-- Hannah Rapley went at
                   my recommendation to live with <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
             </div>
             <div type="entry">
@@ -4043,21 +4045,21 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   >home</placeName> -- went to <placeName ref="#Wokingham_city">Wokingham</placeName> -- found <persName ref="#Webb_James">Mr. Webb</persName> better -- <persName
                      ref="#Webb_Eliza">Eliza</persName> not well -- <persName ref="#Hayward_Mrs">Mrs.
                   Hayward</persName>'s little girl very pretty. Came <placeName ref="#Bertram_house"
-                     >home</placeName> to dinner -- read Country Neighbours
+                     >home</placeName> to dinner -- read <title ref="#Country_Neighbours">Country Neighbours</title>
                   -- famous.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-28">Fri. 28 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- fed my <name ref="#robin">bobbie</name>s -- wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- read a sketch of my Friend's
-                  Family -- sad Methodistical stuff -- Miss Burney's Country Neighbours -- very
+                  Family -- sad Methodistical stuff -- <persName ref="#Burney_SH">Miss Burney</persName>'s <title ref="#Country_Neighbours">Country Neighbours</title> -- very
                   good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-29">Sat.29 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- fed my <name ref="#robin">bobbie</name>s -- went <name ref="#fir">fir</name>topping -- knocked my eye -- <persName ref="#Marmy_pet">Marmion</persName> very
-                  amiable poor dear love pittied me &amp; loved me very much. The King died this
+                  amiable poor dear love pittied me &amp; loved me very much. <persName ref="#GeoIII">The King</persName> died this
                   evening.</p>
             </div>
             <pb n="34"/>
@@ -4065,14 +4067,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-01-30">Sun. 30 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- fed my <name ref="#robin">bobbie</name>s -- heard from <persName ref="#Elford_SirWm">Sir William</persName>-- wrote to <persName ref="#Elford_SirWm">Sir William
-                     Elford</persName> -- read Country Neighbours -- very good indeed -- Heard of the King's
+                     Elford</persName> -- read <title ref="#Country_Neighbours">Country Neighbours</title> -- very good indeed -- Heard of the <persName ref="#GeoIII">King</persName>'s
                   Death.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-31">Mon. 31 Jan.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went <name ref="#fir">Fir</name>topping -- picked up a great many &amp; got a great deal of
-                  furse stumps -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- wrote to <persName ref="#Elford_SirWm">Sir William
+                  <name ref="#furze">furse</name> stumps -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- wrote to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName>.</p>
             </div>
             <div type="entry">
@@ -4088,8 +4090,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-02-02">Wed. 2 Feb.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- went <name ref="#fir">Fir</name>topping -- got a great many -- fed my <name ref="#robin">Bobbie</name>s -- read Spence's
-                  Anecdotes -- very good indeed -- &amp; wrote another Postscript to <persName ref="#Elford_SirWm">Sir William
+                  >home</placeName> -- went <name ref="#fir">Fir</name>topping -- got a great many -- fed my <name ref="#robin">Bobbie</name>s -- read <title ref="#SpencesAnec"></title>Spence's
+                  Anecdotes</p> -- very good indeed -- &amp; wrote another Postscript to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName> -- read likewise the <title ref="#EclecticRev">Eclectic</title> &amp; <title ref="#BritishCritic_per">British</title> Reviews.</p>
             </div>
             <div type="entry">
@@ -4117,8 +4119,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- wrote to <persName
                      ref="#Palmer_CF">Mr. Palmer</persName> enclosing my letter to <persName ref="#Elford_SirWm">Sir William</persName>-- rode
-                  with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Farley_Hill">Farley Hill</placeName> -- saw <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- Mrs. Allingham -- Mr. Rigby
-                  &amp; <orgName>the Miss Parfetts</orgName> -- came <placeName ref="#Bertram_house"
+                  with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Farley_Hill">Farley Hill</placeName> -- saw <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- <persName ref="#Allingham_Mrs">Mrs. Allingham</persName> -- Mr. Rigby
+                  &amp; <persName>the Miss Parfitts</persName> -- came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner -- a pleasant morning -- read
                   Anastasius -- very good.</p>
             </div>
@@ -4157,11 +4159,11 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-02-11">Fri. 11 Feb.</date></head>
                <p>Read a tolerable Poem called H <note resp="#coles">?</note> the spell of St. W <note resp="#coles">?</note> -- went <name ref="#fir">fir</name>topping --
                   wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- Poor dear <persName ref="#Mossy_pet">Mossy</persName>'s grave planted with flowers by <persName ref="#Mitford_Geo">Drum</persName> &amp;
-                  George -- God bless him poor dear!</p>
+                  <persName ref="#George">George</persName> -- God bless him poor dear!</p>
             </div>
             <div type="entry">
                <head><date when="1820-02-12">Sat. 12 Feb.</date></head>
-               <p>Went <name ref="#fir">fir</name>topping -- snowdrops out.</p>
+               <p>Went <name ref="#fir">fir</name>topping -- <name ref="#snowdrop">snowdrop</name>s out.</p>
             </div>
             <div>
                <head><date when="1820-02-13">Sun. 13 Feb.</date></head>
@@ -4186,7 +4188,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#James_Miss">Miss James</persName> &amp; <persName
                      ref="#Hofland_B">Mrs. Hofland</persName> -- wrote to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName> -- read the First Volume of the Tales of Fancy containing the Shipwreck by
-                  Miss Burney -- good -- &amp; Windham's Speeches good.</p>
+                  <persName ref="#Burney_SH">Miss Burney</persName> -- good -- &amp; Windham's Speeches good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-02-17">Thurs. 17 Feb.</date></head>
@@ -4194,10 +4196,9 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   ref="#Webb_Eliza">Eliza Webb</persName> -- went into <placeName
                      ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName> -- called at the <orgName ref="#Joliffes">Jolliffes</orgName> --
                   <orgName ref="#Newberys">Newberrys</orgName>--<orgName ref="#Sherwoods">Sherwoods</orgName>--<orgName ref="#Whites">Whites</orgName> --  <orgName ref="#Valpys">Valpys</orgName> (witnessed the dear <persName ref="#Valpy_Richard">Drs.</persName> Will) -- saw
-                  Mr. Dundas who sent off my letter to <persName ref="#Elford_SirWm">Sir William</persName>, &amp; a great many people. Came
+                  <persName ref="#Dundas_C">Mr. Dundas</persName> who sent off my letter to <persName ref="#Elford_SirWm">Sir William</persName>, &amp; a great many people. Came
                   home to dinner &amp; read Mme. Necker de Saussure's Notice sur la caractere et les
-                  ecrits de Madame de Staël
-                  <!-- RJP: special character e with double dot above it -->-- which is good
+                  ecrits de Madame de Staël -- which is good
                   enough.</p>
             </div>
             <div type="entry">
@@ -4216,13 +4217,13 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-02-20">Sun. 20 Feb.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to Towm in the snow -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> --
+                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">Town</placeName> in the snow -- heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> --
                   wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- read Dudley -- very good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-02-21">Mon. 21 Feb.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> in London -- went <name ref="#fir">fir</name>topping -- fed my <name ref="#robin">Bobbie</name>s -- read
+                  >home</placeName> -- Dear <persName ref="#Mitford_Geo">Drum</persName> in <placeName ref="#London_city">London</placeName> -- went <name ref="#fir">fir</name>topping -- fed my <name ref="#robin">Bobbie</name>s -- read
                   Dudley.</p>
             </div>
             <div type="entry">
@@ -4263,7 +4264,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went <name ref="#primrose"
                      >primros</name>ing in the park &amp; fields with dear <persName ref="#Mitford_Geo">Drum</persName> -- got a good
-                  many -- read Glenfergus -- famous.</p>
+                  many -- read <title ref="#Glenfergus_fict">Glenfergus</title> -- famous.</p>
             </div>
             <div type="entry">
                <head><date when="1820-02-28">Mon. 28 Feb.</date></head>
@@ -4317,7 +4318,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- heard from <persName ref="#James_Miss">Miss James</persName> -- went to <placeName ref="#Farley_Hill">Farley Hill</placeName> -- came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner --
-                  wrote to Dr. Harness &amp; <persName ref="#James_Miss">Miss James</persName> -- nursed <persName ref="#Molly_pet">Molly</persName>.</p>
+                  wrote to <persName ref="#Harness_Wm">Dr. Harness</persName> &amp; <persName ref="#James_Miss">Miss James</persName> -- nursed <persName ref="#Molly_pet">Molly</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-06">Mon. 6 Mar.</date></head>
@@ -4341,8 +4342,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-03-09">Thurs. 9 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went into <placeName
-                     ref="#Reading_city">Reading</placeName> to the Election -- called on <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName> -- the
-                  Brookes -- the Tuppens --  <orgName ref="#Valpys">the Valpys</orgName> -- dined with <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>--came <placeName ref="#Bertram_house"
+                     ref="#Reading_city">Reading</placeName> to the Election -- called on <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName> -- <orgName ref="#Brookes">the
+                        Brookes</orgName> -- <persName ref="#Tuppens">the Tuppens</persName> --  <orgName ref="#Valpys">the Valpys</orgName> -- dined with <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>--came <placeName ref="#Bertram_house"
                      >home</placeName> at
                   night -- a very pleasant day.</p>
             </div>
@@ -4420,21 +4421,21 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-03-19">Sun. 19 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- cold better -- went <name ref="#fir">fir</name>topping -- read Shakespeare &amp; his Times,
-                  good materials badly used -- nursed Moll &amp; the Pups.</p>
+                  good materials badly used -- nursed <persName ref="#Molly_pet">Moll</persName> &amp; the Pups.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-20">Mon. 20 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- wrote to <persName
                      ref="#Rowden_Fr">Mrs. Rowden</persName>, <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Elford_SirWm">Sir William</persName>-- walked
-                  to the Cross with dear <persName ref="#Russell_M">Granny</persName> to look at <persName ref="#Body_Richard">Mr.
+                  to <placeName ref="#ThreeMileCross">the Cross</placeName> with dear <persName ref="#Russell_M">Granny</persName> to look at <persName ref="#Body_Richard">Mr.
                      Body</persName>s house -- read Shakespeare &amp;
                   his Times.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-21">Tues. 21 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to London -- <persName
+                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">London</placeName> -- <persName
                      ref="#Rowden_Fr">Mrs. Rowden</persName> came to see us, dined &amp; slept
                   here -- a very pleasant day indeed -- I was delighted to see her.</p>
             </div>
@@ -4444,7 +4445,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   >home</placeName> -- took <persName
                      ref="#Rowden_Fr">Mrs. Rowden</persName> back to <placeName
                         ref="#Reading_city">Reading</placeName> -- called on <orgName ref="#Valpys">the Valpy's</orgName>, Hawkes's,
-                  <orgName ref="#Brookes">Brookes</orgName>, Bulleys &amp;c. -- hired a Cook -- came back to dinner -- pleasant
+                  <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Bulleys">Bulleys</orgName> &amp;c. -- hired a Cook -- came back to dinner -- pleasant
                   morning.</p>
             </div>
             <div type="entry">
@@ -4491,14 +4492,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-03-28">Tues. 28 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to Town -- went <name ref="#violet">violet</name>ting with <persName ref="#Russell_M">Granny</persName> in <persName ref="#Davies_Mr">Davies</persName>'s &amp;
+                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">Town</placeName> -- went <name ref="#violet">violet</name>ting with <persName ref="#Russell_M">Granny</persName> in <persName ref="#Davies_Mr">Davies</persName>'s &amp;
                   <persName ref="#Body_Richard">Mr.
                      Body</persName>'s Fields -- got a good many.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-29">Wed. 29 Mar.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> in London -- went <name ref="#violet">violet</name>ting about our own place &amp; <persName ref="#Body_Richard">Mr.
+                  >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> in <placeName ref="#London_city">London</placeName> -- went <name ref="#violet">violet</name>ting about our own place &amp; <persName ref="#Body_Richard">Mr.
                      Body</persName>'s
                   -- did not get many -- then went <name ref="#fir">fir</name>topping.</p>
             </div>
@@ -4516,7 +4517,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> went to <placeName
                      ref="#Reading_city">Reading</placeName> -- went <name ref="#violet">violet</name>ting <placeName ref="#Pingewood">Penge wood</placeName> way --
-                  got a great many -- read the New London Magazine -- very good -- wrote to <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
+                  got a great many -- read the New <title ref="#LondonMag">London Magazine</title> -- very good -- wrote to <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-01">Sat. 1 Apl.</date></head>
@@ -4530,7 +4531,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName> -- went with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Farley_Hill">Farley Hill</placeName> -- came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner -- probably
-                  my last ride in the dear old dog cart -- read the Edinburgh Review &amp; began the
+                  my last ride in the dear old dog cart -- read the <title ref="#EdinburghRev_per">Edinburgh Review</title> &amp; began the
                   Monastery.</p>
             </div>
             <div type="entry">
@@ -4560,18 +4561,17 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-04-06">Thurs. 6 Apl.</date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- went to Bertram House to fetch some things we left there -- went
+                  >home</placeName> -- went to <placeName ref="#Bertram_house">Bertram House</placeName> to fetch some things we left there -- went
                   <name ref="#violet">violet</name>ting there &amp; in <persName ref="#Body_Richard">Mr.
                      Body</persName>'s Fields -- never got half so many in my life
-                  -- lost poor Selim -- in a great fright -- but found him again -- read the
+                  -- lost poor <persName ref="#Selim_pet">Selim</persName> -- in a great fright -- but found him again -- read the
                   Monastery -- not so good as some of his Novels.</p>
             </div>
             <pb n="40"/>
             <div type="entry">
                <head><date when="1820-04-07">Fri. 7 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross"
-                  >home</placeName> -- went <name ref="#violet">violet</name>ting to <placeName ref="#Bertram_house">Bertram House</placeName>
-                     > -- planted out flowers in our garden
+                  >home</placeName> -- went <name ref="#violet">violet</name>ting to <placeName ref="#Bertram_house">Bertram House</placeName> -- planted out flowers in our garden
                      here -- <persName ref="#Green_Mr">Mr. Green</persName> called while I was out -- read the Monastery -- pretty good
                   too.</p>
             </div>
@@ -4598,14 +4598,14 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-04-11">Tues. 11 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName
                      ref="#Hofland_B">Mrs. Hofland</persName> -- finished my letter to <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#James_Miss">Miss James</persName> &amp; wrote to <persName
-                        ref="#Hofland_B">Mrs. Hofland</persName> -- signed a bond to Dr.
-                  Harness -- walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
+                        ref="#Hofland_B">Mrs. Hofland</persName> -- signed a bond to <persName ref="#Harness_Wm">Dr.
+                  Harness</persName> -- walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-12">Wed. 12 Apl.</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- read the New Monthly Magazine -- transcribed the compliment of myself
-                  in it -- dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> went to London -- went <name ref="#violet">violet</name>ting with <persName ref="#Hill_Lucy">Lucy</persName> to Mr.
-                  Body's Fields &amp; Bertram House -- wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> to go back with the
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- read the <title ref="#New_Monthly_Mag">New Monthly Magazine</title>-- transcribed the compliment of myself
+                  in it -- dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> went to <placeName ref="#London_city">London</placeName> -- went <name ref="#violet">violet</name>ting with <persName ref="#Hill_Lucy">Lucy</persName> to Mr.
+                  Body's Fields &amp; <placeName ref="#Bertram_house">Bertram house</placeName> -- wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> to go back with the
                   Magazine.</p>
             </div>
             <div type="entry">
@@ -4626,7 +4626,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-04-15">Sat. 15 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went <name ref="#violet">violet</name>ting about our old fields &amp; <persName ref="#Body_Richard">Mr.
                   Body</persName>'s -- read Baldwin's
-                  <title ref="#LondonMag">London</title> &amp; <title ref="#Blackwoods">Blackwood's Edinburgh</title> Magazines -- Mr. Hill took away one of <persName ref="#Molly_pet">Molly</persName>'s
+                  <title ref="#LondonMag">London</title> &amp; <title ref="#Blackwoods">Blackwood's Edinburgh</title> Magazines -- <persName ref="#Hill_Mr">Mr. Hill</persName> took away one of <persName ref="#Molly_pet">Molly</persName>'s
                   puppies -- poor <persName ref="#Molly_pet">Molly</persName> &amp; the other pup cried very much.</p>
             </div>
             <div type="entry">
@@ -4673,9 +4673,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-04-21">Fri. 21 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to <placeName ref="#Pingewood">Penge wood</placeName> in the Cart with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Hill_Lucy">Luce</persName> &amp; the pets
-                  -- got a great many pansies &amp; <name ref="#woodsorrel">wood sorrel</name> -- <persName
-                     ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; the Tuppens
-                  called whilst we were out -- had a delightful morning indeed.</p>
+                  -- got a great many <name ref="#pansy">pansies</name> &amp; <name ref="#woodsorrel">wood sorrel</name> -- <persName
+                     ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <orgName ref="#Tuppens">the Tuppens</orgName> called whilst we were out -- had a delightful morning indeed.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-22">Sat. 22 Apl.</date></head>
@@ -4725,7 +4724,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-04-28">Fri. 28 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to <placeName ref="#Pingewood">Penge wood</placeName> with <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Hill_Lucy">Lucy</persName> &amp; the pets -- went likewise to
-                  Burghfield &amp; got some field Tulips -- met Mr. Liebenrood &amp; his son -- Mr.
+                  Burghfield &amp; got some field <name ref="#tulip">Tulips -- met Mr. Liebenrood &amp; his son -- Mr.
                   Body called -- heard from <persName ref="#Haydon">Mr. Haydon</persName> -- wrote to <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>. Read <bibl><author ref="#Southey_R">Southey</author>'s <title>Life
                         of Wesley</title></bibl> -- very amusing.</p>
@@ -4734,19 +4733,19 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-04-29">Sat. 29 Apl.</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went <name ref="#cowslip"
                   >cowslip</name>ping with <persName ref="#Russell_M">Granny</persName> &amp; the Pets in <persName ref="#Bridgwater_Mr">Bridgwater</persName>'s meadows --
-                  <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called -- read Hogg's Winter Evening's Tales -- famous.</p>
+                  <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called -- read <persName ref="#Hogg_J">Hogg</persName>'s Winter Evening's Tales -- famous.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-30">Sun. 30 Apl.</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- walked in the meadows with <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets -- read Hogg's Tales --
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- walked in the meadows with <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets -- read <persName ref="#Hogg_J">Hogg</persName>'s Tales --
                   famous -- wrote to <persName ref="#Haydon">Mr. Haydon</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-01">Mon. 1 May</date></head>
                <p>Went in the Cart to <placeName
                   ref="#Reading_city">Reading</placeName> Fair with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Hill_Lucy">Lucy</persName> -- called on the <orgName ref="#Brookes">Brooks</orgName><note resp="#coles">e</note>s <!-- rjp: check transcription -->,
-                  <orgName ref="#Newberys">Newberrys</orgName>, <orgName ref="#Whites">Whites</orgName>, Anstruthers &amp;c. -- dined at <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s &amp; met the
-                  Shuters, <persName ref="#Harris_Mr">Mr. Harris</persName>, <persName ref="#Monck_JB>Mr. Monk</persName>, <persName ref="#Marsh_Henry">Harry Marsh</persName> &amp; <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>  -- a very pleasant
+                  <orgName ref="#Newberys">Newberrys</orgName>, <orgName ref="#Whites">Whites</orgName>, <orgName ref="#Anstruthers">Anstruthers</orgName> &amp;c. -- dined at <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s &amp; met the
+                  <orgName ref="#Shuter">Shuters</orgName>, <persName ref="#Harris_Mr">Mr. Harris</persName>, <persName ref="#Monck_JB>Mr. Monk</persName>, <persName ref="#Marsh_Henry">Harry Marsh</persName> &amp; <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>  -- a very pleasant
                   day -- came <placeName ref="#ThreeMileCross">home</placeName> at night.</p>
             </div>
             <div type="entry">
@@ -4778,7 +4777,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went <name ref="#cowslip"
                   >cowslip</name>ping in the Meadows with dear <persName ref="#Russell_M">Granny</persName> &amp; the Pets --
                   heard from <persName ref="#Hayward_Mrs">Mrs. Hayward</persName> with a beautiful basket of flower roots -- planted them
-                  out &amp; wrote <persName ref="#Hayward_Mrs">Mrs. Hayward</persName> -- read Bonduca.</p>
+                  out &amp; wrote <persName ref="#Hayward_Mrs">Mrs. Hayward</persName> -- read <title ref="#Bonduca_play">Bonduca</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-07">Sun. 7 May</date></head>
@@ -4814,8 +4813,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             </div>
             <div type="entry">
                <head><date when="1820-05-12">Fri. 12 May</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to Arborfield flowering with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- got a great
-                  quantity of lilies -- read <note resp="#coles">?</note>'s Campaign in Saxony in 1813 -- good.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to <placeName ref="#Arborfield">Arborfield</placeName> flowering with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- got a great
+                  quantity of <name ref="#lily">lilies</name> -- read <note resp="#coles">?</note>'s Campaign in Saxony in 1813 -- good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-13">Sat. 13 May</date></head>
@@ -4846,7 +4845,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                <head><date when="1820-05-18">Thurs. 18 May</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- dressed my flowers (of which dear <persName ref="#Mitford_Geo">Drum</persName> gets me a profusion) -- wrote to
                   <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- read Dr. Zouch's Memoirs of Sir Philip Sidney -- stupid. Heard
-                  from dear <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with some lilies of the Valley -- wrote to her again.</p>
+                  from dear <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with some <name ref="#lily_valley">lilies of the Valley</name> -- wrote to her again.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-19">Fri. 19 May</date></head>
