@@ -1,21 +1,38 @@
-<!--<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://ebeshero.github.io/MRMValidate.sch" 
+type="application/xml" 
+schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
 
 <!--<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
-type="application/xml"> 
+type="application/xml" 
 schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" 
 type="application/xml" 
 schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 
 <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
 <!--LMW: do we know it was Coles, or someone else? Vera Watson? verify  -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <!--ebb:Note to Digital Mitford Editors: In this typescript, we've noticed the frequent use of the characters XX or X, and my working hypothesis is that these characters indicate points in Mitford's diary that were illegible to the transcriber. However, they also seem to be used in conjunction with titles of books Mitford mentions reading. There is probably some system to this that isn't apparent in the typescript itself. To verify this, we need to consult the original manuscript notebook.-->
    <!-- LMW: The x's are Mitford's. They are in the ms. several possibilities. later additions, to point out books or other refs she wants to remember or re copy elsewhere? x's in letters sometimes refer to added material at bottom of page, like a footnote, but that doesn't seem to be the function here.-->
+   
+   
+   <!-- Add letters sent and received tags?
+              
+              categories as part of nature:  ids for 
+               Chickens:bantams
+               
+               
+               need id for 3miX COTTAGE?
+               Can we map the various iields, woods, and walks? Would contacting Reading museum help, if we decide to?
+               -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -121,6 +138,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
+
    <text>
       <front>
          <div type="meta">
@@ -150,6 +168,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
                      /><unclear><supplied>B</supplied></unclear><lb/>TU<lb/>MIT</add>
                </label>
             </p>
+         </div>
             <div type="title">
                <head>MARY RUSSELL MITFORD<lb/> Transcript of notebook of Mary Russell Mitford<lb/>
                   contained in the British Museum (P 24834 : C.60.b.7.)</head>
@@ -179,93 +198,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
                </p>
 
             </div>
-         </div>
-
       </front>
       <body>
          <div type="year">
             <head>
                <date when="1819">1819</date>
             </head>
-            <!--LMW: SI entries needed:
-               
-               BOOKs and PERIODICALS:
-               
-              
-              Budden, Maria Elizabeth. Woman, or Minor maxims. A sketch. [By M. E. Budden.]. United Kingdom, London, 1818. MINERVA PRESS, 2 vols.
-              
-              Lives of Haydn and Mozart: With Observations on ... - L. A. C. Bombet · 1818
-              Baretti, Giuseppe, et al. The Lives of Haydn and Mozart: With Observations on Metastasio, and on the Present State of Music in France and Italy. United Kingdom, John Murray, 1818.
-               
-                <title>"Anecdotes of distinguished persons" 4 Vols</title> no author given
-              
-                Anecdotes of Distinguished Persons: Chiefly of the Last and ...books.google.com › books
-William Seward · 1804
-FOUND INSIDE
-IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN THE STRAND . 1804 . W . Flint , Printer , Old Bailey Anecdotes of Distinguished Persons: Chiefly of the Last and ...books.google.com › books
-
-                
-                <bibl><author>Malcolm</author>'s <title>Anecdotes of the 17th
-                        Century</title></bibl>
-                        James Peller Malcolm, Anecdotes of the Manners and Customs of London during the 18th Century including the Charities
-                        
-                        <bibl><author>Bisset</author>'s <title>Life of Burke</title></bibl> robert Bisset 1798 discredited bio. https://www.google.com/books/edition/Edmund_Burke_and_the_Invention_of_Modern/gqGPDgAAQBAJ?hl=en&gbpv=1&dq=Robert%20Bisset%20%22Life%20of%20Burke%22&pg=PA13&printsec=frontcover&bsq=Robert%20Bisset%20%22Life%20of%20Burke%22
-                        
-               <bibl><author>Sir R. Wilson</author>'s <title>Egypt</title></bibl> https://www.google.com/books/edition/A_Narrative_of_the_Expedition_to_Egypt_U/NR5kAAAAcAAJ?hl=en&gbpv=1&dq=sir%20r.%20wilson%20egypt&pg=PR1&printsec=frontcover
-               A Narrative of the Expedition to Egypt. Under Sir Ralph Abercrombie. by Sir R. T. Wilson
-               
-               A 'dramatic poem…in humble imitation of “The Winter's Tale” of Shakespeare', by S. T. Coleridge, published 1817
-               
-               Fuseli's Lectures on Painting
-               Fuseli, Henry. Lectures on Painting: Delivered at the Royal Academy, March, 1801. United Kingdom, J. Johnson, 1801.
-               
-               need bibl, have person:<bibl><persName ref="#Dickinson_Charles">Mr. Dickinson</persName>'s
-                        <title>Italian Translations</title></bibl> anything to do with Cyllenius? not published?
-                        
-              <bibl><author>Burdon</author>'s <title>Materials for thinking</title></bibl>
-              Burdon, William. Materials for Thinking. United Kingdom, K. Anderson, and sold by T. Ostell, London, 1806.
-              
-              <bibl><author>George Mathew</author>'s
-                        <title>Narrative</title></bibl>
-                        Harmer, James, and Mathews, George. Account of the Extraordinary and Shocking Case of George Mathews: Who was Capitally Convicted at the Old Bailey in February, 1818 on a False Charge of Robbing His Master, Colonel Whaley, and Afterwards, Through the Benevolent Influence of Mr. Alderman Wood, the Hon. Mr. Bennett and Others, Pardoned by the Prince Regent, on the Clearest Proofs Being Given of His Innocence : Containing a Report of the Trial of Mathews, a Sketch of His Life, His Memorial to the Prince Regent, Colonel Whaley's Answer, Remarks Thereon, and Mr. Harmer's Letter, Explaining His Reasons for Assisting in the Development, and Obtaining a Pardon for Mathews. United Kingdom, Ridgway, 1819.
-                        
-              <bibl><author>Wanley</author>'s
-                        <title>Wonders</title></bibl>
-                        Nathaniel Wanley's The Wonders of the Little World (1678)
-                        
-                        The Fall of Jerusalem : A Dramatic Poem . By the Rev . H . H . Milman , Vicar of St . Mary ' s Reading ; and late Fellow of Brazenose Coll . Oxford . London : John Murray , Albemarle - Street . 1820
-                        
-                        Dr. Zouch's Memoirs of Sir Philip Sidney
-                        Zouch, Thomas. Memoirs of the Life and Writings of Sir Philip Sidney. United States, Wilson, 1808.
-                        
-                        Essay on English Poetry' which prefaced his seven-volume edition, Specimens of the British Poets (1819) Thomas Campbell. essay is part of the Pope controversy thing.
-                        
-                        ADD Mansfield park and sense and s., JA:
-                         <bibl xml:id="Emma_JA">
-                  <title level="m">Emma: A Novel</title>
-                  <author>
-                     <persName ref="#Austen_Jane">Jane Austen</persName>
-                  </author>
-                  <pubPlace ref="#London_city">London</pubPlace>
-                  <publisher>John Murray</publisher>
-                  <date when="1819">1819</date>
-               </bibl>
-                                   
-            HISTORICAL PEOPLE   
-            
-            
-               Add letters sent and received tags?
-              
-              categories as part of nature:  ids for 
-               Chickens:bantams
-               
-               event: ball
-               
-               
-               
-               need id for 3miX COTTAGE?
-               Can we map the various iields, woods, and walks? Would contacting Reading museum help, if we decide to?
-               -->
+          
             
             <div type="entry">
                <head><date when="1819-01-01"><add>JANUARY</add> the 1<hi rend="superscript">st</hi></date> we were living at <placeName
@@ -334,7 +273,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <date when="1819-01-05">Tuesday 5 <add>JANUARY</add></date>
                </head>
                <p>Read some of <bibl><author ref="#Edgeworth_Maria">Miss Edgeworth</author>'s
-                        <title>Popular tales</title></bibl><!--LMW: which ones? none titled popular tales, check letters--> XX some of
+                        <title ref="#PopularTales_ME">Popular tales</title></bibl> <!--lmw: is she reading from the collected works ed?-->XX some of
                      <bibl><author ref="#Burke_E">Burke</author></bibl>. Still at <placeName ref="#Bertram_house"
                      >home</placeName>.</p>
             </div>
@@ -342,7 +281,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                <head>
                   <date when="1819-01-06">Wednesday 6 <add>JANUARY</add></date>
                </head>
-               <p>Read <title>Do. Do.</title> Still at <placeName ref="#Bertram_house"
+               <p>Read Do. Do.<!--lmw editorial policy on tagging do. = ditto? --> Still at <placeName ref="#Bertram_house"
                      >home</placeName>.</p>
             </div>
             <div type="entry">
@@ -350,7 +289,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <date when="1819-01-07">Thursday 7 <add>JANUARY</add></date>
                </head>
                <p>Read <bibl><author ref="#Fearon_HB">Fearon</author>'s <title ref="#Sketches_of_America">America</title></bibl> X -- still at
-                     <placeName ref="#Bertram_house">home</placeName>-- Got &amp; read <bibl><title ref="#Lit_Pocket_Bk">this
+                     <placeName ref="#Bertram_house">home</placeName> -- Got &amp; read <bibl><title ref="#Lit_Pocket_Bk">this
                         pretty book</title></bibl> X</p>
             </div>
             <div type="entry">
@@ -373,7 +312,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <date when="1819-01-10">Sunday 10 <add>JANUARY</add></date>
                </head>
                <p><rs type="letter">Wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName>--not to go till <date when="1819-12-01">Tuesday</date></rs>. read more of
-                  <bibl><author ref="#Burke_E">Burke</author></bibl>.</p>
+                  <persName ref="#Burke_E">Burke</persName>.</p>
             </div>
             <div type="entry">
                <head>
@@ -396,7 +335,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                <head>
                   <date when="1819-01-13">Wednesday 13 <add>JANUARY</add></date>
                </head>
-               <p><rs type="letter" subtype="received">Heard from dear <persName ref="#James_Miss">Miss James</persName></rs>--went <name ref="#fir">Fir</name> topping--<rs type="letter">wrote <title>a sonnet</title><!--LMW: identify from letter--> &amp; letter to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName></rs>--at
+               <p><rs type="letter" subtype="received">Heard from dear <persName ref="#James_Miss">Miss James</persName></rs>--went <name ref="#fir">Fir</name> topping--<rs type="letter">wrote <title>a sonnet</title><!--LMW: identify which--> &amp; letter to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName></rs>--at
                      <placeName ref="#Bertram_house">home</placeName>.</p>
             </div>
             <div type="entry">
@@ -404,7 +343,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                   <date when="1819-01-14">Thursday 14 <add>JANUARY</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>. <rs type="letter">Wrote to dear <persName ref="#James_Miss">Miss James</persName></rs> Read
-                        <bibl><author>Bisset</author>'s <title>Life of Burke</title></bibl>-- very
+                        <bibl><author ref="#Bisset_R">Bisset</author>'s <title ref="#Life_Burke_RB">Life of Burke</title></bibl>-- very
                   bad weather, could not stir.</p>
             </div>
             <div type="entry">
@@ -413,7 +352,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> all day doing nothing but <rs
                      type="letter">finish my letter to dear <persName ref="#James_Miss">Miss
-                        James</persName></rs> &amp; read <bibl><author ref="#Burke_E">Burke</author></bibl>--
+                        James</persName></rs> &amp; read <persName> ref="#Burke_E">Burke</persName>--
                   <persName ref="#Burke_E">Burke</persName> a sad turncoat.</p>
             </div>
             <div type="entry">
@@ -429,8 +368,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                <p>Rather better -- <persName ref="#Hill_Lucy">Lucy</persName> a famous nurse -- in bed almost all day
                   -- <rs type="letter" subtype="received">had a charming letter from <persName
                         ref="#Haydon">Mr. Haydon</persName></rs> &amp; read
-                        <bibl><author>Malcolm</author>'s <title>Anecdotes of the 17th
-                        Century</title></bibl>.</p>
+                        <bibl><author ref="#Malcolm_J">Malcolm</author>'s <title ref="#Anecdotes_JM">Anecdotes of the 17th Century</title></bibl>.</p>
             </div>
             <div type="entry">
                <head>
@@ -481,7 +419,7 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                </head>
                <p>All day at <placeName ref="#Bertram_house">home</placeName> <name ref="#fir">Fir</name>topping--began
                      <title ref="#Florence_Macarthy_SO">Florence
-                  Macarthy</title><!--rjp: For Site Index: This is Sydney Owenson's seventh novel, Florence Macarthy: An Irish Tale. LMW: done.-->--very much amused by it.</p>
+                  Macarthy</title>--very much amused by it.</p>
             </div>
             <div type="entry">
                <head>
@@ -489,10 +427,9 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                </head>
                <p><rs type="letter" subtype="received">Got a letter from dear <persName
                         ref="#James_Miss">Miss James</persName></rs>
-                  <rs type="letter">answered it </rs>--went with dear <persName ref="#Mitford_Geo"
-                     >Drum</persName> to look for <name ref="#primrose"
+                  <rs type="letter">answered it </rs>--went with dear <persName ref="#Mitford_Geo">Drum</persName> to look for <name ref="#primrose"
                   >primrose</name>s -- did not find any--Finished
-                  <bibl><title ref="#Florence_Macarthy_SO">Florence Macarthy</title></bibl>.</p>
+                  <title ref="#Florence_Macarthy_SO">Florence Macarthy</title>.</p>
             </div>
             <div type="entry">
                <head>
@@ -519,9 +456,11 @@ IN FOUR VOLUMES . VOL . II . LONDON : PRINTED FOR T . CADELL AND W . DAVIES , IN
                         ref="#Rowden_Fr">Mrs. Rowden</persName></rs> &amp; <rs type="letter"
                         ><persName ref="#James_Miss">Miss
                      James</persName><!--rjp:Miss James lives in or around LONDON!!!--></rs>. Read
-                  the <bibl><author>Duchesse d'Angoulime</author>'s <title>journal</title> while in
-                     <placeName ref="#Temple">the Temple</placeName></bibl><!--rjp ebb 21 May 2014: For the Site Index: Could be one of several publications, likely of 1817, in either French or English translation. See WorldCat, for example Private memoirs, which, with the work of M. Hue, and the Journal of Clery, complete the history of the captivity of the royal family of France in the Temple. Tr. from the French, with notes by the translator. by Marie-Thérèse Charlotte Angoulême, duchesse d'; L -E Audot. London. J. Murray, 1817. FIX THE SPECIAL CHARACTERS!
-This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE MEMOIRS OF WHAT PASSED IN THE TEMPLE, FROM THE IMPRISONMENT OF THE ROYAL FAMILY TO THE DEATH OF THE DAUPHIN  BY MADAME ROYALE, DUCHESS OF ANGOULÊME.--></p>
+                  the <bibl><author>Duchesse d'Angoulime</author>'s <title>journal while in
+                    the Temple</title></bibl><!--rjp ebb 21 May 2014: For the Site Index: Could be one of several publications, likely of 1817, in either French or English translation. See WorldCat, for example Private memoirs, which, with the work of M. Hue, and the Journal of Clery, complete the history of the captivity of the royal family of France in the Temple. Tr. from the French, with notes by the translator. by Marie-Thérèse Charlotte Angoulême, duchesse d'; L -E Audot. London. J. Murray, 1817. FIX THE SPECIAL CHARACTERS!
+This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE MEMOIRS OF WHAT PASSED IN THE TEMPLE, FROM THE IMPRISONMENT OF THE ROYAL FAMILY TO THE DEATH OF THE DAUPHIN  BY MADAME ROYALE, DUCHESS OF ANGOULÊME.-->
+                  <!--Angoulême, Marie-Thérèse C, and Louis. Journal De Marie-Thérèse De France, Duchesse D'angoulème: 5 Octobre 1789-2 Septembre 1792 (journal Publié Pour La Première Fois). Paris: Firmin-Didot et cie, 1893. Print.  -->
+               </p>
             </div>
             <div type="entry">
                <head>
@@ -582,10 +521,10 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-02-11">Thursday 11 <add>FEBRUARY</add></date>
                </head>
                <p><rs type="event">Walked about <placeName ref="#Farley_Hill">Farley Hill</placeName> -- <persName
-                        ref="#Dickinson_Mrs">Mrs. Dick.</persName> brought me &amp; <persName
+                        ref="#Dickinson_Mrs">Mrs. Dick.<supplied resp="#lmw">inson</supplied>.</persName> brought me &amp; <persName
                         ref="#Hofland_B">Mrs. Hofland</persName>
                      <placeName ref="#Bertram_house">home</placeName> &amp; dined with us --
-                        <persName ref="#Hofland_B">Mrs. H.</persName> went away at night.</rs>
+                  <persName ref="#Hofland_B">Mrs. H.<supplied resp="#lmw">ofland</supplied></persName> went away at night.</rs>
                   <rs type="letter" subtype="received">Heard from <persName ref="#Elford_SirWm">Sir
                         W. Elford</persName></rs> &amp; <rs type="letter" subtype="received"
                         ><persName ref="#James_Miss">Miss James</persName></rs>.</p>
@@ -685,7 +624,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                         Iris</title><!--rjp:Tag this ?? ebb: Yes! At first I thought this was a special plant (which we'd tag as <rs type="plant"> but it turns out that the Sheffield Iris is a newspaper title: See http://www.sheffieldhistory.co.uk/forums/index.php/topic/9215-james-montgomery-the-sheffield-iris-1792-1825/-->
                         from <persName ref="#Hofland_B">Mrs. Hofland</persName> with <title>some
                            verses from her to me</title> -- very pretty.</rs></bibl> Read
-                        <bibl><author>Sir Robert Wilson</author>'s <title>Egypt</title></bibl>.</p>
+                  <bibl><author ref="#Wilson_R">Sir Robert Wilson</author>'s <title ref="#Narrative_Eqypt_RW">Egypt</title></bibl>.</p>
             </div>
             <div type="entry">
                <head>
@@ -724,7 +663,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   -- could not find any -- <rs type="event">then went <name ref="#fir">Fir</name>topping
                      till I was driven in by the
                   snow</rs><!--rjp:tagged this because reveals the weather firtopping is and is not appropriate to do in-->.
-                  Read <bibl><author>Sir R. Wilson</author>'s <title>Egypt</title></bibl>.</p>
+                  Read <bibl><author ref="#Wilson_R">Sir R. Wilson</author>'s <title ref="#Narrative_Eqypt_RW">Egypt</title></bibl>.</p>
             </div>
             <div type="entry">
                <head>
@@ -741,8 +680,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <head>
                   <date when="1819-02-26">Friday 26 <add>FEBRUARY</add></date>
                </head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> all day -- read <title>the
-                  Collectanea Curiosa</title> -- <rs type="letter">wrote to Heard from <persName ref="#Nooth_C">Miss Nooth</persName></rs>. <rs type="event"><persName>Nell</persName> went to
+               <p>At <placeName ref="#Bertram_house">home</placeName> all day -- read <title ref="#Collectanea">the
+                  Collectanea Curiosa</title> -- <rs type="letter">wrote to Heard from <persName ref="#Nooth_C">Miss Nooth</persName></rs>. <rs type="event"><persName ref="#Nelly_pet">Nell</persName> went to
                         <persName ref="#Piles_Mr">Mr. Piles</persName> -- poor love I hope she will be
                      comfortable</rs>.</p>
             </div>
@@ -799,7 +738,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>. <rs type="letter">Sent off my
                      letter to <persName ref="#James_Miss">Miss James</persName></rs> -- went
-                  <name ref="#fir">Fir</name>topping -- read the <title ref="#MonthlyMag">Monthly Magazine</title>, &amp; <title>Anecdotes of
+                  <name ref="#fir">Fir</name>topping -- read the <title ref="#MonthlyMag">Monthly Magazine</title>, &amp; <title ref="#Anecdotes_WSeward">Anecdotes of
                      distinguished persons</title>.</p>
             </div>
             <div type="entry">
@@ -807,13 +746,13 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-03-04">Thursday 4 <add>MARCH</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- went <name ref="#fir">Fir</name>topping -- read
-                     <title>"Anecdotes of distinguished persons" 4 Vols</title> -- very amusing.</p>
+                  <title ref="#Anecdotes_WSeward">"Anecdotes of distinguished persons" 4 Vols</title> -- very amusing.</p>
             </div>
             <div type="entry">
                <head>
                   <date when="1819-03-05">Friday 5 <add>MARCH</add></date>
                </head>
-               <p>At <placeName ref="#Bertram_house">home</placeName> -- read <title>Anecdotes of
+               <p>At <placeName ref="#Bertram_house">home</placeName> -- read <title ref="#Anecdotes_WSeward">Anecdotes of
                   distinguished persons</title>. Went <name ref="#violet">violet</name>ting -- found none -- then went <name ref="#fir">Fir</name>
                   topping with the pretty pet <persName ref="#Miranda_pet">Miranda</persName>.</p>
             </div>
@@ -830,9 +769,9 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-03-07">Sunday 7 <add>MARCH</add></date>
                </head>
                <p><rs type="event">Went to <placeName ref="#Farley_Hill">Farley Hill</placeName></rs> -- heard
-                        <bibl><persName ref="#Dickinson_Charles">Mr. Dickinson</persName>'s
-                        <title>Italian Translations</title></bibl> -- read
-                        <bibl><author>Burdon</author>'s <title>Materials for thinking</title></bibl>
+                        <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>'s
+                        <title>Italian Translations</title> -- read
+                        <bibl><author ref="#Burdon_Wm">Burdon</author>'s <title ref="#Materials_WB">Materials for thinking</title></bibl>
                   -- a very pleasant day.</p>
             </div>
             <div type="entry">
@@ -847,8 +786,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <head>
                   <date when="1819-03-09">Tuesday 9 <add>MARCH</add></date>
                </head>
-               <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName> -- <rs type="event">the <persName>Miss
-                        Broughtons</persName> called</rs> -- nobody dined but ourselves -- in the
+               <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName> -- <rs type="event">the <orgName ref="#BroughtonDas">Miss
+                        Broughtons</orgName> called</rs> -- nobody dined but ourselves -- in the
                   Evening we had <title>the 4th book of Virgil</title> translated by <persName
                      ref="#Dickinson_Charles">Mr. D.</persName></p>
             </div>
@@ -897,9 +836,9 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-03-14">Sunday 14 <add>MARCH</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- went <name ref="#violet">violet</name>ting -- found
-                  none -- <rs type="event"><persName>Dr. Dearesley</persName> called</rs> -- read
-                  <title ref="#Marriage_SF">Marriage</title> -- &amp; <bibl><author>George Mathew</author>'s
-                        <title>Narrative</title></bibl> -- <rs type="letter">wrote to <persName
+                  none -- <rs type="event"><persName ref="#Dearesley_Mr">Dr. Dearesley</persName> called</rs> -- read
+                  <title ref="#Marriage_SF">Marriage</title> -- &amp; <bibl><author ref="#Mathews_Geo">George Mathew</author>'s
+                        <title ref="#Account_GeoMathews">Narrative</title></bibl> -- <rs type="letter">wrote to <persName
                         ref="#James_Miss">Miss James</persName></rs>.</p>
             </div>
             <pb n="6"/>
@@ -909,8 +848,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- went <name ref="#fir">Fir</name>topping. <rs
                      type="event"><persName ref="#Mitford_Geo">Drum</persName> bought me two new
-                     baskets for flowering</rs> -- read <bibl><author>Wanley</author>'s
-                        <title>Wonders</title></bibl>.</p>
+                     baskets for flowering</rs> -- read <bibl><author ref="#Wanley_N">Wanley</author>'s
+                        <title ref="#Wonders_NW">Wonders</title></bibl>.</p>
             </div>
             <div type="entry">
                <head>
@@ -972,7 +911,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <placeName><persName ref="#Dearesley_Mr">Mr. Dearesley</persName>'s Copse</placeName>
                   &amp; <name ref="#violet">violet</name>ting in <placeName type="field">our own
                   fields</placeName><!--rjp: do we tag Mitford's fields and is this done right??-->.
-                  Read a pretty Tale called <title>Altham &amp; his Wife</title>.</p>
+                  Read a pretty Tale called <title ref="#Altham">Altham &amp; his Wife</title>.</p>
             </div>
             <div type="entry">
                <head>
@@ -989,8 +928,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <date when="1819-03-23">Tuesday 23 <add>MARCH</add></date>
                </head>
                <p><rs type="letter">Wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName></rs>
-                  -- read <bibl><author>Miss Jane Taylor</author>'s <title>Display</title></bibl> --
-                  &amp; began <bibl><author ref="#Maturin_Chas">Mr. Maturin</author>'s <title ref="#Women_CM">Woman</title></bibl><!-- LMW: typo? title is Women --> --
+                  -- read <bibl><author ref="#Taylor_Jane">Miss Jane Taylor</author>'s <title ref="#Display_JT">Display</title></bibl> --
+                  &amp; began <bibl><author ref="#Maturin_Chas">Mr. Maturin</author>'s <title ref="#Women_CM">Women</title></bibl><!-- LMW: typo? title is Women --> --
                   Dear <persName ref="#Mitford_Geo">Drum</persName> went to
                      <placeName ref="#London_city">Town</placeName> -- At <placeName ref="#Bertram_house"
                      >home</placeName> all day.</p>
@@ -1011,7 +950,8 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="letter"
                      subtype="received">heard from dear <persName ref="#Mitford_Geo"
                      >Drum</persName></rs> -- Got caught in a shower -- read
-                        <bibl><author>Wanley</author>'s<title>Wonders</title></bibl>.</p>
+                  <bibl><author ref="#Wanley_N">Wanley</author>'s
+                     <title ref="#Wonders_NW">Wonders</title></bibl>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1054,7 +994,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="event">Went to
                   <placeName ref="#Pingewood">Penge wood</placeName></rs> with dear <persName
                            ref="#Mitford_Geo">Drum</persName>, <persName ref="#Hill_Lucy">Luce</persName> &amp; the pets --
-                  got a few wood anemones &amp; quantities of <name ref="#violet">violet</name>s blue &amp; white -- <rs
+                  got a few <name ref="#anemone">wood anemone</name>s &amp; quantities of <name ref="#violet">violet</name>s blue &amp; white -- <rs
                      type="letter">Wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName></rs>.</p>
             </div>
             <div type="entry">
@@ -1093,7 +1033,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                         James</persName></rs>. Went <name ref="#violet">violet</name>ting with the Pets, got quantities -- <rs
                      type="letter">wrote to <persName ref="#Newbery_Mrs">Mrs. Newbery</persName></rs> -- Read the
                   <title ref="#EclecticRev"> </title> &amp; <title ref="#BritishCritic_per">British Critic</title> Reviews &amp;
-                        <bibl><author ref="#Walpole_Hor">Horace Walpole</author>'s <title>letters</title></bibl>.</p>
+                        <persName ref="#Walpole_Hor">Horace Walpole</persName>'s letters.</p>
             </div>
             <div type="entry">
                <head>
@@ -1102,9 +1042,9 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At <placeName ref="#Bertram_house">home</placeName> -- walked with
                   <persName ref="#Russell_M">Granny</persName> and the Pets -- <rs type="letter"
                      subtype="received">heard from <persName ref="#Newbery_Mrs">Mrs. Newberry</persName></rs> -- read
-                        <bibl><author ref="#Walpole_Hor">Horace Walpole</author>'s delightful <title>Letters to
-                           Mr. Cole</title></bibl> &amp; <bibl><title ref="#TomCrib">Tom
-                        Crib's Memorial to Congress</title></bibl> -- Dear <persName
+                        <bibl><author ref="#Walpole_Hor">Horace Walpole</author>'s delightful <title ref="#WalpoleLtrstoCole">Letters to
+                           Mr. Cole</title></bibl> &amp; <title ref="#TomCrib">Tom
+                        Crib's Memorial to Congress</title> -- Dear <persName
                      ref="#Mitford_Geo">Drum</persName> came <placeName ref="#Bertram_house"
                      >home</placeName> sick from <placeName ref="#Reading_city"
                   >Reading</placeName>.</p>
@@ -1127,7 +1067,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p><rs type="event">Went to <placeName ref="#Pingewood">Penge Wood</placeName> with
                   <persName ref="#Hill_Lucy">Lucy</persName> &amp; the Pets</rs> -- Read <bibl><author ref="#Walpole_Hor">Horace
-                        Walpole</author>'s <title>letters to Mr. Cole</title>
+                        Walpole</author>'s <title ref="#WalpoleltrstoCole">letters to Mr. Cole</title>
                   </bibl>-- Delightful -- &amp; <bibl><author ref="#Clarke_ED">Dr. Clarke</author>'s <title ref="#ClarkesTravelsScand">Travels
                    </title></bibl>.</p>
             </div>
@@ -1137,7 +1077,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="letter"
                      subtype="received">heard from <persName ref="#Rowden_Fr">Mrs.
-                     Rowden</persName></rs> -- Read <title>Beppo</title> &amp; <bibl><author ref="#Roger_Sam">Mr.
+                     Rowden</persName></rs> -- Read <title ref="#Beppo">Beppo</title> &amp; <bibl><author ref="#Roger_Sam">Mr.
                         Roger</author>'s <title ref="#HumanLife_SR">Human Life</title></bibl> -- &amp; <bibl><author ref="#Clarke_ED">Dr.
                         Clarke</author>'s <title ref="#ClarkesTravelsScand">Travels in Sweden &amp; Norway</title></bibl>.</p>
             </div>
@@ -1195,14 +1135,14 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                         Hofland</persName></rs>, <rs type="letter"><persName ref="#Tuppen_Mrs">Mrs.
                      Tuppen</persName></rs> &amp; <rs type="letter"><persName ref="#Maitland_Mr">Mr.
                         Maitland</persName></rs> -- read <bibl><author ref="#Edgeworth_Maria">Miss
-                        Edgeworth</author>'s <title>Comic Dramas</title></bibl> -- not good. </p>
+                        Edgeworth</author>'s <title ref="#ComicDramas_ME">Comic Dramas</title></bibl> -- not good. </p>
             </div>
             <div type="entry">
                <head>
                   <date when="1819-04-12">Monday 12 <add>APRIL</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> all day -- read the
-                     <title>Lives of Hayden &amp; Mozart</title> &amp; <title>the Memoirs of the
+                     <title ref="#Lives_HaydenMoz">Lives of Hayden &amp; Mozart</title> &amp; <title>the Memoirs of the
                      great
                   Condé</title> --
                   not very good.</p>
@@ -1318,7 +1258,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="event">waited
                      again for that shocking plague <persName ref="#Palmer_Mad">Lady M. P.</persName>
                   who never came</rs> -- Dear <persName ref="#Mossy_pet">Mossy</persName> much better almost well.
-                  Read <bibl><author>Horrace Walpole</author>'s <title>Letters to Mr.
+                  Read <bibl><author ref="#Walpole_Hor">Horrace Walpole</author>'s <title ref="#WalpoletoMontague">Letters to Mr.
                         Montague</title></bibl>.</p>
             </div>
             <pb n="9"/>
@@ -1328,7 +1268,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="event">waited
                      again for <persName ref="#Palmer_Mad">my Lady</persName>, Deuce take her</rs>
-                  -- read <bibl><author>Horace Walpole</author>'s delightful letters</bibl> &amp;
+                  -- read <title ref="#Walpole_Hor">Horace Walpole</title>'s delightful letters &amp;
                         <bibl><author>Rose</author>'s <title>Letters from the North of
                      Italy</title></bibl> -- very good though vulgar.</p>
             </div>
@@ -1762,7 +1702,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   dear <persName ref="#Mitford_Geo">Drum</persName>, dear
                   <persName ref="#Russell_M">Granny</persName> &amp; the pets -- <rs type="letter">wrote to
                         <persName ref="#Elford_SirWm">Sir William</persName></rs> -- read
-                        <bibl><author ref="#Edgeworth_Maria">Miss Edgeworth</author>'s <title>Moral
+                        <bibl><author ref="#Edgeworth_Maria">Miss Edgeworth</author>'s <title ref="#MoralTales_MR">Moral
                         Tales</title></bibl> -- very pretty.</p>
             </div>
             <div type="entry">
@@ -2778,7 +2718,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1819-09-13">Monday 13 <add>SEPTEMBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName> -- sate in my hay -- worked <persName ref="#Hill_Lucy">Lucy</persName>'s shirt -- fed my <name ref="#robin">Bobbie</name>s -- read <bibl><author ref="#Edgeworth_ME">Miss
+                  >home</placeName> -- sate in my hay -- worked <persName ref="#Hill_Lucy">Lucy</persName>'s shirt -- fed my <name ref="#robin">Bobbie</name>s -- read <bibl><author ref="#Edgeworth_Maria">Miss
                      Edgeworth</author>'s <title ref="#Ormond_novel">Harrington</title></bibl>.<!-- LMW: Ormond and Harrington both in this publication --></p>
             </div>
             <div type="entry">
@@ -4524,7 +4464,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-05-18">Thursday 18 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- dressed my flowers (of which dear <persName ref="#Mitford_Geo">Drum</persName> gets me a profusion) -- wrote to
-                  <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- read Dr. Zouch's Memoirs of Sir Philip Sidney -- stupid. Heard
+                  <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> -- read <title ref="#Mems_Sidney_TZ">Dr. Zouch's Memoirs of Sir Philip Sidney</title> -- stupid. Heard
                   from dear <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with some <name ref="#lily_valley">lilies of the Valley</name> -- wrote to her again.</p>
             </div>
             <div type="entry">
@@ -4546,13 +4486,13 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <pb n="44"/>
             <div type="entry">
                <head><date when="1820-05-21">Sunday 21 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- took a walk with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- read the Times Newspapers &amp;
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- took a walk with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets -- read the <unclear>Times Newspapers</unclear> &amp;
                   <persName ref="#Beaumont_Fr">Beaumont</persName> &amp; <persName ref="#Fletcher_John">Fletcher</persName> &amp; finished my letter to <persName ref="#Raggett_Mrs">Mrs. Raggett</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-22">Monday 22 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- read the <title ref="#FallofJerusalem">Fall of Jerusalem</title> -- dressed my flowers -- walked with <persName ref="#Mitford_Geo">Drum</persName> ,
-                  <persName ref="#Russell_M">Granny</persName>, &amp; the pets to <placeName ref="#WhitleyWood">Whitley wood</placeName> revel -- saw some wrasling <note resp="#coles">sic</note> --
+                  <persName ref="#Russell_M">Granny</persName>, &amp; the pets to <placeName ref="#WhitleyWood">Whitley wood</placeName> revel -- saw some <unclear>wrasling</unclear> <note resp="#coles">sic</note> --
                   awkward.</p>
                <!-- RJP: hahaha wait what? -->
             </div>
@@ -4563,12 +4503,15 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   at the <orgName ref="#Newberys">Newberrys</orgName> -- <rs type="event">went to <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName>'s lecture in the Evening</rs> -- tired &amp;
                   pleased.</p>
             </div>
-         </div>
+            </div>
       </body>
       <back>
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
-               <org xml:id="BroughtonDas"></org>
+               <org xml:id="BroughtonDas">
+                  <orgName>Misses Broughton</orgName>
+                  <orgName>Unmarried daughters of the Broughton family.</orgName>
+               </org>
                
                <org xml:id="Drovers">
                   <orgName>the Drover family</orgName>
@@ -4661,33 +4604,6 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                   <note resp="#lmw">One of Mitford's greyhounds at <placeName ref="#Bertram_house">Bertram House</placeName> in <date when="1819">1819</date>.</note>
                </person>
                
-               
-               <person xml:id="Jennings_Ag" sex="f">
-                  <persName>Agnes Jennings</persName>
-                  <persName>
-                     <surname type="married">Jennings</surname>
-                     <forename>Agnes</forename>
-                  </persName>
-                  <note resp="#lmw">A correspondent of <persName ref="#MRM">Mary Russell Mitford</persName> in the 1850s. She wrote to her at Portland Place in London. Identity unknown. More research needed. <!--LMW: May be related to the Jennings family intermarried with the family of Lady Constance Russell of Swallowfield, Mitford's neighbor and friend?--></note>
-               </person>
-               
-               <person xml:id="Tennyson" sex="m">
-                  <persName ref="#Tennyson">Alfred Tennyson</persName>
-                  <persName>
-                     <forename>Alfred</forename>
-                     <surname>Tennyson</surname>
-                  </persName>
-                  <persName>1st Baron Tennyson</persName>
-                  <birth when="1809-08-06">
-                     <placeName>Somersby, Lincolnshire, England</placeName>
-                  </birth>
-                  <death when="1892-10-06">
-                     <placeName>Lurgashall, Sussex, England</placeName>
-                  </death>
-                  <occupation type="literary" subtype="poet"/>
-                  <note resp="#lmw">Poet laureate of the UK from 1850 to 1892, following <persName ref="#Wordsworth_Wm">Wordsworth</persName>. Buried in Westminster Abbey.</note>
-                  <note><ptr target="https://viaf.org/viaf/61540536/"/></note>
-               </person>
                
                <person xml:id="Armstrong_Mr" sex="m">
                   <persName>Mr. Armstrong</persName>
@@ -5087,10 +5003,10 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                                        <note resp="#lmw">A correspondent of <persName ref="#MRM">Mary Russell Mitford</persName> in <date when="1837">1837</date>. Forename unknown. More research needed.</note>
                                     </person>-->
             </listPerson>
+         </div>
             
+         <div type="places">
             <listPlace sortKey="histPlaces">
-            
-            
             
             <place xml:id="Lockinge">
                <placeName>Lockinge</placeName>
@@ -5102,8 +5018,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                </location>
                <note resp="#lmw"><!--LMW: parish east and west Lockinge, part of Berkshire until 1974.--> <!--https://www.british-history.ac.uk/vch/berks/vol4/pp307-311--></note>
             </place>
-            
-            
+
             <place xml:id="Overton"/>
             
             <place xml:id="BurghfieldBr">
@@ -5134,12 +5049,261 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             </listBibl>
             
             <listBibl sortKey="work_MRM">
-               <bibl xml:id="xxx">
-                  <title>xxx</title>
+               <!--need bibl, have person:<persName ref="#Dickinson_Charles">Mr. Dickinson</persName>'s
+                        <title>Italian Translations</title>. Is this a printed book or no? anything to do with Cyllenius?-->
+               
+               <!-- Essay on English Poetry' which prefaced his seven-volume edition, Specimens of the British Poets (1819) Thomas Campbell. essay is part of the Pope controversy thing.-->
+               <bibl xml:id="Woman_MB">
+                  <title level="m">Woman, or Minor maxims. A Sketch
+                  </title>
+                  <author ref="#Budden_M"/>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>Minerva Press</orgName>
+                  </publisher>
+                  <date when="1818"/>
+                  <note resp="#lmw">In 2 volumes. Full title: <title level="m">Woman, or Minor maxims. A Sketch.</title>
+                  </note><!-- check full title and name on tp or if anon. -->
                </bibl>
+               
+               <bibl xml:id="Lives_HaydenMoz">
+                  <title level="m">The Lives of Haydn and Mozart
+                  </title>
+                  <author ref="#Bombet_L">L. A. C. Bombet</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>John Murray</orgName>
+                  </publisher>
+                  <date when="1818"/>
+                  <note resp="#lmw">Full title: <title level="m">The Lives of Haydn and Mozart: With Observations on Metastasio, and on the Present State of Music in France and Italy.</title>
+                  </note><!-- check vols. and name on tp or if anon. -->
+               </bibl>
+               
+               <bibl xml:id="Anecdotes_WSeward">
+                  <title level="m">Anecdotes of Distinguished Persons</title>
+                  <author ref="#Seward_Wm">William Seward</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>T. Cadell and W. Davies</orgName>
+                  </publisher>
+                  <date when="1804"/>
+                  <note resp="#lmw">4 vols. Full title: <title level="m">Anecdotes of Distinguished Persons: Chiefly of the Last and...</title>
+                  </note><!-- check full title and name on tp or if anon.-->
+               </bibl>
+               
+               <bibl xml:id="Anecdotes_JM">
+                  <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century</title>
+                  <author ref="#Malcolm_J">James Peller Malcolm</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>xxx</orgName>
+                  </publisher>
+                  <date when="1800"/>
+                  <note resp="#lmw">Full title: <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century including the Charities...</title>
+                  </note><!-- check if correct title, date, MRM says 17th c., full title and other bib info.--></bibl>
+               
+                  <bibl xml:id="Life_Burke_RB">
+                     <title level="m">The Life of Burke</title>
+                     <author ref="#Bisset_R">Robert Bisset</author>
+                     <pubPlace>
+                        <placeName ref="#London_city">London</placeName>
+                     </pubPlace>
+                     <publisher>
+                        <orgName>xxx</orgName>
+                     </publisher>
+                     <date when="1798"/>
+                     <note resp="#lmw">Full title: <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century including the Charities...</title>
+                     </note><!-- check if correct title, date, MRM says 17th c., full title and other bib info.-->
+                     <!--discredited bio. https://www.google.com/books/edition/Edmund_Burke_and_the_Invention_of_Modern/gqGPDgAAQBAJ?hl=en&gbpv=1&dq=Robert%20Bisset%20%22Life%20of%20Burke%22&pg=PA13&printsec=frontcover&bsq=Robert%20Bisset%20%22Life%20of%20Burke%22-->
+                  </bibl>
+                     
+                     <bibl xml:id="Narrative_Eqypt_RW">
+                        <title level="m">A Narrative of the Expedition to Egypt</title>
+                        <author ref="#Wilson_R">R. T. Wilson</author>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                        <publisher>
+                           <orgName>xxx</orgName>
+                        </publisher>
+                        <date when="1800"/>
+                        <note resp="#lmw">Full title: <title level="m">A Narrative of the Expedition to Egypt. Under Sir Ralph Abercrombie....</title>
+                        </note><!-- check if correct title, date, ,full title and other bib info.-->
+                     </bibl>
+                     
+                     <bibl xml:id="DrTale_WT_STC">
+                        <title level="m">A 'dramatic poem…in humble imitation of “The Winter's Tale” of Shakespeare'</title>
+                        <author ref="#Coleridge_ST"/>
+                        <!--<pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                        <publisher>
+                           <orgName>xxx</orgName>
+                        </publisher>-->
+                        <date when="1817"/>
+                        <note resp="#lmw">
+                        </note><!-- check full title and name on tp or if anon.-->
+                     </bibl>
+                     
+                     <bibl xml:id="Lectures_Paint_HF">
+                        <title level="m">Lectures on Painting: Delivered at the Royal Academy, March, 1801.</title>
+                        <author ref="#Fuseli_H"/>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                        <publisher>
+                           <orgName>J. Johnson</orgName>
+                        </publisher>
+                        <date when="1801"/>
+                        <note resp="#lmw">
+                        </note><!-- check full title and name on tp or if anon.-->
+                     </bibl>
+                     
+                     <bibl xml:id="Materials_WB">
+                        <title level="m">Materials for Thinking</title>
+                        <author ref="#Burdon_Wm">William Burdon</author>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                        <publisher>
+                           <orgName>K. Anderson</orgName>
+                        </publisher>
+                        <date when="1806"/>
+                        <note resp="#lmw">
+                        </note><!-- check full title and name on tp or if anon.-->
+                     </bibl>
+                     
+                     <bibl xml:id="Account_GeoMathews">
+                        <title level="m">Account of the Extraordinary and Shocking Case of George Mathews</title>
+                        <author ref="#Mathews_Geo">George Mathews</author>
+                        <author ref="#Harner_J">James Harner</author>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                        <publisher>
+                           <orgName>J. Ridgway</orgName>
+                        </publisher>
+                        <date when="1819"/>
+                        <note resp="#lmw">Full title:  <title level="m">Account of the Extraordinary and Shocking Case of George Mathews: Who was Capitally Convicted at the Old Bailey in February, 1818 on a False Charge of Robbing His Master, Colonel Whaley, and Afterwards, Through the Benevolent Influence of Mr. Alderman Wood, the Hon. Mr. Bennett and Others, Pardoned by the Prince Regent, on the Clearest Proofs Being Given of His Innocence : Containing a Report of the Trial of Mathews, a Sketch of His Life, His Memorial to the Prince Regent, Colonel Whaley's Answer, Remarks Thereon, and Mr. Harmer's Letter, Explaining His Reasons for Assisting in the Development, and Obtaining a Pardon for Mathews.</title>
+                        </note><!-- check full title and name on tp or if anon.-->
+                     </bibl>
+                     
+                     <bibl xml:id="Wonders_NW">
+                        <title level="m">The Wonders of the Little World</title>
+                        <author ref="#Wanley_N">Nathaniel Wanley</author>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                       <!-- <publisher>
+                           <orgName>K. Anderson</orgName>
+                        </publisher>  -->
+                        <date when="1678"/>
+                        <note resp="#lmw">
+                        </note><!-- check full title-->
+                     </bibl>
+                     
+                     <bibl xml:id="Fall_Jerusalem_HM">
+                        <title level="m">The Fall of Jerusalem</title>
+                        <author ref="#Milman_HH"/>
+                        <pubPlace>
+                           <placeName ref="#London_city">London</placeName>
+                        </pubPlace>
+                      <publisher>
+                           <orgName>J. Murray</orgName>
+                        </publisher>
+                        <date when="1820"/>
+                        <note resp="#lmw">Full title: <title level="m">The Fall of Jerusalem: A Dramatic Poem.</title><!-- check full title-->
+                        </note>
+                     </bibl>
+                     
+                     <bibl xml:id="MansfieldPk">
+                        <title level="m">Mansfield Park</title>
+                        <author>
+                           <persName ref="#Austen_Jane">Jane Austen</persName>
+                        </author>
+                        <pubPlace ref="#London_city">London</pubPlace>
+                        <publisher>John Murray</publisher>
+                        <date when="1814">1814</date>
+                        <note><!--CHECK PUBLISHER AND TITLE--></note>
+                     </bibl>
+                     
+                     <bibl xml:id="Sense_S">
+                        <title level="m">Sense and Sensibility</title>
+                        <author>
+                           <persName ref="#Austen_Jane">Jane Austen</persName>
+                        </author>
+                        <pubPlace ref="#London_city">London</pubPlace>
+                        <publisher>John Murray</publisher>
+                        <date when="1811">1811</date>
+                        <note><!--CHECK PUBLISHER AND TITLE--></note>
+                     </bibl>
+               
+               <bibl xml:id="Mems_Sidney_TZ">
+                  <title level="m">Memoirs of the Life and Writings of Sir Philip Sidney</title>
+                  <author>
+                     <persName ref="#Zouch_T">Thomas Zouch</persName>
+                  </author>
+                  <!--<pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>John Murray</publisher>
+                  <date when="1811">1811</date>-->
+                  <note><!--CHECK PUBLISHER AND TITLE. 1807/8?--></note>
+               </bibl>
+               
+               <bibl xml:id="PopularTales_ME">
+                  <title level="m">Popular Tales</title>
+                  <author>
+                     <persName ref="#Edgeworth_Maria"/>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>J. Johnson</publisher>
+                  <date when="1804"/>
+                  <note>in 3 volumes. <!--v. 1. Lame Jervas. The will. The limerick gloves. Out of debt out of danger;
+v. 2. The lottery. Rosanna. Murad the Unlucky. The manufacturers;
+v. 3. The contrast. The grateful Negro. To-morrow.  --></note>
+               </bibl>
+               <!-- Add; Moral Tales, Comic Dramas -->
+               <!-- Mr. Edgeworth's Life -->
+               
+               <bibl xml:id="WalpoleltrstoCole">
+                  <title level="m">Letters from the Hon. Horace Walpole, to the Rev. William Cole and others</title>
+                  <author>
+                     <persName ref="#Walpole_Hor">Horace Walpole</persName>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>H. Colburn</publisher>
+                  <date when="1818">1818</date>
+                  <note resp="#lmw">Full title: <title level="m">Letters from the Hon. Horace Walpole, to the Rev. William Cole and others, Esq. from the year 1736, to the year 1770: Now First Published from the Originals</title></note>
+               </bibl>
+               
+               <!-- bibl><author>Dr. Aikin</author>'s <title>Translation of the Memoirs of
+                        Huet</title></bibl> -->
+               
+               <!-- Altham and His Wife: A Domestic Tale books.google.com › books
+Charles Ollier · 1818 · ‎#Altham -->
+               
+               <!-- entry for 3rd tales of my landlordx WS -->
+               
+               <!-- Taylor_Jane  Display_JT-->
+               <!-- Beppo -->
+               
+               <!-- <title>the Memoirs of the
+                     great
+                  Condé</title> -->
+               <!-- <bibl><author>Whistlecraft</author>'s <title>National Poem</title></bibl>
+                  
+                  <bibl><author>Cary</author>'s <title>Dante</title></bibl> -->
             </listBibl>
+                     
+                     
          </div>
-         
       </back>
    </text>
 </TEI>
