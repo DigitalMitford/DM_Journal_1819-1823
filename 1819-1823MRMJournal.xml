@@ -1453,7 +1453,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName> -- <rs type="letter"
                      subtype="received">heard from dear <persName ref="#Mitford_Geo"
-                        >Drum</persName></rs> -- the <orgName ref="#Dearesleys">Dearesleys</orgName> called while we were
+                        >Drum</persName></rs> -- the <orgName ref="#Dearsleys">Dearesleys</orgName> called while we were
                   at dinner &amp; we did not see them. <rs type="event"><persName ref="#Green_Mr">Mr.
                         Green</persName> called in the morning &amp; was very pleasant</rs> -- read
                      <title ref="#TenYearsatTripoli">a ten years <choice><sic resp="#coles">sic</sic><reg resp="#rjp">residence</reg></choice> in Tripoly</title>.</p>
@@ -1503,7 +1503,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                </head>
                <p> At <placeName ref="#Bertram_house">home</placeName> -- <rs type="event">went to
                         <placeName ref="#Reading_city">Reading</placeName></rs> -- called on
-                  <persName ref="#Tuppen_Mrs">Mrs.Tuppen</persName>, <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>,
+                  <persName ref="#Tuppen_Mrs">Mrs. Tuppen</persName>, <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>,
                   <persName ref="#Brooke_Miss">Miss Brooke</persName>, <persName ref="#Anstruther_Miss">Miss Anstruther</persName> &amp;
                   <orgName ref="#Valpys">the Valpy's </orgName> -- bought some things for
                   <persName ref="#Russell_M">Granny</persName> &amp; myself -- read <title ref="#Rivals_RBS">The Rivals</title> --
@@ -2094,7 +2094,7 @@ This must NOT be the translation by John Wilson Croker of 1823. It's NOT PRIVATE
                   <persName ref="#Mossy_pet">Mossy</persName>
                   <persName ref="#Marmy_pet">Marmy</persName> &amp; <persName ref="#Moses_pet">Moses</persName> -- read <title>an
                      Autumn near the Rhine</title> <!--Dodd, Charles Edward. An Autumn Near the Rhine; Or Sketches of Courts, Society, Scenery, & C. in Some of the German States Bordering on the Rhine. United Kingdom, Longman, Hurst, Rees, Orme and Brown, 1818.-->-- <rs type="letter">wrote to <persName ref="#Webb_Mary_younger">Mary
-                        Webb</persName></rs> -- <persName ref="#Deverell_Mr">Mr. Deverell</persName> went away.</p>
+                        Webb</persName></rs> -- <persName ref="#Deverell_J">Mr. Deverell</persName> went away.</p>
             </div>
             <div type="entry">
                <head>
@@ -4249,7 +4249,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             </div>
             <div type="entry">
                <head><date when="1820-04-17">Monday 17 <add>APRIL</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to <placeName ref="#Pingewood">Penge wood</placeName> with <persName ref="#Hill_Lucy">Lucy</persName>, got a great deal of <name ref="#woodsorrel">woodsorrel</name> &amp; some
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> -- went to <placeName ref="#Pingewood">Pinge wood</placeName> with <persName ref="#Hill_Lucy">Lucy</persName>, got a great deal of <name ref="#woodsorrel">woodsorrel</name> &amp; some
                   white <name ref="#violet">violet</name>s in <persName ref="#Davies_Mr">Davies</persName>'s meadow -- heard from <persName ref="#Voules_Mrs">Mrs. Voules</persName> (to whom I sent <persName ref="#Molly_pet">Molly</persName>'s
                      <pb n="41"/> other pup) -- had a delightful morning -- read <title ref="#Blackwoods">Blackwood's
                   Magazine</title>.</p>
@@ -4432,7 +4432,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
             <div type="entry">
                <head><date when="1820-05-14">Sunday 14 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> -- dined at <persName ref="#Green_Mr">Mr. Green</persName>'s -- met <persName ref="#Madison_Mrs">Mrs. Madison</persName> &amp; <persName ref="#Taunton_Mrs">Mrs. Taunton</persName> -- a very
-                  pleasant day -- came <placeName ref="#Bertram_house"
+                  pleasant day -- came <placeName ref="#ThreeMileCross"
                      >home</placeName> in the evening.</p>
             </div>
             <div type="entry">
@@ -4696,7 +4696,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName></rs> -- read <bibl><author ref
                            <surname>Cliff</surname>
                            <forename>Jesse</forename>
                         </persName>
-                        <note resp="#rjp">Jesse Clift gave the Mitford family elderly bantams in 1819.<!--lmw: Jesse Clift - spelling? there is a story named jesse Cliffe in country stories. I believe it should be Cliff--></note>
+                        <note resp="#rjp">Jesse Clif gave the Mitford family elderly bantams in 1819.<!--lmw: Jesse Clift - spelling? there is a story named jesse Cliffe in country stories. I believe it should be Cliff--></note>
                      </person>
                      
                      <person xml:id="Davies_Mr" sex="m">
