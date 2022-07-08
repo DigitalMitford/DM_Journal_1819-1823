@@ -2,10 +2,9 @@
 <?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
 type="application/xml" 
 schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" 
+<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
 type="application/xml" 
 schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
@@ -13,10 +12,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!--LMW: do we know it was Coles, or someone else? Vera Watson? verify  -->
 
    <!--ebb:Note to Digital Mitford Editors: In this typescript, we've noticed the frequent use of the characters XX or X, and my working hypothesis is that these characters indicate points in Mitford's diary that were illegible to the transcriber. However, they also seem to be used in conjunction with titles of books Mitford mentions reading. There is probably some system to this that isn't apparent in the typescript itself. To verify this, we need to consult the original manuscript notebook.-->
-   <!-- LMW: The x's are Mitford's. They are in the ms. several possibilities. later additions, to point out books or other refs she wants to remember or re copy elsewhere? x's in letters sometimes refer to added material at bottom of page, like a footnote, but that doesn't seem to be the function here. Add note about this to the msDesc section?-->
-   
-   
-   
+   <!-- LMW: The x's are Mitford's. They are in the ms. several possibilities. later additions, to point out books or other refs she wants to remember or re copy elsewhere? x's in letters sometimes refer to added material at bottom of page, like a footnote, but that doesn't seem to be the function here. Add note about this to the msDesc section?-->  
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -127,8 +123,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <front>
          <div type="meta">
             <p>
-               <add><handShift resp="#red_crayon_RCLnb"
-                  /><!--ebb: written diagonally at bottom right of an opening blank sheet-->original
+               <add><handShift resp="#red_crayon_RCLnb"/><!--ebb: written diagonally at bottom right of an opening blank sheet-->original
                   carbon copy of Mitford diary. <handShift resp="#black_pencil_RCLnb"/><del
                      rend="strikethrough"><handShift resp="#red_crayon_RCLnb"/>pages 1-49. i.e. end
                      of 1819</del></add>
@@ -141,8 +136,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </p>
             <p>
                <!--ebb: To the right of the barcode sticker-->
-               <add><handShift resp="#black_pen_RCLnb"/>q B/TU/MIT REF. STRONGROOM.<lb/>#
-                  1361549</add>
+               <add><handShift resp="#black_pen_RCLnb"/>q B/TU/MIT REF. STRONGROOM.<lb/>#1361549</add>
             </p>
             <pb n="iii"/>
             <p>
@@ -223,7 +217,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName>--Happy day--<persName ref="#Dickinson_Mrs"
                   >Mrs. D</persName>'s singing--<title ref="#Whereer_Handel">Where'er you walk</title>--<persName
                      ref="#Dickinson_Charles">Mr. D</persName>'s reading--<persName ref="#Ugolino">Count
-                     Ugolino</persName>.</p>
+                     Ugolino</persName>.<note resp="#lmw">Part of his <title ref="#ItalianTrans_ChasD">Italian translations, copy-edited by <persName ref="#MRM">Mitford</persName></title>.</note></p>
             </div>
             <div type="entry">
                <head>
@@ -264,7 +258,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-01-06">Wednesday 6 <add>JANUARY</add></date>
                </head>
-               <p>Read Do. Do.<!--lmw editorial policy on tagging do. = ditto? --> Still at <placeName ref="#Bertram_house"
+               <p>Read Do. Do.<!--lmw editorial policy on tagging do. = ditto? --> <note resp="#lmw"><title ref="#PopularTales_ME">Edgeworth's Popular tales</title> and some <persName ref="#Burke_E">Burke</persName>.</note>Still at <placeName ref="#Bertram_house"
                      >home</placeName>.</p>
             </div>
             <div type="entry">
@@ -347,14 +341,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>Rather better--<persName ref="#Hill_Lucy">Lucy</persName> a famous nurse--in bed almost all day--had a charming letter from <persName
                         ref="#Haydon">Mr. Haydon</persName> &amp; read
-                        <persName ref="#Malcolm_J">Malcolm</persName>'s <title ref="#Anecdotes_JM">Anecdotes of the 17th Century</title>.</p>
+                        <persName ref="#Malcolm_J">Malcolm</persName>'s <title ref="#AnecdotesTo1700_JM">Anecdotes of the 17th Century</title>.</p>
             </div>
             <div type="entry">
                <head>
                   <date when="1819-01-18">Monday 18 <add>JANUARY</add></date>
                </head>
                <p>A great deal better. Amused myself with doing up some gowns against the end of the
-                  mourning <!--LMW: Who is she mourning for here? Duke of Kent mentioned elsewhere-->--read <persName ref="#Burke_E">Burke</persName>'s works<!--LMW: which ones? check the letter-->. All day at
+                  mourning <!--LMW: Who is she mourning for here? Duke of Kent mentioned elsewhere-->--read <persName ref="#Burke_E">Burke</persName>'s <title ref="#BurkeWks_10vols">works</title><!--LMW: which ones? check the letter-->. All day at
                      <placeName ref="#Bertram_house">home</placeName>.</p>
             </div>
             <div type="entry">
@@ -389,7 +383,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p><add hand="#hunt"><persName ref="#Bacon">Lord Bacon</persName>, 1561.</add></p>
                <p>All day at <placeName ref="#Bertram_house">home</placeName> finished my packet for <persName ref="#Rowden_Fr">Mrs. Rowden</persName>
-                  &amp; read <persName ref="#Burke_E">Burke</persName>'s works.</p>
+                  &amp; read <persName ref="#Burke_E">Burke</persName>'s <title ref="#BurkeWks_10vols">works</title>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1294,8 +1288,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--much better--heard from <persName ref="#Webb_Eliza">Eliza
                         Webb</persName>--walked about the Place with dear
-                  <persName ref="#Russell_M">Granny</persName>--read <persName>Lebaume</persName>'s
-                  <title ref="#Narr_Russia">Campaign in Russia</title>.<!--A Narrative of the Campaign in Russia, During the year 1812. Sir Robert Ker Porter, Longman, Hurst, rees, Orme and Brown, London, 1814--></p>
+                  <persName ref="#Russell_M">Granny</persName>--read <persName ref="#LabaumeE">Labaume</persName>'s
+                  <title ref="#CircNarr_ ">Campaign in Russia</title>.<!--A circumstantial narrative of the campaign in Russia : embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz : interspersed with faithful descriptions of those affecting and interesting scenes of which the author was an eye-wirness
+Author:	Eugène Labaume
+Publisher:	London : Leigh, 1814.--></p>
             </div>
             <pb n="10"/>
             <div type="entry">
@@ -1790,7 +1786,7 @@ Muschet, Nicol, -1721 Trials, litigation, etc. -->
                   <date when="1819-06-18">Friday 18 <add>JUNE</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--wrote to
-                        <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName>Miss Allin</persName><!-- LMW: Aikin? -->--read <title ref="#Heart_of_Mid">Heart of Midlothian</title>--walked in <placeName ref="#garden_BH">the garden</placeName>
+                        <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Allin_Miss">Miss Allin</persName>--read <title ref="#Heart_of_Mid">Heart of Midlothian</title>--walked in <placeName ref="#garden_BH">the garden</placeName>
                   with dear <persName ref="#Mitford_Geo">Drum</persName>, dear
                   <persName ref="#Russell_M">Granny</persName> &amp; the Pets. Wrote to
                      <persName ref="#Webb_Mary_younger">Mary Webb</persName> too!</p>
@@ -2598,7 +2594,7 @@ Publisher:	London : Printed by A. Strahan for T.N. Longman and O. Rees., 1801. -
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--sat in my <name ref="#hay">hay</name>--worked at <persName ref="#Hill_Lucy">Lucy</persName>'s shirt--fed my <name ref="#robin">Bobby</name>s--&amp; all
                   my pets (only missed so much my own dear <persName ref="#Mossy_pet">Mossy</persName>)--finished <persName ref="#Burnet_Gil">Burnet</persName>'s <title ref="#History_Burnet">History</title> &amp;
-                  read a little <!-- RJP: transcription unclear --> tol lol <title>tale</title> called <note resp="#coles">?</note></p>
+                  read a little <!-- RJP: transcription unclear --> tol lol <title>tale</title> called <unclear/><!--<note resp="#coles">?</note>--></p>
             </div>
             <div type="entry">
                <head><date when="1819-09-12">Sunday 12 <add>SEPTEMBER</add></date></head>
@@ -2872,7 +2868,12 @@ Author:	Arthur Murphy-->
                <p>At <placeName ref="#Bertram_house">home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> went to London--walked out with <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Slops">Slops</persName>--met <persName ref="#Talfourd_Thos">Mr.
                   Talfourd</persName> who was coming to call here--walked back with us but did not come in as
                   <persName ref="#Champion_Mr">Mr. Champion</persName> was waiting to take him home--he was exceedingly pleasant--Read
-                  <persName ref="#Bolinbroke">Lord Bolingbroke</persName>'s <title>political Tracts</title>--famous.</p>
+                  <persName ref="#Bolinbroke">Lord Bolingbroke</persName>'s <title ref="#Coll_PolTracts">political Tracts</title>--famous.</p>
+               <!--
+                  A collection of political tracts : By the author of the Dissertation upon parties.
+                  Author:	Henry St John Bolingbroke
+                  Publisher:	[London] : Printed for T. Cadell, in the Strand, MDCCLXXXVIII. [1788]
+                  Edition/Format:	  eBook : Document : English : A new ed-->
             </div>
             <div type="entry">
                <head><date when="1819-10-19">Tuesday 19 <add>OCTOBER</add></date></head>
@@ -3410,8 +3411,11 @@ Publisher:	Pp. xvi. 530. Archibald Constable & Co.: Edinburgh; Longman, Hurst, R
                <head><date when="1819-12-28">Tuesday 28 <add>DECEMBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--fed my <name ref="#robin">bobbie</name>s--wrote to <persName ref="#Elford_SirWm">Sir William
-                     Elford</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName>--read <title>Queen hoo Hill</title><!-- ck. ms. -->--good.</p>
-            </div>
+                     Elford</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName>--read <title ref="#QueenhooH">Queenhoo Hall</title>--good.</p>
+               <!--
+               Queenhoo Hall, a romance: and Ancient times, a drama [v.4].
+               Author:	Joseph Strutt
+               Publisher:	London Murray 1808.-->        </div>
             <div type="entry">
                <head><date when="1819-12-29">Wednesday 29 <add>DECEMBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
@@ -4444,11 +4448,15 @@ Publisher:	London, 1820. -->
             <div type="entry">
                <head><date when="1820-05-16">Tuesday 16 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--had a most flattering letter from <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName> with a ticket for his
-                  lectures--wrote to <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName>--read <persName>Mr. Edgeworth</persName>'s <title>Life</title>--very good.</p>
+                  lectures--wrote to <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName>--read <persName ref="#EdgeworthRL">Mr. Edgeworth</persName>'s <title ref="#Mems_RLEdgeworth">Life</title>--very good.</p>
+               <!--Memoirs of Richard Lovell Edgeworth ... begun by himself and concluded by his daughter, Maria Edgeworth. In two volumes.
+Author:	Richard Lovell Edgeworth; Maria Edgeworth
+Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
+-->
             </div>
             <div type="entry">
                <head><date when="1820-05-17">Wednesday 17 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--took a long walk with dear <persName ref="#Russell_M">Granny</persName> &amp; the pets--very pleasant--<persName ref="#Valpy_Richard">Dr. Valpy</persName> called--read <persName>Mr. Edgeworth</persName>'s <title>Life</title>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--took a long walk with dear <persName ref="#Russell_M">Granny</persName> &amp; the pets--very pleasant--<persName ref="#Valpy_Richard">Dr. Valpy</persName> called--read <persName ref="#EdgeworthRL">Mr. Edgeworth</persName>'s <title ref="#Mems_RLEdgeworth">Life</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-18">Thursday 18 <add>MAY</add></date></head>
@@ -4498,7 +4506,7 @@ Publisher:	London, 1820. -->
       LMW: perhaps add ids for relevant letters instead-->
          
          
-         <!--LMW need id for 3miX COTTAGE? and BH, the estate rather than the house?-->                              
+         <!--LMW need id for  BH, the estate rather than the house?-->                              
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="BroughtonDas">
@@ -4591,6 +4599,7 @@ Publisher:	London, 1820. -->
             </listOrg>
            
             <listPerson sortKey="histPersons">
+               
                <person xml:id="Marmy_pet" sex="f">
                   <persName>Marmy</persName>
                   <persName><addName>Marmion</addName></persName>
@@ -5109,32 +5118,42 @@ Publisher:	London, 1820. -->
                   </note><!-- check full title and name on tp or if anon.-->
                </bibl>
                
-               <bibl xml:id="Anecdotes_JM">
-                  <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century</title>
-                  <author ref="#Malcolm_J">James Peller Malcolm</author>
-                  <pubPlace>
+               <bibl xml:id="AnecdotesTo1700_JM">
+                  <title level="m">Anecdotes of the Manners and Customs of London from the Roman Invasion to the Year 1700</title>
+                  <author ref="#Malcolm_J">James Peller Malcolm</author><pubPlace>
                      <placeName ref="#London_city">London</placeName>
                   </pubPlace>
                   <publisher>
-                     <orgName>xxx</orgName>
+                     <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
                   </publisher>
-                  <date when="1800"/>
-                  <note resp="#lmw">Full title: <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century including the Charities...</title>
-                  </note><!-- check if correct title, date, MRM says 17th c., full title and other bib info.--></bibl>
+                  <date when="1811"/>
+                  <note resp="#lmw">Full title: <title level="m">Anecdotes of the Manners and Customs of London from the Roman Invasion to the Year 1700: including the origin of British society, customs and manners, with a general sketch of the state of religion, superstition, dresses and amusements of the citizens of London during that period: to which are added, illustrations of the changes in our language, literary customs, and gradual improvement in style and versification, and various particulars concerning public and private libraries: illustrated by eighteen engravings.</title>
+                  </note>
+               </bibl>
+               
+                  <bibl xml:id="BurkeWks_10vols">
+                     <title level="m">The Life of Burke</title>
+                     <author ref="#Bisset_R">Robert Bisset</author>
+                     <pubPlace>
+                        <placeName ref="#London_city">London</placeName></pubPlace>
+                     <publisher>
+                        <orgName>F.C. and J. Rivington</orgName>
+                     </publisher>
+                     <date from="1801" to="1812"/>
+                     <note resp="#lmw">10 vols. Full title: <title level="m">The Works of the Right Honourable Edmund Burke. A New Edition.</title></note>
+                  </bibl>
                
                   <bibl xml:id="Life_Burke_RB">
                      <title level="m">The Life of Burke</title>
                      <author ref="#Bisset_R">Robert Bisset</author>
                      <pubPlace>
-                        <placeName ref="#London_city">London</placeName>
-                     </pubPlace>
+                        <placeName ref="#London_city">London</placeName></pubPlace>
                      <publisher>
-                        <orgName>xxx</orgName>
+                        <orgName>Cawthorn</orgName>
                      </publisher>
-                     <date when="1798"/>
-                     <note resp="#lmw">Full title: <title level="m">Anecdotes of the Manners and Customs of London during the 18th Century including the Charities...</title>
-                     </note><!-- check if correct title, date, MRM says 17th c., full title and other bib info.-->
-                     <!--discredited bio. https://www.google.com/books/edition/Edmund_Burke_and_the_Invention_of_Modern/gqGPDgAAQBAJ?hl=en&gbpv=1&dq=Robert%20Bisset%20%22Life%20of%20Burke%22&pg=PA13&printsec=frontcover&bsq=Robert%20Bisset%20%22Life%20of%20Burke%22-->
+                     <date when="1800"/>
+                     <note resp="#lmw">Full title: <title level="m">The Life of Edmund Burke: Comprehending an Impartial Account of his Literary and Political Efforts, and a Sketch of the Conduct and Character of his Most Eminent Associates, Coadjutors, and Opponents. Published in 1798 and 1800, this title was the most current biography of Burke available at the time of reading. James Prior would publish a more authoritative account in 1824 that superceded those by Bisset and MacCormick (1798).</title>
+                     </note>
                   </bibl>
                      
                      <bibl xml:id="Narrative_Eqypt_RW">
@@ -5489,15 +5508,7 @@ v. 3. The contrast. The grateful Negro. To-morrow.  --></note>
                xml:id="Campaign_Saxony"-->
                
                <!-- xml:id="Life_Wesley" Southey, Robert. The Life of Wesley: And the Rise and Progress of Methodism. United States, Evert Duyckinck and George Long; Clayton & Kingsland, printers, 1820. -->
-              
-               
-               <!-- <author>Lebaume</author>'s
-                        <title>Campaign in Russia</title></bibl> -->
-               
-              
-               
-               <!-- entry for 3rd tales of my landlordx WS -->
-               
+                
                <!-- Mr. CLarke? Clarke, William Nelson, (1799-1855), antiquary BRO records
                
                Hallam, William Henry, (1868-1956), local historian SON or GRANDSON of Mr. Hallam??
