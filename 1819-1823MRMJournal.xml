@@ -1857,7 +1857,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--read the <title ref="#BritishCritic_per">British
                   Critic</title> &amp; <title ref="#EclecticRev">Eclectic</title> Reviews--so cold &amp; wet that
                   we had a fire--cleared up rather in the Evening &amp; walked with dear <persName
-                     ref="#Mitford_Geo">Drum</persName>. Sent some of my Poems to
+                     ref="#Mitford_Geo">Drum</persName>. Sent some of my <title>Poems</title> to
                         <placeName ref="#Hampshire_county">Hampshire</placeName> friends <orgName ref="#Woodburns">Woodburns</orgName>
                      <orgName ref="#Holdens">Holdens</orgName>
                   &amp;c<!--rjp:this keeps coming up... is this transcription unclear or what?-->.</p>
@@ -1877,8 +1877,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <date when="1819-07-04">Sunday 4 <add>JULY</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--lay in the <name ref="#hay">Hay</name>--read
-                  <title ref="#Zeneide">Zeneide</title> by <persName ref="#deGenlis_Mme">Madame de Genlis</persName><!--Genlis, Stephanie-Felicite Ducrest de Saint-Aubin comtesse de. Zuma, ou la decouverte de Quinquina suivi de la belle Paule et de Zeneide. Austria, Schrämbl, 1818.--> --
-                  stupid--<persName ref="#Deverell_J">Mr. John Deverell</persName> came to dine
+                  <title ref="#Zuma">Zuma</title> by <persName ref="#deGenlis_Mme">Madame de Genlis</persName>--stupid--<persName ref="#Deverell_J">Mr. John Deverell</persName> came to dine
                      &amp; sleep--he stupid too! Walked in the evening with him &amp; <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; the pets--the pets very
                   amiable.</p>
@@ -1890,7 +1889,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--lay in <name ref="#hay">Hay</name> with
                   <persName ref="#Mossy_pet">Mossy</persName>
                   <persName ref="#Marmy_pet">Marmy</persName> &amp; <persName ref="#Moses_pet">Moses</persName>--read <title ref="#AutumnRhine">an
-                     Autumn near the Rhine</title> <!--Dodd, Charles Edward. An Autumn Near the Rhine; Or Sketches of Courts, Society, Scenery, & C. in Some of the German States Bordering on the Rhine. United Kingdom, Longman, Hurst, Rees, Orme and Brown, 1818.-->--wrote to <persName ref="#Webb_Mary_younger">Mary
+                     Autumn near the Rhine</title>--wrote to <persName ref="#Webb_Mary_younger">Mary
                         Webb</persName>--<persName ref="#Deverell_J">Mr. Deverell</persName> went away.</p>
             </div>
             <div type="entry">
@@ -2101,9 +2100,7 @@ Series:	Early English books, 1641-1700, 2997:11.  LMW: co-authored? Molesworth a
                         ref="#James_Miss">Miss James</persName> containing two long letters from
                         her &amp; <persName ref="#Hofland_B"
                         >Mrs. Hofland</persName> a pretty handkerchief bordered with roses &amp;
-                  <persName ref="#Brown_DrT">Professor Brown</persName>'s <title ref="#Obs_CauseEffect">book on cause &amp; effect</title><!-- Observations on the nature and tendency of the doctrine of Mr. Hume, concerning the relation of cause and effect. By T. Brown, M.D.
-Author:	Thomas BROWN, M.D. Professor of Moral Philosophy in the University of Edinburgh.; David Hume
-Publisher:	1806. -->--<persName ref="#Marmy_pet">Marmy</persName> quite well.</p>
+                  <persName ref="#Brown_DrT">Professor Brown</persName>'s <title ref="#Obs_CauseEffect">book on cause &amp; effect</title>--<persName ref="#Marmy_pet">Marmy</persName> quite well.</p>
             </div>
             <div type="entry">
                <head>
@@ -2112,10 +2109,8 @@ Publisher:	1806. -->--<persName ref="#Marmy_pet">Marmy</persName> quite well.</p
                <p>At <placeName ref="#Bertram_house">home</placeName>--wrote to
                      the <persName ref="#Webb_Mary_younger #Webb_Eliza">Miss
                      Webbs</persName>
-                  &amp; sent them some apples<note resp="#lmw">Fruit of one of a variety of <name ref="#apple_tree">apple tree</name>s growing both wild and planted domestically in Berkshire.</note> &amp; <name ref="#bean">French beans</name>--lay in the <name ref="#hay">hay</name>--read
-                  <title ref="#DeRance">De Rance</title><!-- De Rancè : a poem
-Author:	J W Cunningham
-Publisher:	New-York : Dodge & Sayre, 1816. --> &amp; <title ref="#Zeneide">Zeneide</title> by <persName ref="#deGenlis">Madame de Genlis</persName><!--rjp:in the transcription this last word...Zuma...looks added or diffrent and then there is a long space and a new line starts below with a dash I think this may be the same bibl from above but was unclear to the person transcribing...-->--the first very bad the other pretty--wrote to <persName
+                  &amp; sent them some <name ref="#apple_tree">apples</name> amp; <name ref="#bean">French beans</name>--lay in the <name ref="#hay">hay</name>--read
+                  <title ref="#DeRance">De Rance</title> &amp; <title ref="#Zuma">Zeneide</title><note resp="#lmw">Story included in <title ref="#Zuma">Zuma</title> collection.</note> by <persName ref="#deGenlis">Madame de Genlis</persName><!--rjp:in the transcription this last word...Zuma...looks added or diffrent and then there is a long space and a new line starts below with a dash I think this may be the same bibl from above but was unclear to the person transcribing...  Zeneide-->--the first very bad the other pretty--wrote to <persName
                         ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
             </div>
             <div type="entry">
@@ -2227,13 +2222,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                <head><date when="1819-08-09">Monday 9 <add>AUGUST</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--dear <persName ref="#Mitford_Geo">Drum</persName> not well--pared <name ref="#apricot">Apricots</name> for jam--lay in the <name ref="#hay">hay</name>--read
-                  <persName ref="#deStael">Madame de Staël</persName>'s<!--rjp: the e has two dots above it in the transcript--> <title ref="#PrivateLife_Misc_Necker">private
-                     life of M. Necker &amp; his Miscellanies</title> <!-- Mémoires sur la vie privée de mon père : suivis des mélanges de M. Necker
-Author:	Staël, Madame de; Jacques Necker
-Publisher:	Paris ; Londres : Colburn, 1818. --><!--rjp: odd spelling?-->tiresome enough--&amp; <persName ref="#EvelynJ">Evelyn</persName>'s <title ref="#Mems_Evelyn">Memoirs</title> very entertaining.<!-- Memoirs,
-Author:	John Evelyn; William Bray
-Publisher:	London, H. Colburn, and sold by J. and A. Arch, 1819.
-Edition/Format:	  Print book : English : 2d ed--></p>
+                  <persName ref="#deStael">Madame de Staël</persName>'s<!--rjp: the e has two dots above it in the transcript. LMW: DONE.--> <title ref="#PrivLife_Misc_JN">private
+                     life of M. Necker &amp; his Miscellanies</title>--&amp; <persName ref="#EvelynJ">Evelyn</persName>'s <title ref="#Mems_Evelyn">Memoirs</title> very entertaining.</p>
             </div>
             <div type="entry">
                <head><date when="1819-08-10">Tuesday 10 <add>AUGUST</add></date></head>
@@ -2269,12 +2259,6 @@ Edition/Format:	  Print book : English : 2d ed--></p>
                   >home</placeName>--lay in the <name ref="#hay">hay</name>--<persName ref="#Bobby_pet">Bobby</persName> very amiable--<persName ref="#Mossy_pet">Mossy</persName> better--sent off my
                   letters to <persName
                      ref="#Rowden_Fr">Mrs. Rowden</persName> <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName> which I had written a week ago--read <title ref="#MysteriousWife">the Mysterious Wife</title>.</p>
-               <!-- The mysterious wife : a novel, in four volumes
-Author:	Gabrielli; William Lane; Meeke, Mrs.; Minerva Press.
-Publisher:	London : Printed for William Lane, at the Minerva-Press, Leadenhall-Street, M.DCC.XCVII. [1797]
-Edition/Format:	  Print book : EnglishView all editions and formats
-Summary:	
-"First edition, a novel of suspense and adventure by one of William Lane's best-selling novelists, the first to be published under the pseudonym 'Gabrielli', which Meeke used for five further novels.... Henry Westhorpe meets a mysterious French lady in the town of Spa but can find out nothing about her, until he receives a letter. She grants him her hand on one condition - he is to remain with her a fortnight then  -->
             </div>
             <div type="entry">
                <head><date when="1819-08-15">Sunday 15 <add>AUGUST</add></date></head>
@@ -4407,11 +4391,46 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
          
          <!--rjp: Add letters sent and received tags?
       LMW: perhaps add ids for relevant letters instead-->
+       
+         <!--LMW need id for  BH, the estate rather than the house?-->  
          
-         <!--add: hay, flower, apricot-->
+         <!--fix apple tree?-->
          
+        <!-- <div type="nature">
+         <list sortKey="plants">
          
-         <!--LMW need id for  BH, the estate rather than the house?-->                              
+         <item xml:id="apricot">
+               <name>apricot</name>
+               <name type="species">xxx</name>
+               <name type="genus">xxx</name>
+               <name type="family">xxx</name>
+              
+               <note resp="#lmw"></note>
+               <note>
+                  <ptr target=/>
+               </note>
+            </item>
+            
+            <item xml:id="hay">
+               <name>hay</name>
+               <name type="species">xxx</name>
+               <name type="genus">xxx</name>
+               <name type="family">xxx</name>
+              
+               <note resp="#lmw"></note>
+               <note>
+                  <ptr target=/>
+               </note>
+            </item>
+            
+            <item xml:id="flower">
+               <name>flower</name>
+               <note resp="#lmw"></note>
+            </item>
+            
+         </list>
+         </div>-->
+         
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="BroughtonDas">
@@ -4505,6 +4524,68 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
            
             <listPerson sortKey="histPersons">
                
+               <person xml:id="Brunton_Mary" sex="f"> <!-- finish -->
+                  <persName>Mary Brunton</persName>
+                  <persName>
+                     <surname>Brunton</surname>
+                     <forename>Mary</forename>
+                  </persName>
+               </person>
+               
+              
+                  
+                  <person xml:id="VauxJH" sex="m"> <!-- finish -->
+                     <persName>John Hardy Vaux</persName>
+                     <persName>
+                        <surname>Vaux</surname>
+                        <forename>John</forename>
+                        <forename>Hardy</forename>
+                     </persName>
+                  </person>
+              
+               <person xml:id="BarrowJ" sex="m"> <!-- finish -->
+                  <persName>John Barrow</persName>
+                  <persName>
+                     <surname>Barrow</surname>
+                     <forename>John</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Bennett_AM" sex="m"> <!-- finish -->
+                  <persName>Anna Maria Bennett</persName>
+                  <persName>
+                     <surname>Bennett</surname>
+                     <forename>Anna</forename>
+                     <forename>Maria</forename>
+                  </persName>
+                  <birth when="1750">
+                     <placeName>Merthyr Tydfil</placeName>
+                  </birth>
+                  <death when="1808-02-12">
+                     <placeName ref="#Brighton"/>
+                  </death>
+               </person>
+               
+               <person xml:id="BrookeFrances" sex="f"> <!-- finish -->
+                  <persName>Frances Brooke</persName>
+                  <persName>
+                     <surname>Brooke</surname>
+                     <forename>Frances</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Brown_DrT" sex="m"> <!-- finish -->
+                  <persName>Thomas Brown</persName>
+                  <persName>
+                     <surname>Brown</surname>
+                     <forename>Thomas</forename>
+                     <roleName>Professor</roleName>
+                  </persName>
+                  <occupation type="scholar" subtype="teacher"/>
+                  <occupation type="medical" subtype="physician"/>
+                  <note resp="#lmw">M.D. and Professor of Moral Philosophy at the University of Edinburgh</note>
+               </person>
+               
                <person xml:id="Cook1" sex="u">
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
@@ -4523,11 +4604,34 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName ref="#Reading_city">Reading</placeName>for <placeName ref="#Bertram_house">Bertram House</placeName>, ahead of their move to <placeName ref="#ThreeMileCross">Three Mile Cross</placeName> on <date when="1820-03-21">March 21, 1820</date>. Name unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Marmy_pet" sex="f">
-                  <persName>Marmy</persName>
-                  <persName><addName>Marmion</addName></persName>
-                  <note resp="#lmw">One of Mitford's greyhounds at <placeName ref="#Bertram_house">Bertram House</placeName> in <date when="1819">1819</date>.</note>
+               <person xml:id="Cunningham_JW" sex="m"> <!-- finish -->
+                  <persName>Cunningham</persName>
+                  <persName>
+                     <surname>Cunningham</surname>
+                     <forename>John</forename>
+                     <forename>William</forename>
+                  </persName>
+                  <note resp="#lmw">knew Byron, Vicar of Harrow</note>
                </person>
+               
+               <person xml:id="Disraeli_I" sex="m"> <!-- finish -->
+                  <persName>Isaac D'Israeli</persName>
+                  <persName>
+                     <surname>D'Israeli</surname>
+                     <forename>Isaac</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="DoddCE" sex="m"> <!-- finish -->
+                  <persName>Charles Dodd</persName>
+                  <persName>
+                     <surname>Dodd</surname>
+                     <forename>Charles</forename>
+                     <forename>Edward</forename>
+                  </persName>
+               </person>
+               
+               
                
                <person xml:id="DundasHen" sex="m"> <!-- finish -->
                   <persName>Henry Dundas, Lord Melville</persName>
@@ -4547,53 +4651,40 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Ross_Capt" sex="m"> <!-- finish -->
-                  <persName>John Ross</persName><!-- finish -->
+               <person xml:id="PorteousJ" sex="m"> <!-- finish -->
+                  <persName>John Porteous</persName>
                   <persName>
-                     <surname>Ross</surname>
+                     <surname>Porteous</surname>
                      <forename>John</forename>
-                     <roleName>Captain</roleName>
+                  </persName>
+                  <note></note>
+               </person>
+               
+               
+               <person xml:id="EvelynJ" sex="m"> <!-- finish -->
+                  <persName>John Evelyn</persName>
+                  <persName>
+                     <surname>Evelyn</surname>
+                     <forename>John</forename>
                   </persName>
                </person>
                
-               <person xml:id="Ormsby_James" sex="m"> <!-- finish -->
-                  <persName>Ormsby</persName>
+               <person xml:id="Fellowes_W" sex="m"> <!-- finish -->
+                  <persName>William Fellowes</persName>
                   <persName>
-                     <surname>Ormsby</surname>
+                     <surname>Fellowes</surname>
+                     <forename>William</forename>
+                     <forename>Dorset</forename>
+                  </persName>
+               </person>
+               
+               
+               
+               <person xml:id="Hackett_J" sex="m"> <!-- finish -->
+                  <persName>James Hackett</persName>
+                  <persName>
+                     <surname>Hackett</surname>
                      <forename>James</forename>
-                     <forename>Wilmot</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Salame_Ab" sex="m"> <!-- finish -->
-                  <persName>Abraham Salame</persName>
-                  <persName>
-                     <surname>Salame</surname>
-                     <forename>Abraham</forename>
-                  </persName>
-                  </person>
-               
-               <person xml:id="PocockeT" sex="m"> <!-- finish -->
-                  <persName>Thomas Pococke</persName>
-                  <persName>
-                     <surname>Pococke</surname>
-                     <forename>Thomas</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Mill_Chas" sex="m"> <!-- finish -->
-                  <persName>Charles Mill</persName>
-                  <persName>
-                     <surname>Mill</surname>
-                     <forename>Charles</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Shaw_Sam" sex="m"> <!-- finish -->
-                  <persName>Samuel Shaw</persName>
-                  <persName>
-                     <surname>Shaw</surname>
-                     <forename>Samuel</forename>
                   </persName>
                </person>
                
@@ -4621,21 +4712,6 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
-               <person xml:id="Bennett_AM" sex="m"> <!-- finish -->
-                  <persName>Anna Maria Bennett</persName>
-                  <persName>
-                     <surname>Bennett</surname>
-                     <forename>Anna</forename>
-                     <forename>Maria</forename>
-                  </persName>
-                  <birth when="1750">
-                     <placeName>Merthyr Tydfil</placeName>
-                  </birth>
-                  <death when="1808-02-12">
-                     <placeName ref="#Brighton"/>
-                  </death>
-               </person>
-               
                <person xml:id="LabaumeE" sex="m"> <!-- finish -->
                   <persName>Eugène Labaume</persName>
                   <persName>
@@ -4644,38 +4720,37 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
+               <person xml:id="MarieTherese_France" sex="f"> <!-- finish -->
+                  <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
+               </person>
+               
+               <person xml:id="Marmy_pet" sex="f">
+                  <persName>Marmy</persName>
+                  <persName><addName>Marmion</addName></persName>
+                  <note resp="#lmw">One of Mitford's greyhounds at <placeName ref="#Bertram_house">Bertram House</placeName> in <date when="1819">1819</date>.</note>
+               </person>
+               
+               <person xml:id="MawmanJ" sex="m"> <!-- finish -->
+                  <persName>Joseph Mawman</persName>
+                  <persName>
+                     <surname>Mawman</surname>
+                     <forename>Joseph</forename>
+                  </persName>
+               </person>
+               
                <person xml:id="MeekeM" sex="f"> <!-- finish -->
-               <persName>Mary Meeke</persName>
-               <persName>
-                  <surname>Meeke</surname>
-                  <forename>Mary</forename>
-               </persName>
-               </person>
-               
-               <person xml:id="Schimmelpennick_MA" sex="f"> <!-- finish -->
-                  <persName>Mary Anne Galton Schimmelpennick</persName>
+                  <persName>Mary Meeke</persName>
                   <persName>
-                     <surname type="married">Schimmelpennick</surname>
-                     <surname type="paternal">Galton</surname>
+                     <surname>Meeke</surname>
                      <forename>Mary</forename>
-                     <forename>Anne</forename>
                   </persName>
                </person>
                
-               <person xml:id="Repton" sex="m"> <!-- finish -->
-                  <persName>Humphry Repton</persName>
+               <person xml:id="Mill_Chas" sex="m"> <!-- finish -->
+                  <persName>Charles Mill</persName>
                   <persName>
-                     <surname>Repton</surname>
-                     <forename>Humphry</forename>
-                  </persName>
-                  <occupation type="artist" subtype="landscape"/>
-               </person>
-               
-               <person xml:id="Disraeli_I" sex="m"> <!-- finish -->
-                  <persName>Isaac D'Israeli</persName>
-                  <persName>
-                     <surname>D'Israeli</surname>
-                     <forename>Isaac</forename>
+                     <surname>Mill</surname>
+                     <forename>Charles</forename>
                   </persName>
                </person>
                
@@ -4684,22 +4759,6 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <persName>
                      <surname>Mower</surname>
                      <forename>Arthur</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="BarrowJ" sex="m"> <!-- finish -->
-                  <persName>John Barrow</persName>
-                  <persName>
-                     <surname>Barrow</surname>
-                     <forename>John</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="MawmanJ" sex="m"> <!-- finish -->
-                  <persName>Joseph Mawman</persName>
-                  <persName>
-                     <surname>Mawman</surname>
-                     <forename>Joseph</forename>
                   </persName>
                </person>
                
@@ -4714,67 +4773,14 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note><!--mentioned in criminal trials volume with Porteous--></note>
                </person>
                
-               <person xml:id="Wilson_Andrew" sex="m"> <!-- finish -->
-                  <persName>Andrew Wilson</persName>
+               <person xml:id="Ormsby_James" sex="m"> <!-- finish -->
+                  <persName>Ormsby</persName>
                   <persName>
-                     <surname>Wilson</surname>
-                     <forename>Andrew</forename>
-                  </persName>
-                  <note><!-- assocuated with Porteous trial --></note>
-               </person>
-               
-               <person xml:id="PorteousJ" sex="m"> <!-- finish -->
-                  <persName>John Porteous</persName>
-                  <persName>
-                     <surname>Porteous</surname>
-                     <forename>John</forename>
-                  </persName>
-                  <note></note>
-               </person>
-               
-               <person xml:id="Fellowes_W" sex="m"> <!-- finish -->
-                  <persName>William Fellowes</persName>
-                  <persName>
-                     <surname>Fellowes</surname>
-                     <forename>William</forename>
-                     <forename>Dorset</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Sharpe_CK" sex="m"> <!-- finish -->
-                  <persName>Charles Kirkpatrick Sharpe</persName>
-                  <persName>
-                     <surname>Sharpe</surname>
-                     <forename>Charles</forename>
-                     <forename>Kirkpatrick</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Reynolds_JH" sex="m"> <!-- finish -->
-                  <persName>John Hamilton Reynolds</persName>
-                  <persName>
-                     <surname>Reynolds</surname>
-                     <forename>John</forename>
-                     <forename>Hamilton</forename>
-                  </persName>
-               </person>
-               
-               <person xml:id="Hackett_J" sex="m"> <!-- finish -->
-                  <persName>James Hackett</persName>
-                  <persName>
-                     <surname>Hackett</surname>
+                     <surname>Ormsby</surname>
                      <forename>James</forename>
+                     <forename>Wilmot</forename>
                   </persName>
                </person>
-               
-               <person xml:id="BrookeFrances" sex="f"> <!-- finish -->
-                  <persName>Frances Brooke</persName>
-                  <persName>
-                     <surname>Brooke</surname>
-                     <forename>Frances</forename>
-                  </persName>
-               </person>
-               
                
                <person xml:id="PlumptreAnne" sex="f"> <!-- finish -->
                   <persName>Anne Plumtre</persName>
@@ -4792,9 +4798,91 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
-               <person xml:id="MarieTherese_France" sex="f"> <!-- finish -->
-                  <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
+               <person xml:id="PocockeT" sex="m"> <!-- finish -->
+                  <persName>Thomas Pococke</persName>
+                  <persName>
+                     <surname>Pococke</surname>
+                     <forename>Thomas</forename>
+                  </persName>
                </person>
+               
+               <person xml:id="Repton" sex="m"> <!-- finish -->
+                  <persName>Humphry Repton</persName>
+                  <persName>
+                     <surname>Repton</surname>
+                     <forename>Humphry</forename>
+                  </persName>
+                  <occupation type="artist" subtype="landscape"/>
+               </person>
+               
+               <person xml:id="Reynolds_JH" sex="m"> <!-- finish -->
+                  <persName>John Hamilton Reynolds</persName>
+                  <persName>
+                     <surname>Reynolds</surname>
+                     <forename>John</forename>
+                     <forename>Hamilton</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Ross_Capt" sex="m"> <!-- finish -->
+                  <persName>John Ross</persName><!-- finish -->
+                  <persName>
+                     <surname>Ross</surname>
+                     <forename>John</forename>
+                     <roleName>Captain</roleName>
+                  </persName>
+               </person>
+               
+               <person xml:id="Salame_Ab" sex="m"> <!-- finish -->
+                  <persName>Abraham Salame</persName>
+                  <persName>
+                     <surname>Salame</surname>
+                     <forename>Abraham</forename>
+                  </persName>
+                  </person>
+               
+               <person xml:id="Schimmelpennick_MA" sex="f"> <!-- finish -->
+                  <persName>Mary Anne Galton Schimmelpennick</persName>
+                  <persName>
+                     <surname type="married">Schimmelpennick</surname>
+                     <surname type="paternal">Galton</surname>
+                     <forename>Mary</forename>
+                     <forename>Anne</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Sharpe_CK" sex="m"> <!-- finish -->
+                  <persName>Charles Kirkpatrick Sharpe</persName>
+                  <persName>
+                     <surname>Sharpe</surname>
+                     <forename>Charles</forename>
+                     <forename>Kirkpatrick</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Shaw_Sam" sex="m"> <!-- finish -->
+                  <persName>Samuel Shaw</persName>
+                  <persName>
+                     <surname>Shaw</surname>
+                     <forename>Samuel</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Wilson_Andrew" sex="m"> <!-- finish -->
+                  <persName>Andrew Wilson</persName>
+                  <persName>
+                     <surname>Wilson</surname>
+                     <forename>Andrew</forename>
+                  </persName>
+                  <note><!-- assocuated with Porteous trial --></note>
+               </person>
+               
+               
+               
+               
+               
+               
+               
               
                <person xml:id="Armstrong_Mr" sex="m">
                   <persName>Mr. Armstrong</persName>
@@ -4803,33 +4891,6 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      <roleName>Mr.</roleName>
                   </persName>
                   <note resp="#lmw"></note>
-               </person>
-               
-               <person xml:id="Holton_Mr" sex="m">
-                  <persName>Mr. Holton</persName>
-                  <persName>
-                     <surname>Holton</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"></note>
-               </person>
-               
-               <person xml:id="Holton_Mrs" sex="m">
-                  <persName>Mrs. Holton</persName>
-                  <persName>
-                     <surname>Holton</surname>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <note resp="#lmw"></note>
-               </person>
-               
-               <person xml:id="Jack_boy" sex="m">
-                  <persName>Jack</persName>
-                  <persName>
-                     <forename>Jack</forename>
-                  </persName>
-                  <note resp="#lmw"><persName ref="#MRM">Mitford</persName> calls him <quote>the
-                     droll boy who lived at <persName ref="#Body_Richard">Mr. Body</persName>'s 2 years ago &amp; then went to <placeName ref="#London_city">London</placeName></quote>. Possibly a young servant. Surname unknown. Dates unknown. Source: Journal.</note>
                </person>
                
                <person xml:id="Bacon_Mr" sex="m">
@@ -4841,23 +4902,18 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Morris_Mr" sex="m">
-                  <persName>Mr. Morris</persName>
+               
+               
+               <person xml:id="Allin_Miss" sex="f">
+                  <persName>Miss Allin</persName>
                   <persName>
-                     <surname>Morris</surname>
-                     <roleName>Mr.</roleName>
+                     <surname>Allin</surname>
+                     <roleName>Miss</roleName>
                   </persName>
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Talmage_Mrs" sex="f">
-                  <persName>Mrs. Talmage</persName>
-                  <persName>
-                     <surname>Talmage</surname>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <note resp="#lmw"></note>
-               </person>
+               
                
                <person xml:id="Bailley_Dr" sex="m">
                   <persName>Dr. Bailley</persName>
@@ -4888,14 +4944,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Allin_Miss" sex="f">
-                  <persName>Miss Allin</persName>
-                  <persName>
-                     <surname>Allin</surname>
-                     <roleName>Miss</roleName>
-                  </persName>
-                  <note resp="#lmw"></note>
-               </person>
+            
                   
                   
                   <person xml:id="Boscawen_Col" sex="m">
@@ -5076,7 +5125,34 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      George Paston's <bibl><title level="m">Little Memoirs of the Nineteenth Century</title> (<date>1893</date>)</bibl> contends that Mitford was asked to edit Haydon's memoir, but declined.<!--RNES: uncitable (no page #s) reprint Paston on Google Books--></note>
                   <!-- Haydon, Christ's Entry into Jerusalem, now in Ohio: http://www.athenaeum.edu/discover/Artcollection.aspx -->
                </person>
-                           
+               
+               <person xml:id="Holton_Mr" sex="m">
+                  <persName>Mr. Holton</persName>
+                  <persName>
+                     <surname>Holton</surname>
+                     <roleName>Mr.</roleName>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person>
+               
+               <person xml:id="Holton_Mrs" sex="m">
+                  <persName>Mrs. Holton</persName>
+                  <persName>
+                     <surname>Holton</surname>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person>
+               
+               <person xml:id="Jack_boy" sex="m">
+                  <persName>Jack</persName>
+                  <persName>
+                     <forename>Jack</forename>
+                  </persName>
+                  <note resp="#lmw"><persName ref="#MRM">Mitford</persName> calls him <quote>the
+                     droll boy who lived at <persName ref="#Body_Richard">Mr. Body</persName>'s 2 years ago &amp; then went to <placeName ref="#London_city">London</placeName></quote>. Possibly a young servant. Surname unknown. Dates unknown. Source: Journal.</note>
+               </person>
+               
                            <person xml:id="Madison_Mrs" sex="f">
                               <persName>Mrs. Madison</persName>
                               <persName>
@@ -5094,7 +5170,16 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                                  </persName>
                                  <note resp="#lmw"></note>
                               </person>
-                              
+               
+               <person xml:id="Morris_Mr" sex="m">
+                  <persName>Mr. Morris</persName>
+                  <persName>
+                     <surname>Morris</surname>
+                     <roleName>Mr.</roleName>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person>
+                     
                               <person xml:id="Newell_Mrs" sex="f">
                                  <persName>Mrs. Newell</persName>
                                  <persName>
@@ -5206,6 +5291,15 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                                     <note resp="#lmw"></note>
                                  </person>
                                  
+               <person xml:id="Talmage_Mrs" sex="f">
+                  <persName>Mrs. Talmage</persName>
+                  <persName>
+                     <surname>Talmage</surname>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person> 
+               
                <person xml:id="Taunton_Mrs" sex="f">
                   <persName>Mrs. Taunton</persName>
                   <persName>
@@ -5283,40 +5377,24 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
          <div type="places">
             <listPlace sortKey="histPlaces">
                
-               <place xml:id="meadow_BH">
-                  <placeName>meadows at Bertram House</placeName>
-                  <district>Grazeley</district><!--??-->
-                  <region>Berkshire</region>
-                  <country>England</country>
-                  <note resp="#lmw"></note>
-               </place>
-               
-               <place xml:id="garden_BH">
-                  <placeName>garden at Bertram House</placeName>
-                  <district>Grazeley</district><!--??-->
-                  <region>Berkshire</region>
-                  <country>England</country>
-                  <note resp="#lmw"></note>
-               </place>
-               
-               <place xml:id="meadow_TMC">
-                  <placeName>meadows at Three Mile Cross</placeName>
+               <place xml:id="copse_Dearesley">
+                  <placeName>Mr. Dearesley's copse</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="meadow_Bridgwater">
-                  <placeName>Mr. Bridgwater's meadows</placeName>
+               <place xml:id="field_BBr">
+                  <placeName>Fields at Burfield Bridge</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="meadow_Davies">
-                  <placeName>Mr. Davies's meadows</placeName>
+               <place xml:id="field_BH">
+                  <placeName>Fields at Bertram House</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
@@ -5339,8 +5417,8 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="copse_Dearesley">
-                  <placeName>Mr. Dearesley's copse</placeName>
+               <place xml:id="field_Davies">
+                  <placeName>Mr. Davies's fields</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
@@ -5355,16 +5433,8 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="field_Davies">
-                  <placeName>Mr. Davies's fields</placeName>
-                  <district>xxx</district><!--??-->
-                  <region>Berkshire</region>
-                  <country>England</country>
-                  <note resp="#lmw"></note>
-               </place>
-               
-               <place xml:id="field_BH">
-                  <placeName>Fields at Bertram House</placeName>
+               <place xml:id="field_PW">
+                  <placeName>Fields at Pinge Wood</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
@@ -5379,51 +5449,101 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="field_BBr">
-                  <placeName>Fields at Burfield Bridge</placeName>
+               <place xml:id="garden_BH">
+                  <placeName>garden at Bertram House</placeName>
+                  <district>Grazeley</district><!--??-->
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw"></note>
+               </place>
+               
+               <place xml:id="meadow_BH">
+                  <placeName>meadows at Bertram House</placeName>
+                  <district>Grazeley</district><!--??-->
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw"></note>
+               </place>
+               
+               <place xml:id="meadow_Bridgwater">
+                  <placeName>Mr. Bridgwater's meadows</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
                </place>
                
-               <place xml:id="field_PW">
-                  <placeName>Fields at Pinge Wood</placeName>
+               <place xml:id="meadow_Davies">
+                  <placeName>Mr. Davies's meadows</placeName>
                   <district>xxx</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
                </place>
                
+               <place xml:id="meadow_TMC">
+                  <placeName>meadows at Three Mile Cross</placeName>
+                  <district>xxx</district><!--??-->
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw"></note>
+               </place>
+              
+              
             
-            <place xml:id="Lockinge">
-               <placeName>Lockinge</placeName>
-               <district>Wantage</district>
+            <place xml:id="BurghfieldBr">
+               
+               <placeName>Burghfield Bridge</placeName>
+               <district>Wokingham</district>
                <region>Berkshire</region>
                <country>England</country>
                <location>
-                  <geo>51.584 -1.388</geo>
+                  <geo>51.429997 -1.023278</geo>
                </location>
-               <note resp="#lmw"></note>
-               <note><ptr target="https://www.british-history.ac.uk/vch/berks/vol4/pp307-311"/></note>
+               <note resp="#lmw">Hamlet near Reading named after a bridge crossing the River Kennett. The existing bridge was constructed in 1812 and is a Grade II listed building.</note>
+               <note><ptr target="https://commons.wikimedia.org/wiki/File:Burghfield_Bridge.jpg"/></note>
+               <note><ptr target="https://www.british-history.ac.uk/vch/berks/vol3/pp399-404"/></note>
+               <note><ptr target="http://www.berkshirehistory.com/villages/burghfield.html"/></note>
             </place>
-
-            <place xml:id="Overton"/>
-            
-            <place xml:id="BurghfieldBr">
-               <placeName>Burghfield Bridge</placeName>
-            </place>
+               
+               <place xml:id="Lockinge">
+                  <placeName>Lockinge</placeName>
+                  <district>Wantage</district>
+                  <region>Berkshire</region>
+                  <region>Oxfordshire</region>
+                  <country>England</country>
+                  <location>
+                     <geo>51.584 -1.388</geo>
+                  </location>
+                  <note resp="#lmw">Small parish that runs from Ilsley Downs to the Vale of White Horse district; historically part of Berkshire and now in Oxfordshire.</note>
+                  <note><ptr target="https://www.british-history.ac.uk/vch/berks/vol4/pp307-311"/></note>
+               </place>
+               
+               <place xml:id="Overton">
+                  <placeName>Overton</placeName>
+                  <region>Hampshire</region>
+                  <country>England</country>
+                  <location>
+                     <geo>51.2439 -1.2615</geo>
+                  </location>
+                  <note resp="#lmw">Large parish. In 1831, the Hundred of Overton contained Ashe, Bradley, Deane, Laverstoke, Overton, Tadley, and North Waltham. Overton Mill has produced banknote paper since the eighteenth century. <persName ref="#Russell_Richard">Richard Russell</persName> lived here as vicar of Overton and rector of Ashe and Deane.</note> 
+                     <note><ptr target="https://www.british-history.ac.uk/vch/hants/vol4/p197"/></note>
+                     <note><ptr target="https://www.british-history.ac.uk/vch/hants/vol4/pp210-219"/></note>
+                  <!-- https://www.stmarysoverton.org.uk/history.php [the dickers family have a plaque in the church] -->
+               </place>
+               
             
             <place xml:id="Watlington">
                <placeName>Watlington</placeName>
-               <district></district>
                <region>Oxfordshire</region>
                <country>England</country>
                <location>
                <geo>51.584 -1.388</geo>
                </location>
-               <note resp="#lmw"></note>
-               <note><ptr target="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Watlington_-_Town_Hall_%28geograph_5277549%29.jpg/440px-Watlington_-_Town_Hall_%28geograph_5277549%29.jpg"/></note>
+               <note resp="#lmw">Small market town on the edge of the Chiltern Hills. By the late eighteenth century, it had six inns, all owned by the Hayward brewing family. Watlington Town Hall, built in 1665, is a Grade II listed building.</note>
+               <note><ptr target="https://www.british-history.ac.uk/vch/oxon/vol8/pp210-252"/></note>
+               <note><ptr target="https://commons.wikimedia.org/wiki/File:Watlington_-_Town_Hall_(geograph_5277549).jpg"/></note>
+               <!-- https://www.nationaltrust.org.uk/chilterns-countryside/features/a-brief-history-of-watlington-hill -->
             </place>
             </listPlace>
          </div>
@@ -5452,6 +5572,81 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
             </listBibl>
             
             <listBibl sortKey="work_MRM">
+               
+               <bibl xml:id="Independence">
+               <title level="m">Independence</title>
+                  <note resp="#lmw">Author and date unidentified.</note>
+               </bibl>
+               <!-- Emmeline : with some other pieces ; to which is prefixed a memoir of her life, incl. some extracts from her correspondence.
+                  Edinburgh : Manners and Miller, 1819. 
+                  Alexander Brunton
+                  Printed for Manners and Miller and Archibald Constable and Co., Edinburgh, and John Murray, London, 1820.-->
+                  
+                  <!-- Memoirs of the first thirty-two years of the life of James Hardy Vaux, a swindler and pickpocket : now transported, for the second time, and for life, to New South Wales, volume 1, and, Memoirs of James Hardy Vaux in two volumes
+Author:	James Hardy Vaux
+Publisher:	London : John Murray, 1819.
+
+Subjects	
+Vaux, James Hardy, 1782- -->
+               
+               <bibl xml:id="LeightonPr">
+                  <title level="m">Leighton Priory</title>
+                  <note resp="#lmw">Author and date unidentified.</note>
+               </bibl>
+               
+               <bibl xml:id="MysteriousWife">
+                  <title level="m">The Mysterious Wife: a novel</title>
+                  <author ref="#MeekeM"/>
+                  <publisher>William Lane</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1797"/>
+                  <note resp="#lmw">4 volumes. Minerva Press. PUblished under the pseudonym Gabrielli.</note>
+               </bibl>
+               
+               <bibl xml:id="Mems_Evelyn">
+                  <title level="m">Memoirs, Illustrative of the Life and Writing of John Evelyn</title>
+                  <author ref="#EvelynJ"/>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw">Full title: <title level="m">Memoirs, Illustrative of the Life and Writings of John Evelyn, Esq. F.R.S. author of the <q>Sylva,</q> &amp;c. &amp;c.: comprising his diary, from the year 1641 to 1705-6, and a selection of his familiar letters: to which is subjoined, the private correspondence between King Charles I and his Secretary of State, Sir Edward Nicholas, whilst his majesty was in Scotland, 1641, and at other times during the Civil War: also between Sir Edward Hyde, afterwards Earl of Clarendon, and Sir Richard Browne, ambassador to the Court of France, in the time of King Charles I and the usurpation: the whole now first published from the original mss. in two volumes</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="PrivLife_Misc_JN">
+                  <title level="m">Memoirs of the Private Life of my Father</title>
+                  <author ref="#deStael"/>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818"/>
+                  <note resp="#lmw">Full title: <title level="m">Memoirs of the Private Life of my Father. To which are added miscellanies by M. Necker. Translated from the French.</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="AutumnRhine">
+                  <title level="m">An Autumn Near the Rhine</title>
+                  <author ref="#DoddCE"/>
+                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818"/>
+                  <note resp="#lmw">Full title: <title level="m">An Autumn Near the Rhine; Or Sketches of Courts, Society, Scenery, &amp;c. in Some of the German States Bordering on the Rhine</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="DeRance">
+                  <title level="m">De Rancé: a Poem</title>
+                  <author ref="#Cunningham_JW"/>
+                  <publisher>T. Cadell and W. Davies</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1815"/>
+                  <note resp="#lmw"></note>
+               </bibl>
+               
+               <bibl xml:id="Zuma">
+                  <title level="m">Zuma, or the Tree of Health</title>
+                  <author ref="#deGenlis"/>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818"/>
+                  <note resp="#lmw">Full title: <title level="m">Zuma, or the Tree of Health. To which are added, the fair Pauline,--Zeneida,--the reeds of the Tiber,--and the Widow of Luzi</title>. First published in Paris in 1817 as<title level="m">Zuma, ou, La Découverte du quinquina  suivi de La belle Paule, de Zenéide, des Roseaux du Tibre, etc.</title></note>
+               </bibl>
                
                <bibl xml:id="Narr_Algiersin1816">
                   <title level="m">A Narrative of the Expedition to Algiers in the Year 1816</title>
@@ -5712,6 +5907,20 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <date when="1818"/>
                   <note resp="#lmw">Full title: <title level="m">Observations on the Theory and Practice of Landscape Gardening: Including some remarks on Grecian and Gothic architecture, collected from various manuscripts, in the possession of the different noblemen and gentlemen, for whose use they were originally written; the whole tending to establish fixed principles in the respective arts.</title></note>
                </bibl>
+               
+               <bibl xml:id="Obs_CauseEffect">
+                  <title level="m">Observations on the Nature and Tendency of the Doctrine of Mr. Hume, concerning the relation of cause and effect</title>
+                  <author ref="#Brown_DrT"/>
+                  <pubPlace>
+                     <placeName>Edinburgh</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>Mundell and Son</orgName>
+                  </publisher>
+                  <date when="1806"/>
+                  <note resp="#lmw"></note>
+               </bibl>
+               
                
                <bibl xml:id="Visit_LaTrappe">
                   <title level="m">A Visit to the Monastery of La Trappe, in 1817</title>
@@ -6252,7 +6461,6 @@ v. 3. The contrast. The grateful Negro. To-morrow.  --></note>
                Reading School (BRO: 1746-2001: records incl government and administration, school management, pupil and other records	
 Berkshire Record Office
 SCH3)
-
 SWALLOWFIELD ENCLOSURE:
 	1814-23: map and award	
 Berkshire Record Office
