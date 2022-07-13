@@ -2689,11 +2689,7 @@ Author:	Arthur Murphy-->
                   Talfourd</persName> who was coming to call here--walked back with us but did not come in as
                   <persName ref="#Champion_Mr">Mr. Champion</persName> was waiting to take him home--he was exceedingly pleasant--Read
                   <persName ref="#Bolinbroke">Lord Bolingbroke</persName>'s <title ref="#Coll_PolTracts">political Tracts</title>--famous.</p>
-               <!--
-                  A collection of political tracts : By the author of the Dissertation upon parties.
-                  Author:	Henry St John Bolingbroke
-                  Publisher:	[London] : Printed for T. Cadell, in the Strand, MDCCLXXXVIII. [1788]
-                  Edition/Format:	  eBook : Document : English : A new ed-->
+               
             </div>
             <div type="entry">
                <head><date when="1819-10-19">Tuesday 19 <add>OCTOBER</add></date></head>
@@ -2705,29 +2701,11 @@ Author:	Arthur Murphy-->
             <div type="entry">
                <head><date when="1819-10-20">Wednesday 20 <add>OCTOBER</add> </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--Dear <persName ref="#Mitford_Geo">Drum</persName> gave me a beautiful new cloak which he brought from <placeName ref="#London_city">Town</placeName>--read <persName ref="#Bolinbroke">Lord Bolingbroke</persName>'s <title ref="#Remarks_HistEng">Remarks on English History</title> published under the name of Humphrey Oldcastle--famous.</p>
-               
-               <!-- Remarks on the history of England
-Author:	Henry St John Bolingbroke, Viscount
-Publisher:	London : Printed for T. Davies, [1774]
-
-               Remarks on the history of England : From the minutes of Humphry Oldcastle, Esq;.
-Author:	Henry St John Bolingbroke, Viscount
-Publisher:	London : printed for R. Francklin, 1754.
-Edition/Format:	  Print book : English : The third edition
-               -->
             </div>
             <div type="entry">
                <head><date when="1819-10-21">Thursday 21 <add>OCTOBER</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--It rained in the morning--could not go to <placeName ref="#Wokingham_city">Wokingham</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName>--read <persName ref="#Jones_John">Jones</persName>'s <title ref="#Acct_War1808">Peninsular War</title> a sad uncandid military book--&amp; old <persName ref="#Richardson_Jon">Richardson</persName>'s
                   delightful <title ref="#WksPainting_JR">Essay on Painting</title>.</p>
-               <!-- Account of the war in Spain and Portugal, and in the South of France, / from 1808, to 1814, inclusive
-Author:	John T Jones, Sir
-Publisher:	London : Printed for T. Egerton ..., 1818. 
-               
-               The works of Mr. Jonathan Richardson. Consisting of I. The theory of painting. II. Essay on the art of criticism, so far as it relates to painting. III. The science of a connoisseur.
-Author:	Jonathan Richardson
-Publisher:	London, Printed for T. Davies, 1773.
-Series:	Eighteenth century sources for the study of English literature and culture, reel no. 948.-->
             </div>
             <div type="entry">
                <head><date when="1819-10-22">Friday 22 <add>OCTOBER</add></date></head>
@@ -2736,17 +2714,12 @@ Series:	Eighteenth century sources for the study of English literature and cultu
                   <orgName ref="#Valpys">Valpys</orgName>--a very pleasant morning indeed--heard from <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>--wrote to
                   <persName
-                     ref="#Webb_Eliza">Eliza Webb</persName>--read <persName ref="#Lawrence_Wm">Mr. Lawrence</persName>'s suppressed <title ref="#Lects_WmLawrence">lectures</title> lent to me by <persName ref="#Wheeler_James">James Wheeler</persName>
-                  <!-- Cursory observations upon the Lectures on physiology, zoology, and the natural history of man, delivered at the Royal College of Surgeons, by W. Lawrence. In a series of letters addressed to that gentleman; with a concluding letter to hispupils.
-Author:	Edward William Grinfield; William Lawrence, Sir
-Publisher:	London, Cadell and Davies, 1819.
-Edition/Format:	  Print book : English : 2d ed., to which is added, a congratulatory address to Mr. Lawrence on the suppression of his Lectures -->--When at <placeName
+                     ref="#Webb_Eliza">Eliza Webb</persName>--read <persName ref="#Lawrence_Wm">Mr. Lawrence</persName>'s suppressed <title ref="#Lects_WmLawrence">lectures</title> lent to me by <persName ref="#Wheeler_James">James Wheeler</persName>--When at <placeName
                      ref="#Reading_city">Reading</placeName> called likewise on Mrs. <note resp="#coles">?</note></p>
             </div>
             <div type="entry">
                <head><date when="1819-10-23">Saturday 23 <add>OCTOBER</add></date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName>--Heard from <persName ref="#James_Miss">Miss James</persName>--walked in the <placeName ref="#garden_BH">garden</placeName> with <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName>
-                  --dressed my <name ref="#flower">flower</name>s--read <persName ref="#Lawrence_Wm">Lawrence</persName>'s <title ref="#Lects_WmLawrence">Lectures</title>--famous.</p>
+               <p>At <placeName ref="#Bertram_house">home</placeName>--Heard from <persName ref="#James_Miss">Miss James</persName>--walked in the <placeName ref="#garden_BH">garden</placeName> with <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName>--dressed my <name ref="#flower">flower</name>s--read <persName ref="#Lawrence_Wm">Lawrence</persName>'s <title ref="#Lects_WmLawrence">Lectures</title>--famous.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-24">Sunday 24 <add>OCTOBER</add></date></head>
@@ -2766,8 +2739,7 @@ Edition/Format:	  Print book : English : 2d ed., to which is added, a congratula
             </div>
             <div type="entry">
                <head><date when="1819-10-27">Wednesday 27 <add>OCTOBER</add></date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName>--had a very bad cold indeed--did not stir out--read <title ref="#Blackwoods">Black woods
-                  Edinburgh Magazine</title>--famous--&amp; <persName ref="#Radcliffe_A">Mrs. Radcliffe</persName>'s old novel <title ref="#Italian_AR">the Italian</title>.</p>
+               <p>At <placeName ref="#Bertram_house">home</placeName>--had a very bad cold indeed--did not stir out--read <title ref="#Blackwoods">Black woods Edinburgh Magazine</title>--famous--&amp; <persName ref="#Radcliffe_A">Mrs. Radcliffe</persName>'s old novel <title ref="#Italian_AR">the Italian</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-28">Thursday 28 <add>OCTOBER</add></date></head>
@@ -2777,16 +2749,7 @@ Edition/Format:	  Print book : English : 2d ed., to which is added, a congratula
             </div>
             <div type="entry">
                <head><date when="1819-10-29">Friday 29 <add>OCTOBER</add></date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName>--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Webb_Mary_younger">Mary Webb</persName>. Read <title ref="#InsaneWorld">The Insane World</title> 
-                  <!--The Insane World; or, a Week in London. [A satire.].
-Author:	Thomas Williams
-Publisher:	London : F. Westley, [1818?]
-                  
-                  The insane world.
-Publisher:	London : Published by J. Hatchard, Piccadilly ; And Williams and Co. Stationers' Court, Ludgate Street, 1818 :
-Series:	(The Nineteenth Century. General Collection ; N.1.1.8947).-->
-                  stupid and
-                  frantical--&amp; <persName ref="#Hoare_RC">Sir R.C. Hoare</persName>'s <title ref="#ClassicalTour_Hoare">Continuation of Eustace's Tour</title>--Humdrum--
+               <p>At <placeName ref="#Bertram_house">home</placeName>--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Webb_Mary_younger">Mary Webb</persName>. Read <title ref="#InsaneWorld">The Insane World</title> stupid and frantical--&amp; <persName ref="#Hoare_RC">Sir R. C. Hoare</persName>'s <title ref="#ClassicalTour_Hoare">Continuation of Eustace's Tour</title>--Humdrum--
                   <!-- A classical tour through Italy and Sicily : tending to illustrate some districts which have not been described by Mr.Eustace.
 Author:	Richard Colt Hoare, Sir
 Publisher:	London : Mawman, 1819.
@@ -4474,6 +4437,50 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
+               <person xml:id="Williams_Thos" sex="m"> <!-- finish -->
+                  <persName>Thomas Williams</persName>
+                  <persName>
+                     <surname>Williams</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Jones_John" sex="m"> <!-- finish -->
+                  <persName>John Jones</persName>
+                  <persName>
+                     <surname>Jones</surname>
+                     <forename>John</forename>
+                  </persName>
+                  <note></note><!--Sir John T. Jones-->
+               </person>
+               
+               <person xml:id="Richardson_Jon" sex="m"> <!-- finish -->
+               <persName>Jonathan Richardson</persName>
+               <persName>
+                  <surname>Richardson</surname>
+                  <forename>Jonathan</forename>
+               </persName>
+               </person>
+               
+               <person xml:id="Lawrence_Wm" sex="m"> <!-- finish -->
+                  <persName>William Lawrence</persName>
+                  <persName>
+                     <surname>Lawrence</surname>
+                     <forename>William</forename>
+                     <roleName>1st Baronet</roleName>
+                  </persName>
+                  <birth when="1783-07-16"><placeName>Cirencester, Gloucestershire, England</placeName></birth>
+                  <death when="1867-07-05">
+                     <placeName>Westminster, London, England</placeName>
+                  </death>
+                  <occupation type="scholar" subtype="naturalist"/>
+                  <occupation type="scholar" subtype="philosopher"/>
+                  <occupation type="medical" subtype="surgeon"/>
+                  <occupation type="government" subtype="reformer"/>
+                  <occupation type="literary" subtype="author"/>
+                  <note resp="#lmw">Lawrence contributed to ideas about the material origin of human consciousness and about natural selection refuting Lamarck, in the generation immediately preceding Darwin. In 1822, <persName ref="#Scott_John_LdEldon">the Lord Chancellor</persName> condemned as blasphemous Lawrence's second book, <title level="m">The Natural History of Man</title>, and he was forced to withdraw it. He campaigned for medical reforms and co-founded <title>The Lancet</title>. He later became president of the Royal College of Surgeons and was appointed surgeon to Queen Victoria, who granted him a baronetcy.</note>
+               </person>
+               
                <person xml:id="Fitzclarence_Geo" sex="m"> <!-- finish -->
                   <persName>George Fitzclarence</persName>
                   <persName>
@@ -4482,7 +4489,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      <forename>Augustus</forename>
                      <forename>Frederick</forename>
                      <roleName>Colonel</roleName>
-                     <rolename>Earl of Munster</rolename>
+                     <roleName>Earl of Munster</roleName>
                   </persName>
                </person>
                
@@ -5907,6 +5914,24 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Full title: <title level="m">Lectures on Painting, Delivered at the Royal Academy of Arts: with a letter on the proposal for a public memorial of the naval glory of Great Britain. By the late John Opie, Esq. Professor in Painting at the Royal Academy. To which are prefixed, a memoir by Mrs. Opie, and other accounts of Mr. Opie's talents and character</title>.</note>
                </bibl>
                
+               <bibl xml:id="Italian_AR">
+                  <title level="m">The Italian</title>
+                  <author><persName ref="#Radcliffe_A"/></author>
+                  <publisher>T. Cadell, Jr. and W. Davies</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1797"/>
+                  <note resp="#lmw">Full title: <title level="m">The Italian, or the Confessional of the Black Penitents. A Romance</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="InsaneWorld">
+                  <title level="m">The Insane World</title>
+                  <author><persName ref="#Williams_Thos"/></author>
+                  <publisher>J. Hatchard</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818"/>
+                  <note resp="#lmw">Full title: <title level="m">the INsance World; or, a Week in London. A Satire</title>. Mitford dismissed it as <quote>stupid and frantical</quote>.</note>
+               </bibl>
+               
                <bibl xml:id="AcctDenmark1692">
                   <title level="m">An Account of Denmark in 1692</title>
                   <author><persName ref="#MolesworthRbt"/></author>
@@ -5914,6 +5939,42 @@ Publisher:	London : E. Cox and Son, 1815
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1694"/>
                   <note resp="#lmw">Full title: <title level="m">An Account of Denmark as it was in the year M DC XC II</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="Remarks_HistEng">
+                  <title level="m">Remarks on the History of England</title>
+                  <author><persName ref="#Bolinbroke"/></author>
+                  <publisher>Richard Francklin</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1743"/>
+                  <note resp="#lmw">Full title: <title level="m">Remarks on the History of England: From the Minutes of Humphry Oldcastle, Esq</title>. Published pseudonymously as Humphry Oldcastle. She rated them <quote>famous</quote>. Mitford may have read the later reprint published by T. Davies.</note>
+               </bibl>
+               
+               <bibl xml:id="Acct_War1808">
+                  <title level="m">Account of the War in Spain and Portugal, and in the South of France, from 1808, to 1814, inclusive</title>
+                  <author><persName ref="#Jones_John"/></author>
+                  <publisher>T. Egerton</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818"/>
+                  <note resp="#lmw">She rated considered it a <quote>sad uncandid military book</quote> </note>
+               </bibl>
+               
+               <bibl xml:id="WksPainting_JR">
+                  <title level="m">The Works of Jonathan Richardson</title>
+                  <author><persName ref="#Richardson_Jon"/></author>
+                  <publisher>T. Davies</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1773"/>
+                  <note resp="#lmw">Full title: <title level="m">The Works of Mr. Jonathan Richardson. Consisting of I. The theory of painting. II. Essay on the art of criticism, so far as it relates to painting. III. The science of a connoisseur</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="Coll_PolTracts">
+                  <title level="m">A Collection of Political Tracts</title>
+                  <author><persName ref="#Bolinbroke"/></author>
+                  <publisher>Richard Francklin</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1754"/>
+                  <note resp="#lmw">Full title: <title level="m">A Collection of Political Tracts: By the author of the Dissertation upon Parties</title>. She rated them <quote>famous</quote>. Mitford may have read the later reprint published by T. Davies.</note>
                </bibl>
                
                <bibl xml:id="TalesHall_GC">
@@ -6066,16 +6127,25 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Longman and Rees</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1801"/>
-                  <note resp="#lmw">Mitford rated it a <quote>stupid old Novel</quote>. Source: Journal.</note>
+                  <note resp="#lmw">Mitford called it a <quote>stupid old Novel</quote>. Source: Journal.</note>
                </bibl>
                
                <bibl xml:id="Remarks_scepticism">
                   <title level="m">Remarks on Scepticism</title>
                   <author><persName ref="#RennellT"/></author>
-                  <publisher>F. C> and J. Rivington</publisher>
+                  <publisher>F. C. and J. Rivington</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
                   <note resp="#lmw">Full title: <title level="m">Remarks on Scepticism especially as it is connected with the subjects of organization and life. Being an answer to the views of M. Bichat, Sir T.C. Morgan, and Mr. Lawrence upon those points</title></note>
+               </bibl>
+               
+               <bibl xml:id="Lects_WmLawrence">
+                  <title level="m">Cursory Observations upon the Lectures on Physiology, Zoology, and the Natural History of Man</title>
+                  <author><persName ref="#Lawrence_Wm"/></author>
+                  <publisher>Cadell and Davies</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw">Full title: <title level="m">Cursory Observations upon the Lectures on Physiology, Zoology, and the Natural History of Man, delivered at the Royal College of Surgeons, by W. Lawrence. In a series of letters addressed to that gentleman; with a concluding letter to his pupils. To which is added, a congratulatory address to Mr. Lawrence on the suppression of his Lectures</title> 2nd edition. Ed. Edward William Grinfield. <persName ref="#Wheeler_James">James Wheeler</persName> loaned the book to Mitford. She rated it <quote>famous</quote>.</note>
                </bibl>
                
                <bibl xml:id="Journal_Greenland">
