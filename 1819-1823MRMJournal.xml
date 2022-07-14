@@ -216,8 +216,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName>--Happy day--<persName ref="#Dickinson_Mrs"
                   >Mrs. D</persName>'s singing--<title ref="#Whereer_Handel">Where'er you walk</title>--<persName
-                     ref="#Dickinson_Charles">Mr. D</persName>'s reading--<persName ref="#Ugolino">Count
-                     Ugolino</persName>.<note resp="#lmw">Part of his <title ref="#ItalianTrans_ChasD">Italian translations, copy-edited by <persName ref="#MRM">Mitford</persName></title>.</note></p>
+                     ref="#Dickinson_Charles">Mr. D</persName>'s reading--<persName ref="#Ugolino">Count Ugolino</persName>--</p>
+
+               <p><!--lmw: on opposite leaf-->
+                  <placeName ref="#ManchesterHouse">Manchester House</placeName><lb/>
+                  <placeName ref="#Exmouth">Exmouth.</placeName><lb/>
+                  <title ref="#NewYearsDay_1827">Sonnet</title><lb/>
+                  <placeName ref="#Farley_Hill">Farley Hill</placeName> <date when="1819-01-01">Jan<hi rend="superscript">y</hi> 1<hi rend="superscript">st</hi> 1819. To Mrs. Dickinson</date><lb/>
+                  
+                  Banquet &amp; song &amp; dance &amp; revelry!<lb/>
+                  <!--indent-->Auspicious year born in so fair a light<lb/>
+                  <!--indent-->Of gaiety &amp; beauty! Happy night<lb/>
+                  Sacred to social pleasure--&amp; to Thee<lb/>
+                  Its dear dispenser--of festivity<lb/>
+                  <!--indent-->The festive Queen--the moving spirit bright<lb/>
+                  <!--indent-->Of music &amp; the dance--of all delight<lb/>
+                  The gentle Mistress bountiful &amp; free!<lb/>
+                  <!--indent-->Oh happy night! and oh suceeding day<lb/>
+                  Far happier when 'mid converse &amp; repose<lb/>
+                  <!--indent-->Handel's sweet strains came sweetened, &amp; the lay<lb/>
+                  Divine of that old Florentine arose<lb/>
+                  <!--indent-->Dante; &amp; Genius flung his torch-like ray<lb/>
+                  O'er the dark tale of Ugolino's woes.<lb/>
+                  M. R. M.<lb/>
+                  </p>
             </div>
             <div type="entry">
                <head>
@@ -379,7 +401,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-01-22">Friday 22 <add>JANUARY</add></date>
                </head>
-               <p><add hand="#hunt"><persName ref="#Bacon">Lord Bacon</persName>, 1561.</add></p>
+               <p><add hand="#hunt"><persName ref="#Bacon">Lord Bacon</persName>, <date when="1561">1561</date>.</add></p>
                <p>All day at <placeName ref="#Bertram_house">home</placeName> finished my packet for <persName ref="#Rowden_Fr">Mrs. Rowden</persName>
                   &amp; read <persName ref="#Burke_E">Burke</persName>'s <title ref="#BurkeWks_Rivington">works</title>.</p>
             </div>
@@ -465,6 +487,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <persName ref="#Mossy_pet">Mossy</persName>--<persName ref="#Mossy_pet">Mossy</persName> was very amiable--so
                   was <persName ref="#Miranda_pet">Miranda</persName> in the Evening--read <persName ref="#Junius">Junius</persName>
                   &amp; <title ref="#BritishCritic_per">the British Critic Review</title>.</p>
+               <p><persName ref="#Aubrey_John">Aubrey</persName>'s <title ref="#Letters_Hearne_Aubrey">">Lives</title> said to be in the <placeName ref="#Ashmolean">Ashmolean</placeName> Collection <add hand="#MRM">1819</add></p>
             </div>
             <div type="entry">
                <head>
@@ -514,13 +537,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >primros</name>ing got the little basket full--wrote to <persName
                         ref="#Elford_SirWm">Sir William Elford</persName>--<persName ref="#Forsyth_Jos">Forsyth</persName>'s <title ref="#Remarks_Italy">Italy</title>--charmed with
                   it.</p>
-               <p>
-                  On this day (<date when="1819-02-15">Monday the 15th</date>)
+               <p>On this day (<date when="1819-02-15">Monday the 15th</date>)
                         <persName ref="#Mitford_Geo">Papa</persName> saw a <name ref="#pheasant">pheasant</name>'s nest with 4
                      eggs, which was found by one of <persName ref="#Griffin_Rich">Lord Braybrooke</persName>'s people
                      at <placeName ref="#BillingbearPk">Billingbear</placeName> whilst a party were coursing in the
-                     <placeName ref="#BillingbearPk">park</placeName>--very early indeed.
+                  <placeName ref="#BillingbearPk">park</placeName>--very early indeed. <add hand="#MRM">1819</add>
                </p>
+               <p>--Cheap place for India Shawls 78 Oxford Street--<unclear/><add hand="#MRM">1819</add></p>
             </div>
             <pb n="4"/>
             <div type="entry">
@@ -698,6 +721,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-03-06">Saturday 6 <add>MARCH</add></date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Michelangelo">Michael Angelo Buonarrotti</persName>, <date when="1474">1474</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from <persName ref="#Webb_Eliza">Eliza
                         Webb</persName>--went <name ref="#fir">fir</name>topping with the pets.</p>
             </div>
@@ -736,6 +760,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div type="entry">
                <head>
+                  <add hand="#hunt"><persName ref="#Tasso">Torquato Tasso</persName>, <date when="1544">1544</date>.</add>
                   <date when="1819-03-11">Thursday 11 <add>MARCH</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#primrose"
@@ -751,6 +776,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>Went to <placeName ref="#Wokingham_city">Wokingham</placeName>--met the
                   <orgName ref="#Whites">Whites</orgName> &amp; <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName>&amp; a large party--<persName ref="#Mitford_Geo">Drum</persName> went out coursing with them--I <choice><sic>staid</sic><reg>stayed</reg></choice> with <persName ref="#Webb_Mary">Mary</persName>--wrote a note to <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> &amp; <persName ref="#Wheeler_Kate">Miss Wheeler</persName>--came <placeName
                      ref="#Bertram_house">home</placeName> at night. Stupid day.</p>
+               <p><persName ref="#Moses_pet">Moses</persName> beat Charles Symonds's dog which he ran for the <add hand="#MRM" place="above">1819</add> cup <unclear/> of Champion. <persName ref="#Moses_pet">Moses</persName> a famous dog.</p>
+               
             </div>
             <div type="entry">
                <head>
@@ -884,6 +911,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-03-28">Sunday 28 Mar</date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Raphael">Raffaello Sanzio D'Urbino</persName>, <date when="1485">1485</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#violet">violet</name>ting with dear
                      <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets in <placeName ref="#field_BH">our own fields</placeName><!--rjp: do we tag Mitford's fields?? LMW: done.--> &amp; <placeName ref="#field_Body"><persName ref="#Body_Richard">Mr.
                   Body</persName>'s</placeName>.<!--rjp: so they are discussing a place as in Mr. Body's fields...but do we need to persName tag this. LMW: done.--></p>
@@ -915,6 +943,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--<persName ref="#Slade_F">Frederick Slade</persName> called--went to <placeName ref="#Reading_city">Reading</placeName>--saw a great many people--called at the <orgName ref="#Brookes">Brookes</orgName>
                   <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> &amp; <orgName ref="#Newberys">Newberrys</orgName>. Read <title  ref="#Undine">Undine</title> &amp; <persName ref="#King_Wm">Dr. King</persName>'s <title ref="#Anecdotes_King">Anecdotes of his own Times</title>.</p>
+               <p>April 1<hi rend="superscript">st</hi> Subscription for half a year to Havell's Library. So good of my own dear <persName ref="#Mitford_Geo">Drum</persName> <add hand="#MRM">--1819</add></p>
             </div>
             <div type="entry">
                <head>
@@ -1025,6 +1054,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      <title ref="#Lives_HaydenMoz">Lives of Hayden &amp; Mozart</title> &amp; <title ref="#Mems_Conde">the Memoirs of the
                      great
                   Condé</title>--not very good.</p>
+          <p>Lines from <persName ref="#Byron">Lord Byron</persName>'s <title ref="#Parisina">Parisina</title> which exactly resemble the flower of the <name ref="#woodsorrel">wood sorrel</name> (1819) <q>Those lids o'er which the <add place="below">violet</add><del rend="crossout">purple</del><add place="above">vein</add> Wandering, leaves a tender stain Shining through the smoothest white</q><note resp="#lmw">Stanza X, lines 30-32: <quote>Those lids--o'er which the violet vein / Wandering, leaves a tender stain, / Shining through the smoothest white / That e'er did softest kiss invite--</quote></note></p>
             </div>
             <!--rjp:can we look over this entry... I am not sure if this is tagged right or if Haydon and Mozart are separate titles or if we should bibl the memoirs of the great Conde and author tag and title tag separate. LMW: done-->
             <div type="entry">
@@ -1098,6 +1128,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName> all day--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; to
                         <persName ref="#Webb_Mary"><!--rjp: this is Mary Webb found this out during Workshops -->Miss
                         Webb</persName>.</p>
+               <p>The name of Napoleone occurs in the notes to Dante as that of one of his <unclear/> <add place="below" hand="#MRM">1819</add>--I find from the same authoiryt that Romian or Romeo signify Palmer. <add hand="MRM">1819</add>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1112,6 +1143,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-04-21">Wednesday 21 <add>APRIL</add></date>
                </head>
+               
                <p>At <placeName ref="#Bertram_house">home</placeName>--poor dear
                   <persName ref="#Mossy_pet">Mossy</persName> very ill in the Morning but better in the Afternoon--Still expected that tiresome <persName ref="#Palmer_Mad">Lady Mad.</persName> who did not come.</p>
             </div>
@@ -1119,6 +1151,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-04-22">Thursday 22 <add>APRIL</add></date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Fielding_Henry">Henry Fielding</persName>, <date when="1707">1707</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--waited
                      again for that shocking plague <persName ref="#Palmer_Mad">Lady M. P.</persName>
                   who never came--Dear <persName ref="#Mossy_pet">Mossy</persName> much better almost well.
@@ -1130,6 +1163,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-04-23">Friday 23 <add>APRIL</add></date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Shakespeare">SHAKESPEARE</persName>, <date when="1564">1564</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--waited
                      again for <persName ref="#Palmer_Mad">my Lady</persName>, Deuce take her--read <persName ref="#Walpole_Hor">Horace Walpole</persName>'s delightful letters &amp; <persName ref="#Rose_Wm">Rose</persName>'s <title ref="#Letters_NItaly">Letters from the North of
                      Italy</title>--very good though vulgar.</p>
@@ -1138,6 +1172,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-04-24">Saturday 24 <add>APRIL</add></date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Cromwell">Oliver Cromwell</persName>, <date when="1599">1599</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--waited
                      again for that shocking torment <persName ref="#Palmer_Mad">Lady
                         M. P.</persName>--never came--read <persName ref="#Rose_Wm">Rose</persName>'s
@@ -1213,11 +1248,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-05-01">Saturday 1 May</date>
                </head>
+               <p><add hand="#hunt"><persName ref="#Machiavelli">Niccolò Macchiavelli</persName>, <date when="1469">1469</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--better--went <name ref="#cowslip"
                   >cowslip</name>ping<!--rjp: i wanted to capture the plant type and the event since it seems she doesn't do it often... but I doubt I tagged this right-->
                   with dear <persName ref="#Russell_M">Granny</persName> &amp; the pets--read
                   <persName ref="#Campbell_Thos">Campbell</persName>'s <title ref="#Specimens_BritPoets">Specimens of the British
                         Poets</title>--very good.</p>
+               <p>Some very good extracts from a famous burlesque of <persName ref="#hunt">Leigh Hunt</persName> called <title level="a">Two papers attributed to the Editor of the Examiner</title> in the <title ref="#BritishCritic_per">British Critic</title> of <date when="1819-04">last month</date>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1279,6 +1316,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   D.</persName><!-- rjp:I find this interesting because it points to the work she does...do we have a tag for that?-->
                   &amp; wrote a note to <persName ref="#Dickinson_Mrs">Mrs.
                         Dickinson</persName>.</p>
+               <p>Saturday--I made a <name ref="#cowslip">Cowslip</name> ball for dear <persName
+                  ref="#Mitford_Geo">Drum</persName>--&amp; wreaths of <name ref="#primrose">primroses</name> &amp; <name ref="#bluebell">blue bells (wild hyacinths)</name> <name ref="#cowslip">cowslips</name> &amp; <persName ref="#broom">broom</persName> for the dear Pets <persName ref="#Mossy_pet">Mossy</persName> &amp; <persName ref="#Miranda_pet">Miranda</persName>--They looked very pretty indeed dear lambs.--<add hand="#MRM">1819 at <placeName ref="#Bertram_house">Bertram House</placeName> poor dear <persName ref="#Mossy_pet">Mossy</persName></add></p>
             </div>
             <div type="entry">
                <head><date when="1819-05-09"/>Sunday 9 <add>MAY</add></head>
@@ -1407,8 +1446,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div type="entry">
                <head>
-                  <date when="1819-05-22">Saturday 22 <add>MAY</add></date>
-               </head>
+                  <date when="1819-05-22">Saturday 22 <add>MAY</add></date> </head>
+               <p><add hand="#hunt"><persName ref="#Pope_Alex">Alexander Pope</persName>, <date when="1688">1688</date>.</add>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir William
                         Elford</persName> &amp;
                            <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName>--read <persName ref="#Byron"
@@ -1453,6 +1492,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      <persName ref="#Hayward_MrW #Hayward_MrsW">Mr. &amp; Mrs. W. Hayward</persName>--pleasant day. Came <placeName
                      ref="#Bertram_house">home</placeName> at night.</p>
                <!--rjp: it is likely the Webbs live in Wokingham. LMW: YES.-->
+               <p>I came home on the 24<hi rend="superscript">th</hi> from <persName ref="#Webb_James">Mr. Webb</persName>'s we heard the <name ref="#nightingale">nightingale</name> smelt the <name ref="#bean">bean</name> fields &amp; saw <name ref="#glow_worm">Glow-worms</name>. <add hand="#MRM">1819</add></p>
+               
+               <p><add hand="#MRM">1819</add> Never saw the flowers so lovely as this year--the <name ref="#lilac">Lilacs</name> <name ref="#horse_chestnut">horse Chestnuts</name> <name ref="#honeysuckle">Honeysuckle</name> &amp; <name ref="#mayflower">May</name> red and white were all beautiful--they are just over--&amp; the <name ref="#laburnum">laburnums</name> <name ref="#syringa">syringas</name> name ref="#Guelder_rose">guelder roses</name> &amp; <name ref="#honeysuckle">honeysuckles</name> are in full perfection--the <name ref="#honeysuckle">honeysuckle</name> round the little <name ref="#oak">oak</name> in the <placeName ref="#garden_BH">garden</placeName> is a perfect picture--we have had <name ref="#periwinkle">periwinkles</name> ever since last October in profusion.<add hand="#MRM">1819</add></p>
             </div>
             <div type="entry">
                <head>
@@ -1543,6 +1585,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      girl</persName>--I wrote to <persName ref="#Hayward_MrsW">Mrs.
                         Hayward</persName> &amp; <persName ref="#James_Miss"
                         >Miss James</persName>.</p>
+               <p>I was to have gone with <persName ref="#Mitford_Geo">Papa</persName> to <placeName ref="#Watlington">Watlington</placeName> but did not go on account of the day's looking showery &amp; our being disappointed of a <name ref="#horse">horse</name>, <add hand="#MRM">1819</add> Mem. To look for the Execution of two Koromantyn negroes in Edwards' History of the West Indies Vol 2<hi rend="superscript">nd</hi> page 57 2<hi rend="superscript">nd</hi> Edition, mentioned by <persName ref="#Edgeworth_Maria">Miss Edgeworth</persName> in her story <title level="a">The Good Aunt</title>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1626,6 +1669,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-06-11">Friday 11 <add>JUNE</add></date>
                </head>
+               <p><add hand="hunt"><persName ref="#Jonson_B">Ben Jonson</persName>, <date when="1574">1574</date></add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from dear <persName ref="#Mitford_Geo"
                   >Drum</persName>--dressed the <name ref="#flower">flower</name>s--dear <persName
                         ref="#Mitford_Geo">Drum</persName> came from <placeName ref="#London_city">Town</placeName>
@@ -1823,6 +1867,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         Brooke</persName> &amp; <persName ref="#Newell_Mrs">Mrs. Newell</persName>--dined with
                         <orgName ref="#Webbs">the Webbs</orgName>--met <persName ref="#Carter_Mr">Mr. Carter</persName> there--very pleasant day--came <placeName ref="#Bertram_house">home</placeName>
                   at night.</p>
+               <p><add hand="#MRM">1819</add> The friends to whom we sent my Poems were <persName ref="#Harley_Miss">Miss Harley</persName>--the <orgName ref="#Holden_Misses">Miss Holdens</orgName>, <persName ref="#Deverell_Miss">Miss Deverell</persName>--<persName ref="#Woodburn_Mrs">Mrs. Woodburn</persName> &amp; Miss <unclear/> At the same time sent a spaniel Puppy to John Holden which we got from Mr. Webb and our own pretty little bitch Miranda, alias Miss Mouse, to be kept for us by Mrs. Hunt of Arlesford. God bless her pretty love--she's a great beauty.</p>
             </div>
             <div type="entry">
                <head>
@@ -2173,6 +2218,8 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-08-09">Monday 9 <add>AUGUST</add></date></head>
+               <p><add hand="#hunt"><persName ref="#Walton_I">Isaac Walton</persName>, <date when="1593">1593</date></add>.<lb/>
+               <persName ref="#Dryden">John Dryden</persName>, <date when="1631">1631</date>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--dear <persName ref="#Mitford_Geo">Drum</persName> not well--pared <name ref="#apricot">Apricot</name>s for jam--lay in the <name ref="#hay">hay</name>--read
                   <persName ref="#deStael">Madame de Staël</persName>'s<!--rjp: the e has two dots above it in the transcript. LMW: DONE.--> <title ref="#PrivLife_Misc_JN">private
@@ -2299,6 +2346,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-08-29">Sunday 29 <add>AUGUST</add></date></head>
+               <p><add hand="#hunt"><persName ref="#LockeJ">John Locke</persName>, <date when="1632">1632</date>.</add></p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--heard from <persName ref="#Webb_Mary_younger">Mary Webb</persName>--dear <persName ref="#Mitford_Geo">Drum</persName> came <placeName ref="#Bertram_house"
                      >home</placeName>--lay in my <name ref="#hay">hay</name>--read
@@ -2369,6 +2417,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-09-08">Wednesday 8 <add>SEPTEMBER</add></date></head>
+               <p><addName resp="#hunt"><persName ref="#Ariosto">Ludovico Giovanni Ariosto, <date when="1474">1474</date></persName></addName></p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--lay in my <name ref="#hay">hay</name>--walked with poor <persName ref="#Hill_Lucy">Luce</persName>--read <title ref="#Raymond">Raymond</title> &amp; <title ref="#SoldierBoy">the
                   Soldier Boy</title>--Missed my own dear dear <persName ref="#Mossy_pet">Mossy</persName> more than ever.</p>
@@ -2863,6 +2912,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-11-25">Thursday 25 <add>NOVEMBER</add></date></head>
+               <p><add hand="#hunt"><persName>Lope Felix de Vega Cario</persName>, <date when="1562">1562</date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--<persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#Winchester">Winchester</placeName>--<persName ref="#Elliott_John">Mr. John Elliott</persName> came to look
                   about the house &amp; the timber--<name ref="#robin">Bobbie</name>s came <note resp="#coles">to</note> be fed--<persName ref="#Hill_Lucy">Luce</persName> &amp; I very
@@ -2895,6 +2945,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-11-29">Monday 29 <add>NOVEMBER</add></date></head>
+               <p><add hand="#hunt"><persName ref="#Sidney_SirP">Sir Philip Sydney</persName>, <date><unclear/></date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--dear <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#Ilsley">Ilsley</placeName>--dear <persName ref="#Russell_M">Granny</persName> still at <placeName ref="#Winchester_city">Winchester</placeName>--did some
                   tatting--<title ref="#Sense_S">read Sense &amp; Sensibility</title>--wrote to the <note resp="#coles">?</note>--had a great many
@@ -2902,6 +2953,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             </div>
             <div type="entry">
                <head><date when="1819-11-30">Tuesday 30 <add>NOVEMBER</add></date></head>
+               <p><add hand="#hunt"><persName ref="#Swift_J">Jonathan Swift</persName>, <date when="1667">1667</date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--heard from dear <persName ref="#Russell_M">Granny</persName>--wrote to dear <persName ref="#Russell_M">Granny</persName>--did some tatting--read <title ref="#MiltonWksLife_CS"><persName ref="#Symmon_Chas">Symmon</persName>'s Life of Milton</title><!-- The prose works of John Milton : with a life of the author
 Author:	John Milton; Charles Symmons
@@ -2928,6 +2980,7 @@ Series:	Library of English literature, LEL 20265-68. -->--very good--<persName r
             </div>
             <div type="entry">
                <head><date when="1819-12-03">Friday 3 <add>DECEMBER</add></date></head>
+               <p><add hand="#hunt"><persName ref="#Pulci">Luigi Pulci</persName>, <date when="1431">1431</date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--<persName ref="#Tuppen_Capt">Captain Tuppen</persName> came to course with <persName ref="#Mitford_Geo">Drum</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>, <persName ref="#Johnson_Mr">Mr.
                   Johnson</persName>, <persName
@@ -2967,6 +3020,7 @@ Publisher:	London : J. Hatchard, 1819.
             </div>
             <div type="entry">
                <head><date when="1819-12-08">Wednesday 8 <add>DECEMBER</add></date></head>
+               <p><add hand="#hunt"><persName ref="#Milton">Milton</persName>, <date when="1608">1608</date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--Heard from <persName ref="#James_Miss">Miss James</persName>--went <name ref="#fir">fir</name>topping--fed my <name ref="#robin">bobbie</name>s--wrote to
                   <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Russell_M">Granny</persName>--read <title ref="#BioMem_PrCharlotte">Life of <persName ref="#PrincessCharlotte">Princess Charlotte</persName></title> by <persName ref="#Booth_John">Booth</persName><!-- A biographical memoir of the public and private life of the much lamented Princess Charlotte Augusta of Wales and Saxe-Coburg : illustrated with recollections, anecdotes, and traits of character, including incidental observations upon persons and events connected with the subject of the memoir, accompanied by explanatory and authentic documents in an appendix.
@@ -3054,6 +3108,7 @@ Publisher:	Salisbury, pr. & sold by E.Easton; London, G. & T. Wilkie;, 1784. -->
             </div>
             <div type="entry">
                <head><date when="1819-12-20">Monday 20 <add>DECEMBER</add></date></head>
+               <p><add hand="#hunt"><persName ref="#NewtonI">Sir Isaac Newton</persName>, <date when="1647">1647</date></add>.</p>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--went <name ref="#fir">fir</name>topping with <persName ref="#Molly_pet">Molly</persName> &amp; the other Pets--read <title ref="#Sacrifice_Isabel"><persName ref="#Quillinan_Ed">Mr. Quillinan</persName>'s
                      Sacrifice of Isabel</title>--an elegant Poem--very short.<!-- The Sacrifice Of Isabel : A Poem. By Edward Quillinan.
@@ -3852,9 +3907,11 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             </div>
             <div type="entry">
                <head><date when="1820-04-09">Sunday 9 <add>APRIL</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">
-                  home</placeName>--heard from <persName ref="#James_Miss">Miss James</persName>--took a walk with dear <persName ref="#Russell_M">Granny</persName> &amp; found some
-                  <name ref="#violet">violet</name>s in a <placeName ref="#field_TMC">field</placeName> near here--wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross"> home</placeName>--heard from <persName
+                     ref="#James_Miss">Miss James</persName>--took a walk with dear <persName
+                     ref="#Russell_M">Granny</persName> &amp; found some <name ref="#violet"
+                     >violet</name>s in a <placeName ref="#field_TMC">field</placeName> near
+                  here--wrote to <persName ref="#Webb_Mary_younger">Mary Webb</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-10">Monday 10 <add>APRIL</add></date></head>
@@ -5807,15 +5864,25 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                
                <place xml:id="GroveCottage">
                   <placeName>Grove Cottage</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Reading</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"><!--place they look at before they move to TMC and do not like. In or near Reading? She doesn't want to move to Reading.--></note>
                </place>
                
+               <place xml:id="Ashmolean_Old">
+                  <placeName>Ashmolean</placeName>
+                  <district>Oxford</district><!--??-->
+                  <region>Oxfordshire</region>
+                  <country>England</country>
+                  <location> <geo>51.75443 -1.25519</geo></location>
+                 <note resp="#lmw">In Mitford's time, the Ashmolean collection was housed in the 1683 <soCalled>Old Ashmolean</soCalled>, a purpose-built museum on Broad Street that now houses Oxford's History of Science Museum.</note>
+                  <note><ptr target="https://commons.wikimedia.org/wiki/File:Old_Ashmolean_2006.JPG"/>
+                  </note>
+               </place>
+              
                <place xml:id="PaperMill_Marlow">
-                  <placeName>Paper mill on the Thames at Marlow</placeName>
-                  <district>Marlow</district><!--??-->
+                  <placeName>Paper mill on the Thames at Marlow</placeName><district>Marlow</district>
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
@@ -5872,6 +5939,19 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                   <note><ptr target="https://www.berkshirehistory.com/odds/reading_town_hall.html"/></note>
                   <note><ptr target="https://www.readingtownhall.co.uk/"/></note>
+               </place>
+               
+               <place xml:id="WhitleyWood">
+                  <placeName>Whitley Wood</placeName>
+                  <district>Reading</district>
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <location>
+                     <geo>51.41632 -0.96171</geo>
+                  </location>
+                  <note resp="#lmw"></note>
+                  <note></note>
+                  <note></note>
                </place>
             
             <place xml:id="Watlington">
