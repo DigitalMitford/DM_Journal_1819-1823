@@ -250,8 +250,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <date when="1819-01-05">Tuesday 5 <add>JANUARY</add></date>
                </head>
                <p>Read some of <persName ref="#Edgeworth_Maria">Miss Edgeworth</persName>'s
-                        <title ref="#PopularTales_ME">Popular tales</title> <!--lmw: is she reading from the collected works ed?-->XX some of
-                  <persName ref="#Burke_E">Burke</persName>.<note resp="#lmw">Mitford is likely reading <title ref="#BurkeWks_Rivington">the Rivington edition, published beginning in 1801.</title></note> Still at <placeName ref="#Bertram_house"
+                        <title ref="#PopularTales_ME">Popular tales</title> XX some of <persName ref="#Burke_E">Burke</persName>.<note resp="#lmw">Mitford is likely reading <title ref="#BurkeWks_Rivington">the Rivington edition, published beginning in 1801.</title></note> Still at <placeName ref="#Bertram_house"
                      >home</placeName>.</p>
             </div>
             <div type="entry">
@@ -1016,7 +1015,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         Hofland</persName>, <persName ref="#Tuppen_Mrs">Mrs.
                      Tuppen</persName> &amp; <persName ref="#Maitland_Mr">Mr.
                         Maitland</persName>--read <persName ref="#Edgeworth_Maria">Miss
-                        Edgeworth</persName>'s <title ref="#ComicDramas_ME">Comic Dramas</title>--not good. </p>
+                        Edgeworth</persName>'s <title ref="#ComicDramas_ME">Comic Dramas</title>--not good.</p>
             </div>
             <div type="entry">
                <head>
@@ -1077,8 +1076,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--waited
                   again for that <rs type="person" ref="#Palmer_Mad">tiresome woman</rs> who never
                      came--heard from <persName
-                        ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#Webb_Mary_younger">Mary Webb</persName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; finished my letter to <persName ref="#Rowden_Fr">Mrs.
-                        Rowden</persName>--read <persName ref="#Hazlitt_Wm">Hazlitt</persName>'s
+                        ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#Webb_Mary_younger">Mary Webb</persName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; finished my letter to <persName ref="#Rowden_Fr">Mrs.Rowden</persName>--read <persName ref="#Hazlitt_Wm">Hazlit t</persName>'s
                         <title ref="#LecComic_WHaz">lectures on the Comic Writers</title>--famous.</p>
             </div>
             <div type="entry">
@@ -1189,7 +1187,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   >him</rs>--poor <persName ref="#Budd_Mrs">Mrs. Budd</persName> of
                         <placeName ref="#Bedford_town">Bedford</placeName> now dead in
                   childbirth<!--rjp:would this be an appropriate way to tag this? LMW: Add to si entry-->--Went <name ref="#cowslip"
-                        >cowslip</name>ping<!--rjp: i wanted to capture the plant type and the event since it seems she doesn't do it often... but I doubt I tagged this right. LMW: Ok. Done.-->
+                        >cowslip</name>ping<!--rjp: i wanted to capture the plant type and the event since it seems she doesn't do it often... but I doubt I tagged this right. LMW: YES! Done.-->
                   in <placeName ref="#meadow_BH">the meadows</placeName> with dear <persName ref="#Russell_M">Granny</persName>,
                   <persName ref="#Hill_Lucy">Lucy</persName> &amp; the pets--all very amiable.</p>
             </div>
@@ -1208,7 +1206,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--better--heard from <persName ref="#James_Miss">Miss
                   James</persName>--walked round <placeName ref="#Bertram_house">the place</placeName> with dear <persName
-                     ref="#Mitford_Geo">Drum</persName>--read <title ref="#Walk_Switzerland">a Walk through
+                     ref="#Mitford_Geo">Drum</persName>--read <title ref="#Walk_Switz1816">a Walk through
                      Switzerland</title><!-- LMW: echoes a walk through our village title. influences of travel literature -->--liked it pretty well.</p>
             </div>
             <div type="entry">
@@ -1314,8 +1312,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <date when="1819-05-12">Wednesday 12 <add>MAY</add></date>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from dear <persName ref="#Mitford_Geo"
-                        >Drum</persName>--<persName ref="#Tuppen_Capt #Tuppen_Mrs">Capt. &amp;
-                        Mrs. Tuppen</persName> called--heard again at night from <persName ref="#Mitford_Geo"
+                        >Drum</persName>--<persName ref="#Tuppen_Capt #Tuppen_Mrs">Capt. &amp; Mrs. Tuppen</persName> called--heard again at night from <persName ref="#Mitford_Geo"
                         >Drum</persName> &amp; <persName
                         ref="#James_Miss">Miss James</persName>--Dear <persName
                      ref="#Mitford_Geo">Drum</persName> sent some lovely <name ref="#lily_valley">lillies of
@@ -1367,8 +1364,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-05-17">Monday 17 <add>MAY</add></date>
                </head>
-               <p>At <placeName ref="#Bertram_house">home</placeName>--dressed my <name ref="#flower">flower</name>s--walked about <placeName ref="#Bertram_house">the Place</placeName>--read <title ref=
-                     "#Florence_Macarthy_SO">Florence
+               <p>At <placeName ref="#Bertram_house">home</placeName>--dressed my <name ref="#flower">flower</name>s--walked about <placeName ref="#Bertram_house">the Place</placeName>--read <title ref="#Florence_Macarthy_SO">Florence
                         Macarthy</title>--liked it better than the first.</p>
             </div>
             <div type="entry">
@@ -2495,7 +2491,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                   >home</placeName>--<persName ref="#Raggett_Mrs">Mrs. Raggett</persName> &amp; <persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> went home--<persName ref="#Greenwell_Mrs">Mrs. Greenwell</persName> a very
                   pleasant woman &amp; very like <persName ref="#Elford_SirWm">Sir William
                      Elford</persName>
-                  <!-- RJP: comparison to Elford suggests possible relation. LMW: no, distant cousin of MRM -->--walked in the
+                  <!-- RJP: comparison to Elford suggests possible relation. LMW: no, Mitford says distant cousin of hers?       -->--walked in the
                   <placeName ref="#garden_BH">garden</placeName> with <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Slops">Slops</persName>.</p>
             </div>
             <div type="entry">
@@ -2609,14 +2605,11 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                <head><date when="1819-10-12">Tuesday 12 <add>OCTOBER</add></date></head>
                <p>At <placeName ref="#SeymourCt">Seymour Court</placeName>--saw many curious books on the laws &amp; <title ref="#Constitution">Constitution</title>--the
                   laws of <persName ref="#Alfred">Alfred</persName><!--LMW: ck. SI for ids and how we cited in letter.-->--votes of <orgName ref="#Parliament_UK">Parliament</orgName> &amp;c &amp;c. Walked to the <placeName ref="#Thames">Thames</placeName>--saw
-                  <orgName>the paper Mill</orgName><!-- See Temple Mill Island --> very curious indeed--very pleasant day--read <title ref="#WaytoKeepHim">the Way to Keep him</title><!--The way to keep him : a comedy : adapted for theatrical representation, as performed at the Theatre-Royal, Drury-Lane : regulated from the prompt-books, by permission of the managers
-Author:	Arthur Murphy-->
-                  going to bed.</p>
+                  <placeName ref="#PaperMill_Marlow">the paper Mill</placeName><!-- See Temple Mill Island --> very curious indeed--very pleasant day--read <title ref="#WaytoKeepHim">the Way to Keep him</title> going to bed.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-13">Wednesday 13 <add>OCTOBER</add></date></head>
-               <p>At <placeName ref="#SeymourCt">Seymour Court</placeName>--Came <placeName ref="#ThreeMileCross"
-                  >home</placeName> to dinner--called in the way at <persName ref="#Payn_Mr">Mr. Payn</persName>s &amp;
+               <p>At <placeName ref="#SeymourCt">Seymour Court</placeName>--Came <placeName ref="#ThreeMileCross">home</placeName> to dinner--called in the way at <persName ref="#Payn_Mr">Mr. Payn</persName>s &amp;
                   <persName ref="#Wakefield_D">Mr. Wakefield</persName>s--very pleasant ride--found dear <persName ref="#Russell_M">Granny</persName> quite well &amp; a
                   letter from <persName ref="#Webb_Mary_elder">Aunt Mary</persName>--read <persName ref="#Leyden_John">Dr. Leyden</persName>'s <title ref="#PR_JLeyden">Poet. remains</title>.</p>
             </div>
@@ -2635,8 +2628,7 @@ Author:	Arthur Murphy-->
             <pb n="25"/>
             <div type="entry">
                <head><date when="1819-10-16">Saturday 16 <add>OCTOBER</add></date></head>
-               <p>At <placeName ref="#Bertram_house">home</placeName>--pretty well again--heard from <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>--wrote to <persName ref="#Elford_SirWm">Sir William</persName>&amp; <persName ref="#Raggett_Mrs">Mrs. Raggett</persName>--read <persName ref="#Howard_SirRob">Sir Robert Howard</persName>'s <title ref="#LifeRichard2">life of
-                  Richard 2nd</title>--a most curious book.</p>
+               <p>At <placeName ref="#Bertram_house">home</placeName>--pretty well again--heard from <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>--wrote to <persName ref="#Elford_SirWm">Sir William</persName>&amp; <persName ref="#Raggett_Mrs">Mrs. Raggett</persName>--read <persName ref="#Howard_SirRob">Sir Robert Howard</persName>'s <title ref="#LifeRichard2">life of Richard 2nd</title>--a most curious book.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-17">Sunday 17 <add>OCTOBER</add></date></head>
@@ -2736,10 +2728,7 @@ Author:	Arthur Murphy-->
             <div type="entry">
                <head><date when="1819-11-03">Wednesday 3 <add>NOVEMBER</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--<persName ref="#Greene_Mr">Mr. Greene</persName> called &amp; was very pleasant--read an <title ref="#AntiquitatesCurio">Etymology of old
-                  Sayings proverbs &amp;c</title><!-- Antiquitates curiosae the etymology of many remarkable old sayings, proverbs, & singular customs.
-Author:	Joseph Taylor
-Publisher:	London, Printed for T. & J. Allman 1819.
-Edition/Format:	  eBook : Document : English : 2d ed -->--&amp; some of the <title ref="#MonthlyMag">Monthly Magazine</title>.</p>
+                  Sayings proverbs &amp;c</title>--&amp; some of the <title ref="#MonthlyMag">Monthly Magazine</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-04">Thursday 4 <add>NOVEMBER</add></date></head>
@@ -2782,10 +2771,7 @@ Edition/Format:	  eBook : Document : English : 2d ed -->--&amp; some of the <tit
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--heard from <persName ref="#Mitford_Geo">Drum</persName>--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> came &amp; took me to <placeName
                   ref="#Reading_city">Reading</placeName> &amp;
-                  then back with her to <!-- missung? --><persName ref="#Legh_T">Legh</persName>'s <title ref="#Narr_EgyptCataracts">Travels in Egypt</title><!-- Narrative of a journey in Egypt and the country beyond the cataracts. By Thomas Legh, esq. M.P.
-Author:	Thomas Legh; John Murray; Charles Roworth
-Publisher:	London : John Murray, Albemarle-Street., 1817. --> &amp; wrote to <persName ref="#Dickinson_Mrs">Mrs.
-                  Dickinson</persName>.</p>
+                  then back with her to <!-- missung? --><persName ref="#Legh_T">Legh</persName>'s <title ref="#Narr_EgyptCataracts">Travels in Egypt</title> &amp; wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-12">Friday 12 <add>NOVEMBER</add></date></head>
@@ -2873,11 +2859,7 @@ Publisher:	London : John Murray, Albemarle-Street., 1817. --> &amp; wrote to <pe
                <head><date when="1819-11-24">Wednesday 24 <add>NOVEMBER</add> </date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--altered a gown for dear <persName ref="#Russell_M">Granny</persName>--the cloth gown finished--went
-                  <name ref="#fir">fir</name>topping--fed my <name ref="#robin">Bobby</name>'s--read <title ref="#SirPFrancisDenied">an attempt to prove a <persName ref="#Wilmot_James">Dr. Wilmot</persName> wrote <persName ref="#Junius">Junius</persName></title>.<!-- Junius. Sir Philip Francis denied! : a letter addressed to the British nation.
-Author:	Olivia Wilmot Serres
-Publisher:	London : Printed for E. Williams ..., 1817.
-Summary:	
-Serres claims her uncle, James Wilmot (1726-1807), was the pseudonymous author of Letters of Junius --></p>
+                  <name ref="#fir">fir</name>topping--fed my <name ref="#robin">Bobby</name>'s--read <title ref="#SirPFrancisDenied">an attempt to prove a <persName ref="#Wilmot_James">Dr. Wilmot</persName> wrote <persName ref="#Junius">Junius</persName></title>.</p>
             </div>
             <div type="entry">
                <head><date when="1819-11-25">Thursday 25 <add>NOVEMBER</add></date></head>
@@ -3295,8 +3277,7 @@ Publisher:	London, Printed for J. Hatchard, 1818. -->--<persName ref="#Mitford_G
             <div type="entry">
                <head><date when="1820-01-20">Thursday 20 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> about taking <persName ref="#Rapley_Ha">Hannah Rapley</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs.
-                  Dickinson</persName>.</p>
+                  >home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> about taking <persName ref="#Rapley_Ha">Hannah Rapley</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-21">Friday 21 <add>JANUARY</add></date></head>
@@ -3335,10 +3316,7 @@ Publisher:	London, Printed for J. Hatchard, 1818. -->--<persName ref="#Mitford_G
                <head><date when="1820-01-26">Wednesday 26 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--wrote to <persName ref="#James_Miss">Miss James</persName>--fed my <name ref="#robin">Bobbie</name>s--got my mourning ready for the
-                  <persName ref="#Duke_Kent">Duke of Kent</persName>--read <title ref="#HermitInLondon">the Hermit in London</title>--very good.<!-- The Hermit In London, Or, Sketches Of English Manners Vol. II.
-Author:	Henry Colburn; Thomas Baylis; Edward Cox; Cox and Baylis
-Publisher:	London Printed For Henry Colburn [London] Printed by Cox and Baylis 1819 1819
-by Felix M'Donough or MacDonogh --></p>
+                  <persName ref="#PrinceEdward1767">Duke of Kent</persName>--read <title ref="#HermitInLondon">the Hermit in London</title>--very good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-01-27">Thursday 27 <add>JANUARY</add></date></head>
@@ -3352,13 +3330,7 @@ by Felix M'Donough or MacDonogh --></p>
                <head><date when="1820-01-28">Friday 28 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--fed my <name ref="#robin">bobbie</name>s--wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName>--read <title ref="#Sketch_FriendsFam">a sketch of my Friend's
-                     Family</title><!-- A Sketch of my Friend's Family ...
-Author:	Mrs L A Marshall (pseud Meta)
-Publisher:	London. [a conger including.] : [Darton and Harvey]. 1818.
-
-A sketch of my friend's family : intended to suggest some practical hints of religion and domestic manners
-
-                     -->--sad Methodistical stuff--<persName ref="#Burney_SH">Miss Burney</persName>'s <title ref="#Country_Neighbours">Country Neighbours</title>--very
+                     Family</title>--sad Methodistical stuff--<persName ref="#Burney_SH">Miss Burney</persName>'s <title ref="#Country_Neighbours">Country Neighbours</title>--very
                   good.</p>
             </div>
             <div type="entry">
@@ -3379,15 +3351,14 @@ A sketch of my friend's family : intended to suggest some practical hints of rel
             <div type="entry">
                <head><date when="1820-01-31">Monday 31 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName>--went <name ref="#fir">Fir</name>topping--picked up a great many &amp; got a great deal of <name ref="#furze">furse</name> stumps--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--wrote to <persName ref="#Elford_SirWm">Sir William
-                     Elford</persName>.</p>
+                  >home</placeName>--went <name ref="#fir">Fir</name>topping--picked up a great many &amp; got a great deal of <name ref="#furze">furse</name> stumps--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-02-01">Tuesday 1 <add>FEBRUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--Heard from <persName ref="#Webb_Mary_younger">Miss Webb</persName>--went with dear <persName ref="#Mitford_Geo">Drum</persName> into <placeName
                   ref="#Reading_city">Reading</placeName> to buy a new
-                  bombazine gown--bought a very nice one for 2s 9d<!--LMW tag as shillings/pence?--> a yard--called on the <orgName ref="#Brookes">Brookes</orgName>--<orgName ref="#Newberys">Newberrys</orgName>--<orgName ref="#Joliffes">Joliffes</orgName>--the <orgName ref="#Reading_Inst">Institution</orgName> &amp; <persName ref="#Havell_Mrs">Mrs. Havell</persName>'s--came <placeName ref="#Bertram_house"
+                  bombazine gown--bought a very nice one for 2s. 9d.<!--LMW tag as shillings/pence?--> a yard--called on the <orgName ref="#Brookes">Brookes</orgName>--<orgName ref="#Newberys">Newberrys</orgName>--<orgName ref="#Joliffes">Joliffes</orgName>--the <orgName ref="#Reading_Inst">Institution</orgName> &amp; <persName ref="#Havell_Mrs">Mrs. Havell</persName>'s--came <placeName ref="#Bertram_house"
                      >home</placeName> to
                   dinner--a very pleasant morning.</p>
             </div>
@@ -3417,11 +3388,8 @@ Political satire, English.
 Author:	R Phillips
 Publisher:	London : Printed for C. Chapple, 1818.
 Series:	English and American drama of the nineteenth century., English.
-                  
-                  -->famous &amp; <title ref="#Mems_FredericaofPrussia">the Memoirs of the <persName ref="#Frederica_MofBareith">Margravine
-                        of Bareith</persName></title></p><!-- Memoirs of Frederica Sophia Wilhelmina : princess royal of Prussia, margravine of Bareith, sister of Frederick the Great
-Author:	Wilhelmine, Margravine consort of Friedrich Margrave of Bayreuth
-Publisher:	London : Henry Colburn, 1812. -->
+-->famous &amp; <title ref="#Mems_WilhelminaofPrussia">the Memoirs of the <persName ref="#Wilhelmina_Prussia1709">Margravine
+                        of Bareith</persName></title></p>
             </div>
             <div type="entry">
                <head><date when="1820-02-04">Friday 4 <add>FEBRUARY</add></date></head>
@@ -3722,7 +3690,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--went <name ref="#fir">fir</name>topping, got a few--went <name ref="#primrose"
                      >primros</name>ing, got a good many--read
-                  <title ref="#Mems_Napoleon1815">Memoires de Napoleon <pb n="38"/> en 1815 par <persName ref="#deChaboulon">M. Fleury de Chaboulon</persName> <note resp="#coles">?</note></title>--a good fellow, but the book rather dull.</p>
+                  <title ref="#Mems_Napoleon1815">Memoires de Napoleon <pb n="38"/> en 1815 par <persName ref="#deChaboulon">M. Fleury de Chaboulon</persName></title><note resp="#coles">?</note>--a good fellow, but the book rather dull.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-17">Friday 17 <add>MARCH</add></date></head>
@@ -3756,9 +3724,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             <div type="entry">
                <head><date when="1820-03-21">Tuesday 21 <add>MARCH</add></date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">London</placeName>--<persName
-                     ref="#Rowden_Fr">Mrs. Rowden</persName> came to see us, dined &amp; slept
-                  here--a very pleasant day indeed--I was delighted to see her.</p>
+                  >home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">London</placeName>--<persName ref="#Rowden_Fr">Mrs. Rowden</persName> came to see us, dined &amp; slept there--a very pleasant day indeed--I was delighted to see her.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-22">Wednesday 22 <add>MARCH</add></date></head>
@@ -3786,8 +3752,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--went <name ref="#fir">fir</name>topping--did not get many--Heard from <persName ref="#Hudswell_Mrs">Mrs. Hudswell</persName> about
                   our <note resp="#coles">?</note> <persName ref="#Cook2">old Cook</persName>'s misconduct--&amp; from <persName ref="#Webb_Mary_younger">Mary Webb</persName>--Had a quarrel with <persName ref="#Howell_Mrs">Mrs.
-                  Howell</persName> about my <name ref="#carnation">Carnations</name> which she stole--made <persName ref="#Mitford_Geo">Drum</persName>'s old Cocked Hat into a bonnet--read <title ref="#Hist_ParisianMass"><persName ref="#Comber_Thos">Combers</persName> Parisian Massacre</title>--bad--&amp; <persName ref="#Wentworth_WC">Wentworth</persName>'s <title ref="#Desc_NSWales">Account of
-                     New South Wales</title>--not good.</p>
+                  Howell</persName> about my <name ref="#carnation">Carnations</name> which she stole--made <persName ref="#Mitford_Geo">Drum</persName>'s old Cocked Hat into a bonnet--read <title ref="#Hist_ParisianMass"><persName ref="#Comber_Thos">Combers</persName> Parisian Massacre</title>--bad--&amp; <persName ref="#Wentworth_WC">Wentworth</persName>'s <title ref="#Desc_NSWales">Account of New South Wales</title>--not good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-25">Saturday 25 <add>MARCH</add></date></head>
@@ -3808,9 +3773,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--Went <name ref="#fir">Fir</name>topping--got a great many--read <persName ref="#Beaumont_Fr">Beaumont</persName> &amp;
                   <persName ref="#Fletcher_John">Fletcher</persName><note resp="#lmw">Collected editions of <persName ref="#Beaumont_Fr">Beaumont</persName> &amp;
-                     <persName ref="#Fletcher_John">Fletcher</persName> were published by Stockdale in 1811 (3 volumes) and F. C. and J. Rivington in 1812 (14 volumes)</note>.<!-- The works of Beaumont and Fletcher, in fourteen volumes
-Author:	Francis Beaumont; John Fletcher; Henry William Weber
-Publisher:	Edinburgh : Printed by J. Ballantyne & Co. for F.C. & J. Rivington ; London, 1812. --></p>
+                     <persName ref="#Fletcher_John">Fletcher</persName> were published by Stockdale in 1811 (3 volumes) and F. C. and J. Rivington in 1812 (14 volumes)</note>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-03-28">Tuesday 28 <add>MARCH</add></date></head>
@@ -3859,7 +3822,7 @@ Publisher:	Edinburgh : Printed by J. Ballantyne & Co. for F.C. & J. Rivington ; 
                <head><date when="1820-04-04">Tuesday 4 <add>APRIL</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--my last day I suppose at that dear <placeName ref="#Bertram_house">home</placeName>!--<persName ref="#Haydon">Mr. Haydon</persName> sent me the New <title ref="#Times_news">
-                  Times</title> with the <title>Critique</title> on his <title>picture</title>--went about very disconsolate--<name ref="#fir">fir</name>topped a little--drew a plan of <placeName ref="#Bertram_house">the place</placeName>--read <title ref="#Monastery_WS">the Monastery</title>--a very uncomfortable
+                     Times</title> with the Critique on his <title ref="#ChrstEJrslm_Haydon">picture</title><note resp="#lmw">The review appeared in the 27 March 1820 issue.</note>--went about very disconsolate--<name ref="#fir">fir</name>topped a little--drew a plan of <placeName ref="#Bertram_house">the place</placeName>--read <title ref="#Monastery_WS">the Monastery</title>--a very uncomfortable
                   melancholy day.</p>
             </div>
             <div type="entry">
@@ -3898,11 +3861,6 @@ Publisher:	Edinburgh : Printed by J. Ballantyne & Co. for F.C. & J. Rivington ; 
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName
                   ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#James_Miss">Miss James</persName>, <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Harness_Wm">Dr. Harness</persName>--read the <title ref="#EclecticRev">Eclectic</title> &amp; <title ref="#BritishCritic_per">British Critic</title> Reviews &amp; <title ref="#KingCoal">King Coal's Levée</title>--a pretty little
                   thing.</p>
-              <!-- King Coal's Levee, Or Geological Etiquette, With Explanatory Notes; And The Council Of The Metals
-               by John Scafe
-               Computer file
-               Language: English  
-               Publisher: London Longman, Hurst, Rees, Orme, And Brown London Upham London Strahan and Spottiswoode Weimar Klassik Stiftung Weimar 1819 -->
             </div>
             <div type="entry">
                <head><date when="1820-04-11">Tuesday 11 <add>APRIL</add></date></head>
@@ -3926,9 +3884,6 @@ Publisher:	Edinburgh : Printed by J. Ballantyne & Co. for F.C. & J. Rivington ; 
                      ref="#Dickinson_Charles">Mr. Dickinson</persName>
                   called &amp; dined with me--read <title ref="#Knights_Swan"><persName ref="#deGenlis_Mme">Madame de Genlis</persName>' Knights of the Swan</title>--so
                   so.</p>
-               <!-- The Knights of the Swan : or, the court of Charlemagne: a romance, written by the Countess of Genlis, in continuation of The tales of the castle. In two volumes. ...
-Author:	Stéphanie Félicité Genlis, comtesse de
-Publisher:	Edinburgh : printed for Bell & Bradfute; and for Vernor and Hood, London, 1796.-->
             </div>
             <div type="entry">
                <head><date when="1820-04-14">Friday 14 <add>APRIL</add></date></head>
@@ -3945,7 +3900,7 @@ Publisher:	Edinburgh : printed for Bell & Bradfute; and for Vernor and Hood, Lon
             <div type="entry">
                <head><date when="1820-04-16">Sunday 16 <add>APRIL</add> </date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Webb_Mary_younger">Mary</persName> &amp; <persName
-                  ref="#Webb_Eliza">Eliza Webb</persName> &amp; <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> (<persName ref="#Hayward_Mrs.W">Mrs. H</persName>'s letter
+                  ref="#Webb_Eliza">Eliza Webb</persName> &amp; <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> (<persName ref="#Hayward_MrsW">Mrs. H</persName>'s letter
                   was to <persName ref="#Mitford_Geo">Papa</persName>) &amp; <persName
                      ref="#Dickinson_Charles">Mr. Dickinson</persName>--dear <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city">Town</placeName>--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>
                   called with <rs type="person" ref="#Dickinson_Daughter">the baby</rs>--went <name ref="#violet">violet</name>ting--found a new bank in a <placeName ref="#field_TMC">field</placeName> by the hill--wrote to <persName ref="#Voules_Mrs">Mrs. Voules</persName> &amp;<persName
@@ -4004,25 +3959,23 @@ Publisher:	Edinburgh : printed for Bell & Bradfute; and for Vernor and Hood, Lon
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName> to <placeName ref="#Bertram_house">Bertram House</placeName> &amp; got <name ref="#primrose">primrose</name>s &amp;
                   <name ref="#cowslip"
                      >cowslip</name>s--made a <name ref="#cowslip"
-                        >Cowslip</name> ball<!--LMW: make note re. story--> for <persName ref="#Mitford_Geo">Drum</persName>--read <title><persName>Hodgkin</persName>'s travels in Germany</title> Good politics but middling writing.</p>
+                        >Cowslip</name> ball<!--LMW: make note re. story--> for <persName ref="#Mitford_Geo">Drum</persName>--read <title ref="#Travels_NGermany"><persName ref="#Hodgskin_Thos">Hodgkin</persName>'s travels in Germany</title> Good politics but middling writing.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-26">Wednesday 26 <add>APRIL</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#cowslip"
-                  >cowslip</name>ping with <persName ref="#Hill_Lucy">Luce</persName> &amp; the pets in <placeName ref="#meadow_Bridgwater"><persName ref="#Bridgwater_Mr">Mr. Bridgwater</persName>'s meadows</placeName> by the brook--very pleasant morning--read <title><persName>Hodgkin</persName>'s Travels</title>--good
+                  >cowslip</name>ping with <persName ref="#Hill_Lucy">Luce</persName> &amp; the pets in <placeName ref="#meadow_Bridgwater"><persName ref="#Bridgwater_Mr">Mr. Bridgwater</persName>'s meadows</placeName> by the brook--very pleasant morning--read <title ref="#Travels_NGermany"><persName ref="#Hodgskin_Thos">Hodgkin</persName>'s Travels</title>--good
                   politics.</p>
             </div>
             <pb n="42"/>
             <div type="entry">
                <head><date when="1820-04-27">Thursday 27 <add>APRIL</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went walking with dear <persName ref="#Russell_M">Granny</persName> &amp; the pets up a lane leading to
-                  <placeName ref="#Spencers_Wood">Spencer's wood</placeName>--found a <placeName ref="#field_TMC">field</placeName> with a quantity of wild <name ref="#periwinkle">periwinkle</name> in the hedge--very beautiful. Read <persName ref="#Southey_R">Southey</persName>'s <title ref="#Life_Wesley">Life
-                     of Wesley</title>--very good.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went walking with dear <persName ref="#Russell_M">Granny</persName> &amp; the pets up a lane leading to <placeName ref="#Spencers_Wood">Spencer's wood</placeName>--found a <placeName ref="#field_TMC">field</placeName> with a quantity of wild <name ref="#periwinkle">periwinkle</name> in the hedge--very beautiful. Read <persName ref="#Southey_R">Southey</persName>'s <title ref="#Life_Wesley">Life of Wesley</title>--very good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-28">Friday 28 <add>APRIL</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Pingewood">Pinge wood</placeName> with <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Hill_Lucy">Lucy</persName> &amp; the pets--went likewise to
-                  <placeName ref="#BurghfieldBr">Burghfield</placeName> &amp; got some <name ref="#tulip">field Tulip</name>s--met <persName ref="#Liebensrood_Mr">Mr. Liebenrood</persName> &amp; <persName>his son</persName>--<persName ref="#Body_Richard">Mr.
+                  <placeName ref="#BurghfieldBr">Burghfield</placeName> &amp; got some <name ref="#tulip">field Tulip</name>s--met <persName ref="#Liebensrood_Mr">Mr. Liebenrood</persName> &amp; <persName ref="#Liebensrood_son">his son</persName>--<persName ref="#Body_Richard">Mr.
                   Body</persName> called--heard from <persName ref="#Haydon">Mr. Haydon</persName>--wrote to <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>. Read <persName ref="#Southey_R">Southey</persName>'s <title ref="#Life_Wesley">Life
                         of Wesley</title>--very amusing.</p>
@@ -4150,7 +4103,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
             <div type="entry">
                <head><date when="1820-05-18">Thursday 18 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--dressed my <name ref="#flower">flower</name>s (of which dear <persName ref="#Mitford_Geo">Drum</persName> gets me a profusion)--wrote to
-                  <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--read <title ref="#Mems_Sidney_TZ"><persName ref="#ZouchT">Dr. Zouch</persName>'s c</title>--stupid. Heard
+                  <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--read <title ref="#Mems_Sidney_TZ"><persName ref="#ZouchT">Dr. Zouch</persName>'s <!-- ?? missing --></title>--stupid. Heard
                   from dear <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with some <name ref="#lily_valley">lilies of the Valley</name>--wrote to her again.</p>
             </div>
             <div type="entry">
@@ -4344,8 +4297,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
             </listOrg>
            
             <listPerson sortKey="histPersons">
-               
-               
+            
                <person xml:id="Solomon" sex="u">
                   <persName>Solomon</persName>
                   <note resp="#lmw"><!-- a pet?? a person (no last name)--></note>
@@ -4391,11 +4343,141 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
+               <person xml:id="Robinson_Mary" sex="f"> <!-- finish -->
+                  <persName>Mary Robinson</persName>
+                  <persName>
+                     <surname type="married">Robinson</surname>
+                     <surname type="paternal">Darby</surname>
+                     <forename>Mary</forename>
+                  </persName>
+               </person>
+               
                <person xml:id="Crabbe" sex="m"> <!-- finish -->
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
                      <forename>George</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Liebensrood_son" sex="m"> <!-- finish -->
+                  <persName>Son of Mr. Liebensrood</persName>
+               </person>
+               
+               <person xml:id="Hodgskin_Thos" sex="m"> <!-- finish -->
+                  <persName>Thomas Hodgskin</persName>
+                  <persName>
+                     <surname>Hodgskin</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="ScafeJ" sex="m"> <!-- finish -->
+                  <persName>John Scafe</persName>
+                  <persName>
+                     <surname>Scafe</surname>
+                     <forename>John</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Marshall_MrsLA" sex="f"> <!-- finish -->
+                  <persName>Mrs. L. A. Marshall</persName>
+                  <persName>
+                     <surname type="married">Marshall</surname>
+                     <forename>L. A.</forename>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw">Wrote for juvenile and Evangelical audiences. Wrote under the pseudonym <q>Meta</q>. Paternal surname unknown. Dates unknown.</note>
+               </person>
+               
+               <person xml:id="MDonough_F" sex="m"> <!-- finish -->
+                  <persName>Felix M'Donough</persName>
+                  <persName>
+                     <surname>M'Donough</surname>
+                     <forename>Felix</forename>
+                  </persName>
+                  <note resp="#lmw">Surname also spelled MacDonough.</note>
+               </person>
+               
+               <person xml:id="Wilhelmina_Prussia1709" sex="f"> <!-- finish -->
+                  <persName>Frederika Sophie Wilhelmine of Prussia</persName>
+                  <persName>
+                     <forename>Frederika</forename>
+                     <forename>Sophie</forename>
+                     <forename>Wilhelmine</forename>
+                  </persName>
+                  <persName><addName>Margravine of Brandenburg-Bareuth</addName></persName>
+                  
+                  <birth when="1709-07-03">
+                     <placeName>Berlin, Germany</placeName>
+                  </birth>
+                  <death when="1758-10-14">
+                     <placeName>Bayreuth, Bavaria, Germany</placeName>
+                  </death>
+                  <occupation type="artist"/>
+                  <occupation type="benefactor"/>
+                  <occupation type="literary"/>
+                  <occupation type="artist" subtype="composer"/>
+                  <occupation type="benefactor" subtype="patron"/>
+                  <occupation type="literary" subtype="autobiographer"/>
+                  <note resp="#lmw">House of Hohenzollern, granddaughter of George I of Great Britain, daughter of Frederic William I of Prussia and older sister of Frederick the Great. Patron of music; composer for voice, strings, keyboard and woodwinds; player on the lute.</note>
+               </person>
+               
+               <person xml:id="PrinceEdward1767" sex="m">
+                  <persName>Prince Edward, Duke of Kent and Strathearn</persName>
+                  <persName>
+                     <surname>Hanover</surname>
+                     <forename>Edward Augustus</forename>
+                     <roleName>Prince</roleName>
+                  </persName>
+                  <persName><addName>Duke of Kent and Strathearn</addName></persName>
+                  <birth when="1767-11-02">
+                     <placeName>Buckingham House, Westminster, London, England</placeName>
+                  </birth>
+                  <death when="1820-01-23">
+                     <placeName>Woolbrook Cottage, Sidmouth, Devon, England</placeName>
+                  </death>
+                  <occupation type="military"/>
+                  <note resp="#lmw">4th son of <persName ref="#GeoIII">King George III</persName>, his daughter became <persName ref="#Victoria_Queen">Queen Victoria</persName>, following the 1817 death of Princess Charlotte, the royal family's only other legitimate grandchild. Served as a British army officer in Quebec and Halifax in the 1790s and played an influential role in the UK's changing relations with Upper and Lower Canada and with the United States. From 1799, he served as Commander-in-Chief of British forces in North America. Also served with the rank of Field Marshal in the French Revolutionary and Coalition (Napoleonic) Wars. He died of pneumonia and Mitford dons mourning dress for him.</note>
+                  <note><ptr target="https://commons.wikimedia.org/wiki/File:Edward,_Duke_of_Kent_and_Strathearn_by_Sir_William_Beechey.jpg"/></note>
+               </person>
+               
+               
+               <person xml:id="ZouchT" sex="m"> <!-- finish -->
+                  <persName>Thomas Zouch</persName>
+                  <persName>
+                     <surname>Zouch</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+                  <occupation type="religious"/>
+                  <occupation type="literary" subtype="biographer"/>
+                  <note resp="#lmw"><!--Thomas Zouch, D.D. F.L.S. Prebendary of Durham--></note>
+               </person>
+              
+               <person xml:id="Wilmot_James" sex="m"> <!-- finish -->
+                  <persName>James Wilmot</persName>
+                  <persName>
+                     <surname>Wilmot</surname>
+                     <forename>James</forename>
+                  </persName>
+                  <birth when="1726"/>
+                  <death when="1807"/>
+               </person>
+               
+               <person xml:id="Serres_OW" sex="f"> <!-- finish -->
+                  <persName>Olivia Wilmot Serres</persName>
+                  <persName>
+                     <surname type="married">Serres</surname>
+                     <surname type="paternal">Wilmot</surname>
+                     <forename>Olivia</forename>
+                  </persName>
+               </person>
+               
+               <person xml:id="Taylor_Joseph" sex="m"> <!-- finish -->
+                  <persName>Joseph Taylor</persName>
+                  <persName>
+                     <surname>Taylor</surname>
+                     <forename>Joseph</forename>
                   </persName>
                </person>
                
@@ -4430,6 +4512,15 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <surname>Richardson</surname>
                   <forename>Jonathan</forename>
                </persName>
+               </person>
+               
+               <person xml:id="Rose_Wm" sex="m"> <!-- finish -->
+                  <persName>William Stewart Rose</persName>
+                  <persName>
+                     <surname>Rose</surname>
+                     <forename>William</forename>
+                     <forename>Stewart</forename>
+                  </persName>
                </person>
                
                <person xml:id="Lawrence_Wm" sex="m"> <!-- finish -->
@@ -4471,6 +4562,14 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                </person>
                
+               <person xml:id="Lester_E" sex="f"> <!-- finish -->
+                  <persName>Elizabeth Lester</persName>
+                  <persName>
+                     <surname>Lester</surname>
+                     <forename>Elizabeth</forename>
+                  </persName>
+               </person>
+               
                <person xml:id="Smith_Ch" sex="f"> <!-- finish -->
                   <persName>Charlotte Smith</persName>
                   <persName>
@@ -4509,6 +4608,19 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      <surname>Comber</surname>
                      <forename>Thomas</forename>
                   </persName>
+               </person>
+               
+               <person xml:id="Legh_T" sex="m"> <!-- finish -->
+                  <persName>Thomas Legh</persName>
+                  <persName>
+                     <surname>Legh</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+                  <occupation type="government"/>
+                  <occupation type="literary"/>
+                  <occupation type="government" subtype="politician"/>
+                  <occupation type="literary" subtype="autobiographer"/>
+                  <note resp="#lmw">M. P.</note>
                </person>
                
                <person xml:id="Burnet_Gil" sex="m"> <!-- finish -->
@@ -4983,6 +5095,24 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <note resp="#lmw"></note>
                </person>
                
+               <person xml:id="Allingham_Mrs" sex="m">
+                  <persName>Mrs. Allingham</persName>
+                  <persName>
+                     <surname>Allingham</surname>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw"><!--likely mother of Mrs. Dickinson?--></note>
+               </person>
+               
+               <person xml:id="Bath_Mrs" sex="m">
+                  <persName>Mrs. Bath</persName>
+                  <persName>
+                     <surname>Bath</surname>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw"><!--Lives in Reading?--></note>
+               </person>
+               
                <person xml:id="Allin_Miss" sex="f">
                   <persName>Miss Allin</persName>
                   <persName>
@@ -4991,8 +5121,6 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   </persName>
                   <note resp="#lmw"></note>
                </person>
-               
-               
                
                <person xml:id="Bailley_Dr" sex="m">
                   <persName>Dr. Bailley</persName>
@@ -5020,6 +5148,15 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      <roleName>Miss</roleName>
                   </persName>
                   <note resp="#lmw">of Reading</note>
+               </person>
+               
+               <person xml:id="Hill_Mr" sex="m">
+                  <persName>Mr. Hill</persName>
+                  <persName>
+                     <surname>Hill</surname>
+                     <roleName>Mr.</roleName>
+                  </persName>
+                  <note resp="#lmw">Received one of <persName ref="#Molly_pet">Molly</persName>'s two puppies, born in 1819.</note>
                </person>
                
                <person xml:id="Hudswell_Mrs" sex="f">
@@ -5055,7 +5192,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                      <surname type="married">Marsh</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw">Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.<!-- Harry Marsh wife? --></note>
+                  <note resp="#lmw">Likely the spouse of <persName ref="#Marsh_Henry">Harry Marsh</persName>Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
         
                <person xml:id="Bullard_Mrs" sex="f">
@@ -5450,6 +5587,16 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                                     </persName>
                                     <note resp="#lmw"></note>
                                  </person>
+               
+               <person xml:id="Stewart_Mr" sex="m">
+                  <persName>Mr. Stewart</persName>
+                  <persName>
+                     <surname>Stewart</surname>
+                     <roleName>Mr.</roleName>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person>
+               
                                  
                <person xml:id="Talmage_Mrs" sex="f">
                   <persName>Mrs. Talmage</persName>
@@ -5485,7 +5632,7 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                                           <roleName>Mr.</roleName>
                                        </persName>
                                        
-                                       <note resp="#rjp #lmw">She receives one of Molly's puppies.<!--LMW: likely married couple with Mr. Voules.--></note>
+                                       <note resp="#rjp #lmw">She receives one of Molly's puppies, born in 1819.<!--LMW: likely married couple with Mr. Voules.--></note>
                                     </person>
                                     
                                     <person xml:id="Walker_Mr" sex="m"> 
@@ -5657,7 +5804,23 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
                   <country>England</country>
                   <note resp="#lmw"></note>
                </place>
-              
+               
+               <place xml:id="GroveCottage">
+                  <placeName>Grove Cottage</placeName>
+                  <district>xxx</district><!--??-->
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw"><!--place they look at before they move to TMC and do not like. In or near Reading? She doesn't want to move to Reading.--></note>
+               </place>
+               
+               <place xml:id="PaperMill_Marlow">
+                  <placeName>Paper mill on the Thames at Marlow</placeName>
+                  <district>Marlow</district><!--??-->
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw"></note>
+               </place>
+               
             <place xml:id="BurghfieldBr">
                <placeName>Burghfield Bridge</placeName>
                <district>Wokingham</district>
@@ -5732,48 +5895,57 @@ Publisher:	London : Printed for R. Hunter, and Baldwin, Cradock, and Joy, 1820.
             <title ref="#Florence_Macarthy_SO">Florence
                   Macarthy</title>
                   <quote>very much amused by it</quote>
+                  <quote>liked it better than the first</quote> : doesn't say the first what. First volume? First novel?
                   
-                  <persName ref="#Junius">Junius</persName> <quote>famous peppering</quote> <quote>nothing so good now</quote>
+                  <persName ref="#Junius">Junius</persName>: Mitford called its contents a <quote>famous peppering</quote> and says that there is <quote>nothing so good now</quote>.
                   
-                  <persName ref="#Forsyth_Jos">Forsyth</persName>'s <title ref="#Remarks_Italy">Italy </title>:   <quote>charmed with
+                  <persName ref="#Forsyth_Jos">Forsyth</persName>'s <title ref="#Remarks_Italy">Italy </title>: Mitford records she was <quote>charmed with
                it</quote>.
                
-               <title ref="#Marriage_SF">Marriage</title>: <quote>liked it very much</quote>  <quote>made me laugh</quote>.
+               <title ref="#Marriage_SF">Marriage</title>: Mitford recorded that she <quote>liked it very much</quote>; she also says that it <quote>made me laugh</quote>.
                
-               <title ref="#Women_CM">Women</title>: <quote>don't like it much</quote> <quote>too dismal</quote>
+               <title ref="#Women_CM">Women</title>: Mitford records she didn't <quote>like it much</quote> because it was <quote>too dismal</quote>.
                
-                <title ref="#Specimen_Nat_poem">: <quote>very good</quote>
+                <title ref="#Specimen_Nat_poem">: Mitford rated it <quote>very good</quote>.
                 
-                <title ref="#TenYearsatTripoli">: <quote>very
-                  entertaining indeed</quote>
+                <title ref="#TenYearsatTripoli">: Mitford rated it <quote>very
+                  entertaining indeed</quote>.
                   
-                  <title ref="#Wheel_Fortune_play">: <quote>middling</quote>
+                  <title ref="#Wheel_Fortune_play">: Mitford rated it <quote>middling</quote>.
                   
-                  <title ref="#Don_Juan_poem">Don Juan</title>:
+                  <title ref="#Don_Juan_poem">Don Juan</title> Mitford rated it
                   <quote>good but wicked</quote>.
                   
                   <title ref="#Peters_Letters_novel">Peter’s
-                     Letters to his Kinfolk</title>; <quote>very good</quote>
+                     Letters to his Kinfolk</title>; Mitford rated it <quote>very good</quote>
                      
-                     <title ref="#Life_LadyRussell">letters of Lady Russell</title>: <quote>interesting</quote>
+                     <title ref="#Life_LadyRussell">letters of Lady Russell</title>: Mitford rated it <quote>interesting</quote>.
                      
-                     <title ref="#PR_JLeyden">Poetical Remains</title>: <quote>very good</quote>
+                     <title ref="#PR_JLeyden">Poetical Remains</title>: Mitford rated it <quote>very good</quote>
                      
                      <title ref="#Shakespeare_Times_nonfict">Shakespeare &amp; his Times</title>,
-                  <quote>good materials badly used</quote>good materials badly used
+                  Mitford considered it <quote>good materials badly used</quote>.
                   
                   <title ref="#Life_Wesley">Life
-                     of Wesley</title>: <quote>very good</quote>
+                     of Wesley</title>: Mitford rated it <quote>very good</quote>.
                      
-                     <title ref="#Monastery_WS">the Monastery</title> As Mitford reads, she rates it <quote>not very good</quote>, <quote>not so good as some of his Novels</quote> and then <quote>pretty good
+                     <title ref="#Monastery_WS">the Monastery</title> As Mitford reads, she rates it <quote>not very good</quote>, <quote>not so good as some of his Novels</quote> and then, presumably as she reads the final volume, <quote>pretty good
                   too</quote>.
-                     
+                  
+                  <title ref="#WalpoletoMontagu">Walpole's Letters to Mr. Montagu</title>: Mitford rated it <quote>charming</quote>.
+                  
+                  <bibl xml:id="Country_Neighbours">:  Mitford rated it <quote>famous</quote>; <quote>very
+                  good</quote> and <quote>very good indeed</quote>.
+                  
             -->
             
             <listBibl sortKey="serial_MRM">
                   <bibl xml:id="Pamphleteer_per">
                      <title>The Pamphleteer</title>
-                  </bibl>
+                     <pubPlace>London</pubPlace>
+                     <publisher><orgName ref="#AJValpy_pub">A. J. Valpy</orgName></publisher>
+                     <note resp="#lmw">Published between 1813 and 1828. Full title: <title level="m">The Pamphleteer: Respectfully Dedicated to Both Houses of Parliament. To be Continued Occasionally, an Average of Four or Five Numbers Annually</title>. Contained shorthand reportage of major Parliamentary speeches, as well as original and reprinted pamphlets, reports, essays, and letters on current political and economic, as well as social, literary and medical issues. Contributors included <persName ref="#Elford_SirWm">Sir William Elford</persName>, <persName ref="#Talfourd_Thos">Thomas Noon Talfourd</persName> and <persName ref="#Sinclair_SrJohn">John Sinclair</persName>, among others. Special topics of particular interest to Mitford and her circle included copyright law, the laws regulating theatres, greyhounds and coursing, and brewing.</note>
+        xvvv          </bibl>
                   
                <bibl xml:id="BritishCritic_per">
                   <title>British Critic</title>
@@ -5888,13 +6060,126 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Full title: <title level="m">The Italian, or the Confessional of the Black Penitents. A Romance</title>.</note>
                </bibl>
                
+               <bibl xml:id="Travels_NGermany">
+                  <title level="m">Travels in the North of Germany</title>
+                  <author><persName ref="#Hodgskin_Thos"/></author>
+                  <publisher>A. Constable</publisher>
+                  <pubPlace ref="#Edinburgh"/>
+                  <date when="1820"/>
+                  <note resp="#lmw">Full title: <title level="m">Travels in the North of Germany: Describing the Present State of the Social and Political Institutions . . . Particularly in the Kingdom of Hanover</title>. Mitford rates it as <quote>good politics but middling writing</quote>.</note>
+               </bibl>
+               
+               <bibl xml:id="Knights_Swan">
+                  <title level="m">Knights of the Swan</title>
+                  <author><persName ref="#deGenlis_Mme"/></author>
+                  <publisher>Vernor and Hood</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1796"/>
+                  <note resp="#lmw">2 volumes. Full title: <title level="m">The Knights of the Swan: or, the court of Charlemagne: a romance, written by the Countess of Genlis, in continuation of The tales of the castle</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="Walsingham">
+                  <title level="m">Walsingham</title>
+                  <author><persName ref="#Robinson_Mary"/></author>
+                  <publisher>T. N. Longman</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1797"/>
+                  <note resp="#lmw">Full title: <title level="m">Walsingham, or the Pupil of Nature: A Domestic Story</title>. Reprinted in 1805 by William Lane for Minerva Press. Mitford rated it <quote>old &amp; bad</quote>.</note>
+               </bibl>
+               
+               <bibl xml:id="KingCoal">
+                  <title level="m">King Coal's Levée</title>
+                  <author><persName ref="#ScafeJ"/></author>
+                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw">Full title: <title level="m">King Coal's Levee, Or Geological Etiquette, With Explanatory Notes; And The Council Of The Metals</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="Mems_WilhelminaofPrussia">
+                  <title level="m">Memoirs of Frederica Sophia Wilhelmina</title>
+                  <author><persName ref="#Wilhelmine_Prussia1709"/></author>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1812"/>
+                  <note resp="#lmw">Full title: <title level="m">Memoirs of Frederica Sophia Wilhelmina: princess royal of Prussia, margravine of Bareith, sister of Frederick the Great</title>. Manuscripts show that her memoirs were written or revised in French between 1748 and 1758, and then printed in German and in French in 1810. </note>
+               </bibl>
+               
+ 
+               <bibl xml:id="HermitInLondon">
+                  <title level="m">The Hermit in London</title>
+                  <author><persName ref="#MDonough_F"/></author>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw">Published anonymously. 5 volumes. Full title: <title level="m">The Hermit In London, Or, Sketches of English Manners</title>. Mitford rated it <quote>very good</quote>.</note>
+               </bibl>
+               
+               <bibl xml:id="Sketch_FriendsFam">
+                  <title level="m">A Sketch of my Friend's Family</title>
+                  <author><persName ref="#Marshall_MrsLA"/></author>
+                  <publisher>Henry Teape</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1817"/>
+                  <note resp="#lmw">Full title: <title level="m">A Sketch of my Friend's Family: intended to suggest some practical hints on religion and domestic manners</title>. Mitford rated it <quote>sad Methodistical stuff</quote>.</note>
+               </bibl>
+               
+               <bibl xml:id="SirPFrancisDenied">
+                  <title level="m">Sir Philip Francis denied!: a letter addressed to the British nation</title>
+                  <author><persName ref="#Serres_OW"/></author>
+                  <publisher>E. Williams</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1817"/>
+                  <note resp="#lmw">James Wilmot's niece Olivia Wilmot Serres claims that her uncle wrote <title level="m">The Letters of Junius</title>.</note>
+               </bibl>
+               
+                  <bibl xml:id="LecPoetry_WHaz">
+                  <title level="m">Lectures on the English Poets, delivered at the Surrey
+                     Institution</title>
+                  <author ref="#Hazlitt_Wm">William Hazlitt</author>
+                  <publisher>
+                     <orgName ref="#Taylor_Hessey">Taylor and Hessey</orgName>
+                  </publisher>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <date when="1819">1819</date>
+                  <note resp="#lmw"></note>
+               </bibl>
+               
+               <bibl xml:id="Narr_EgyptCataracts">
+                  <title level="m">Narrative of a Journey in Egypt and the Country Beyond the Cataracts</title>
+                  <author><persName ref="#Radcliffe_A"/></author>
+                  <publisher>John Murray</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1817"/>
+                  <note resp="#lmw"></note>
+               </bibl>
+               
+               <bibl xml:id="HaroldEx">
+                  <title level="m">Harold the Exile</title>
+                  <author>anonymous</author>
+                 <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw">3 volumes. Published anonymously and with no publisher listed. Considered to be a fictionalized account of the early life of <persName ref="#Byron">Byron</persName> and his spouse <persName ref="#Byron_Annab">Annabelle Millbank Byron</persName>. Mitford rated it <quote>very stupid &amp; dismal</quote>.</note>
+               </bibl>
+               
+               <bibl xml:id="AntiquitatesCurio">
+                  <title level="m">Antiquitates Curiosae: the etymology of many remarkable old sayings, proverbs, &amp; singular customs</title>
+                  <author><persName ref="#Taylor_Joseph"/></author>
+                  <publisher>T. &amp; J. Allman</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1819"/>
+                  <note resp="#lmw"></note>
+               </bibl>
+               
                <bibl xml:id="WaytoKeepHim">
                   <title level="m">The Way to Keep Him. A Comedy in five acts</title>
                   <author><persName ref="#Murphy_Ar"/></author>
                   <publisher>P. Vaillant</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1770"/>
-                  <note resp="#lmw">Full title: <title level="m">The Way to Keep Him: a Comedy in five acts, as it is performed at the Theatre-Royal in Drury-Lane.</title>. <!--1760 versuib ub 3 vols.--></note>
+                  <note resp="#lmw">Full title: <title level="m">The Way to Keep Him: a Comedy in five acts, as it is performed at the Theatre-Royal in Drury-Lane</title>. An earlier 1760 version had 3 acts, rather than 5.</note>
                </bibl>
                
                <bibl xml:id="NapoleonPeint">
@@ -6111,7 +6396,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1820"/>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Mitford rated it <quote>rather dull</quote> but then also called them <quote>a most interesting book</quote>.</note>
                </bibl>
                
                <bibl xml:id="Byron_6thPoems">
@@ -6878,20 +7163,20 @@ Publisher:	London : E. Cox and Son, 1815
                            <persName ref="#Austen_Jane">Jane Austen</persName>
                         </author>
                         <pubPlace ref="#London_city">London</pubPlace>
-                        <publisher>John Murray</publisher>
+                        <publisher>Thomas Egerton</publisher>
                         <date when="1811">1811</date>
-                        <note><!--CHECK PUBLISHER AND TITLE--></note>
+                        <note>3 volumes. Published anonymously as <q>by a Lady</q>. Mitford rated it <quote>very good</quote>.</note>
                      </bibl>
                
                <bibl xml:id="Mems_Sidney_TZ">
                   <title level="m">Memoirs of the Life and Writings of Sir Philip Sidney</title>
                   <author>
-                     <persName ref="#Zouch_T">Thomas Zouch</persName>
+                     <persName ref="#Zouch_T"/>
                   </author>
-                  <!--<pubPlace ref="#London_city">London</pubPlace>
-                  <publisher>John Murray</publisher>
-                  <date when="1811">1811</date>-->
-                  <note><!--CHECK PUBLISHER AND TITLE. 1807/8?--></note>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>J. Mawman</publisher>
+                  <date when="1808"/>
+<note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
                
                <bibl xml:id="PopularTales_ME">
@@ -6902,13 +7187,31 @@ Publisher:	London : E. Cox and Son, 1815
                   <pubPlace ref="#London_city">London</pubPlace>
                   <publisher>J. Johnson</publisher>
                   <date when="1804"/>
-                  <note>in 3 volumes. <!--v. 1. Lame Jervas. The will. The limerick gloves. Out of debt out of danger;
-v. 2. The lottery. Rosanna. Murad the Unlucky. The manufacturers;
-v. 3. The contrast. The grateful Negro. To-morrow.  --></note>
+                  <note resp="#lmw">In 3 volumes. Volume 1 includes: <title level="a">Lame Jervas</title>, <title level="a">The will</title>, <title level="a">The limerick gloves</title>, <title level="a">Out of debt out of danger</title>; Volume 2 includes: <title level="a">The lottery</title>, <title level="a">Rosanna</title>, <title level="a">Murad the Unlucky</title>, <title level="a">The manufacturers</title>; Volume 3 included: <title level="a">The contrast</title>, <title level="a">The grateful Negro</title>, <title level="a">To-morrow</title>.</note>
                </bibl>
-               <!-- Add; Moral Tales, Comic Dramas -->
-               <!-- Mr. Edgeworth's Life -->
                
+               <bibl xml:id="MoralTales_ME">
+                  <title level="m">Moral Tales for Young people</title>
+                  <author>
+                     <persName ref="#Edgeworth_Maria"/>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>J. Johnson</publisher>
+                  <date when="1801"/>
+                  <note resp="#lmw">In 3 volumes. Includes: <title level="a">Forester</title>, <title level="a">The Prussian Vase</title>, <title level="a">The Knapsack</title>, <title level="a">The Good Aunt</title>, <title level="a">The Good French Governess</title>, <title level="a">Mademoiselle Panache</title> and <title level="a">Angelina; or, L'Amie Inconnue</title>.</note>
+               </bibl>
+               
+               <bibl xml:id="ComicDramas_ME">
+                  <title level="m">Comic Dramas, in Three Acts</title>
+                  <author>
+                     <persName ref="#Edgeworth_Maria"/>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>R. Hunter</publisher>
+                  <date when="1817"/>
+                  <note resp="#lmw">Contains three plays: <title level="a">Love and Law</title>; <title level="a">The Two Guardians</title>; and <title level="a">The Rose, Thistle and Shamrock</title>. Mitford rated them <quote>not good</quote>.</note>
+               </bibl>
+                
                <bibl xml:id="WalpoleltrstoCole">
                   <title level="m">Letters from the Hon. Horace Walpole, to the Rev. William Cole and others</title>
                   <author>
@@ -7001,17 +7304,7 @@ v. 3. The contrast. The grateful Negro. To-morrow.  --></note>
                </bibl>
                
                
-               <bibl xml:id="Walk_Switzerland">
-                  <title level="m">A Walk through Switzerland in September 1816</title>
-                  <author>
-                     <persName ref="#Hookham_T">Thomas Hookham</persName>
-                  </author>
-                  <pubPlace ref="#London_city">London</pubPlace>
-                  <publisher>T. Hookham, Jr.</publisher>
-                  <publisher>Baldwin, Cradock and Joy</publisher>
-                  <date when="1818">1818</date>
-                  <note resp="#lmw"></note>
-               </bibl>
+               
                
                <bibl xml:id="Quakers_EL">
                   <title level="m">The Quakers: A Tale</title>
