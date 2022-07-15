@@ -1342,9 +1342,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from dear <persName ref="#Mitford_Geo"
                         >Drum</persName>--the <orgName ref="#Dearsleys">Dearesleys</orgName> called while we were
                   at dinner &amp; we did not see them. <persName ref="#Green_Mr">Mr.
-                        Green</persName> called in the morning &amp; was very pleasant--read
-                     <title ref="#TenYearsatTripoli">a ten years <choice><sic resp="#coles">sic</sic><reg resp="#rjp">residence</reg></choice> in Tripoly</title>.</p>
-               <!--rjp:according to the next entry I would make the assumption that the word the original transcriber couldn't read and replaced with sic was residence-->
+                        Green</persName> called in the morning &amp; was very pleasant--read a
+                     <title ref="#TenYearsatTripoli">ten years in Tripoly</title>.</p>
             </div>
             <div type="entry">
                <head>
@@ -1447,7 +1446,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <div type="entry">
                <head>
                   <date when="1819-05-22">Saturday 22 <add>MAY</add></date> </head>
-               <p><add hand="#hunt"><persName ref="#Pope_Alex">Alexander Pope</persName>, <date when="1688">1688</date>.</add>
+               <p><add hand="#hunt"><persName ref="#Pope_Alex">Alexander Pope</persName>, <date when="1688">1688</date>.</add></p>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir William
                         Elford</persName> &amp;
                            <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName>--read <persName ref="#Byron"
