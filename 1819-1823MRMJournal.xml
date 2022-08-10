@@ -49,7 +49,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <date>2014</date>
             <availability>
                <p>Reproduced by courtesy of the <placeName>Reading Central
-                  Library</placeName>.<!--ebb:Double-check permissions bc the original manuscript is at the British Library. Any issues for us since we're reproducing the typed transcript from Reading Central Library?--></p>
+                  Library</placeName>.<!--ebb:Double-check permissions bc the original manuscript
+                    is at the British Library. Any issues for us since we're reproducing the typed transcript from Reading Central Library?--></p>
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
             </availability>
@@ -64,15 +65,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <collection>Accession Number: L 7088</collection>
                   <idno>qB/TU/MIT #1361549 REF. STRONGROOM. Barcode number:
                      34126003337949<!--ebb:is the last digit a g? I think it's a 9, but check at Reading Central Library.--></idno>
-
                </msIdentifier>
                <p>Our source text is marked as an <q>original carbon copy</q> of a typed transcript of
-                  Mary Russell Mitford's notebook. From the title page of the source text, <q>The
+                  Mary Russell Mitford's notebook. From the title page of the source text: <q>The
                   transcript of which this is a copy is in the possession of the Public Library,
                   Reading, Berks, England. A photostat copy of the MS is also available at that
-                  library. Copyright presumably rests with the British Museum. <date when="1955-07"
-                     >July 1955</date>.</q>
-                  <!--ebb:Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
+                  library.</q> Copyright presumably rests with the British Museum. <date when="1955-07"
+                     >July 1955</date>.
+                  <!--ebb: Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
             </msDesc>
          </sourceDesc>
          <sourceDesc>
@@ -522,7 +522,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head>
                   <date when="1819-02-14">Sunday 14 <add>FEBRUARY</add></date>
                </head>
-               <p>Wrote to <persName ref="#Clarke_Mrs">Mrs. Clarke</persName>--&amp; <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName ref="#James_Miss">Miss James</persName>. At <placeName
+               <p>Wrote to <persName ref="#MacareeClarke_Mrs">Mrs. Clarke</persName>--&amp; <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName ref="#James_Miss">Miss James</persName>. At <placeName
                      ref="#Bertram_house">home</placeName> all day--fed the pets.</p>
             </div>
             <div type="entry">
@@ -1329,7 +1329,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from dear <persName ref="#Mitford_Geo"
                         >Drum</persName>--the <orgName ref="#Dearsleys">Dearesleys</orgName> called while we were
-                  at dinner &amp; we did not see them. <persName ref="#Green_Mr">Mr. Green</persName> called in the morning &amp; was very pleasant--read a
+                  at dinner &amp; we did not see them. <persName ref="#Green_Mr_Berks">Mr. Green</persName> called in the morning &amp; was very pleasant--read a
                      <title ref="#TenYearsatTripoli">ten years in Tripoly</title>.</p>
             </div>
             <div type="entry">
@@ -2476,7 +2476,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                <head><date when="1819-09-19">Sunday 19 <add>SEPTEMBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--went <name ref="#filbert">filberd</name>ing &amp; 
-                     <name ref="#hazel">cobnut</name>ting<note resp="#lmw">Regional name for the nuts of the <name ref="#hazel">hazel</name>.</note> with <persName ref="#Mitford_Geo">Drum</persName>--<persName ref="#Green_Mr">Mr. Green called</persName> &amp; was very pleasant--walked down <placeName ref="#lane_BH">the lane</placeName> with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--<persName ref="#Molly_pet">Molly</persName> put up a <name ref="#partridge">partridge</name> &amp; <persName ref="#Marmy_pet">Marmy</persName> caught it. Saw a most beautiful <name ref="#butterfly">butterfly</name> in the grounds--missed my own dear <persName ref="#Mossy_pet">Mossy</persName> very much indeed.</p>
+                     <name ref="#hazel">cobnut</name>ting<note resp="#lmw">Regional name for the nuts of the <name ref="#hazel">hazel</name>.</note> with <persName ref="#Mitford_Geo">Drum</persName>--<persName ref="#Green_Mr_Berks">Mr. Green called</persName> &amp; was very pleasant--walked down <placeName ref="#lane_BH">the lane</placeName> with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--<persName ref="#Molly_pet">Molly</persName> put up a <name ref="#partridge">partridge</name> &amp; <persName ref="#Marmy_pet">Marmy</persName> caught it. Saw a most beautiful <name ref="#butterfly">butterfly</name> in the grounds--missed my own dear <persName ref="#Mossy_pet">Mossy</persName> very much indeed.</p>
             </div>
             <div type="entry">
                <head><date when="1819-09-20">Monday 20 <add>SEPTEMBER</add></date></head>
@@ -2591,7 +2591,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                <head><date when="1819-10-06">Wednesday 6 <add>OCTOBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--Heard from <persName ref="#Johnson_Mr">Mr. Johnson</persName>--went to <placeName
-                  ref="#Reading_city">Reading</placeName>--called at <persName ref="#Brooke_Mr">Mr. Brooke</persName>s--<orgName ref="#Newberys">Newberry's</orgName>--<orgName ref="#Garrards">Garrards</orgName>--<orgName ref="#Valpys">Valpy</orgName>s--<orgName ref="#Reading_Inst">Institution</orgName> &amp; <orgName ref="#MissWarwicks">Miss Warwicks</orgName>--Came <placeName ref="#Bertram_house"
+                  ref="#Reading_city">Reading</placeName>--called at <persName ref="#Brooke_Mr">Mr. Brooke</persName>s--<orgName ref="#Newberys">Newberry's</orgName>--<orgName ref="#Garrards">Garrards</orgName>--<orgName ref="#Valpys">Valpy</orgName>s--<orgName ref="#Reading_Inst">Institution</orgName> &amp; <persName ref="#Warwicke_Miss">Miss Warwicke</persName>--Came <placeName ref="#Bertram_house"
                      >home</placeName>
                   to dinner--saw many people--a very pleasant day.</p>
             </div>
@@ -2705,7 +2705,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             <div type="entry">
                <head><date when="1819-10-24">Sunday 24 <add>OCTOBER</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--dear <persName ref="#Mitford_Geo">Drum</persName>'s cold was so bad that we could not go to <placeName ref="#Wokingham_city">Wokingham</placeName> so <choice><sic>staid</sic><reg>stayed</reg></choice>
-                  at <placeName ref="#Bertram_house">home</placeName>--<persName ref="#Green_Mr">Mr. Green</persName> &amp; <persName ref="#Marsh_Henry">Harry Marsh</persName> called &amp; <choice><sic>staid</sic><reg>stayed</reg></choice> two hours &amp; were both of them exceedingly agreeable.</p>
+                  at <placeName ref="#Bertram_house">home</placeName>--<persName ref="#Green_Mr_Berks">Mr. Green</persName> &amp; <persName ref="#Marsh_Henry">Harry Marsh</persName> called &amp; <choice><sic>staid</sic><reg>stayed</reg></choice> two hours &amp; were both of them exceedingly agreeable.</p>
             </div>
             <div type="entry">
                <head><date when="1819-10-25">Monday 25 <add>OCTOBER</add></date></head>
@@ -3854,7 +3854,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <head><date when="1820-04-07">Friday 7 <add>APRIL</add></date></head>
                <p>At <placeName ref="#ThreeMileCross"
                   >home</placeName>--went <name ref="#violet">violet</name>ting to <placeName ref="#Bertram_house">Bertram House</placeName>--planted out <name ref="#flower">flower</name>s in our <placeName ref="#garden_TMC">garden</placeName>
-                  here--<persName ref="#Green_Mr">Mr. Green</persName> called while I was out--read <title ref="#Monastery_WS">the
+                  here--<persName ref="#Green_Mr_Berks">Mr. Green</persName> called while I was out--read <title ref="#Monastery_WS">the
                      Monastery</title>--pretty good
                   too.</p>
             </div>
@@ -3953,7 +3953,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             </div>
             <div type="entry">
                <head><date when="1820-04-23">Sunday 23 <add>APRIL</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName ref="#Mitford_Geo">Drum</persName> to our <placeName ref="#field_TMC">field</placeName> by the Brook--<persName ref="#Green_Mr">Mr. Green</persName> called while we were out--heard from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <title ref="#Mystery_TG">the Mystery</title>--a new novel--not very good.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName ref="#Mitford_Geo">Drum</persName> to our <placeName ref="#field_TMC">field</placeName> by the Brook--<persName ref="#Green_Mr_Berks">Mr. Green</persName> called while we were out--heard from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <title ref="#Mystery_TG">the Mystery</title>--a new novel--not very good.</p>
             </div>
             <div type="entry">
                <head><date when="1820-04-24">Monday 24 <add>APRIL</add></date></head>
@@ -4070,11 +4070,11 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             <div type="entry">
                <head><date when="1820-05-13">Saturday 13 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went in <placeName ref="#meadow_TMC">the meadows</placeName> with dear <persName ref="#Russell_M">Granny</persName>--<persName ref="#Hill_Lucy">Lucy</persName> finished my shilling <add resp="#coles">a</add>
-                  yard gown--wrote to <persName ref="#Green_Mr">Mr. Green</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
+                  yard gown--wrote to <persName ref="#Green_Mr_Berks">Mr. Green</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-14">Sunday 14 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName ref="#Green_Mr">Mr. Green</persName>'s--met <persName ref="#Madison_Mrs">Mrs. Madison</persName> &amp; <persName ref="#Taunton_Mrs">Mrs. Taunton</persName>--a very pleasant day--came <placeName ref="#ThreeMileCross">home</placeName> in the evening.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName ref="#Green_Mr_Berks">Mr. Green</persName>'s--met <persName ref="#Madison_Mrs">Mrs. Madison</persName> &amp; <persName ref="#Taunton_Mrs">Mrs. Taunton</persName>--a very pleasant day--came <placeName ref="#ThreeMileCross">home</placeName> in the evening.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-17">Monday 15 <add>MAY</add></date></head>
@@ -4182,21 +4182,18 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                
-               <org xml:id="Havell_Lib"> 
+               <org xml:id="Havell_Lib"> <!--done-->
                   <orgName>Havell's Library</orgName>
-                  <note resp="#lmw"><!--Subscription library in Reading? GM gets MRM a half year subscription in 1819. --></note>
-               </org>
-               <org xml:id="MissWarwicks">
-                  <orgName>Misses Warwicke</orgName>
-                  <orgName>Unmarried daughters of the Warwicke family. Lived in Reading.</orgName>
+                  <note resp="#lmw">Subscription library. <persName ref="#Mitford_Geo">George Mitford</persName> purchases a half year subscription for <persName ref="#MRM">Mary</persName> in <date when="1819-01">January 1819</date>. Source: Journal.</note>
                </org>
                
-               <org xml:id="BroughtonDas">
+               <org xml:id="BroughtonDas"><!--done-->
                   <orgName>Misses Broughton</orgName>
+                  <orgName><surname>Broughton</surname></orgName>
                   <orgName>Unmarried daughters of the Broughton family.</orgName>
                </org>
                
-               <org xml:id="Drovers">
+               <org xml:id="Drovers"><!--done-->
                   <orgName>the Drover family</orgName>
                   <orgName>Drovers</orgName>
                   <orgName>
@@ -4208,81 +4205,81 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            Street</placeName>.</note>
                </org>
                   
-                  <org xml:id="Whites">
+               <org xml:id="Whites"><!--done-->
                      <orgName>The White family</orgName>
                      <orgName>Whites</orgName>
                      <orgName><surname>White</surname></orgName>
                      <note resp="#lmw"></note>
                   </org>
                   
-               <org xml:id="Brookes">
+               <org xml:id="Brookes"><!--done-->
                   <orgName>the Brooke family</orgName>
                   <orgName>Brookes</orgName>
                   <orgName><surname>Brooke</surname></orgName>
                   <note resp="#lmw"><!--Mr. and Miss Brooke--></note>
                   </org> 
                   
-               <org xml:id="Garrards">
+               <org xml:id="Garrards"><!--done-->
                   <orgName>the Garrard family</orgName>
                   <orgName>Garrards</orgName>
                   <orgName><surname>Garrard</surname></orgName>
                   <note resp="#lmw"></note>
                </org>
                
-               <org xml:id="Hawkes_family">
+               <org xml:id="Hawkes_family"><!--done-->
                   <orgName>the Hawkes family</orgName>
                   <orgName>Hawkes's</orgName>
                   <orgName><surname>Hawkes</surname></orgName>
                   <note resp="#lmw">Associated with <placeName ref="#Reading_city">Reading</placeName></note>
                </org>
                   
-               <org xml:id="Joliffes">
+               <org xml:id="Joliffes"><!--done-->
                   <orgName>the Joliffe family</orgName>
                   <orgName>Joliffes</orgName>
                   <orgName><addName>Jolliffes</addName></orgName>
                   <orgName><surname>Joliffe</surname></orgName>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Surname variously spelled <q>Joliffe</q> and <q>Jollife</q>.</note>
                  </org>
                   
-                  <org xml:id="Sherwoods">
+               <org xml:id="Sherwoods"><!--done-->
                      <orgName>the Sherwood family</orgName>
                      <orgName>Sherwoods</orgName>
                      <orgName><surname>Sherwood</surname></orgName>
-                     <note resp="#lmw">The family of <persName ref="#Sherwood_Mr">Mr. Sherwood</persName>, the local doctor</note>
+                     <note resp="#lmw">In 1819, the family of <persName ref="#Sherwood_Mr">Mr. Sherwood</persName>, the local doctor.</note>
                   </org>
 
-               <org xml:id="Newberys">
+               <org xml:id="Newberys"><!--done-->
                   <orgName>the Newbery family</orgName>
                   <orgName>Newberys</orgName>
                   <orgName><addName>Newberrys</addName></orgName>
                   <orgName><surname>Newbery</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob Newberry</persName>.</note>
+                  <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob Newberry</persName>. Surname variously spelled <q>Newbery</q> and <q>Newberry</q>.</note>
                   </org>
                   
-               <org xml:id="Anstruthers">
+               <org xml:id="Anstruthers"><!--done-->
                   <orgName>the Anstruther family</orgName>
                   <orgName>Anstruthers</orgName>
                   <orgName><surname>Anstruther</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Anstruther_Col">Col. Anstruther</persName>.</note>
+                  <note resp="#lmw">The family of <persName ref="#Anstruther_Col">Col. Anstruther</persName>. Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
                </org>
                   
-               <org xml:id="Shuters">
+               <org xml:id="Shuters"><!--done-->
                   <orgName>the Shuter family</orgName>
                   <orgName>Shuters</orgName>
                   <orgName><surname>Shuter</surname></orgName>
                   <note resp="#lmw">The family of <persName ref="#Shuter_Mr">Mr. Shuter</persName>.</note>
                </org>
                
-               <org xml:id="Marsh_family">
+               <org xml:id="Marsh_family"><!--done-->
                   <orgName>the Marsh family</orgName>
                   <orgName>Marshes</orgName>
                   <orgName><surname>Marsh</surname></orgName>
                   <note resp="#lmw">The family of <persName ref="#Marsh_Henry">Harry Marsh</persName> and <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>.</note>
                </org>
                
-               <org xml:id="Marshs_shop"> 
+               <org xml:id="Marshs_shop"> <!--done-->
                   <orgName>Marsh's</orgName>
-                  <note resp="#rjp #lmw"><!--This is a place the MRM goes to purchase things...likely a retail
+                  <note resp="#rjp #lmw">Likely a retail store in Reading.<!--This is a place the MRM goes to purchase things...likely a retail
                      store...VERIFY!--><!--LMW: MADE AN orgName as a business, rather than a place. Any relation to Harry Marsh? one-time banker--></note>
                </org>
                
@@ -4291,22 +4288,24 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
            
             <listPerson sortKey="histPersons">
             
-               <person xml:id="Solomon" sex="u">
+               <person xml:id="Solomon" sex="u"><!--done-->
                   <persName>Solomon</persName>
-                  <note resp="#lmw"><!-- a pet?? a person (no last name)--></note>
+                  <note resp="#lmw">May be the name of a Mitford servant or pet. Surname not given.</note>
                </person>
                
-               <person xml:id="Slops" sex="u">
+               <person xml:id="Slops" sex="u"><!--done-->
                   <persName>Slops</persName>
-                  <note resp="#lmw"><!-- a pet?? --></note>
+                  <note resp="#lmw">May be a Mitford pet.</note>
                </person>
                
                <person xml:id="SchlegelF" sex="m"> <!-- finish -->
-                  <persName>Friederich von Schlegel</persName>
+                  <persName>Friedrich von Schlegel</persName>
                   <persName>
                      <surname><nameLink>von</nameLink> Schlegel</surname>
                      <forename>Friedrich</forename>
                   </persName>
+                  <birth when="1771-03-10"></birth>
+                  <death when="1829-01-12"></death>
                </person>
                
                <person xml:id="LopedeVega" sex="m"> <!-- finish -->
@@ -5090,7 +5089,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
                </person>
                
-               <person xml:id="Marmy_pet" sex="f">
+               <person xml:id="Marmy_pet" sex="f"><!--done-->
                   <persName>Marmy</persName>
                   <persName><addName>Marmion</addName></persName>
                   <note resp="#lmw">One of Mitford's greyhounds at <placeName ref="#Bertram_house">Bertram House</placeName> in <date when="1819">1819</date>.</note>
@@ -5243,7 +5242,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note><!-- assocuated with Porteous trial --></note>
                </person>
                
-               <person xml:id="Armstrong_Mr" sex="m">
+               <person xml:id="Armstrong_Mr" sex="m"><!--done-->
                   <persName>Mr. Armstrong</persName>
                   <persName>
                      <surname>Armstrong</surname>
@@ -5252,7 +5251,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Bacon_Mr" sex="m">
+               <person xml:id="Bacon_Mr" sex="m"><!--done-->
                   <persName>Mr. Bacon</persName>
                   <persName>
                      <surname>Bacon</surname>
@@ -5261,34 +5260,34 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Allingham_Mrs" sex="m">
+               <person xml:id="Allingham_Mrs" sex="m"><!--done-->
                   <persName>Mrs. Allingham</persName>
                   <persName>
                      <surname>Allingham</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw"><!--likely mother of Mrs. Dickinson?--></note>
+                  <note resp="#lmw">Likely the mother of <persName ref="#Dickinson_Mrs">Catherine Dickinson</persName>. Mitford visited them at <placeName ref="#Farley_Hill">Farley Hill</placeName> in 1820, when their daughter <persName ref="#Dickinson_Daughter">Frances</persName> was born.</note>
                </person>
                
-               <person xml:id="Bath_Mrs" sex="m">
+               <person xml:id="Bath_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Bath</persName>
                   <persName>
-                     <surname>Bath</surname>
+                     <surname type="married">Bath</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw"><!--Lives in Reading?--></note>
+                  <note resp="#lmw">Associated with <placeName ref="#Reading_city">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Allin_Miss" sex="f">
+               <person xml:id="Allin_Miss" sex="f"><!--done-->
                   <persName>Miss Allin</persName>
                   <persName>
                      <surname>Allin</surname>
                      <roleName>Miss</roleName>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Correponded with Mitford in 1819. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Bailley_Dr" sex="m">
+               <person xml:id="Bailley_Dr" sex="m"><!--done-->
                   <persName>Dr. Bailley</persName>
                   <persName>
                      <surname>Bailley</surname>
@@ -5298,7 +5297,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="Biggs_Miss" sex="f">
+               <person xml:id="Biggs_Miss" sex="f"><!--done-->
                   <persName>Miss Biggs</persName>
                   <persName>
                      <surname>Biggs</surname>
@@ -5307,14 +5306,17 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Forename unknown. Dates unknown.<!--associated with Mr. and Miss Johnson --></note>
                </person>
                
-               <person xml:id="Hawkes_Miss" sex="f">
+               <person xml:id="Hawkes_Miss" sex="f"><!--done-->
                   <persName>Miss Hawkes</persName>
                   <persName>
                      <surname>Hawkes</surname>
                      <roleName>Miss</roleName>
                   </persName>
-                  <note resp="#lmw">of Reading</note>
+                  <note resp="#lmw">Lived in <placeName ref="#Reading_city">Reading</placeName>, where Mitford visits her in 1819. Source: Journal.</note>
                </person>
+               
+               
+               <!--LMW: not a dup.-->
                
                <person xml:id="Hill_Mr" sex="m">
                   <persName>Mr. Hill</persName>
@@ -5358,7 +5360,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname type="married">Marsh</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw">Likely the spouse of <persName ref="#Marsh_Henry">Harry Marsh</persName>Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.</note>
+                  <note resp="#lmw">Likely the spouse of <persName ref="#Marsh_Henry">Harry Marsh</persName>. Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
         
                <person xml:id="Bullard_Mrs" sex="f">
@@ -5367,7 +5369,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname type="married">Bullard</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw">Associated with <placeName ref="#Wokingham">Wokingham</placeName>.Forename unknown. Dates unknown.</note>
+                  <note resp="#lmw">Associated with <placeName ref="#Wokingham">Wokingham</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
                <person xml:id="Falmore_Mrs" sex="f">
@@ -5392,7 +5394,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             
                   
                   
-                  <person xml:id="Boscawen_Col" sex="m">
+               <person xml:id="Boscawen_Col" sex="m"><!--done-->
                      <persName>Col. Boscawen</persName>
                      <persName>
                         <surname>Boscawen</surname>
@@ -5420,7 +5422,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            Bedford and died in childbirth on April 28, 1819.--><!--LMW: there is also a Miss Budd who died, possibly married name Mrs. Parks. And George Whittaker married a Sarah Budd, mother of the Whittakers Mitford knew who became publishers. --></note>
                      </person>
                      
-                     <person xml:id="Carter_Mr" sex="m"> 
+               <person xml:id="Carter_Mr" sex="m"> <!--done-->
                         <persName>Mr. Carter</persName>
                         <persName>
                            <surname>Carter</surname>
@@ -5429,7 +5431,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                         <note resp="#lmw"><!--MRM meets him at the Webbs --></note>
 </person>
                      
-                     <person xml:id="Chamberlaine_Jeremy" sex="m">
+               <person xml:id="Chamberlaine_Jeremy" sex="m"><!--done-->
                         <persName>
                            <surname>Chamberlaine</surname>
                            <forename>Jeremy</forename>
@@ -5438,7 +5440,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                         <note resp="#lmw"></note>
                      </person>
                      
-                     <person xml:id="Champernowne_Mr" sex="m">
+               <person xml:id="Champernowne_Mr" sex="m"><!--done-->
                         <persName>Mr. Champernowne</persName>
                         <persName>
                            <surname>Champernoune</surname>
@@ -5451,7 +5453,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      </person>
                      
                      
-                     <person xml:id="Cliff_Jesse" sex="f">
+               <person xml:id="Cliff_Jesse" sex="f"><!--done-->
                         <persName>Jesse Cliff</persName>
                         <persName>
                            <surname>Cliff</surname>
@@ -5460,7 +5462,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                         <note resp="#rjp">Jesse Clif gave the Mitford family elderly bantams in 1819.<!--lmw: Jesse Clift - spelling? there is a story named jesse Cliffe in country stories. I believe it should be Cliff--></note>
                      </person>
                      
-                     <person xml:id="Davies_Mr" sex="m">
+               <person xml:id="Davies_Mr" sex="m"><!--done-->
                         <persName>Mr. Davies</persName>
                         <persName>
                            <surname>Davies</surname>
@@ -5469,7 +5471,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                         <note resp="#rjp #lmw"><!--Owns a neighboring meadow.--><!--LMW: same as Farmer Davies?--></note>
                      </person>
                      
-                        <person xml:id="Dearesley_Mr" sex="m">
+               <person xml:id="Dearesley_Mr" sex="m"><!--done-->
                            <persName>Mr. Dearesley</persName>
                            <persName>
                               <surname>Dearesley</surname>
@@ -5497,7 +5499,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#lmw"><!--LMW: July 1819 journal mentions both Mr. John Deverell and then Mr. Deverell.  John could be the son of Mr.--></note>
                         </person>
                         
-                        <person xml:id="Green_Mr" sex="m">
+               <person xml:id="Green_Mr" sex="m"><!--done-->
                            <persName>Mr. Green</persName>
                            <persName>
                               <surname>Green</surname>
@@ -5506,7 +5508,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#lmw"><!--LMW: review my notes on eminent persons of Reading--></note>
                         </person>
                         
-                        <person xml:id="Greenwell_Mrs" sex="f">
+                        <person xml:id="Greenwell_Mrs" sex="f"><!--done-->
                            <persName>Mrs. Greenwell</persName>
                            <persName>
                               <surname type="married">Greenwell</surname>
@@ -5514,7 +5516,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            </persName>
                         </person>
                         
-                        <person xml:id="Harley_Miss" sex="f">
+                        <person xml:id="Harley_Miss" sex="f"><!--done-->
                            <persName>Miss Harley</persName>
                            <persName>
                               <surname type="paternal">Harley</surname>
@@ -5523,7 +5525,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#lmw"><!--LMW: Could this be transription error for Miss HAWLEY? Mr. Hawley marries Besty Broughton.--> </note>
                         </person>
                         
-                        <person xml:id="Havell_Mrs" sex="f">
+                        <person xml:id="Havell_Mrs" sex="f"><!--done-->
                            <persName>Mrs. Havell</persName>
                            <persName>
                               <surname type="married">Havell</surname>
@@ -5532,16 +5534,16 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#lmw"><!--LMW: Any connection to Havell's, the circulating library?--></note>
                         </person>
                            
-                           <person xml:id="Hayward_MrsW" sex="f">
+                           <person xml:id="Hayward_MrsW" sex="f"><!--done-->
                               <persName>Mrs. Hayward</persName>
                               <persName>
                                  <surname type="married">Hayward</surname>
                                  <roleName>Mrs.</roleName>
                               </persName>
-                              <note resp="#lmw"><!--LMW: Journal address Watlington. MRM also corresponds in 1830s with Abraham H (son? b. 1801) There is a Mr. and Mrs. Hayward with a first born daughter.  Mrs. first initial may be H. Mr's first initial may be W. Check ancestry tree.--></note>
+                              <note resp="#lmw">Associated with <placeName ref="#Watlington">Watlington</placeName><!--LMW: Journal address Watlington. MRM also corresponds in 1830s with Abraham H (son? b. 1801) There is a Mr. and Mrs. Hayward with a first born daughter.  Mrs. first initial may be H. Mr's first initial may be W. Check ancestry tree.--></note>
                            </person>
                            
-                           <person xml:id="Harris_Mr" sex="m">
+                           <person xml:id="Harris_Mr" sex="m"><!--done-->
                               <persName>Mr. Harris</persName>
                               <persName>
                                  <surname>Harris</surname>
@@ -5598,7 +5600,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      droll boy who lived at <persName ref="#Body_Richard">Mr. Body</persName>'s 2 years ago &amp; then went to <placeName ref="#London_city">London</placeName></quote>. Possibly a young servant. Surname unknown. Dates unknown. Source: Journal.</note>
                </person>
                
-                           <person xml:id="Madison_Mrs" sex="f">
+               <person xml:id="Madison_Mrs" sex="f"><!--done-->
                               <persName>Mrs. Madison</persName>
                               <persName>
                                  <surname type="married">Madison</surname> <surname><addName>Maddison</addName></surname>
@@ -5607,7 +5609,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                               <note resp="#lmw"></note>
                            </person>
                               
-                              <person xml:id="Maitland_Mr" sex="m">
+               <person xml:id="Maitland_Mr" sex="m"><!--done-->
                                  <persName>Mr. Maitland</persName>
                                  <persName>
                                     <surname>Maitland</surname>
@@ -5625,7 +5627,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                      
-                              <person xml:id="Newell_Mrs" sex="f">
+               <person xml:id="Newell_Mrs" sex="f"><!--done-->
                                  <persName>Mrs. Newell</persName>
                                  <persName>
                                     <surname type="married">Newell</surname>
@@ -5634,7 +5636,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#lmw"></note>
                               </person>
                               
-                              <person xml:id="Ogbourn_Miss" sex="f">
+               <person xml:id="Ogbourn_Miss" sex="f"><!--done-->
                                  <persName>Miss Ogbourn</persName>
                                  <persName>
                                     <surname type="paternal">Ogbourn</surname>
@@ -5666,7 +5668,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                               </person>
                               -->
                               
-                              <person xml:id="Payn_Mrs" sex="f">
+               <person xml:id="Payn_Mrs" sex="f"><!--done-->
                                  <persName>Mrs. Payn</persName>
                                  <persName>
                                     <surname type="married">Payn</surname>
@@ -5676,7 +5678,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  </note>
                               </person>
                               
-                              <person xml:id="Payn_Mr" sex="m">
+               <person xml:id="Payn_Mr" sex="m"><!--done-->
                                  <persName>Mr. Payn</persName>
                                  <persName>
                                     <surname>Payn</surname>
@@ -5686,7 +5688,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  </note>
                               </person>
                               
-                              <person xml:id="Piles_Mr" sex="m">
+               <person xml:id="Piles_Mr" sex="m"><!--done-->
                                  <persName>Mr. Piles</persName>
                                  <persName>
                                     <surname>Piles</surname>
@@ -5695,7 +5697,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#lmw"></note>
                               </person>
                               
-                              <person xml:id="Pithers_Mr" sex="m">
+               <person xml:id="Pithers_Mr" sex="m"><!--done-->
                                  <persName>Mr. Pithers</persName>
                                  <persName>
                                     <surname>Pithers</surname>
@@ -5704,7 +5706,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#rjp #lmw"><!--Owns a neighboring field.--></note>
                               </person>
                
-                              <person xml:id="Rapley_Betty" sex="f">
+               <person xml:id="Rapley_Betty" sex="f"><!--done-->
                                  <persName>
                                     <surname>Rapley</surname>
                                     <forename>Betty</forename>
@@ -5730,7 +5732,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                               
-               <person xml:id="StQuentin">
+               <person xml:id="StQuentin"><!--done-->
                                  <persName>M. St. Quentin</persName>
                                  <persName>
                                     <surname>St. Quentin</surname>
@@ -5738,14 +5740,14 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#lmw"><!-- LMW: M. St. Quentin partner and later spouse of Mrs. Rowden. Consult Rowden tree.--></note>
                                  </person>
 
-                                 <person xml:id="Slade_F" sex="m">
+               <person xml:id="Slade_F" sex="m"><!--done-->
                                     <persName>
                                        <surname>Slade</surname> <forename>Frederick</forename>
                                     </persName>
                                     <note resp="#lmw"></note>
                                  </person>
                                  
-                                 <person xml:id="Spurling_Mr" sex="m">
+               <person xml:id="Spurling_Mr" sex="m"><!--done-->
                                     <persName>Mr. Spurling</persName>
                                     <persName>
                                        <surname>Spurling</surname>
@@ -5773,7 +5775,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person> 
                
-               <person xml:id="Taunton_Mrs" sex="f">
+               <person xml:id="Taunton_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Taunton</persName>
                   <persName>
                      <surname type="married">Taunton</surname>
@@ -5782,7 +5784,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                                     
-                                    <person xml:id="Voules_Mr" sex="m">
+               <person xml:id="Voules_Mr" sex="m"><!--done-->
                                        <persName>Mr. Voules</persName>
                                        <persName>
                                           <surname>Voules</surname>
@@ -5791,7 +5793,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                        <note resp="#lmw"></note>
                                     </person>
                
-                                    <person xml:id="Voules_Mrs" sex="f">
+               <person xml:id="Voules_Mrs" sex="f"><!--done-->
                                        <persName>Mrs. Voules</persName>
                                        <persName>
                                           <surname type="married">Voules</surname>
@@ -5801,7 +5803,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                        <note resp="#rjp #lmw">She receives one of Molly's puppies, born in 1819.<!--LMW: likely married couple with Mr. Voules.--></note>
                                     </person>
                                     
-                                    <person xml:id="Walker_Mr" sex="m"> 
+               <person xml:id="Walker_Mr" sex="m"> <!--done-->
                                        <persName>Mr. Walker</persName>
                                        <persName>
                                           <surname>Walker</surname>
@@ -5810,7 +5812,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                        <note resp="#lmw"><!--LMW: MRM corresponds with a Mrs. Walker in 1842--></note>
                                     </person>
                                     
-               <person  xml:id="Waterton_Mrs" sex="f">
+               <person  xml:id="Waterton_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Waterton</persName>
                   <persName>
                      <surname type="married">Waterton</surname>
@@ -5819,7 +5821,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                                     
-                                    <person xml:id="White_Mr" sex="m"> 
+                                    <person xml:id="White_Mr" sex="m"> <!--done-->
                                        <persName>Mr. White</persName>
                                        <persName>
                                           <surname>White</surname>
@@ -5828,7 +5830,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                        <note resp="#lmw"><!--LMW: Tom White mentioned in connection with Captain Tuppen. Same as Mr. White, or his son?--></note>
                                     </person>
                
-               <person xml:id="White_Tom" sex="m"> 
+               <person xml:id="White_Tom" sex="m"> <!--done-->
                   <persName>Tom White</persName>
                   <persName>
                      <surname>White</surname>
@@ -5837,7 +5839,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"><!--LMW: Tom White mentioned in connection with Captain Tuppen. Same as Mr. White, or his son?--></note>
                </person>
                                     
-               <person xml:id="Williams_Mr" sex="m"> 
+               <person xml:id="Williams_Mr" sex="m"> <!--done-->
                   <persName>Mr. Williams</persName>
                                        <persName><surname>Williams</surname>
                                           <roleName>Mr.</roleName>
@@ -5845,14 +5847,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"><!--LMW Is Miss Williams, in SI, his daughter?--></note>
                                     </person>
                                     
-                                    <!--IN SI: (daughter of Mr.?_)     <person xml:id="Williams_Miss" sex="f">
-                                       <persName>Miss Williams</persName>
-                                       <persName>
-                                          <surname type="paternal">Williams</surname>
-                                          <roleName>Miss</roleName>
-                                       </persName>
-                                       <note resp="#lmw">A correspondent of <persName ref="#MRM">Mary Russell Mitford</persName> in <date when="1837">1837</date>. Forename unknown. More research needed.</note>
-                                    </person>-->
+                                    
             </listPerson>
          </div>
             
@@ -5861,7 +5856,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                
                <place xml:id="copse_Dearesley">
                   <placeName>Mr. Dearesley's copse</placeName>
-                  <district>xxx</district><!--??-->
+                  <!--<district>xxx</district>-->
                   <region>Berkshire</region>
                   <country>England</country>
                   <note resp="#lmw"></note>
