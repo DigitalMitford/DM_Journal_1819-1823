@@ -1473,7 +1473,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      loss of her <name ref="#horse">carriage horse</name>s--<persName
                         ref="#Mitford_Geo">Drum</persName> &amp; I dined at
                         <placeName ref="#Wokingham_city">Wokingham</placeName> to keep <date when="1819-05-24"
-                           ><persName ref="#Webb_James">Mr. Webb</persName>'s birthday</date>--met <persName ref="#Holton_Mr #Holton_Mrs">Mr.
+                           ><persName ref="#Webb_James">Mr. Webb</persName>'s birthday</date>--met <persName ref="#Holton_Paul #Holton_Mrs">Mr.
                      &amp; Mrs. Holton</persName>, <persName ref="#Wheeler_Mr #Wheeler_J">two Mr. Wheelers</persName>, &amp;
                      <persName ref="#Hayward_MrW #Hayward_MrsW">Mr. &amp; Mrs. W. Hayward</persName>--pleasant day. Came <placeName
                      ref="#Bertram_house">home</placeName> at night.</p>
@@ -4344,7 +4344,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <persName>Selena Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
-                     <surname type="paternal">Wheler</surname>
+                     <surname type="paternal">Wheeler</surname>
                      <forename>Selena</forename>
                      <forename>Granville</forename>
                   </persName>
@@ -4378,7 +4378,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <persName><addName>Mrs. Blackford</addName></persName>
                </person>
                
-               <person xml:id="Robinson_Mary" sex="f"> <!-- finish -->
+               <person xml:id="Robinson_Mary" sex="f"> <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
                      <surname type="married">Robinson</surname>
@@ -4547,7 +4547,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Marshall_MrsLA" sex="f"> <!-- finish -->
+               <person xml:id="Marshall_MrsLA" sex="f"> <!-- done -->
                   <persName>Mrs. L. A. Marshall</persName>
                   <persName>
                      <surname type="married">Marshall</surname>
@@ -4566,7 +4566,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Surname also spelled MacDonough.</note>
                </person>
                
-               <person xml:id="Wilhelmina_Prussia1709" sex="f"> <!-- finish -->
+               <person xml:id="Wilhelmina_Prussia1709" sex="f">
                   <persName>Frederika Sophie Wilhelmine of Prussia</persName>
                   <persName>
                      <forename>Frederika</forename>
@@ -4605,7 +4605,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <placeName>Woolbrook Cottage, Sidmouth, Devon, England</placeName>
                   </death>
                   <occupation type="military"/>
-                  <note resp="#lmw">4th son of <persName ref="#GeoIII">King George III</persName>, his daughter became <persName ref="#Victoria_Queen">Queen Victoria</persName>, following the 1817 death of Princess Charlotte, the royal family's only other legitimate grandchild. Served as a British army officer in Quebec and Halifax in the 1790s and played an influential role in the UK's changing relations with Upper and Lower Canada and with the United States. From 1799, he served as Commander-in-Chief of British forces in North America. Also served with the rank of Field Marshal in the French Revolutionary and Coalition (Napoleonic) Wars. He died of pneumonia and Mitford dons mourning dress for him.</note>
+                  <note resp="#lmw">4th son of <persName ref="#GeoIII">King George III</persName>, his daughter became <persName ref="#Victoria_Queen">Queen Victoria</persName>, following the 1817 death of Princess Charlotte, the royal family's only other legitimate grandchild. Served as a British army officer in Quebec and Halifax in the 1790s and played an influential role in the UK's changing relations with Upper and Lower Canada and with the United States. From 1799, he served as Commander-in-Chief of British forces in North America. Also served with the rank of Field Marshal in the French Revolutionary and Coalition (Napoleonic) Wars. He died of pneumonia and <persName ref="#MRM">Mitford</persName> dons mourning dress for him.</note>
                   <note><ptr target="https://commons.wikimedia.org/wiki/File:Edward,_Duke_of_Kent_and_Strathearn_by_Sir_William_Beechey.jpg"/></note>
                </person>
                
@@ -4690,7 +4690,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Lawrence_Wm" sex="m"> <!-- finish -->
+               <person xml:id="Lawrence_Wm" sex="m"> <!-- done -->
                   <persName>William Lawrence</persName>
                   <persName>
                      <surname>Lawrence</surname>
@@ -4843,7 +4843,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <person xml:id="deChaboulon" sex="m"> <!-- finish -->
                   <persName>Pierre Alexandre Edouard Fleury de Chaboulon</persName>
                   <persName>
-                     <surname>de Chaboulon</surname>
+                     <surname><nameLink>de</nameLink>Chaboulon</surname>
                      <forename>Pierre</forename>
                      <forename>Alexandre</forename>
                      <forename>Edouard</forename>
@@ -4950,7 +4950,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <roleName>Professor</roleName>
                   </persName>
                   <occupation type="medical" subtype="physician"/>
-                  <note resp="#lmw">M.D. and Professor of Moral Philosophy at the University of Edinburgh</note>
+                  <note resp="#lmw">M.D. and Professor of Moral Philosophy at the University of Edinburgh.</note>
                </person>
                
                <person xml:id="Cook1" sex="u">
@@ -5318,7 +5318,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                
                <!--LMW: not a dup.-->
                
-               <person xml:id="Hill_Mr" sex="m">
+               <person xml:id="Hill_Mr" sex="m"><!--done-->
                   <persName>Mr. Hill</persName>
                   <persName>
                      <surname>Hill</surname>
@@ -5327,7 +5327,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Received one of <persName ref="#Molly_pet">Molly</persName>'s two puppies, born in 1819.</note>
                </person>
                
-               <person xml:id="Hudswell_Mrs" sex="f">
+               <person xml:id="Hudswell_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Hudswell</persName>
                   <persName>
                      <surname type="married">Hudswell</surname>
@@ -5336,7 +5336,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Associated with <placeName ref="#Reading_city">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Jenkins_Mrs" sex="f">
+               <person xml:id="Jenkins_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Jenkins</persName>
                   <persName>
                      <surname type="married">Jenkins</surname>
@@ -5346,7 +5346,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </person>
                
                <person xml:id="Letchworth_Mrs" sex="f">
-                  <persName>Mrs. Letchworth</persName>
+                  <persName>Mrs. Letchworth</persName><!--done-->
                   <persName>
                      <surname type="married">Letchworth</surname>
                      <roleName>Mrs.</roleName>
@@ -5354,7 +5354,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Marsh_Mrs" sex="f">
+               <person xml:id="Marsh_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Marsh</persName>
                   <persName>
                      <surname type="married">Marsh</surname>
@@ -5363,7 +5363,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Likely the spouse of <persName ref="#Marsh_Henry">Harry Marsh</persName>. Associated with <placeName ref="#Reading">Reading</placeName>. Forename unknown. Dates unknown.</note>
                </person>
         
-               <person xml:id="Bullard_Mrs" sex="f">
+               <person xml:id="Bullard_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Bullard</persName>
                   <persName>
                      <surname type="married">Bullard</surname>
@@ -5372,7 +5372,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Associated with <placeName ref="#Wokingham">Wokingham</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Falmore_Mrs" sex="f">
+               <person xml:id="Falmore_Mrs" sex="f"><!--done-->
                   <persName>Mrs. Falmore</persName>
                   <persName>
                      <surname type="married">Falmore</surname>
@@ -5381,14 +5381,14 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Associated with <placeName ref="#Wokingham">Wokingham</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Knyvett_MissH" sex="f">
+               <person xml:id="Knyvett_MissH" sex="f"><!--done-->
                   <persName>Miss H. Knyvett</persName>
                   <persName>
                      <surname type="paternal">Knyvett</surname>
                      <forename>H.</forename>
                      <roleName>Miss</roleName>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <note></note>
                </person>
                
             
@@ -5403,7 +5403,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <note resp="#lmw"></note>
                   </person>
                      
-                     <person xml:id="Boyd_Mrs" sex="f">
+               <person xml:id="Boyd_Mrs" sex="f"><!--done-->
                         <persName>Mrs. Boyd</persName>
                         <persName>
                            <surname type="married">Boyd</surname>
@@ -5412,7 +5412,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                         <note resp="#lmw"></note>
                      </person>
                      
-                     <person xml:id="Budd_Mrs" sex="f">
+               <person xml:id="Budd_Mrs" sex="f"><!--done-->
                         <persName>Mrs. Budd</persName>
                         <persName>
                            <surname type="married">Budd</surname>
@@ -5423,7 +5423,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      </person>
                      
                <person xml:id="Carter_Mr" sex="m"> <!--done-->
-                        <persName>Mr. Carter</persName>
+                  <persName>Mr. Carter</persName><!--done-->
                         <persName>
                            <surname>Carter</surname>
                            <roleName>Mr.</roleName>
@@ -5481,7 +5481,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#rjp #lmw"><!--LMW: Mr or Dr Dearesley Two people? transcription error?? check against ms. and any letters--></note>
                         </person>
                         
-                        <person xml:id="Deverell_John" sex="m">
+                        <person xml:id="Deverell_John" sex="m"><!--done-->
                            <persName>John Deverell</persName>
                            <persName>
                               <surname>Deverell</surname>
@@ -5490,7 +5490,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                            <note resp="#lmw"><!--LMW: July 1819 journal mentions both Mr. John Deverell and then Mr. Deverell.  John could be the son of Mr.--></note>
                         </person>
                         
-                        <person xml:id="Deverell_Mr" sex="m"> 
+                        <person xml:id="Deverell_Mr" sex="m"> <!--done-->
                            <persName>Mr. Deverell</persName>
                            <persName>
                               <surname>Deverell</surname>
@@ -5573,25 +5573,18 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <!-- Haydon, Christ's Entry into Jerusalem, now in Ohio: http://www.athenaeum.edu/discover/Artcollection.aspx -->
                </person>
                
-               <person xml:id="Holton_Mr" sex="m">
-                  <persName>Mr. Holton</persName>
-                  <persName>
-                     <surname>Holton</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"></note>
-               </person>
                
-               <person xml:id="Holton_Mrs" sex="m">
+               
+               <person xml:id="Holton_Mrs" sex="m"><!--done-->
                   <persName>Mrs. Holton</persName>
                   <persName>
                      <surname>Holton</surname>
                      <roleName>Mrs.</roleName>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw"> Spouse of <persName ref="#Holton_Paul"></persName>. They lived in <placeName ref="#Wokingham_city">Wokingham</placeName> and were friends with the <orgName ref="#Webbs">Webbs</orgName>. Source: Journal. </note>
                </person>
                
-               <person xml:id="Jack_boy" sex="m">
+               <person xml:id="Jack_boy" sex="m"><!--done-->
                   <persName>Jack</persName>
                   <persName>
                      <forename>Jack</forename>
@@ -5618,13 +5611,13 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#lmw"></note>
                               </person>
                
-               <person xml:id="Morris_Mr" sex="m">
+               <person xml:id="Morris_Mr" sex="m"><!--done-->
                   <persName>Mr. Morris</persName>
                   <persName>
                      <surname>Morris</surname>
                      <roleName>Mr.</roleName>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Associated with <placeName ref="#Wokingham_city">Wokingham</placeName>. Forename unknown. Dates unknown.</note>
                </person>
                      
                <person xml:id="Newell_Mrs" sex="f"><!--done-->
@@ -5714,13 +5707,13 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                                  <note resp="#lmw"><!-- LMW: Same person as Elizabeth Rapley?--></note>
                               </person>
                               
-               <person xml:id="Rainy_Mr" sex="m">
+               <person xml:id="Rainy_Mr" sex="m"><!--done-->
                   <persName>Mr. Rainy</persName>
                   <persName>
                      <surname>Rainy</surname>
                      <roleName>Mr.</roleName>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Person who came to see <placeName ref="#Bertram_house">Bertram House</placeName> in 1819. Source: Journal.</note>
                </person>
                
                <person xml:id="Cockle_Gen" sex="m">
@@ -6348,7 +6341,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="Country_Neighbours"><!--existing entry, fix date-->
-                  <title level="m">Tales of Fancy: Country Neighbors, or, The Secret</title>
+                  <title level="m">Tales of Fancy: Country Neighbors; or, The Secret</title>
                   <author>
                      <persName ref="#Burney_SH">Sarah Harriet Burney</persName>
                   </author>
