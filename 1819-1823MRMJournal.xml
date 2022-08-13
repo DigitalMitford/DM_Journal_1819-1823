@@ -1180,7 +1180,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--waited
                      again <note resp="#rjp">For <persName ref="#Palmer_Mad">Lady Madaline Palmer</persName></note><!--rjp:she is waiting for Lady M.P. LMW: done.-->--dined early--dear
                      <persName ref="#Mitford_Geo">Drum</persName> went to the <placeName ref="#field_BBr">fields by
-                        <placeName ref="#BurghfieldBr">Burghfield Bridge</placeName></placeName> to get me Field <name ref="#tulip">Tulip</name>s--God bless him, dear lamb. Wrote to <persName ref="#Nooth_C">Miss Nooth</persName> &amp; --Had <persName ref="#Miranda_pet">Miranda</persName> to tea. Great lamb.</p>
+                        <placeName ref="#BurghfieldBr">Burghfield Bridge</placeName></placeName> to get me Field <name ref="#tulip">Tulip</name>s--God bless him, dear lamb. Wrote to <persName ref="#Nooth_C">Miss Nooth</persName> &amp;--Had <persName ref="#Miranda_pet">Miranda</persName> to tea. Great lamb.</p>
             </div>
             <div type="entry">
                <head>
@@ -1682,7 +1682,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went to
                         <placeName ref="#Reading_city">Reading</placeName>--called on
                   <persName ref="#Brooke_Miss">Miss Brooke</persName>, <persName ref="#Tuppen_Mrs">Mrs. Tuppen</persName>,
-                     <persName ref="#Newberry_Mrs">Mrs. Newberry</persName>--&amp; bought
+                     <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>--&amp; bought
                         <persName ref="#Russell_M">Granny</persName> a new gown &amp; some other things at
                         <orgName ref="#Marshs_shop">Marsh's</orgName>--</p>
             </div>
@@ -2250,7 +2250,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
                <head><date when="1819-08-16">Monday 16 <add>AUGUST</add></date></head>
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--lay in the <name ref="#hay">hay</name> <persName ref="#Bobby_pet">Bobby</persName> &amp; <persName ref="#Mossy_pet">Mossy</persName> very amiable--finished reading
-                  <persName ref="#EvelynJ">Evelyn</persName>'s <title ref="#Mems_Evelyn">Memoirs</title>--very entertaining--<persName ref="#Newberry_J">Jacob Newberry</persName> called--walked between
+                  <persName ref="#EvelynJ">Evelyn</persName>'s <title ref="#Mems_Evelyn">Memoirs</title>--very entertaining--<persName ref="#Newbery_J">Jacob Newberry</persName> called--walked between
                   <placeName ref="#Bertram_house">the house</placeName> &amp; <placeName ref="#whiteGate_BH">the white gate</placeName>.</p>
             </div>
             <div type="entry">
@@ -2606,7 +2606,7 @@ ref="#Dickinson_Charles">Mr. Dickinson</persName>--read <persName ref="#Byron">L
             <div type="entry">
                <head><date when="1819-10-08">Friday 8 <add>OCTOBER</add></date></head>
                <p>At <placeName ref="#Bertram_house"
-                  >home</placeName>--dressed my <name ref="#flower">flower</name>s--walked in the <placeName ref="#garden_BH">garden</placeName>--sent a pattern to <persName ref="#Newberry_Mrs">Mrs.
+                  >home</placeName>--dressed my <name ref="#flower">flower</name>s--walked in the <placeName ref="#garden_BH">garden</placeName>--sent a pattern to <persName ref="#Newbery_Mrs">Mrs.
                      Newberry</persName>--wrote to <persName ref="#Webb_Mary_younger">Miss Webb</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--read <persName ref="#Nicholls">Nicholls</persName>'s
                   <title ref="#Illus_LitHist">Illustrations of Literature</title>--amusing enough.</p>
             </div>
@@ -3730,8 +3730,8 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                <p>At <placeName ref="#Bertram_house"
                   >home</placeName>--wrote to <persName
                      ref="#Rowden_Fr">Mrs. Rowden</persName>, <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Elford_SirWm">Sir William</persName>--walked
-                  to <placeName ref="#ThreeMileCross">the Cross</placeName> with dear <persName ref="#Russell_M">Granny</persName> to look at <placeName ref="#field_Body"><persName ref="#Body_Richard">Mr.
-                     Body</persName>s house</placeName>--read <title ref="#Shakespeare_Times_nonfict">Shakespeare &amp;
+                  to <placeName ref="#ThreeMileCross">the Cross</placeName> with dear <persName ref="#Russell_M">Granny</persName> to look at <persName ref="#Body_Richard">Mr.
+                     Body</persName>s <placeName ref="#cottage_TMC">house</placeName>--read <title ref="#Shakespeare_Times_nonfict">Shakespeare &amp;
                   his Times</title>.</p>
             </div>
             <div type="entry">
@@ -4298,53 +4298,133 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">May be a Mitford pet.</note>
                </person>
                
+               <person xml:id="Strutt_Jos" sex="m"><!-- finish -->
+                  <persName>Joseph Strutt</persName>
+                  <persName>
+                     <surname>Strutt</surname>
+                     <forename>Joseph</forename>
+                  </persName>
+                  <note resp="#lmw"></note>
+               </person>
+               
                <person xml:id="SchlegelF" sex="m"> <!-- finish -->
                   <persName>Friedrich von Schlegel</persName>
                   <persName>
                      <surname><nameLink>von</nameLink> Schlegel</surname>
+                     <forename>Karl</forename>
+                     <forename>Wilhelm</forename>
                      <forename>Friedrich</forename>
                   </persName>
-                  <birth when="1771-03-10"></birth>
-                  <death when="1829-01-12"></death>
+                  <birth when="1771-03-10">
+                     <placeName>Hanover, Electorate of Hanover</placeName>
+                  </birth>
+                  <death when="1829-01-12">
+                     <placeName>Dresden, Kingdom of Saxony</placeName>
+                  </death>
+                  <occupation type="scholar"/>
+                  <occupation type="literary"/>
+                  <occupation type="scholar" subtype="philosopher"/>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <occupation type="literary" subtype="linguist"/>
                </person>
                
-               <person xml:id="LopedeVega" sex="m"> <!-- finish -->
+               <person xml:id="LopedeVega" sex="m">
                   <persName>Félix Lope de Vega y Carpio</persName>
-                  
+                  <persName>
+                     <surname><nameLink>de</nameLink> Vega</surname>
+                     <surname>Carpio</surname>
+                     <forename>Felix</forename>
+                     <forename>Lope</forename>
+                  </persName>
+                  <birth when="1562-11-25">
+                     <placeName>Madrid, Castile</placeName>
+                  </birth>
+                  <death when="1635-08-27">
+                     <placeName>Madrid, Castile</placeName>
+                  </death>
+                  <occupation type="literary"/>
+                  <occupation type="theater"/>
+                  <occupation type="religious"/>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="literary" subtype="playwright"/>
+                  <occupation type="literary" subtype="novelist"/>
+                  <occupation type="theater"/>
+                  <occupation type="religious" subtype="priest"/>
+                  <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="MolesworthRbt" sex="m"> <!-- finish -->
+               <person xml:id="MolesworthRbt" sex="m">                  
                   <persName>Robert Molesworth</persName>
                   <persName>
                      <surname>Molesworth</surname>
                      <forename>Robert</forename>
-                     <roleName>Viscount Molesworth</roleName>
+                     <roleName>1st Viscount Molesworth</roleName>
                   </persName>
+                  <birth when="1676-09-07">
+                     <placeName>Brackenstown, Swords, Ireland</placeName>
+                  </birth>
+                  <death when="1725-05-22">
+                     <placeName>Dublin, Ireland</placeName>
+                  </death>
+                  <occupation type="government"/>
+                  <occupation type="literary"/>
+                  <occupation type="government" subtype="politician"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <note resp="#lmw">Anglo-Irish writer and political figure, Mamber of Parliament and of the Privy Council of Ireland.</note>
                </person>
                
-               <person xml:id="Hoare_RC" sex="m"> <!-- finish -->
-                  <persName>Richard Colt Hoare</persName>
+               <person xml:id="Hoare_RC" sex="m"> 
+                  <persName>Sir Richard Colt Hoare</persName>
                   <persName>
                      <surname>Hoare</surname>
                      <forename>Richard</forename>
                      <forename>Colt</forename>
-                     <roleName>Sir</roleName>
+                     <roleName>2nd baronet</roleName>
                   </persName>
+                  <birth when="1758-12-09">
+                     <placeName></placeName>
+                  </birth>
+                  <death when="1646-05-19">
+                     <placeName> </placeName>
+                  </death>
+               <occupation type="artist"/>
+                  <occupation type="scholar" subtype="antiquarian"/>
+                  <occupation type="explorer" subtype="traveller"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <occupation type="benefactor"/>
+                  <note resp="#lmw">Hoare took several tours to continental Europe as well as to Ireland, Wales, and the Island of Elba, which formed the basis of his sketches and later book publications. With William Cunnington, he made the first recorded excavations at Stonehenge in 1798 and in 1810. He also excavated 379 barrows on Salisbury Plain. He extensively studied the history and archaeology of Wiltshire, the county in which his estate was located, and in 1786 he purchased Glastonbury Tor, in Somerset, in order to study and preserve it.</note>
                </person>
                
-               <person xml:id="Aikin_Lucy" sex="f"> <!-- finish -->
+               <person xml:id="Aikin_Lucy" sex="f">
                   <persName>Lucy Aikin</persName>
                   <persName>
                      <surname type="paternal">Aikin</surname>
                      <forename>Lucy</forename>
                   </persName>
+                  <persName><addName>Mary Godolphin</addName></persName>
+                  <birth when="1781-11-06">
+                     <placeName>Warrington, Cheshire, England</placeName>
+                  </birth>
+                  <death when="1864-01-29">
+                     <placeName>Hampstead, London, England</placeName>
+                  </death>
+                  <occupation type="literary"/>
+                  <occupation type="scholar" subtype="historian"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="literary" subtype="translator"/>
+                  <occupation type="literary" subtype="autobiographer"/>
+                  <occupation type="literary" subtype="biographer"/>
+                  <occupation type="educator"/>
+                  <note resp="#lmw">Daughter of John Aikin and niece of <persName ref="#BarbauldAL">Anna Laetitia Barbauld</persName>. Prolific author of verse and prose for children, including two textbooks, as well as biographies of European historical figures for adults. Under her pseudonym, she authored several groundbreaking abridgements of British novels and stories, starting with <title level="m">Robinson Crusoe in Words of One Syllable</title>. Like Mitford, she was also known as a witty and intelligent letter writer.</note>
                </person>
                
-               <person xml:id="Davenport_Sel" sex="f"> <!-- finish -->
-                  <persName>Selena Davenport</persName>
+               <person xml:id="Davenport_Sel" sex="f"> <!-- stub -->
+                  <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
-                     <surname type="paternal">Wheeler</surname>
+                     <surname type="paternal">Wheler</surname>
                      <forename>Selena</forename>
                      <forename>Granville</forename>
                   </persName>
@@ -4354,7 +4434,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <death when="1859-07-14"/>
                </person>
                
-               <person xml:id="OKeeffe_Ad" sex="f"> <!-- finish -->
+               <person xml:id="OKeeffe_Ad" sex="f"> <!-- stub -->
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -4369,7 +4449,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Daughter of <persName ref="#OKeefe">John O'Keeffe</persName>.</note>
                </person>
                
-               <person xml:id="Blackford_Mar" sex="f"> <!-- finish -->
+               <person xml:id="Blackford_Mar" sex="f"> <!-- stub -->
                   <persName>Martha Blackford</persName>
                   <persName>
                      <surname type="married">Blackford</surname>
@@ -4387,7 +4467,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Visconti_E" sex="m"> <!-- finish -->
+               <person xml:id="Visconti_E" sex="m"> <!-- stub -->
                   <persName>Ennio Quirino Visconti</persName>
                   <persName>
                      <surname>Visconti</surname>
@@ -4396,7 +4476,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Crabbe" sex="m"> <!-- finish -->
+               <person xml:id="Crabbe" sex="m"> <!-- stub -->
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
@@ -4404,7 +4484,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
               
-               <person xml:id="HallamH" sex="m"> <!-- finish -->
+               <person xml:id="HallamH" sex="m"> <!-- stub -->
                   <persName>Henry Hallam</persName>
                   <persName>
                      <surname>Hallam</surname>
@@ -4413,7 +4493,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </person>
                
               
-               <person xml:id="WrightJ" sex="m"> <!-- finish -->
+               <person xml:id="WrightJ" sex="m"> <!-- stub -->
                   <persName>John Wright</persName>
                   <persName>
                      <surname>Wright</surname>
@@ -4421,7 +4501,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="ClementWI" sex="m"> <!-- finish -->
+               <person xml:id="ClementWI" sex="m"> <!-- stub -->
                   <persName>William Innell Clement</persName>
                   <persName>
                      <surname>Clement</surname>
@@ -4431,7 +4511,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <death when="1852"/>
                </person>
                
-               <person xml:id="FarquharsonG" sex="m"> <!-- finish -->
+               <person xml:id="FarquharsonG" sex="m"> <!-- stub -->
                   <persName>George Farquharson</persName>
                   <persName>
                      <surname>Farquharson</surname>
@@ -4439,7 +4519,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Edwards_Bryan" sex="m"> <!-- finish -->
+               <person xml:id="Edwards_Bryan" sex="m"> <!-- stub -->
                   <persName>Bryan Edwards</persName>
                   <persName>
                      <surname>Edwards</surname>
@@ -4447,7 +4527,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="KempeAJ" sex="m"> <!-- finish -->
+               <person xml:id="KempeAJ" sex="m"> <!-- stub -->
                   <persName>Alfred John Kempe</persName>
                   <persName>
                      <surname>Kempe</surname>
@@ -4456,7 +4536,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Windham_Wm" sex="m"> <!-- finish -->
+               <person xml:id="Windham_Wm" sex="m"> <!-- stub -->
                   <persName>William Windham</persName>
                   <persName>
                      <surname>Windham</surname>
@@ -4464,7 +4544,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Amyot_Thos" sex="m"> <!-- finish -->
+               <person xml:id="Amyot_Thos" sex="m"> <!-- stub -->
                   <persName>Thomas Amyot</persName>
                   <persName>
                      <surname>Amyot</surname>
@@ -4489,7 +4569,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Bowdich_TE" sex="m"> <!-- finish -->
+               <person xml:id="Bowdich_TE" sex="m"> <!-- stub -->
                   <persName>Thomas Edward Bowdich</persName>
                   <persName>
                      <surname>Bowdich</surname>
@@ -4499,7 +4579,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </person>
                
                
-               <person xml:id="Machiavelli" sex="m"> <!-- finish -->
+               <person xml:id="Machiavelli" sex="m"> <!-- stub -->
                   <persName>Niccolo Machiavelli</persName>
                   <persName>
                      <surname>Machiavelli</surname>
@@ -4507,7 +4587,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="EdgeworthRL" sex="m"> <!-- finish -->
+               <person xml:id="EdgeworthRL" sex="m"> <!-- stub -->
                   <persName>Richard Lovell Edgeworth</persName>
                   <persName>
                      <surname>Edgeworth</surname>
@@ -4518,11 +4598,13 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <death when="1817"/>
                </person>
                
-               <person xml:id="Liebensrood_son" sex="m"> <!-- finish -->
-                  <persName>Son of Mr. Liebensrood</persName>
+               <person xml:id="Liebensrood_son" sex="m"> <!-- stub -->
+                  <persName>
+                     <surname>Liebensrood</surname></persName>
+                  <note resp="#lmw">Son of Mr. Liebensrood</note>
                </person>
                
-               <person xml:id="Hodgskin_Thos" sex="m"> <!-- finish -->
+               <person xml:id="Hodgskin_Thos" sex="m"> <!-- stub -->
                   <persName>Thomas Hodgskin</persName>
                   <persName>
                      <surname>Hodgskin</surname>
@@ -4530,7 +4612,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Burckhardt_JL" sex="m"> <!-- finish -->
+               <person xml:id="Burckhardt_JL" sex="m"> <!-- stub -->
                   <persName>John Lewis Burckhardt</persName>
                   <persName>
                      <surname>Burckhardt</surname>
@@ -4539,7 +4621,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="ScafeJ" sex="m"> <!-- finish -->
+               <person xml:id="ScafeJ" sex="m"> <!-- stub -->
                   <persName>John Scafe</persName>
                   <persName>
                      <surname>Scafe</surname>
@@ -4557,7 +4639,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Wrote for juvenile and Evangelical audiences. Wrote under the pseudonym <q>Meta</q>. Paternal surname unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="MDonough_F" sex="m"> <!-- finish -->
+               <person xml:id="MDonough_F" sex="m"> <!-- stub -->
                   <persName>Felix M'Donough</persName>
                   <persName>
                      <surname>M'Donough</surname>
@@ -4610,7 +4692,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </person>
                
                
-               <person xml:id="ZouchT" sex="m"> <!-- finish -->
+               <person xml:id="ZouchT" sex="m"> <!-- stub -->
                   <persName>Thomas Zouch</persName>
                   <persName>
                      <surname>Zouch</surname>
@@ -4621,7 +4703,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"><!--Thomas Zouch, D.D. F.L.S. Prebendary of Durham--></note>
                </person>
               
-               <person xml:id="Wilmot_James" sex="m"> <!-- finish -->
+               <person xml:id="Wilmot_James" sex="m"> <!-- stub -->
                   <persName>James Wilmot</persName>
                   <persName>
                      <surname>Wilmot</surname>
@@ -4631,7 +4713,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <death when="1807"/>
                </person>
                
-               <person xml:id="Serres_OW" sex="f"> <!-- finish -->
+               <person xml:id="Serres_OW" sex="f"> <!-- stub -->
                   <persName>Olivia Wilmot Serres</persName>
                   <persName>
                      <surname type="married">Serres</surname>
@@ -4640,7 +4722,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Taylor_Joseph" sex="m"> <!-- finish -->
+               <person xml:id="Taylor_Joseph" sex="m"> <!-- stub -->
                   <persName>Joseph Taylor</persName>
                   <persName>
                      <surname>Taylor</surname>
@@ -4648,7 +4730,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Murphy_Ar" sex="m"> <!-- finish -->
+               <person xml:id="Murphy_Ar" sex="m"> <!-- stub -->
                   <persName>Arthur Murphy</persName>
                   <persName>
                      <surname>Murphy</surname>
@@ -4656,7 +4738,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Williams_Thos" sex="m"> <!-- finish -->
+               <person xml:id="Williams_Thos" sex="m"> <!-- stub -->
                   <persName>Thomas Williams</persName>
                   <persName>
                      <surname>Williams</surname>
@@ -4664,7 +4746,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Jones_John" sex="m"> <!-- finish -->
+               <person xml:id="Jones_John" sex="m"> <!-- stub -->
                   <persName>John Jones</persName>
                   <persName>
                      <surname>Jones</surname>
@@ -4673,7 +4755,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note><!--Sir John T. Jones--></note>
                </person>
                
-               <person xml:id="Richardson_Jon" sex="m"> <!-- finish -->
+               <person xml:id="Richardson_Jon" sex="m"> <!-- stub -->
                <persName>Jonathan Richardson</persName>
                <persName>
                   <surname>Richardson</surname>
@@ -4681,7 +4763,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </persName>
                </person>
                
-               <person xml:id="Rose_Wm" sex="m"> <!-- finish -->
+               <person xml:id="Rose_Wm" sex="m"> <!-- stub -->
                   <persName>William Stewart Rose</persName>
                   <persName>
                      <surname>Rose</surname>
@@ -4708,7 +4790,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Lawrence contributed to ideas about the material origin of human consciousness and about natural selection refuting Lamarck, in the generation immediately preceding Darwin. In 1822, <persName ref="#Scott_John_LdEldon">the Lord Chancellor</persName> condemned as blasphemous Lawrence's second book, <title level="m">The Natural History of Man</title>, and he was forced to withdraw it. He campaigned for medical reforms and co-founded <title>The Lancet</title>. He later became president of the Royal College of Surgeons and was appointed surgeon to Queen Victoria, who granted him a baronetcy.</note>
                </person>
                
-               <person xml:id="Fitzclarence_Geo" sex="m"> <!-- finish -->
+               <person xml:id="Fitzclarence_Geo" sex="m"> <!-- stub -->
                   <persName>George Fitzclarence</persName>
                   <persName>
                      <surname>Fitzclarence</surname>
@@ -4720,7 +4802,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Hutton_Cath" sex="f"> <!-- finish -->
+               <person xml:id="Hutton_Cath" sex="f"> <!-- stub -->
                   <persName>Catherine Hutton</persName>
                   <persName>
                      <surname>Hutton</surname>
@@ -4728,7 +4810,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Lester_E" sex="f"> <!-- finish -->
+               <person xml:id="Lester_E" sex="f"> <!-- stub -->
                   <persName>Elizabeth Lester</persName>
                   <persName>
                      <surname>Lester</surname>
@@ -4736,7 +4818,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Smith_Ch" sex="f"> <!-- finish -->
+               <person xml:id="Smith_Ch" sex="f"> <!-- stub -->
                   <persName>Charlotte Smith</persName>
                   <persName>
                      <surname>Smith</surname>
@@ -4744,7 +4826,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Brunton_Mary" sex="f"> <!-- finish -->
+               <person xml:id="Brunton_Mary" sex="f"> <!-- stub -->
                   <persName>Mary Brunton</persName>
                   <persName>
                      <surname>Brunton</surname>
@@ -4752,7 +4834,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Porter_Jane" sex="f"> <!-- finish -->
+               <person xml:id="Porter_Jane" sex="f"> <!-- stub -->
                   <persName>Jane Porter</persName>
                   <persName>
                      <surname>Porter</surname>
@@ -4760,7 +4842,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Helme_Eliz" sex="f"> <!-- finish -->
+               <person xml:id="Helme_Eliz" sex="f"> <!-- stub -->
                   <persName>Elizabeth Helme</persName>
                   <persName>
                      <surname>Helme</surname>
@@ -4768,7 +4850,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Comber_Thos" sex="m"> <!-- finish -->
+               <person xml:id="Comber_Thos" sex="m"> <!-- stub -->
                   <persName>Thomas Comber</persName>
                   <persName>
                      <surname>Comber</surname>
@@ -4776,7 +4858,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Legh_T" sex="m"> <!-- finish -->
+               <person xml:id="Legh_T" sex="m"> <!-- stub -->
                   <persName>Thomas Legh</persName>
                   <persName>
                      <surname>Legh</surname>
@@ -4789,7 +4871,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">M. P.</note>
                </person>
                
-               <person xml:id="Burnet_Gil" sex="m"> <!-- finish -->
+               <person xml:id="Burnet_Gil" sex="m"> <!-- stub -->
                   <persName>Gilbert Burnet</persName>
                   <persName>
                      <surname>Burnet</surname>
@@ -4797,7 +4879,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Murray_Hugh" sex="m"> <!-- finish -->
+               <person xml:id="Murray_Hugh" sex="m"> <!-- stub -->
                   <persName>Hugh Murray</persName>
                   <persName>
                      <surname>Murray</surname>
@@ -4805,7 +4887,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Heude_Wm" sex="m"> <!-- finish -->
+               <person xml:id="Heude_Wm" sex="m"> <!-- stub -->
                   <persName>William Heude</persName>
                   <persName>
                      <surname>Heude</surname>
@@ -4813,7 +4895,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="RennellT" sex="m"> <!-- finish -->
+               <person xml:id="RennellT" sex="m"> <!-- stub -->
                   <persName>Thomas Rennell</persName>
                   <persName>
                      <surname>Rennell</surname>
@@ -4821,7 +4903,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Saabye" sex="m"> <!-- finish -->
+               <person xml:id="Saabye" sex="m"> <!-- stub -->
                   <persName>Hans Egede Saabye</persName>
                   <persName>
                      <surname>Saabye</surname>
@@ -4830,7 +4912,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Savigny_JBH" sex="m"> <!-- finish -->
+               <person xml:id="Savigny_JBH" sex="m"> <!-- stub -->
                   <persName>Jean Baptiste Henri Savigny</persName>
                   <persName>
                      <surname>Savigney</surname>
@@ -4840,7 +4922,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="deChaboulon" sex="m"> <!-- finish -->
+               <person xml:id="deChaboulon" sex="m"> <!-- stub -->
                   <persName>Pierre Alexandre Edouard Fleury de Chaboulon</persName>
                   <persName>
                      <surname><nameLink>de</nameLink>Chaboulon</surname>
@@ -4851,7 +4933,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Correard_A" sex="m"> <!-- finish -->
+               <person xml:id="Correard_A" sex="m"> <!-- stub -->
                   <persName>Alexandre Corréard</persName>
                   <persName>
                      <surname>Corréard</surname>
@@ -4859,7 +4941,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Howard_SirRob" sex="m"> <!-- finish -->
+               <person xml:id="Howard_SirRob" sex="m"> <!-- stub -->
                <persName>Sir Robert Howard</persName>
                <persName>
                   <surname>Howard</surname>
@@ -4868,7 +4950,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </persName>
                </person>
                
-               <person xml:id="Nichols_JB" sex="m"> <!-- finish -->
+               <person xml:id="Nichols_JB" sex="m"> <!-- stub -->
                   <persName>John Bowyer Nichols</persName>
                   <persName>
                      <surname>Nichols</surname>
@@ -4877,7 +4959,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Brunton_Alex" sex="m"> <!-- finish -->
+               <person xml:id="Brunton_Alex" sex="m"> <!-- stub -->
                   <persName>Alexander Brunton</persName>
                   <persName>
                      <surname>Brunton</surname>
@@ -4885,7 +4967,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Russell_John" sex="m"> <!-- finish -->
+               <person xml:id="Russell_John" sex="m"> <!-- stub -->
                   <persName>John Russell</persName>
                   <persName>
                      <surname>Russell</surname>
@@ -4893,7 +4975,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Opie_J" sex="m"> <!-- finish -->
+               <person xml:id="Opie_J" sex="m"> <!-- stub -->
                   <persName>John Opie</persName>
                   <persName>
                      <surname>Opie</surname>
@@ -4901,7 +4983,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-                  <person xml:id="VauxJH" sex="m"> <!-- finish -->
+                  <person xml:id="VauxJH" sex="m"> <!-- stub -->
                      <persName>John Hardy Vaux</persName>
                      <persName>
                         <surname>Vaux</surname>
@@ -4911,7 +4993,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <birth when="1782"/>
                   </person>
               
-               <person xml:id="BarrowJ" sex="m"> <!-- finish -->
+               <person xml:id="BarrowJ" sex="m"> <!-- stub -->
                   <persName>John Barrow</persName>
                   <persName>
                      <surname>Barrow</surname>
@@ -4919,7 +5001,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Bennett_AM" sex="m"> <!-- finish -->
+               <person xml:id="Bennett_AM" sex="m"> <!-- stub -->
                   <persName>Anna Maria Bennett</persName>
                   <persName>
                      <surname>Bennett</surname>
@@ -4934,7 +5016,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </death>
                </person>
                
-               <person xml:id="BrookeFrances" sex="f"> <!-- finish -->
+               <person xml:id="BrookeFrances" sex="f"> <!-- stub -->
                   <persName>Frances Brooke</persName>
                   <persName>
                      <surname>Brooke</surname>
@@ -4942,7 +5024,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Brown_DrT" sex="m"> <!-- finish -->
+               <person xml:id="Brown_DrT" sex="m"> <!-- stub -->
                   <persName>Thomas Brown</persName>
                   <persName>
                      <surname>Brown</surname>
@@ -4971,7 +5053,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName ref="#Reading_city">Reading</placeName>for <placeName ref="#Bertram_house">Bertram House</placeName>, ahead of their move to <placeName ref="#ThreeMileCross">Three Mile Cross</placeName> on <date when="1820-03-21">March 21, 1820</date>. Name unknown. Dates unknown.</note>
                </person>
                
-               <person xml:id="Cunningham_JW" sex="m"> <!-- finish -->
+               <person xml:id="Cunningham_JW" sex="m"> <!-- stub -->
                   <persName>Cunningham</persName>
                   <persName>
                      <surname>Cunningham</surname>
@@ -4981,7 +5063,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">knew Byron, Vicar of Harrow</note>
                </person>
                
-               <person xml:id="Disraeli_I" sex="m"> <!-- finish -->
+               <person xml:id="Disraeli_I" sex="m"> <!-- stub -->
                   <persName>Isaac D'Israeli</persName>
                   <persName>
                      <surname>D'Israeli</surname>
@@ -4989,7 +5071,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="DoddCE" sex="m"> <!-- finish -->
+               <person xml:id="DoddCE" sex="m"> <!-- stub -->
                   <persName>Charles Dodd</persName>
                   <persName>
                      <surname>Dodd</surname>
@@ -5000,7 +5082,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                
                
                
-               <person xml:id="DundasHen" sex="m"> <!-- finish -->
+               <person xml:id="DundasHen" sex="m"> <!-- stub -->
                   <persName>Henry Dundas, Lord Melville</persName>
                   <persName>
                      <surname>Dundas</surname>
@@ -5018,7 +5100,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw"></note>
                </person>
                
-               <person xml:id="PorteousJ" sex="m"> <!-- finish -->
+               <person xml:id="PorteousJ" sex="m"> <!-- stub -->
                   <persName>John Porteous</persName>
                   <persName>
                      <surname>Porteous</surname>
@@ -5028,7 +5110,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </person>
                
                
-               <person xml:id="EvelynJ" sex="m"> <!-- finish -->
+               <person xml:id="EvelynJ" sex="m"> <!-- stub -->
                   <persName>John Evelyn</persName>
                   <persName>
                      <surname>Evelyn</surname>
@@ -5036,7 +5118,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Fellowes_W" sex="m"> <!-- finish -->
+               <person xml:id="Fellowes_W" sex="m"> <!-- stub -->
                   <persName>William Fellowes</persName>
                   <persName>
                      <surname>Fellowes</surname>
@@ -5045,7 +5127,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Hackett_J" sex="m"> <!-- finish -->
+               <person xml:id="Hackett_J" sex="m"> <!-- stub -->
                   <persName>James Hackett</persName>
                   <persName>
                      <surname>Hackett</surname>
@@ -5053,7 +5135,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="GaspeyT" sex="m"> <!-- finish -->
+               <person xml:id="GaspeyT" sex="m"> <!-- stub -->
                   <persName>Thomas Gaspey</persName>
                   <persName>
                      <surname>Gaspey</surname>
@@ -5061,7 +5143,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="HookhamT" sex="m"> <!-- finish -->
+               <person xml:id="HookhamT" sex="m"> <!-- stub -->
                   <persName>Thomas Hookham</persName>
                   <persName>
                      <surname>Hookham</surname>
@@ -5069,7 +5151,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="KingWm" sex="m"> <!-- finish -->
+               <person xml:id="KingWm" sex="m"> <!-- stub -->
                   <persName>William King</persName>
                   <persName>
                      <surname>King</surname>
@@ -5077,7 +5159,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="LabaumeE" sex="m"> <!-- finish -->
+               <person xml:id="LabaumeE" sex="m"> <!-- stub -->
                   <persName>Eugène Labaume</persName>
                   <persName>
                      <surname>Labaume</surname>
@@ -5085,7 +5167,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="MarieTherese_France" sex="f"> <!-- finish -->
+               <person xml:id="MarieTherese_France" sex="f"> <!-- stub -->
                   <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
                </person>
                
@@ -5095,7 +5177,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note resp="#lmw">One of Mitford's greyhounds at <placeName ref="#Bertram_house">Bertram House</placeName> in <date when="1819">1819</date>.</note>
                </person>
                
-               <person xml:id="MawmanJ" sex="m"> <!-- finish -->
+               <person xml:id="MawmanJ" sex="m"> <!-- stub -->
                   <persName>Joseph Mawman</persName>
                   <persName>
                      <surname>Mawman</surname>
@@ -5103,7 +5185,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="MeekeM" sex="f"> <!-- finish -->
+               <person xml:id="MeekeM" sex="f"> <!-- stub -->
                   <persName>Mary Meeke</persName>
                   <persName>
                      <surname>Meeke</surname>
@@ -5111,7 +5193,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Mill_Chas" sex="m"> <!-- finish -->
+               <person xml:id="Mill_Chas" sex="m"> <!-- stub -->
                   <persName>Charles Mill</persName>
                   <persName>
                      <surname>Mill</surname>
@@ -5119,7 +5201,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="MowerA" sex="m"> <!-- finish -->
+               <person xml:id="MowerA" sex="m"> <!-- stub -->
                   <persName>Arthur Mower</persName>
                   <persName>
                      <surname>Mower</surname>
@@ -5127,7 +5209,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="MuschetN" sex="m"> <!-- finish -->
+               <person xml:id="MuschetN" sex="m"> <!-- stub -->
                   <persName>Nicol Muschet</persName>
                   <persName>
                      <surname>Muschet</surname>
@@ -5138,7 +5220,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <note><!--mentioned in criminal trials volume with Porteous--></note>
                </person>
                
-               <person xml:id="Ormsby_James" sex="m"> <!-- finish -->
+               <person xml:id="Ormsby_James" sex="m"> <!-- stub -->
                   <persName>Ormsby</persName>
                   <persName>
                      <surname>Ormsby</surname>
@@ -5147,7 +5229,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="PlumptreAnne" sex="f"> <!-- finish -->
+               <person xml:id="PlumptreAnne" sex="f"> <!-- stub -->
                   <persName>Anne Plumtre</persName>
                   <persName>
                      <surname>Anne</surname>
@@ -5155,7 +5237,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="PlumptreAnnabella" sex="f"> <!-- finish -->
+               <person xml:id="PlumptreAnnabella" sex="f"> <!-- stub -->
                   <persName>Annabella Plumtre</persName>
                   <persName>
                      <surname>Annabella</surname>
@@ -5163,7 +5245,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="PocockeT" sex="m"> <!-- finish -->
+               <person xml:id="PocockeT" sex="m"> <!-- stub -->
                   <persName>Thomas Pococke</persName>
                   <persName>
                      <surname>Pococke</surname>
@@ -5171,7 +5253,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Repton" sex="m"> <!-- finish -->
+               <person xml:id="Repton" sex="m"> <!-- stub -->
                   <persName>Humphry Repton</persName>
                   <persName>
                      <surname>Repton</surname>
@@ -5180,7 +5262,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="artist" subtype="landscape"/>
                </person>
                
-               <person xml:id="Reynolds_JH" sex="m"> <!-- finish -->
+               <person xml:id="Reynolds_JH" sex="m"> <!-- stub -->
                   <persName>John Hamilton Reynolds</persName>
                   <persName>
                      <surname>Reynolds</surname>
@@ -5189,8 +5271,8 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Ross_Capt" sex="m"> <!-- finish -->
-                  <persName>John Ross</persName><!-- finish -->
+               <person xml:id="Ross_Capt" sex="m"> <!-- stub -->
+                  <persName>John Ross</persName><!-- stub -->
                   <persName>
                      <surname>Ross</surname>
                      <forename>John</forename>
@@ -5198,7 +5280,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Salame_Ab" sex="m"> <!-- finish -->
+               <person xml:id="Salame_Ab" sex="m"> <!-- stub -->
                   <persName>Abraham Salame</persName>
                   <persName>
                      <surname>Salame</surname>
@@ -5206,7 +5288,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                   </person>
                
-               <person xml:id="Schimmelpennick_MA" sex="f"> <!-- finish -->
+               <person xml:id="Schimmelpennick_MA" sex="f"> <!-- stub -->
                   <persName>Mary Anne Galton Schimmelpennick</persName>
                   <persName>
                      <surname type="married">Schimmelpennick</surname>
@@ -5216,7 +5298,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Sharpe_CK" sex="m"> <!-- finish -->
+               <person xml:id="Sharpe_CK" sex="m"> <!-- stub -->
                   <persName>Charles Kirkpatrick Sharpe</persName>
                   <persName>
                      <surname>Sharpe</surname>
@@ -5225,7 +5307,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Shaw_Sam" sex="m"> <!-- finish -->
+               <person xml:id="Shaw_Sam" sex="m"> <!-- stub -->
                   <persName>Samuel Shaw</persName>
                   <persName>
                      <surname>Shaw</surname>
@@ -5233,7 +5315,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Wilson_Andrew" sex="m"> <!-- finish -->
+               <person xml:id="Wilson_Andrew" sex="m"> <!-- stub -->
                   <persName>Andrew Wilson</persName>
                   <persName>
                      <surname>Wilson</surname>
@@ -5849,42 +5931,51 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                
                <place xml:id="copse_Dearesley">
                   <placeName>Mr. Dearesley's copse</placeName>
-                  <!--<district>xxx</district>-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw"><persName ref="#Dearsley_Wm">Mr. Dearesley</persName>'s copse near <placeName ref="#Bertram_houe">Bertram House</placeName>. <persName ref="#MRM">Mitford</persName> went <name ref="#primrose"
+                     >primros</name>ing  there in <date when="1819-03">March 1819</date>. Source: Journal.</note>
+               </place>
+               
+               <place xml:id="cottage_TMC">
+                  <placeName>cottage at Three Mile Cross</placeName>
+                  <district>Shinfield parish</district>
+                  <region>Berkshire</region>
+                  <country>England</country>
+                     <note resp="#lmw">House belonging to <persName ref="#Body_Richard">Richard Body</persName> in <placeName ref="#ThreeMileCross">Three Mile Cross</placeName> where <persName ref="#MRM">Mary Russell Mitford</persName> moved with <orgName ref="#Mitfords_Ma_Pa">her parents</orgName> in <date when="1820">1820</date> after leaving <placeName ref="#Bertram_house">Bertram House</placeName>. <persName ref="#MRM">Mitford</persName> lived there until <date when="1851">1851</date>.</note>
                </place>
                
                <place xml:id="field_BBr">
-                  <placeName>Fields at Burfield Bridge</placeName>
-                  <district>xxx</district><!--??-->
+                  <placeName>Fields at Burghfield Bridge</placeName>
+                  <district>Wokingham</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Fields at <placeName ref="#BurghfieldBr">Burghfield Bridge</placeName>. <persName ref="#Mitford_Geo">George Mitford</persName> went there to get his daughter Field <name ref="#tulip">Tulip</name>s in <date when="1819-04">April 1819</date>.</note>
                </place>
                
                <place xml:id="field_BH">
                   <placeName>Fields at Bertram House</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Fields belonging to the <placeName ref="#Bertram_houe">Bertram House</placeName> estate. One location where <persName ref="#MEM">Mitford</persName> goes <name ref="#violet">violet</name>ting in <date when="1819-03">March 1819</date>. Some of the fields are used for <name ref="#hay">hay</name>ing.</note>
                </place>
                
                <place xml:id="field_Body">
                   <placeName>Mr. Body's fields</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Fields belonging to the <placeName ref="#Body_Richard">ichard Body</placeName>. One location where <persName ref="#MEM">Mitford</persName> goes <name ref="#violet">violet</name>ting in <date when="1819-03">March 1819</date>.</note>
                </place>
                
                <place xml:id="field_Dearesley">
-                  <placeName>Mr. Dearesley's fields</placeName>
-                  <district>xxx</district><!--??-->
+                  <placeName>Mr. Dearesley's field</placeName>
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Field belonging to the <placeName ref="#Dearsley_Wm">Mr. Dearsley</placeName>, once part of the <placeName ref="#Bertram_house">Bertram House estate</placeName>, sold by <persName ref="#Mitford_Geo">George Mitford</persName>. One location where <persName ref="#MEM">Mitford</persName> goes <name ref="#violet">violet</name>ting in <date when="1819-03">March 1819</date>.</note>
                </place>
                
                <place xml:id="field_Davies">
@@ -5897,74 +5988,73 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                
                <place xml:id="field_Pithers">
                   <placeName>Mr. Pithers's fields</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Field belonging to <placeName ref="#Pithers_Mr">Mr. Pithers</placeName>. One location where <persName ref="#MRM">Mitford</persName> goes <name ref="#violet">violet</name>ting in <date when="1819-03">March 1819</date>, although she did not find any that year.</note>
                </place>
                
                <place xml:id="field_PW">
                   <placeName>Fields at Pinge Wood</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Whitley</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Frequent destination for <persName ref="#MRM">Mitford</persName> walks and drives, accompanied by <persName ref="#Hill_Lucy">Lucy</persName> &amp; their dogs. Frequent site for collecting <name ref="#flower">flower</name>, including <name ref="#violet">violets</name>, <name ref="#pansy">pansies</name>, <name ref="#cowslip">cowslip</name>s, and <name ref="#woodsorrel">wood sorrel</name>.</note>
                </place>
                
                <place xml:id="field_TMC">
                   <placeName>Fields at Three Mile Cross</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield oarusg</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Fields near the <placeName ref="#cottage_TMC">gottage at Three Mile Cross</placeName>.</note>
                </place>
                
                <place xml:id="garden_BH">
                   <placeName>garden at Bertram House</placeName>
-                  <district>Grazeley</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Garden at <placeName ref="#Bertram_houe">Bertram House</placeName> estate.</note>
                </place>
                
                <place xml:id="meadow_BH">
                   <placeName>meadows at Bertram House</placeName>
-                  <district>Grazeley</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Meadows belonging to the <placeName ref="#Bertram_houe">Bertram House</placeName> estate.</note>
                </place>
                
                <place xml:id="meadow_Bridgwater">
                   <placeName>Mr. Bridgwater's meadows</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Meadows owned by <persName ref="#Bridgwater_Mr">Mr. Bridgewater</persName>. One of the locations <persName ref="#MRM">Mitford</persName> goes <name ref="#cowslip">cowslip</name>ping in <date when="1820-04">April 1820</date>.</note>
                </place>
                
                <place xml:id="meadow_Davies">
                   <placeName>Mr. Davies's meadows</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Meadows owned by <persName ref="#Davies_Mr">Mr. Davies</persName>. One of the locations <persName ref="#MRM">Mitford</persName> goes to gather <name ref="#woodsorrel">woodsorrel</name> and <name ref="#violet">violet</name>s.</note>
                </place>
                
                <place xml:id="meadow_TMC">
                   <placeName>meadows at Three Mile Cross</placeName>
-                  <district>xxx</district><!--??-->
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Meadows near the <placeName ref="#cottage_TMC">cottage at Three Mile Cross</placeName>.</note>
                </place>
                
                <place xml:id="GroveCottage">
                   <placeName>Grove Cottage</placeName>
-                  <district>Reading</district><!--??-->
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"><!--place they look at before they move to TMC and do not like. In or near Reading? She doesn't want to move to Reading.--></note>
+                  <note resp="#lmw">One of the houses <orgName ref="#Mitfords">Mitfords</orgName> view but do not choose in planning their relocation from <placeName ref="#Bertram_house">Bertram House</placeName>in 1820.</note>
                </place>
                
                <place xml:id="Ashmolean_Old">
@@ -5979,10 +6069,10 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                </place>
               
                <place xml:id="PaperMill_Marlow">
-                  <placeName>Paper mill on the Thames at Marlow</placeName><district>Marlow</district>
+                  <placeName>Paper mill on the Thames</placeName>
+                  <district>Marlow</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw"></note>
                </place>
                
             <place xml:id="BurghfieldBr">
@@ -6046,7 +6136,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <location>
                      <geo>51.41632 -0.96171</geo>
                   </location>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Hamlet near <placeName ref="#Reading_city">Reading</placeName>.</note>
                   <note></note>
                   <note></note>
                </place>
@@ -6161,6 +6251,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             
             <listBibl sortKey="work_MRM">
                
+               
                <bibl xml:id="MossyMs">
                   <title level="m">Manuscript tribute to Mossy</title>
                   <note resp="#lmw"></note>
@@ -6228,6 +6319,17 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Full title: <title level="m">Lectures on Painting, Delivered at the Royal Academy of Arts: with a letter on the proposal for a public memorial of the naval glory of Great Britain. By the late John Opie, Esq. Professor in Painting at the Royal Academy. To which are prefixed, a memoir by Mrs. Opie, and other accounts of Mr. Opie's talents and character</title>.</note>
                </bibl>
                
+               <bibl xml:id="CritProse_Dryden">
+                  <title level="m">The Critical and Miscellaneous Prose Works of John Dryden</title>
+                  <author><persName ref="#Dryden"/></author>
+                  <editor>Edmond Malone</editor>
+                  <publisher>Cadell and Davies</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1800"/>
+                  <note resp="#lmw">Full title: <title level="m">The Critical and Miscellaneous Prose Works of John Dryden, Now First Collected: with Notes and Illustrations; An Account of the Life and Writings of the Author, Grounded on Original and Authentick Documents; and A Collection of His Letters, the greater part of which has never before been published.</title>.</note>
+               </bibl>
+               
+              
                <bibl xml:id="Italian_AR">
                   <title level="m">The Italian</title>
                   <author><persName ref="#Radcliffe_A"/></author>
@@ -6246,6 +6348,14 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">4 volumes. Printed at the Minerva Press.</note>
                </bibl>
                
+               <bibl xml:id="QueenhooH">
+                  <title level="m">Queenhoo Hall, A Romance</title>
+                     <author><persName ref="#Strutt_Jos"/></author>
+                  <publisher>John Murray</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date when="1808"/>
+                  <note resp="#lmw">3 volumes. Published with <title level="m">Ancient Times, a drama</title> (vol. 4).</note>
+         
                
                <bibl xml:id="View_Europe">
                   <title level="m">View of the State of Europe during the Middle Ages</title>
@@ -7750,6 +7860,7 @@ Berkshire Record Office
 D/P 129
 NRA 29454 Berks parishes
                -->
+               </bibl>
             </listBibl>
                      
                      
