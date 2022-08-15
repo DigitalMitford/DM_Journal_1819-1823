@@ -6333,15 +6333,23 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
             
             <listBibl sortKey="work_MRM">
                
+               <bibl xml:id="Sermons_RRussell">
+                  <title level="m">Manuscript sermons</title>
+                     <author ref="#Russell_Richard"/>
+                  <note resp="#lmw">Unpublished manuscript sermons by <persName ref="#MRM">Mitford</persName>'s grandfather. <persName ref="#MRM">Mitford</persName> owns a copy, which she loans to <persName ref="#Knyvett_Chas">Charles Knyvett</persName>.</note>
+               </bibl>
+               
                
                <bibl xml:id="MossyMs">
                   <title level="m">Manuscript tribute to Mossy</title>
-                  <note resp="#lmw"></note>
+                  <author ref="#MRM"/>
+                  <note resp="#lmw">Manuscript tribute to <persName ref="#Mossy_pet">Mossy</persName>, written after his death.</note>
                </bibl>
                
                <bibl xml:id="MossyPoem">
                   <title level="m">Manuscript poem to Mossy</title>
-                  <note resp="#lmw"></note>
+                  <author ref="#MRM"/>
+                  <note resp="#lmw">Manuscript poem to <persName ref="#Mossy_pet">Mossy</persName>, written after his death.</note>
                </bibl>
                
                <bibl xml:id="Independence">
@@ -6394,7 +6402,7 @@ Publisher:	London : E. Cox and Son, 1815
                
                <bibl xml:id="Lectures_JOpie">
                   <title level="m">Lectures on Painting</title>
-                  <author><persName ref="#Opie_J #Opie_Amelia"/></author>
+                  <author ref="#Opie_J #Opie_Amelia"/>
                   <publisher>Longman, Hurst, Rees and Orme</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1809"/>
@@ -6411,8 +6419,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Full title: <title level="m">The Critical and Miscellaneous Prose Works of John Dryden, Now First Collected: with Notes and Illustrations; An Account of the Life and Writings of the Author, Grounded on Original and Authentick Documents; and A Collection of His Letters, the greater part of which has never before been published.</title>.</note>
                </bibl>
                
-              
-               <bibl xml:id="Italian_AR">
+              <bibl xml:id="Italian_AR">
                   <title level="m">The Italian</title>
                   <author><persName ref="#Radcliffe_A"/></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -6490,7 +6497,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1820"/>
-                  <note resp="#lmw">Full title: <title level="m">A Circumstantial Narrative of the Campaign in Saxony, in the year 1813; written originally in German by Baron von Odeleben, ... To which are subjoined the notes of M. Aubert de Vitry, editor of the French edition. The whole translated by A. J. Kempe</title>. Mitford rated it <quote>good</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">A Circumstantial Narrative of the Campaign in Saxony, in the year 1813; written originally in German by Baron von Odeleben, [...] To which are subjoined the notes of M. Aubert de Vitry, editor of the French edition. The whole translated by A. J. Kempe</title>. Mitford rated it <quote>good</quote>.</note>
                </bibl>
                
                <bibl xml:id="Dudley">
@@ -6499,7 +6506,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">3 volumes. by <q>Miss O'Keeffe</q>.</note>
                </bibl>
                
                <bibl xml:id="EskdaleHerdboy">
@@ -6517,7 +6524,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Longman, Hurst, Rees, Orme and Brown</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1812"/>
-                  <note resp="#lmw">3 volumes. Full title: <title level="m">Speeches in Parliament of the Right Honourable William Windham, to which is prefixed some account of his life by Thomas Amyot</title>.nMitford rated them <quote>good</quote> and <quote>very good</quote>.</note>
+                  <note resp="#lmw">3 volumes. Full title: <title level="m">Speeches in Parliament of the Right Honourable William Windham, to which is prefixed some account of his life by Thomas Amyot</title>. Mitford rated them <quote>good</quote> and <quote>very good</quote>.</note>
                </bibl>
                
                <bibl xml:id="TalesofFancy_Shipwreck">
@@ -6526,7 +6533,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <persName ref="#Burney_SH">Sarah Harriet Burney</persName>
                   </author>
                   <pubPlace ref="#London_city">London</pubPlace>
-                  <publisher>H. Colburn</publisher>
+                  <publisher>Henry Colburn</publisher>
                   <date when="1816">1816</date>
                   <note resp="#lmw">
                      <title level="a">The Shipwreck</title> makes up volume one of the three-volume work. The remaining volumes make up <title ref="#Country_Neighbours">Country Neightbours</title>.</note>
@@ -6560,7 +6567,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
+                  <note resp="#lmw">Published by the Association for Promoting the Discovery for the Interior Parts of Africa.</note>
                </bibl>
                
                <bibl xml:id="Mission_Ashantee">
@@ -6569,7 +6576,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw">Full title: <title level="m">Mission from Cape Coast Castle to Ashantee: with a statistical account of that Kingdom, and geographical notices of other parts of the interior of Africa</title>.Mitford rated it <quote>dull</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">Mission from Cape Coast Castle to Ashantee: with a statistical account of that Kingdom, and geographical notices of other parts of the interior of Africa</title>. Mitford rated it <quote>dull</quote>.</note>
                </bibl>
                
                <bibl xml:id="Mems_RLEdgeworth">
@@ -6587,7 +6594,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>A. Constable</publisher>
                   <pubPlace ref="#Edinburgh"/>
                   <date when="1820"/>
-                  <note resp="#lmw">Full title: <title level="m">Travels in the North of Germany: Describing the Present State of the Social and Political Institutions . . . Particularly in the Kingdom of Hanover</title>. Mitford rates it as <quote>good politics but middling writing</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">Travels in the North of Germany: Describing the Present State of the Social and Political Institutions [. . . ] Particularly in the Kingdom of Hanover</title>. Mitford rates it as <quote>good politics but middling writing</quote>.</note>
                </bibl>
                
                <bibl xml:id="Knights_Swan">
@@ -6665,7 +6672,6 @@ Publisher:	London : E. Cox and Son, 1815
                      <placeName ref="#London_city">London</placeName>
                   </pubPlace>
                   <date when="1819">1819</date>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="Narr_EgyptCataracts">
@@ -6674,7 +6680,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1817"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="HaroldEx">
@@ -6691,7 +6696,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>T. &amp; J. Allman</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="WaytoKeepHim">
@@ -6706,7 +6710,7 @@ Publisher:	London : E. Cox and Son, 1815
                <bibl xml:id="NapoleonPeint">
                   <title level="m">Napoleon Peint Par Lui-même. Extraits du Véritable Manuscrit de Napoleon Bonaparte, par un Amércain</title>
                   <author><persName ref="#Napoleon"/></author>
-                  <publisher>Colburn</publisher>
+                  <publisher> Henry Colburn</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1818"/>
                   <note resp="#lmw"></note>
@@ -6791,7 +6795,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Timothy Goodwin</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1694"/>
-                  <note resp="#lmw">Full title: <title level="m">An Account of Denmark as it was in the year M DC XC II</title>.</note>
+                  <note resp="#lmw">Full title: <title level="m">An Account of Denmark as it was in the year MDCXCII</title>.</note>
                </bibl>
                
                <bibl xml:id="Remarks_HistEng">
@@ -6881,7 +6885,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>William Blackwood</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="YoungPhil_CS">
@@ -6890,7 +6893,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1798"/>
-                  <note resp="#lmw">Mitford rated it <quote>pretty but too dismal</quote>. Source: Journal</note>
+                  <note resp="#lmw">Mitford rated it <quote>pretty but too dismal</quote>. Source: Journal.</note>
                </bibl>
                
                <bibl xml:id="LifeRichard2">
@@ -6899,7 +6902,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>M. L. and L. C.</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1681"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="HistAcctAfrica_JL">
@@ -6908,7 +6910,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>W. Constable</publisher>
                   <pubPlace>Edinburgh</pubPlace>
                   <date when="1817"/>
-                  <note resp="#lmw">Full title: <title level="m">Historical Account of Discoveries and Travels in Africa, by the late J. Leyden, enlarged and completed to the present time, with illustrations . . . by H. Murray</title>.</note><!--ck. full title -->
+                  <note resp="#lmw">Full title: <title level="m">Historical Account of Discoveries and Travels in Africa, by the late J. Leyden, enlarged and completed to the present time, with illustrations</title>.</note>
                </bibl>
                
                <bibl xml:id="Mems_Napoleon1815">
@@ -6917,7 +6919,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>John Murray</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1820"/>
-                  <note resp="#lmw">Mitford rated it <quote>rather dull</quote> but then also called them <quote>a most interesting book</quote>.</note>
+                  <note resp="#lmw">Mitford rated it <quote>rather dull</quote> but then also called it <quote>a most interesting book</quote>.</note>
                </bibl>
                
                <bibl xml:id="Byron_6thPoems">
@@ -6944,7 +6946,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <author><persName ref="#deGenlis_Mme"/></author>
                    <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
                </bibl>
               
                <bibl xml:id="Pilgrim_Cross">
@@ -6989,7 +6990,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>F. C. and J. Rivington</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw">Full title: <title level="m">Remarks on Scepticism especially as it is connected with the subjects of organization and life. Being an answer to the views of M. Bichat, Sir T.C. Morgan, and Mr. Lawrence upon those points</title></note>
+                  <note resp="#lmw">Full title: <title level="m">Remarks on Scepticism especially as it is connected with the subjects of organization and life. Being an answer to the views of M. Bichat, Sir T.C. Morgan, and Mr. Lawrence upon those points</title>.</note>
                </bibl>
                
                <bibl xml:id="Lects_WmLawrence">
@@ -7102,7 +7103,6 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>T. Cadell and W. Davies</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1815"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="Zuma">
@@ -7239,7 +7239,6 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>Baldwin, Cradock, and Joy</orgName>
                   </publisher>
                   <date when="1818"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="IntNarr_Bruce">
@@ -7278,7 +7277,6 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>John Murray</orgName>
                   </publisher>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
                </bibl>
               
                <bibl xml:id="Tour_Alet">
@@ -7343,7 +7341,6 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>John Murray</orgName>
                   </publisher>
                   <date when="1819"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="WhiteCottage_AM">
@@ -7395,7 +7392,6 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>Mundell and Son</orgName>
                   </publisher>
                   <date when="1806"/>
-                  <note resp="#lmw"></note>
                </bibl>
                
                <bibl xml:id="Visit_LaTrappe">
@@ -7434,7 +7430,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>J. Mawman</orgName>
                   </publisher>
                   <date when="1817"/>
-                  <note resp="#lmw">Mitford rates it as <quote>stupid</quote>.</note>
+                  <note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
                
                <bibl xml:id="Mems_Curran">
@@ -7461,7 +7457,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>Leigh</orgName>
                   </publisher>
                   <date when="1814"/>
-                     <note resp="#lmw">2 vols. Full title: <title level="m">A Circumstantial Narrative of the Campaign in Russia: embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz: interspersed with faithful descriptions of those affecting and interesting scenes of which the author was an eye-witness</title>
+                     <note resp="#lmw">2 vols. Full title: <title level="m">A Circumstantial Narrative of the Campaign in Russia: embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz: interspersed with faithful descriptions of those affecting and interesting scenes of which the author was an eye-witness</title>.
                      </note>
                </bibl>
                
@@ -7490,7 +7486,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <orgName>Audot</orgName>
                      </publisher>
                      <date when="1817"/>
-                     <note resp="#lmw"> Full title: <title level="m">Mémoires particuliers, formant avec l'ouvrage de M. Hue et le Journal de Cléry l'histoire complète de la captivité de la famille royale de la Tour de Temple</title>
+                     <note resp="#lmw"> Full title: <title level="m">Mémoires particuliers, formant avec l'ouvrage de M. Hue et le Journal de Cléry l'histoire complète de la captivité de la famille royale de la Tour de Temple</title>.
                      </note>
                   </bibl>
                
@@ -7502,11 +7498,11 @@ Publisher:	London : E. Cox and Son, 1815
                      <placeName ref="#London_city">London</placeName>
                   </pubPlace>
                   <publisher>
-                     <orgName>Minerva Press</orgName>
+                     <orgName>William Lane</orgName>
                   </publisher>
                   <date when="1818"/>
-                  <note resp="#lmw">In 2 volumes. Full title: <title level="m">Woman, or Minor maxims. A Sketch.</title>
-                  </note><!-- check full title and name on tp or if anon. -->
+                  <note resp="#lmw">In 2 volumes. Full title: <title level="m">Woman, or Minor maxims. A Sketch.</title> Minerva Press.
+                  </note><!-- check full title and name on tp or if anon. mARIA eLIZABETH bUDDEN, AKA eLIZABETH tHOMAS. Maria Elizabeth Halsey  http://viaf.org/viaf/45736597-->
                </bibl>
                
                <bibl xml:id="Lives_HaydenMoz">
@@ -7534,7 +7530,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>T. Cadell and W. Davies</orgName>
                   </publisher>
                   <date when="1804"/>
-                  <note resp="#lmw">4 vols. Full title: <title level="m">Anecdotes of Distinguished Persons: Chiefly of the Last and two preceding centuries. Adorned with sculptures. The second edition, with additions and corrections. Mitford called it <quote>very amusing</quote>. Source: Journal</title>
+                  <note resp="#lmw">4 vols. Full title: <title level="m">Anecdotes of Distinguished Persons: Chiefly of the Last and two preceding centuries. Adorned with sculptures. The second edition, with additions and corrections. Mitford called it <quote>very amusing</quote>. Source: Journal.</title>
                   </note><!-- check full title and name on tp or if anon. First edition, 1796-->
                </bibl>
                
@@ -7559,7 +7555,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <orgName>F. C. and J. Rivington</orgName>
                      </publisher>
                      <date from="1801" to="1823"/>
-                     <note resp="#lmw">The Rivingtons published a comprehensive edition of Burke's works and correspondence, including his unpublished manuscripts, between 1801 and 1823, based, in part, on an earlier 3-volume edition by Dodsley. Mitford calls Burke a <quote>sad turncoat</quote>. Source: Journal</note>
+                     <note resp="#lmw">The Rivingtons published a comprehensive edition of Burke's works and correspondence, including his unpublished manuscripts, between 1801 and 1823, based, in part, on an earlier 3-volume edition by Dodsley. Mitford calls Burke a <quote>sad turncoat</quote>. Source: Journal.</note>
                   </bibl>
                
                   <bibl xml:id="Life_Burke_RB">
