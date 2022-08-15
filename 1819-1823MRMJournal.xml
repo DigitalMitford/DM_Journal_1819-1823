@@ -4304,7 +4304,16 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname>Strutt</surname>
                      <forename>Joseph</forename>
                   </persName>
-                  <note resp="#lmw"></note>
+                  <birth when="1749"/>
+                  <death when="1802"/>
+                  <occupation type="artist"/>
+                  <occupation type="scholar"/>
+                  <occupation type="artist" subtype="engraver"/>
+                  <occupation type="artist" subtype="painter"/>
+                  <occupation type="scholar" subtype="antiquarian"/>
+                  <occupation type="literary" subtype="novelist"/>
+                  <note resp="#lmw">engraver artist antiquary writer</note>
+                  <note><ptr target="http://viaf.org/viaf/69001823"/></note>
                </person>
                
                <person xml:id="SchlegelF" sex="m"> <!-- finish -->
@@ -4327,6 +4336,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="literary" subtype="poet"/>
                   <occupation type="literary" subtype="essayist"/>
                   <occupation type="literary" subtype="linguist"/>
+                  <note><ptr target="http://viaf.org/viaf/59099547"/></note>
                </person>
                
                <person xml:id="LopedeVega" sex="m">
@@ -4352,6 +4362,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="theater"/>
                   <occupation type="religious" subtype="priest"/>
                   <note resp="#lmw"></note>
+                  <note><ptr target="http://viaf.org/viaf/89773778"/></note>
                </person>
                
                <person xml:id="MolesworthRbt" sex="m">                  
@@ -4361,7 +4372,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>Robert</forename>
                      <roleName>1st Viscount Molesworth</roleName>
                   </persName>
-                  <birth when="1676-09-07">
+                  <birth when="1656-09-07">
                      <placeName>Brackenstown, Swords, Ireland</placeName>
                   </birth>
                   <death when="1725-05-22">
@@ -4372,6 +4383,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="government" subtype="politician"/>
                   <occupation type="literary" subtype="essayist"/>
                   <note resp="#lmw">Anglo-Irish writer and political figure, Mamber of Parliament and of the Privy Council of Ireland.</note>
+                  <note><ptr target="http://viaf.org/viaf/34492536"/></note>
                </person>
                
                <person xml:id="Hoare_RC" sex="m"> 
@@ -4394,6 +4406,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="literary" subtype="essayist"/>
                   <occupation type="benefactor"/>
                   <note resp="#lmw">Hoare took several tours to continental Europe as well as to Ireland, Wales, and the Island of Elba, which formed the basis of his sketches and later book publications. With William Cunnington, he made the first recorded excavations at Stonehenge in 1798 and in 1810. He also excavated 379 barrows on Salisbury Plain. He extensively studied the history and archaeology of Wiltshire, the county in which his estate was located, and in 1786 he purchased Glastonbury Tor, in Somerset, in order to study and preserve it.</note>
+                  <note><ptr target="http://viaf.org/viaf/59091385"/></note>
                </person>
                
                <person xml:id="Aikin_Lucy" sex="f">
@@ -4417,10 +4430,12 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="literary" subtype="autobiographer"/>
                   <occupation type="literary" subtype="biographer"/>
                   <occupation type="educator"/>
-                  <note resp="#lmw">Daughter of John Aikin and niece of <persName ref="#BarbauldAL">Anna Laetitia Barbauld</persName>. Prolific author of verse and prose for children, including two textbooks, as well as biographies of European historical figures for adults. Under her pseudonym, she authored several groundbreaking abridgements of British novels and stories, starting with <title level="m">Robinson Crusoe in Words of One Syllable</title>. Like Mitford, she was also known as a witty and intelligent letter writer.</note>
+                  <note resp="#lmw">Daughter of <persName ref="#Aikin_J">John Aikin</persName> and niece of <persName ref="#BarbauldAL">Anna Laetitia Barbauld</persName>. Prolific author of verse and prose for children, including two textbooks, as well as biographies of European historical figures for adults. Under her pseudonym, she authored several groundbreaking abridgements of British novels and stories, starting with <title level="m">Robinson Crusoe in Words of One Syllable</title>. Like Mitford, she was also known as a witty and intelligent letter writer.</note>
+                  <note><ptr target="http://viaf.org/viaf/17362522"/></note>
+                  <note><ptr target="http://viaf.org/viaf/252381764"/></note>
                </person>
                
-               <person xml:id="Davenport_Sel" sex="f"> <!-- stub -->
+               <person xml:id="Davenport_Sel" sex="f">
                   <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
@@ -4431,10 +4446,16 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <birth when="1779-06-27">
                      <placeName>London, London, England</placeName>
                   </birth>
-                  <death when="1859-07-14"/>
+                  <death when="1859-07-14">
+                     <placeName>England</placeName>
+                  </death>
+                  <occupation type="literary" subtype="novelist"/>
+                  <occupation type="trade"/>
+                  <note resp="#lmw">Author of 11 novels between the 1810s and 1830s. Friend of <persName ref="#Porter_AM">Anna Maria</persName> and <persName ref="#Porter_J">Jane Porter</persName>. After her retirement from writing, she kept a small shop in Cheshire.</note>
+                  <note><ptr target="http://viaf.org/viaf/10573617"/></note>
                </person>
                
-               <person xml:id="OKeeffe_Ad" sex="f"> <!-- stub -->
+               <person xml:id="OKeeffe_Ad" sex="f">
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -4444,18 +4465,31 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <placeName>Dublin, Ireland</placeName>
                   </birth>
                   <death when="1865-09-04">
-                     <placeName>Brighton</placeName>
+                     <placeName>Brighton, East Sussex, England</placeName>
                   </death>
+                  <occupation type="literary" subtype="novelist"/>
+                  <occupation type="literary" subtype="poet"/>
                   <note resp="#lmw">Daughter of <persName ref="#OKeefe">John O'Keeffe</persName>.</note>
+                  <note><ptr target="http://viaf.org/viaf/160187741"/></note>
                </person>
                
-               <person xml:id="Blackford_Mar" sex="f"> <!-- stub -->
-                  <persName>Martha Blackford</persName>
+               <person xml:id="Blackford_Mar" sex="f">
+                  <persName>Lady Isabella Moncrieff Stoddart</persName>
                   <persName>
-                     <surname type="married">Blackford</surname>
-                     <forename>Martha</forename>
+                     <surname type="paternal">Moncrieff</surname>
+                     <surname type="married">Stoddart</surname>
+                     <forename>Isabella</forename>
                   </persName>
+                  <persName><addName>Martha Blackford</addName></persName>
                   <persName><addName>Mrs. Blackford</addName></persName>
+                  <birth when="1775">
+                     <placeName>Scotland</placeName>
+                  </birth>
+                  <death when="1846"></death>
+                  <occupation type="literary" subtype="novelist"/>
+                  <note resp="#lmw">Daughter of Rev. Henry Moncrieff-Wellwood and spouse of Sir John Stoddart. Authored works for children, set in her native Scotland, under the pseydonym Martha Blackford.</note>
+                  <note><ptr target="http://viaf.org/viaf/44633852"/></note>
+                  <note><ptr target="http://viaf.org/viaf/74760068"/></note>
                </person>
                
                <person xml:id="Robinson_Mary" sex="f"> <!-- DONE -->
@@ -4467,22 +4501,44 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   </persName>
                </person>
                
-               <person xml:id="Visconti_E" sex="m"> <!-- stub -->
+               <person xml:id="Visconti_E" sex="m">
                   <persName>Ennio Quirino Visconti</persName>
                   <persName>
                      <surname>Visconti</surname>
                      <forename>Ennio</forename>
                      <forename>Quirino</forename>
                   </persName>
+                  <birth when="1751-11-01">
+                     <placeName>Rome, Italy</placeName>
+                  </birth>
+                  <death when="1818-02-17">
+                     <placeName>Paris, France</placeName>
+                  </death>
+                  <occupation type="scholar" subtype="historian"/>
+                  <occupation type="scholar" subtype="antiquarian"/>
+                  <occupation type="literary" subtype="translator"/>
+                  <occupation type="artist"/>
+                  <note resp="#lmw">Expert on Roman sculpture and other antiquities of the ancient world. With his father, art conservator and cataloguer of the Roman antiquities owned by the Vatican in the 1780s. In the 1790s, he also published catalogs of Richard Worsley's Greek antiquities and of the sculptures in the Villa Borghese. Emigrated to Paris, where he became curator of Napoleon's collections at the Louvre and a professor of archaeology. Published 7 volumes of Greek and Roman ancient world portraits, in French. One of the experts consulted on the Elgin marbles. He believed that Roman sculptures did not imitate but improved upon the works of the Greeks.</note>
+                  <note><ptr target="http://viaf.org/viaf/12366161"/></note>
                </person>
                
-               <person xml:id="Crabbe" sex="m"> <!-- stub -->
+               <person xml:id="Crabbe" sex="m">
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
                      <forename>George</forename>
                   </persName>
-               </person>
+                  <birth when="1754-12-24">
+                     <placeName>Aldeburgh, Suffolk, England</placeName>
+                  </birth>
+                  <death when="1832-02-03">
+                     <placeName>Trowbridge, Wiltshire, England</placeName>
+                  </death>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="religious" subtype="clergy"/>
+                  <occupation type="medical" subtype="surgeon"/>
+                  <note resp="#lmw">Mentored by <persName ref="#Burke_E">Edmund Burke</persName> and friend of <persName ref="#Scott_Wal">Scott</persName> and <persName ref="#Wordsworth_Wm">Wordsworth</persName></note>
+                  <note><ptr target="http://viaf.org/viaf/100175819"/></note>               </person>
               
                <person xml:id="HallamH" sex="m"> <!-- stub -->
                   <persName>Henry Hallam</persName>
@@ -4490,6 +4546,14 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname>Hallam</surname>
                      <forename>Henry</forename>
                   </persName>
+                  <birth when="1777-07-09"></birth>
+                  <death when="1859-01-21"/>
+                  <occupation type="scholar" subtype="historian"/>
+                  <occupation type="legal" subtype="barrister"/>
+                  <occupation type="literary" subtype="critic"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <note resp="#lmw">Proponent of <orgName ref="#Whig">Whig</orgName> causes such as the abolition of the slave trade. Wrote for the <title ref="#EdinburghRev_per">Edinburgh Review</title> as well as authoring longer works on political and literary history.</note>
+                  <note><ptr target="http://viaf.org/viaf/41934045"/></note>
                </person>
                
               
@@ -4499,6 +4563,10 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname>Wright</surname>
                      <forename>John</forename>
                   </persName>
+                  <birth when="1770"/>
+                  <death when="1844"/>
+                  <note resp="#lmw">bookseller author editor publisher</note>
+                  <note><ptr target="http://viaf.org/viaf/4920541"/></note>
                </person>
                
                <person xml:id="ClementWI" sex="m"> <!-- stub -->
@@ -4509,6 +4577,8 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>Innell</forename>
                   </persName>
                   <death when="1852"/>
+                  <note resp="#lmw">newspaper prop.</note>
+                  <note><ptr target="http://viaf.org/viaf/50757111"/></note>
                </person>
                
                <person xml:id="FarquharsonG" sex="m"> <!-- stub -->
@@ -4517,6 +4587,8 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname>Farquharson</surname>
                      <forename>George</forename>
                   </persName>
+                  <note resp="#lmw">legal journalist <!--no dates?--></note>
+                  <note><ptr target="http://viaf.org/viaf/30987190"/></note>
                </person>
                
                <person xml:id="Edwards_Bryan" sex="m"> <!-- stub -->
@@ -4525,6 +4597,10 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <surname>Edwards</surname>
                      <forename>Bryan</forename>
                   </persName>
+                  <birth when="1743"/>
+                  <death when="1800"/>
+                  <note resp="#lmw">politician planter</note>
+                  <note><ptr target="http://viaf.org/viaf/79205127"/></note>
                </person>
                
                <person xml:id="KempeAJ" sex="m"> <!-- stub -->
@@ -4534,6 +4610,11 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>Alfred</forename>
                      <forename>John</forename>
                   </persName>
+                  <occupation type="scholar" subtype="antiquarian"/>
+                  <birth when="1785"/>
+                  <death when="1846"/>
+                  <note resp="#lmw">1785? </note>
+                  <note><ptr target="http://viaf.org/viaf/69277446"/></note>
                </person>
                
                <person xml:id="Windham_Wm" sex="m"> <!-- stub -->
@@ -4541,7 +4622,10 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <persName>
                      <surname>Windham</surname>
                      <forename>William</forename>
+                     <note resp="#lmw">1750-1810 </note>
+                     <note><ptr target="http://viaf.org/viaf/79013184"/></note>
                   </persName>
+                  
                </person>
                
                <person xml:id="Amyot_Thos" sex="m"> <!-- stub -->
@@ -4577,7 +4661,6 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>Edward</forename>
                   </persName>
                </person>
-               
                
                <person xml:id="Machiavelli" sex="m"> <!-- stub -->
                   <persName>Niccolo Machiavelli</persName>
@@ -4636,6 +4719,7 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>L. A.</forename>
                      <roleName>Mrs.</roleName>
                   </persName>
+                  <persName><addName>Meta</addName></persName>
                   <note resp="#lmw">Wrote for juvenile and Evangelical audiences. Wrote under the pseudonym <q>Meta</q>. Paternal surname unknown. Dates unknown.</note>
                </person>
                
@@ -4656,7 +4740,6 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                      <forename>Wilhelmine</forename>
                   </persName>
                   <persName><addName>Margravine of Brandenburg-Bareuth</addName></persName>
-                  
                   <birth when="1709-07-03">
                      <placeName>Berlin, Germany</placeName>
                   </birth>
@@ -4666,7 +4749,6 @@ Publisher:	London, 1820. -->--sad methodistical stuff--Heard from <persName ref=
                   <occupation type="artist"/>
                   <occupation type="benefactor"/>
                   <occupation type="literary"/>
-                  
                   <occupation type="benefactor" subtype="patron"/>
                   <occupation type="literary" subtype="autobiographer"/>
                   <note resp="#lmw">House of Hohenzollern, granddaughter of George I of Great Britain, daughter of Frederic William I of Prussia and older sister of Frederick the Great. Patron of music; composer for voice, strings, keyboard and woodwinds; player on the lute.</note>
@@ -6574,7 +6656,8 @@ Publisher:	London : E. Cox and Son, 1815
                   <bibl xml:id="LecPoetry_WHaz">
                   <title level="m">Lectures on the English Poets, delivered at the Surrey
                      Institution</title>
-                  <author ref="#Hazlitt_Wm">William Hazlitt</author>
+                  <author ref="#Hazlitt_Wm"/>/]]
+                     
                   <publisher>
                      <orgName ref="#Taylor_Hessey">Taylor and Hessey</orgName>
                   </publisher>
@@ -6612,7 +6695,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="WaytoKeepHim">
-                  <title level="m">The Way to Keep Him. A Comedy in five acts</title>
+                  <title level="m">The Way to Keep Him. A Comedy in Five Acts</title>
                   <author><persName ref="#Murphy_Ar"/></author>
                   <publisher>P. Vaillant</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
@@ -6666,12 +6749,12 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="Manners">
-                  <title level="m">Manners: a novel</title>
+                  <title level="m">Manners: A Novel</title>
                   <author><persName ref="#BrookeFrances"/></author>
                   <publisher>Baldwin, Cradock, and Joy</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1817"/>
-                  <note resp="#lmw">Full title: <title level="m">Manners: a Novel. In three volumes.</title>. Written under the pseudonym <q>Madame Panache</q>. Mitford rated it <quote>a pretty thing</quote>.</note>
+                  <note resp="#lmw">3 vols. Written under the pseudonym <q>Madame Panache</q>. Mitford rated it <quote>a pretty thing</quote>.</note>
                </bibl>
                
                <bibl xml:id="TalesofmyLandord_3rd">
@@ -6690,7 +6773,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Mawman</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
-                  <note resp="#lmw">Full title: <title level="m">A Classical Tour Through Italy and Sicily: tending to illustrate some districts which have not been described by Mr. Eustace</title>. Mitford dismissed it as <quote>Humdrum</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">A Classical Tour Through Italy and Sicily: tending to illustrate some districts which have not been described by Mr. Eustace</title>. Mitford dismissed it as <quote>humdrum</quote>.</note>
                </bibl>
                
                <bibl xml:id="InsaneWorld">
@@ -6699,7 +6782,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>J. Hatchard</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1818"/>
-                  <note resp="#lmw">Full title: <title level="m">the INsance World; or, a Week in London. A Satire</title>. Mitford dismissed it as <quote>stupid and frantical</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">The Insane World; or, a Week in London. A Satire</title>. Mitford dismissed it as <quote>stupid and frantical</quote>.</note>
                </bibl>
                
                <bibl xml:id="AcctDenmark1692">
@@ -6825,7 +6908,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>W. Constable</publisher>
                   <pubPlace>Edinburgh</pubPlace>
                   <date when="1817"/>
-                  <note resp="#lmw">Full title: <title level="m">Historical Account of Discoveries and Travels in Africa, by the late J. Leyden, enlarged and completed to the present time, with illustrations . . . by H. Murray</title>.</note>
+                  <note resp="#lmw">Full title: <title level="m">Historical Account of Discoveries and Travels in Africa, by the late J. Leyden, enlarged and completed to the present time, with illustrations . . . by H. Murray</title>.</note><!--ck. full title -->
                </bibl>
                
                <bibl xml:id="Mems_Napoleon1815">
@@ -7001,7 +7084,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>J. J. Stockdale</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1810"/>
-                  <note resp="#lmw">Full title: <title level="m">The History of the Parisian Massacre; wherein all the minute circumstances of that sanguinary event are faithfully pourtrayed: collected from unpublished manuscripts, umpartial historic writers, and other authentic sources.</title>. Mitford rated it <quote>bad</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">The History of the Parisian Massacre; Wherein all the minute circumstances of that sanguinary event are faithfully pourtrayed: collected from unpublished manuscripts, umpartial historic writers, and other authentic sources.</title>. Mitford rated it <quote>bad</quote>.</note>
                </bibl>
                
                <bibl xml:id="AutumnRhine">
@@ -7028,7 +7111,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <publisher>Henry Colburn</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1818"/>
-                  <note resp="#lmw">Full title: <title level="m">Zuma, or the Tree of Health. To which are added, the fair Pauline,--Zeneida,--the reeds of the Tiber,--and the Widow of Luzi</title>. First published in Paris in 1817 as<title level="m">Zuma, ou, La Découverte du quinquina  suivi de La belle Paule, de Zenéide, des Roseaux du Tibre, etc.</title> Mitford dismisses it as <quote>stupid</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">Zuma, or the Tree of Health. To which are added, the fair Pauline,--Zeneida,--the reeds of the Tiber,--and the Widow of Luzi</title>. First published in Paris in 1817 as<title level="m">Zuma, ou, La Découverte du quinquina uivi de La belle Paule, de Zenéide, des Roseaux du Tibre, etc.</title> Mitford dismisses it as <quote>stupid</quote>.</note>
                </bibl>
                
                <bibl xml:id="Narr_Algiersin1816">
@@ -7091,10 +7174,9 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>Oliver and Boyd</orgName>
                   </publisher>
                   <date when="1820"/>
-                  <note resp="#lmw">2 vols. Full title: <title level="m">Winter Evening's Tales, collected among the cottagers in the South of Scotland</title></note>
+                  <note resp="#lmw">2 vols. Full title: <title level="m">Winter Evening's Tales, collected among the cottagers in the South of Scotland</title>.</note>
                </bibl>
                
-              
                <bibl xml:id="TalesofWHS">
                   <title level="m">Tales of Wonder, of Humour, and of Sentiment; Original and Translated</title>
                   <author ref="#PlumptreAnne #PlumptreAnnabella"/>
@@ -7141,7 +7223,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <placeName>London</placeName>
                   </pubPlace>
                   <publisher>
-                     <orgName>Lane</orgName>
+                     <orgName>William Lane</orgName>
                   </publisher>
                   <date when="1790"/>
                   <note resp="#lmw">5 vols. Minerva Press. Mitford rated it as <quote>famous</quote>.</note>
@@ -7170,7 +7252,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>Shaw</orgName>
                   </publisher>
                   <date when="1790"/>
-                  <note resp="#lmw">Full title: <title level="m">An Interesting Narrative of the Travels of James Bruce, Esq. into Abyssinia: to discover the source of the Nile. Abridged from the original work</title>. Mitford rated it <quote>very learned &amp; curious</quote>.</note>
+                  <note resp="#lmw">Full title: <title level="m">An Interesting Narrative of the Travels of James Bruce, Esq. into Abyssinia: To discover the source of the Nile. Abridged from the original work</title>. Mitford rated it <quote>very learned &amp; curious</quote>.</note>
                </bibl>
                
                <bibl xml:id="Hist_Crusades_CM">
@@ -7252,7 +7334,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="Voyage_PolarExp">
-                  <title level="m">A Voyage of Discovery, Made Under the Orders of the Admiralty, in his Majesty's ships Isabella and Alexander for the purpose of exploring Baffin's Bay, and Enquiring into the possibility of a North-West Passage</title>
+                  <title level="m">A Voyage of Discovery, Made Under the Orders of the Admiralty, in his Majesty's ships Isabella and Alexander for the purpose of exploring Baffin's Bay, and Enquiring into the possibility of a North-West Passage.</title>
                   <author ref="#Ross_Capt"/>
                   <pubPlace>
                      <placeName>London</placeName>
@@ -7339,7 +7421,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName>J. Murray</orgName>
                   </publisher>
                   <date when="1818"/>
-                  <note resp="#lmw">Full title: <title level="m">A Chronological History of Voyages Into the Arctic Regions; Undertaken Chiefly for the Purpose of Discovering a North-East, North-West, or Polar Passage between the Atlantic and Pacific: From the Earliest Period of Scandinavian Navigation, to the departure of the Recent Expeditions, under the Orders of Captains Ross and Buchan</title></note>
+                  <note resp="#lmw">Full title: <title level="m">A Chronological History of Voyages Into the Arctic Regions; Undertaken Chiefly for the Purpose of Discovering a North-East, North-West, or Polar Passage between the Atlantic and Pacific: From the Earliest Period of Scandinavian Navigation, to the departure of the Recent Expeditions, under the Orders of Captains Ross and Buchan</title>.</note>
                </bibl>
                
                <bibl xml:id="PictTour_FrSw">
@@ -7394,13 +7476,12 @@ Publisher:	London : E. Cox and Son, 1815
                      <orgName ref="#Baldwin_Cradock_Joy_pub">Baldwin, Cradock and Joy</orgName>
                   </publisher>
                   <date when="1818"/>
-                  <note resp="#lmw">2 vols. Full title: <title level="m">A Year and a Day. A Novel. Written under the pseudonym <q>Madame Panache</q>. Mitford rates it <quote>pretty enough but too dismal</quote>. Source: Journal.</title>
+                  <note resp="#lmw">2 vols. Full title: <title level="m">A Year and a Day. A Novel.</title> Written under the pseudonym <q>Madame Panache</q>. Mitford rates it <quote>pretty enough but too dismal</quote>. Source: Journal.
                   </note>
                </bibl>
                   
                      <bibl xml:id="Mems_Temple">
-                        <title level="m">Mémoires particuliers de la captivité de la famille royale de la Tour de Temple
-                     </title>
+                        <title level="m">Mémoires Particuliers de la Captivité de la Famille Royale de la Tour de Temple</title>
                      <author ref="#MarieTherese_France">Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</author>
                      <pubPlace>
                         <placeName>Paris</placeName>
@@ -7589,7 +7670,7 @@ Publisher:	London : E. Cox and Son, 1815
                            <orgName>J. Murray</orgName>
                         </publisher>
                         <date when="1820"/>
-                        <note resp="#lmw">Full title: <title level="m">The Fall of Jerusalem: A Dramatic Poem.</title><!-- check full title-->
+                        <note resp="#lmw">Full title: <title level="m">The Fall of Jerusalem: A Dramatic Poem.</title>
                         </note>
                      </bibl>
                      
@@ -7634,11 +7715,11 @@ Publisher:	London : E. Cox and Son, 1815
                   <pubPlace ref="#London_city">London</pubPlace>
                   <publisher>J. Johnson</publisher>
                   <date when="1804"/>
-                  <note resp="#lmw">In 3 volumes. Volume 1 includes: <title level="a">Lame Jervas</title>, <title level="a">The will</title>, <title level="a">The limerick gloves</title>, <title level="a">Out of debt out of danger</title>; Volume 2 includes: <title level="a">The lottery</title>, <title level="a">Rosanna</title>, <title level="a">Murad the Unlucky</title>, <title level="a">The manufacturers</title>; Volume 3 included: <title level="a">The contrast</title>, <title level="a">The grateful Negro</title>, <title level="a">To-morrow</title>.</note>
+                  <note resp="#lmw">In 3 volumes. Volume 1 includes: <title level="a">Lame Jervas</title>, <title level="a">The Will</title>, <title level="a">The Limerick Gloves</title>, <title level="a">Out of Debt Out of Danger</title>; Volume 2 includes: <title level="a">The lottery</title>, <title level="a">Rosanna</title>, <title level="a">Murad the Unlucky</title>, <title level="a">The Manufacturers</title>; Volume 3 included: <title level="a">The Contrast</title>, <title level="a">The Grateful Negro</title>, <title level="a">To-morrow</title>.</note>
                </bibl>
                
                <bibl xml:id="MoralTales_ME">
-                  <title level="m">Moral Tales for Young people</title>
+                  <title level="m">Moral Tales for Young People</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
                   </author>
@@ -7678,7 +7759,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <pubPlace ref="#London_city">London</pubPlace>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
                   <date when="1820">1820</date>
-                  <note resp="#lmw">3 vols. Mitford consider it <quote>not very good</quote>.</note>
+                  <note resp="#lmw">3 vols. Mitford considered it <quote>not very good</quote>.</note>
                </bibl>
                
                <bibl xml:id="Altham">
@@ -7773,7 +7854,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="Parvenus">
-                  <title level="m">Les parvenus; ou, Les aventures de Julien Delmours</title>
+                  <title level="m">Les Parvenus; ou, Les Aventures de Julien Delmours</title>
                <author>
                   <persName ref="#deGenlis"/>
                </author>
@@ -7794,7 +7875,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
                
                <bibl xml:id="Mems_ElizHamilton">
-                  <title level="m">Memoirs of the late Mrs. Elizabeth Hamilton</title>
+                  <title level="m">Memoirs of the Late Mrs. Elizabeth Hamilton</title>
                   <author>
                      <persName ref="#Benger_ElizO">Elizabeth Ogilvy Benger</persName>
                   </author>
