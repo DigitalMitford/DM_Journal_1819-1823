@@ -6,3 +6,6 @@ https://github.com/DigitalMitford/DM_Journal_ste/blob/master/MitfordJournalPart1
 
 The other set of images is in a different file sharing system (via Microsoft Sharepoint): the image files are too large for GitHub, but they show Mitford's handwritten journal: 
 https://pennstateoffice365.sharepoint.com/:f:/s/DigitalMitfordProject/EgTpb5je2zVPqCG6_AuJbzMBZ-SPQ5hpm2s1n9Z5Ozqr8A?e=k1afJf
+
+Useful XPATH:
+//div[@type="entry"][last()]
