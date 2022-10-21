@@ -1,8 +1,9 @@
 
 body {
-background-color: BurlyWood;
+
 color: indigo;
 font-family: arial, helvetica, sans-serif;
+padding: 2% 5% 2% 5%;
 }
 ol {list-style-type: lower-alpha;
 padding: 5em;
