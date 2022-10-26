@@ -5503,6 +5503,8 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-05-25">Thursday 25 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some [?] - read <title>Josephus</title> - very fine.</p>
             </div>
+            
+            <!--JDH: 2022-10-26 The question mark is unable to be read with current scan quality, large smudge -->
             <div type="entry">
                <head><date when="1820-05-26">Friday 26 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName ref="#Hofland_B">Mrs. Hofland</persName> - read <title ref="#Peters_Letters_novel">Peter's letter</title> 2nd time.</p>
@@ -5533,6 +5535,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - went with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city">Reading</placeName> - called on the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Newberrys">Newberrys</orgName>, <orgName ref="#Whites">Whites</orgName>,
                   &amp;c. - came <placeName ref="#ThreeMilesCross">home</placeName> to dinner - wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> - dear <persName ref="#Mitford_Geo">Drum</persName> had a bad sore
                   throat - had a chat with <persName ref="#Havell_Mrs">Mrs. Havell</persName>.</p>
+               <!--JDH: 2022-10-26 Everything looks good so far with the original writing-->
             </div>
          </div>
       </body>
