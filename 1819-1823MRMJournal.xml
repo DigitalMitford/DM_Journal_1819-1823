@@ -5492,49 +5492,69 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName
                      ref="#Macfarlane_Chas">Mr. MacFarlane</persName> &amp; sent him my Poems - went
                   with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; dear <persName
-                     ref="#Russell_M">Granny</persName> in <persName>Major Stewart's</persName> Car to call on dear <persName ref="#Dickinson_Mrs">Mrs.
-                        Dickinson</persName> &amp; kepp <persName
-                           ref="#Webb_James">Mr. Webb's</persName> Birthday at <placeName>Wokington</placeName> - met the <orgName ref="#Wheelers">Wheelers</orgName>, <orgName>Holtons</orgName>,
-                  <orgName>Gaywards</orgName> &amp; <persName ref="#Talmage_Mrs">Mrs. Talmage</persName> - came home at night - a delightfully pleasant
-                  day.</p>
+                     ref="#Russell_M">Granny</persName> in <persName ref="#Major_Stewart">Major
+                     Stewart's</persName> Car to call on dear <persName ref="#Dickinson_Mrs">Mrs.
+                     Dickinson</persName> &amp; kepp <persName ref="#Webb_James">Mr.
+                     Webb's</persName> Birthday at <placeName ref="#Wokingham_city"
+                     >Wokington</placeName> - met the <orgName ref="#Wheelers">Wheelers</orgName>,
+                     <orgName ref="#Holtons">Holtons</orgName>, <orgName ref="#Gayward"
+                     >Gaywards</orgName> &amp; <persName ref="#Talmage_Mrs">Mrs. Talmage</persName>
+                  - came home at night - a delightfully pleasant day.</p>
                <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). orgName ref for Holtons and gaywards not found -->
             </div>
             <div type="entry">
                <head><date when="1820-05-25">Thursday 25 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some [?] - read <title>Josephus</title> - very fine.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some [?] - read
+                     <title>Josephus</title> - very fine.</p>
             </div>
-            
+
             <!--JDH: 2022-10-26 The question mark is unable to be read with current scan quality, large smudge -->
             <div type="entry">
                <head><date when="1820-05-26">Friday 26 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName ref="#Hofland_B">Mrs. Hofland</persName> - read <title ref="#Peters_Letters_novel">Peter's letter</title> 2nd time.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#Hofland_B">Mrs. Hofland</persName> - read <title
+                     ref="#Peters_Letters_novel">Peter's letter</title> 2nd time.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-27">Saturday 27 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - read <title ref="#Peters_Letters_novel">Peter's letters</title> &amp; our <title>Times Newspapers</title> - planted some China
-                  Asters - wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> - dressed my flowers - walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the
-                  pets.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - read <title
+                     ref="#Peters_Letters_novel">Peter's letters</title> &amp; our <title
+                     ref="#Times_news">Times Newspapers</title> - planted some 
+                     China Asters - wrote to <persName ref="#Hofland_B">Mrs.
+                     Hofland</persName> - dressed my flowers - walked with <persName
+                     ref="#Mitford_Geo">Drum</persName> &amp; the pets.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-28">Sunday 28 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - very wet - never stirred - read <title>Sir Charles Grandison</title>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - very wet - never stirred -
+                  read <title ref="#Chas_Grandison_novel">Sir Charles Grandison</title>.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-29">Monday 29 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - walked with <persName ref="#Mitford_Geo">Drum</persName> to Bertram House - met poor dear little <persName ref="#May_Fly">Fly</persName> (the
-                  brindled bitch) going there to take refuge with us from some wicked <placeName ref="#Reading_city">Reading</placeName> boys
-                  who had tied a string round her poor tail.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - walked with <persName
+                     ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Bertram_house">Bertram House</placeName> - met poor dear little
+                     <persName ref="#May_Fly">Fly</persName> (the brindled bitch) going there to
+                  take refuge with us from some wicked <placeName ref="#Reading_city"
+                     >Reading</placeName> boys who had tied a string round her poor tail.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-30">Tuesday 30 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - called at the <orgName>Voules's</orgName> with dear <persName ref="#Mitford_Geo">Drum</persName> - came home to dinner - <persName ref="#Macfarlane_Chas">Mr.
-                  MacFarlane</persName> drank tea with us in the evening - very pleasant.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - called at the <orgName
+                     ref="#Voules">Voules's</orgName> with dear <persName ref="#Mitford_Geo"
+                     >Drum</persName> - came home to dinner - <persName ref="#Macfarlane_Chas">Mr.
+                     MacFarlane</persName> drank tea with us in the evening - very pleasant.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-31">Wednesday 31 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city">Reading</placeName> - called on the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Newberrys">Newberrys</orgName>, <orgName ref="#Whites">Whites</orgName>,
-                  &amp;c. - came <placeName ref="#ThreeMilesCross">home</placeName> to dinner - wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> - dear <persName ref="#Mitford_Geo">Drum</persName> had a bad sore
-                  throat - had a chat with <persName ref="#Havell_Mrs">Mrs. Havell</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went with <persName
+                     ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city"
+                     >Reading</placeName> - called on the <orgName ref="#Brookes">Brookes</orgName>,
+                     <orgName ref="#Newberrys">Newberrys</orgName>, <orgName ref="#Whites"
+                     >Whites</orgName>, &amp;c. - came <placeName ref="#ThreeMilesCross"
+                     >home</placeName> to dinner - wrote to <persName ref="#Brooke_Miss">Miss
+                     Brooke</persName> - dear <persName ref="#Mitford_Geo">Drum</persName> had a bad
+                  sore throat - had a chat with <persName ref="#Havell_Mrs">Mrs.
+                  Havell</persName>.</p>
                <!--JDH: 2022-10-26 Everything looks good so far with the original writing-->
             </div>
          </div>
@@ -5543,6 +5563,35 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
+               <org xml:id="Voules">
+                  <orgName>The Voules family</orgName>
+                  <orgName>Voules's</orgName>
+                  <orgName>
+                     <surname>Voules</surname>
+                     <note>A <rs type="person" ref="#Voules_Mr #Voules_Mrs">family</rs>
+                     </note>
+                  </orgName>
+                  
+               </org>
+
+               <org xml:id="Gayward">
+                  <orgName> The Gayward family </orgName>
+                  <orgName>Gaywards</orgName>
+                  <orgName>
+                     <surname>Gayward</surname>
+                  </orgName>
+               </org>
+               <org xml:id="Holtons">
+                  <orgName>The Holton family</orgName>
+                  <orgName>Holtons</orgName>
+                  <orgName>
+                     <surname>Holton</surname>
+                  </orgName>
+                  <!-- srr: Need members and info -->
+               </org>
+               
+               
+               <!-- srr: I've added the last 3 orgs ^^^ -->
 
                <org xml:id="Havell_Lib">
                   <!--done-->
@@ -5680,6 +5729,13 @@ Publisher:	London : [publisher not identified], 1786.
             <listPerson sortKey="histPersons">
                <person xml:id="Tuppen_Mrs" sex="f"/>
                <!-- existing -->
+
+               <person xml:id="Major_Stewart" sex="m">
+                  <persName>
+                     <surname>Major</surname>
+                     <forename>Stewart</forename>
+                  </persName>
+               </person>
 
                <person xml:id="Junius_pseudo" sex="m">
                   <persName>Junius</persName>
@@ -8143,7 +8199,6 @@ Publisher:	London : [publisher not identified], 1786.
 
             <list sortKey="plants">
                <item/>
-
                <item xml:id="flower"/>
 
             </list>
@@ -8163,11 +8218,11 @@ Publisher:	London : [publisher not identified], 1786.
             </list>
          </div>
 
-
-
          <div type="publications">
 
             <listBibl sortKey="serial_MRM">
+
+               <bibl xml:id="Times_Papers"> </bibl>
                <bibl xml:id="Pamphleteer_per">
                   <title>The Pamphleteer</title>
                   <pubPlace>London</pubPlace>
