@@ -26,7 +26,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <sponsor>
                <orgName>Mary Russell Mitford Society: Digital Mitford Project</orgName>
             </sponsor>
-            <sponsor>University of Pittsburgh at Greensburg</sponsor>
             <principal>Elisa Beshero-Bondar</principal>
             <respStmt>
                <resp>Transcription and coding by</resp>
@@ -4317,7 +4316,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                      ref="#HermitInLondon">the Hermit in London</title>--very good.</p>
             </div>
             <div type="entry">
-               <head><date when="1820-01-27">Thursdaygit add 27 <add>JANUARY</add></date></head>
+               <head><date when="1820-01-27">Thursday 27 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went to <placeName
                      ref="#Wokingham_city">Wokingham</placeName>--found <persName ref="#Webb_James"
                      >Mr. Webb</persName> better--<persName ref="#Webb_Eliza">Eliza</persName> not
@@ -4515,7 +4514,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                <p>Wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>--went into <placeName
                      ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo"
                      >Drum</persName>--called at the <orgName ref="#Joliffes"
-                     >Jolliffes</orgName>--<orgName ref="#Newberys">Newberrys</orgName>--<orgName
+                     >Jolliffes</orgName>--<orgName ref="#Newberrys">Newberrys</orgName>--<orgName
                      ref="#Sherwoods">Sherwoods</orgName>--<orgName ref="#Whites"
                      >Whites</orgName>--<orgName ref="#Valpys">Valpys</orgName> (witnessed the dear
                      <persName ref="#Valpy_Richard">Drs.</persName>
@@ -5490,25 +5489,34 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry">
                <head><date when="1820-05-24">Wednesday 24 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName
-                     ref="#Macfarlane_Chas">Mr. MacFarlane</persName> &amp; sent him my Poems - went
-                  with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; dear <persName
-                     ref="#Russell_M">Granny</persName> in <persName ref="#Major_Stewart">Major
+                     ref="#Macfarlane_Chas">Mr. MacFarlane</persName> &amp; sent him my Poems<note resp="#ebb">Could MRM have sent McFarlane a copy of her <bibl corresp="#Poems_2nd_ed_MRM"><title>Poems</title> from 1811</bibl>? Or are these poems more recent?</note> - went
+                  with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; dear <persName ref="#Russell_M">Granny</persName>
+                  <!-- 2022-10-30 ebb: IGood work figuring out that this was "Russell_M", or really MRM's mother! She must have called
+                  her mother "Granny" and her father "Drum." Cute. --> in <persName ref="#Stewart_Major">Major
                      Stewart's</persName> Car to call on dear <persName ref="#Dickinson_Mrs">Mrs.
-                     Dickinson</persName> &amp; kepp <persName ref="#Webb_James">Mr.
+                     Dickinson</persName> &amp; keep <persName ref="#Webb_James">Mr.
                      Webb's</persName> Birthday at <placeName ref="#Wokingham_city"
-                     >Wokington</placeName> - met the <orgName ref="#Wheelers">Wheelers</orgName>,
-                     <orgName ref="#Holtons">Holtons</orgName>, <orgName ref="#Gayward"
-                     >Gaywards</orgName> &amp; <persName ref="#Talmage_Mrs">Mrs. Talmage</persName>
+                     >Wokingham</placeName> - met the <orgName ref="#Wheelers">Wheelers</orgName>,
+                     <orgName ref="#Holtons">Holtons</orgName>, <orgName>Haywards</orgName><!-- ebb: NO SI ENTRY YET --> &amp; <persName>Mrs. Talmage</persName><!-- ebb: NO SI ENTRY YET -->
                   - came home at night - a delightfully pleasant day.</p>
-               <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). orgName ref for Holtons and gaywards not found -->
+               <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). 
+                  orgName ref for Holtons and gaywards not found -->
+               <!-- ebb 2022-10-30: Good work, Tyler and team: I've made some corrections to the transcript. Indeed she is mentioning Wokingham, not Wokington. This is near her hometown, where her friends the Webbs live. Mr. Webb runs
+               a brew pub in Wokingham. NOTE: Where we don't have mentiones in the SI, don't add @ref attributes yet. WE'll add them later after a round of resaerch.
+               The schema will help us keep track of the named entity tags that lack @ref attributes. -->
             </div>
             <div type="entry">
                <head><date when="1820-05-25">Thursday 25 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some [?] - read
-                     <title>Josephus</title> - very fine.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some <gap reason="smudged lettering, illegible" unit="word" quantity="3"/> - read
+                  <bibl>Josephus</bibl><!-- 2022-10-30 ebb: I think this is a reference to an English translation of Flavius Josephus's Antiquities of the Jews
+                     https://www.worldcat.org/search?q=flavius+josephus+antiquities+of+the+jews  We should locate one or two editions she might have had access to, published 
+                     late 1700s (like the 1790 edition) and write a new entry for the SI. -->
+            - very fine.</p>
             </div>
 
             <!--JDH: 2022-10-26 The question mark is unable to be read with current scan quality, large smudge -->
+            <!-- ebb: 2022-10-30: Thanks for catching that in the original! I replaced the typescript's pseudomarkup wiht TEI markup
+            for something unreadable: the <gap/> element which takes a @reason attribute. -->
             <div type="entry">
                <head><date when="1820-05-26">Friday 26 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
@@ -5533,7 +5541,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-05-29">Monday 29 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - walked with <persName
                      ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Bertram_house">Bertram House</placeName> - met poor dear little
-                     <persName ref="#May_Fly">Fly</persName> (the brindled bitch) going there to
+                     <persName ref="#Fly_pet">Fly</persName> (the brindled bitch) going there to
                   take refuge with us from some wicked <placeName ref="#Reading_city"
                      >Reading</placeName> boys who had tied a string round her poor tail.</p>
             </div>
@@ -5729,13 +5737,6 @@ Publisher:	London : [publisher not identified], 1786.
             <listPerson sortKey="histPersons">
                <person xml:id="Tuppen_Mrs" sex="f"/>
                <!-- existing -->
-
-               <person xml:id="Major_Stewart" sex="m">
-                  <persName>
-                     <surname>Major</surname>
-                     <forename>Stewart</forename>
-                  </persName>
-               </person>
 
                <person xml:id="Junius_pseudo" sex="m">
                   <persName>Junius</persName>
@@ -7467,6 +7468,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"
                      ><!--LMW: July 1819 journal mentions both Mr. John Deverell and then Mr. Deverell.  John could be the son of Mr.--></note>
                </person>
+               <person xml:id="Fly_pet" sex="f">
+                  <persName>Fly</persName>
+                  <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February 1819 and <q>married</q> to MRM's dog Mossy in May 1819.
+                  </note>
+               </person>
 
                <person xml:id="Green_Mr" sex="m">
                   <!--done-->
@@ -7773,12 +7779,23 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Stewart_Mr" sex="m">
+                  <!-- 2022-10-30 ebb: mentioned in April 2020. 
+                     I wonder if this is the same person as Major Stewart, whom she mentions in entries the next month? 
+                     I'm moving the entries to sit next to each other.
+                  -->
                   <persName>Mr. Stewart</persName>
                   <persName>
                      <surname>Stewart</surname>
                      <roleName>Mr.</roleName>
                   </persName>
                   <note resp="#lmw"/>
+               </person>
+               <person xml:id="Stewart_Major" sex="m">
+                  <!-- ebb: Could this be the same as Stewart_Mr?  -->
+                  <persName>
+                     <surname>Major</surname>
+                     <forename>Stewart</forename>
+                  </persName>
                </person>
 
 
