@@ -5568,6 +5568,40 @@ Publisher:	London : [publisher not identified], 1786.
          </div>
       </body>
       <back>
+         <div type="Mitford_Team">
+            <listPerson sortKey="Mitford_Team">
+               <!-- Example entry for a student helper! Each of you creates one of these for yourself. With each of you assigned an xml:id, you can use that
+               when you write new entries for the site index. 
+               
+               
+              Example: 
+              <note resp="#srr">Savannah's note inside a new SI entry.</note>
+               -->
+               <person xml:id="amp">
+                  <persName>
+                     <surname>Peddicord</surname>
+                     <forename>Amber</forename>
+                     <forename>M.</forename>
+                     <roleName>Research Assistant</roleName>
+                  </persName>
+                  <occupation type="scholar">
+                     <roleName>Green Scholar <affiliation>University of Pittsburgh-Greensburg</affiliation>
+                     </roleName>
+                  </occupation>
+                  <note>Amber Peddicord has sorted image files and encoded different editions of Mitford's letter manuscripts and the published versions of those letters. She is assisting the editing team in completing and checking the encoding of Mitford’s correspondence in 1822. She is currently working toward B.A.'s in English Literature and Communication at the University of Pittsburgh-Greensburg, as well as a <ref target="https://www.greensburg.pitt.edu/academics/majors-minors/digital-studies">Digital Studies Certificate</ref>. She graduates in spring 2021.</note>
+               </person>
+               <person xml:id="">
+                  
+                  
+                  
+               </person>
+               
+               
+               
+            </listPerson>
+  
+         </div>
+         
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
