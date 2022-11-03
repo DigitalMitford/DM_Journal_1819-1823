@@ -5489,16 +5489,21 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry">
                <head><date when="1820-05-24">Wednesday 24 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName
-                     ref="#Macfarlane_Chas">Mr. MacFarlane</persName> &amp; sent him my Poems<note resp="#ebb">Could MRM have sent McFarlane a copy of her <bibl corresp="#Poems_2nd_ed_MRM"><title>Poems</title> from 1811</bibl>? Or are these poems more recent?</note> - went
-                  with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; dear <persName ref="#Russell_M">Granny</persName>
+                     ref="#Macfarlane_Chas">Mr. MacFarlane</persName> &amp; sent him my Poems<note
+                     resp="#ebb">Could MRM have sent McFarlane a copy of her <bibl
+                        corresp="#Poems_2nd_ed_MRM"><title>Poems</title> from 1811</bibl>? Or are
+                     these poems more recent?</note> - went with dear <persName ref="#Mitford_Geo"
+                     >Drum</persName> &amp; dear <persName ref="#Russell_M">Granny</persName>
                   <!-- 2022-10-30 ebb: IGood work figuring out that this was "Russell_M", or really MRM's mother! She must have called
-                  her mother "Granny" and her father "Drum." Cute. --> in <persName ref="#Stewart_Major">Major
-                     Stewart's</persName> Car to call on dear <persName ref="#Dickinson_Mrs">Mrs.
-                     Dickinson</persName> &amp; keep <persName ref="#Webb_James">Mr.
-                     Webb's</persName> Birthday at <placeName ref="#Wokingham_city"
-                     >Wokingham</placeName> - met the <orgName ref="#Wheelers">Wheelers</orgName>,
-                     <orgName ref="#Holtons">Holtons</orgName>, <orgName>Haywards</orgName><!-- ebb: NO SI ENTRY YET --> &amp; <persName>Mrs. Talmage</persName><!-- ebb: NO SI ENTRY YET -->
-                  - came home at night - a delightfully pleasant day.</p>
+                  her mother "Granny" and her father "Drum." Cute. --> in
+                     <persName ref="#Stewart_Major">Major Stewart's</persName> Car to call on dear
+                     <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; keep <persName
+                     ref="#Webb_James">Mr. Webb's</persName> Birthday at <placeName
+                     ref="#Wokingham_city">Wokingham</placeName> - met the <orgName ref="#Wheelers"
+                     >Wheelers</orgName>, <orgName ref="#Holtons">Holtons</orgName>,
+                     <orgName>Haywards</orgName><!-- ebb: NO SI ENTRY YET --> &amp; <persName>Mrs.
+                     Talmage</persName><!-- ebb: NO SI ENTRY YET --> - came home at night - a
+                  delightfully pleasant day.</p>
                <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). 
                   orgName ref for Holtons and gaywards not found -->
                <!-- ebb 2022-10-30: Good work, Tyler and team: I've made some corrections to the transcript. Indeed she is mentioning Wokingham, not Wokington. This is near her hometown, where her friends the Webbs live. Mr. Webb runs
@@ -5507,11 +5512,12 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry">
                <head><date when="1820-05-25">Thursday 25 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some <gap reason="smudged lettering, illegible" unit="word" quantity="3"/> - read
-                  <bibl>Josephus</bibl><!-- 2022-10-30 ebb: I think this is a reference to an English translation of Flavius Josephus's Antiquities of the Jews
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - planted some <gap
+                     reason="smudged lettering, illegible" unit="word" quantity="3"/> - read
+                     <bibl>Josephus</bibl><!-- 2022-10-30 ebb: I think this is a reference to an English translation of Flavius Josephus's Antiquities of the Jews
                      https://www.worldcat.org/search?q=flavius+josephus+antiquities+of+the+jews  We should locate one or two editions she might have had access to, published 
                      late 1700s (like the 1790 edition) and write a new entry for the SI. -->
-            - very fine.</p>
+                  - very fine.</p>
             </div>
 
             <!--JDH: 2022-10-26 The question mark is unable to be read with current scan quality, large smudge -->
@@ -5527,10 +5533,9 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-05-27">Saturday 27 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - read <title
                      ref="#Peters_Letters_novel">Peter's letters</title> &amp; our <title
-                     ref="#Times_news">Times Newspapers</title> - planted some 
-                     China Asters - wrote to <persName ref="#Hofland_B">Mrs.
-                     Hofland</persName> - dressed my flowers - walked with <persName
-                     ref="#Mitford_Geo">Drum</persName> &amp; the pets.</p>
+                     ref="#Times_news">Times Newspapers</title> - planted some China Asters - wrote
+                  to <persName ref="#Hofland_B">Mrs. Hofland</persName> - dressed my flowers -
+                  walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-28">Sunday 28 <add>MAY</add></date></head>
@@ -5540,19 +5545,21 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry">
                <head><date when="1820-05-29">Monday 29 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - walked with <persName
-                     ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Bertram_house">Bertram House</placeName> - met poor dear little
-                     <persName ref="#Fly_pet">Fly</persName> (the brindled bitch) going there to
-                  take refuge with us from some wicked <placeName ref="#Reading_city"
-                     >Reading</placeName> boys who had tied a string round her poor tail.</p>
+                     ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Bertram_house">Bertram
+                     House</placeName> - met poor dear little <persName ref="#Fly_pet"
+                     >Fly</persName> (the brindled bitch) going there to take refuge with us from
+                  some wicked <placeName ref="#Reading_city">Reading</placeName> boys who had tied a
+                  string round her poor tail.</p>
             </div>
             <div type="entry">
                <head><date when="1820-05-30">Tuesday 30 <add>MAY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - called at the <orgName ref="#Voules">Voules's</orgName> 
-                  with dear <persName ref="#Mitford_Geo"
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - called at the <orgName
+                     ref="#Voules">Voules's</orgName> with dear <persName ref="#Mitford_Geo"
                      >Drum</persName> - came home to dinner - <persName ref="#Macfarlane_Chas">Mr.
                      MacFarlane</persName> drank tea with us in the evening - very pleasant.</p>
             </div>
             <div type="entry">
+               
                <head><date when="1820-05-31">Wednesday 31 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - went with <persName
                      ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city"
@@ -5564,6 +5571,44 @@ Publisher:	London : [publisher not identified], 1786.
                   sore throat - had a chat with <persName ref="#Havell_Mrs">Mrs.
                   Havell</persName>.</p>
                <!--JDH: 2022-10-26 Everything looks good so far with the original writing-->
+            </div>
+            <!-- SRR: START OF SECOND SET OF ENTRIES -->
+            <div type="entry">
+               <head>Thursday 1 JUNE</head>
+               <p>At home - heard from Miss James - finished my letter to Mrs. Hofland - read the
+                  Sketch Book - very good - walked out with Lucy &amp; the Pets - dear Drum
+                  better.</p>
+            </div>
+            <div type="entry">
+               <head>Friday 2 JUNE</head>
+               <p>At home - Mrs. Dickinson called &amp; the Whites &amp; Tuppens - walked out with
+                  Drum - read the Quarterly Review.</p>
+            </div>
+            <div type="entry">
+               <head>Saterday 3 JUNE</head>
+               <p>At home - wrote to Mr. Dickinson &amp; Miss James - dressed my flowers - walked
+                  with dear Granny &amp; the Pets.</p>
+            </div>
+            <div type="entry">
+               <head>Sunday 4 JUNE</head>
+               <p>At home - rained all day - little Miss Keep gave me a pretty flower to hang up in
+                  the arcade - wrote to Mrs. Hayward - read newspapers &amp; Reviews.</p>
+            </div>
+            <div type="entry">
+               <head>Monday 5 JUNE</head>
+               <p>At home - gave little Miss Keep a pretty needlebook and pincushion - read George
+                  3rd his [?] &amp; Family - sad stupid stuff - Mr. Dickinson called - weeded my
+                  little flower Court.</p>
+            </div>
+            <div type="entry">
+               <head>Tuesday 6 JUNE</head>
+               <p>At home - went twice walking with Drum &amp; the pets - walked 5 miles.</p>
+            </div>
+            <div type="entry">
+               <head>Wednesday 7 JUNE</head>
+               <p>At home - went to Reading with dear Drum - called at the Brookes, Valpys &amp;c. -
+                  saw Mr. Nares, Mr. MacFarlane &amp; a great many people - came home to dinner
+                  &amp; wlaked after - pleasant day. </p>
             </div>
          </div>
       </body>
@@ -5585,23 +5630,27 @@ Publisher:	London : [publisher not identified], 1786.
                      <roleName>Research Assistant</roleName>
                   </persName>
                   <occupation type="scholar">
-                     <roleName>Green Scholar <affiliation>University of Pittsburgh-Greensburg</affiliation>
+                     <roleName>Green Scholar <affiliation>University of
+                           Pittsburgh-Greensburg</affiliation>
                      </roleName>
                   </occupation>
-                  <note>Amber Peddicord has sorted image files and encoded different editions of Mitford's letter manuscripts and the published versions of those letters. She is assisting the editing team in completing and checking the encoding of Mitford’s correspondence in 1822. She is currently working toward B.A.'s in English Literature and Communication at the University of Pittsburgh-Greensburg, as well as a <ref target="https://www.greensburg.pitt.edu/academics/majors-minors/digital-studies">Digital Studies Certificate</ref>. She graduates in spring 2021.</note>
+                  <note>Amber Peddicord has sorted image files and encoded different editions of
+                     Mitford's letter manuscripts and the published versions of those letters. She
+                     is assisting the editing team in completing and checking the encoding of
+                     Mitford’s correspondence in 1822. She is currently working toward B.A.'s in
+                     English Literature and Communication at the University of
+                     Pittsburgh-Greensburg, as well as a <ref
+                        target="https://www.greensburg.pitt.edu/academics/majors-minors/digital-studies"
+                        >Digital Studies Certificate</ref>. She graduates in spring 2021.</note>
                </person>
-               <person xml:id="">
-                  
-                  
-                  
-               </person>
-               
-               
-               
+               <person xml:id=""> </person>
+
+
+
             </listPerson>
-  
+
          </div>
-         
+
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
@@ -5613,7 +5662,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <note>A <rs type="person" ref="#Voules_Mr #Voules_Mrs">family</rs>
                      </note>
                   </orgName>
-                  
+
                </org>
 
                <org xml:id="Gayward">
@@ -5631,8 +5680,8 @@ Publisher:	London : [publisher not identified], 1786.
                   </orgName>
                   <!-- srr: Need members and info -->
                </org>
-               
-               
+
+
                <!-- srr: I've added the last 3 orgs ^^^ -->
 
                <org xml:id="Havell_Lib">
@@ -7504,8 +7553,8 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
                <person xml:id="Fly_pet" sex="f">
                   <persName>Fly</persName>
-                  <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February 1819 and <q>married</q> to MRM's dog Mossy in May 1819.
-                  </note>
+                  <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February
+                     1819 and <q>married</q> to MRM's dog Mossy in May 1819. </note>
                </person>
 
                <person xml:id="Green_Mr" sex="m">
