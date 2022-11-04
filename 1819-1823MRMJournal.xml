@@ -5501,7 +5501,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Webb_James">Mr. Webb's</persName> Birthday at <placeName
                      ref="#Wokingham_city">Wokingham</placeName> - met the <orgName ref="#Wheelers"
                      >Wheelers</orgName>, <orgName ref="#Holtons">Holtons</orgName>,
-                     <orgName>Haywards</orgName><!-- ebb: NO SI ENTRY YET --> &amp; <persName>Mrs.
+                     <orgName ref="#Haywards">Haywards</orgName><!-- ebb: Creating new SI entry --> &amp; <persName>Mrs.
                      Talmage</persName><!-- ebb: NO SI ENTRY YET --> - came home at night - a
                   delightfully pleasant day.</p>
                <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). 
@@ -5608,7 +5608,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head>Wednesday 7 JUNE</head>
                <p>At home - went to Reading with dear Drum - called at the Brookes, Valpys &amp;c. -
                   saw Mr. Nares, Mr. MacFarlane &amp; a great many people - came home to dinner
-                  &amp; wlaked after - pleasant day. </p>
+                  &amp; walked after - pleasant day. </p>
             </div>
          </div>
       </body>
@@ -5673,12 +5673,14 @@ Publisher:	London : [publisher not identified], 1786.
 
                </org>
 
-               <org xml:id="Gayward">
-                  <orgName> The Gayward family </orgName>
-                  <orgName>Gaywards</orgName>
+               <org xml:id="Haywards">
+                  <orgName>the Hayward family </orgName>
+                  <orgName>Haywards</orgName>
                   <orgName>
-                     <surname>Gayward</surname>
+                     <surname>Hayward</surname>
                   </orgName>
+                  <note resp="#ebb">Likely includes <persName ref="#Hayward_MrW #Hayward_MrsW">Mr. &amp; Mrs. W.
+                     Hayward</persName>, a brewing family connected with inns in <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
                   <orgName>The Holton family</orgName>
@@ -8290,7 +8292,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <geo>51.584 -1.388</geo>
                   </location>
                   <note resp="#lmw">Small market town on the edge of the Chiltern Hills. By the late
-                     eighteenth century, it had six inns, all owned by the Hayward brewing family.
+                     eighteenth century, it had six inns, all owned by the <orgName ref="#Haywards">Hayward brewing family</orgName>.
                      Watlington Town Hall, built in 1665, is a Grade II listed building.</note>
                   <note><ptr target="https://www.british-history.ac.uk/vch/oxon/vol8/pp210-252"
                      /></note>
