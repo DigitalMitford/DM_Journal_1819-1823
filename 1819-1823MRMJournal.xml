@@ -5579,13 +5579,15 @@ Publisher:	London : [publisher not identified], 1786.
                   Sketch Book - very good - walked out with <persName ref="#Lucy_OV_fict">Lucy</persName> &amp; the Pets - dear <persName ref="#Mitford_Geo">Drum</persName>
                   better.</p>
             </div>
+            <!--TSA: 2022-11-07 This looks good to me, except the "dear drum better may not be correct. I can see "Drum" and "Better," but not "dear." To me it looks more like it starts with a capital J and sort of looks like "Je?e." I can not make out what that may be, but it leads me to believe that the transcription is not correct.-->
             <div type="entry">
                <head>Friday 2 JUNE</head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called &amp; the <orgName ref="#Whites">Whites</orgName> &amp; <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> - walked out with
                   <persName ref="#Mitford_Geo">Drum</persName> - read the Quarterly Review.</p><!--TEAC: Not sure if we want to add an orgName for the Tuppens that are referenced in this entry. I just did what was previously done when the family was referenced prior-->
             </div>
+            <!--TSA: 2022-11-07 I think this is good, but if one looks at the "Q" in quarterly review, it almost looks like what I thought was a J in the previous entry-->
             <div type="entry">
-               <head>Saterday 3 JUNE</head>
+               <head>Saturday 3 JUNE</head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#James_Miss">Miss James</persName> - dressed my flowers - walked
                   with dear <persName ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
             </div>
@@ -5600,16 +5602,18 @@ Publisher:	London : [publisher not identified], 1786.
                   3rd his [?] &amp; Family - sad stupid stuff - <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called - weeded my
                   little flower Court.</p><!--TEAC: If we can figure out the question mark while reviewing the original documents we can then research the book and add it to our SI-->
             </div>
+            <!--TSA: 2022-11-07 I couldn't quite make out what was indicated by a question mark, but my guesses would be that the last few letters are "ut" or "it" making potential words "out" or maybe "skit"-->
             <div type="entry">
                <head>Tuesday 6 JUNE</head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - went twice walking with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets - walked 5 miles.</p>
             </div>
             <div type="entry">
                <head>Wednesday 7 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> - called at the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Valpys">Valpys</orgName> &amp;c. -
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> - called at the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Valpys">Valpys</orgName> &amp;Co. -
                   saw <persName>Mr. Nares</persName>, <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> &amp; a great many people - came home to dinner
                   &amp; walked after - pleasant day. </p> <!--TEAC: Mr. Nares needs to be add to the SI. MacFarlane may also have to be added I can find his SI ref but the previous coders put the ref that I used on his name-->
             </div>
+            <!--TSA: 2022-11-07 Everything in the above entries looked good unless marked otherwise. This past entry I made one change indicating "Co." rather than "c." I found that it appeared to be the case that it was short for company. -->
          </div>
       </body>
       <back>
@@ -5661,7 +5665,14 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                   
                </person>
-
+               <person xml:id="TSA">
+                  <persName>
+                     <surname>Akam</surname>
+                     <forename>Tyler</forename>
+                     <forename>S.</forename>
+                     <roleName>Research Assistant</roleName>
+                  </persName>
+               </person>
 
             </listPerson>
 
