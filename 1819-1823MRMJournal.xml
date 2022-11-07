@@ -5575,40 +5575,40 @@ Publisher:	London : [publisher not identified], 1786.
             <!-- SRR: START OF SECOND SET OF ENTRIES -->
             <div type="entry">
                <head>Thursday 1 JUNE</head>
-               <p>At home - heard from Miss James - finished my letter to Mrs. Hofland - read the
-                  Sketch Book - very good - walked out with Lucy &amp; the Pets - dear Drum
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName ref="#James_Miss">Miss James</persName> - finished my letter to <persName ref="#Hofland_B">Mrs. Hofland</persName> - read the
+                  Sketch Book - very good - walked out with <persName ref="#Lucy_OV_fict">Lucy</persName> &amp; the Pets - dear <persName ref="#Mitford_Geo">Drum</persName>
                   better.</p>
             </div>
             <div type="entry">
                <head>Friday 2 JUNE</head>
-               <p>At home - Mrs. Dickinson called &amp; the Whites &amp; Tuppens - walked out with
-                  Drum - read the Quarterly Review.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called &amp; the <orgName ref="#Whites">Whites</orgName> &amp; <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> - walked out with
+                  <persName ref="#Mitford_Geo">Drum</persName> - read the Quarterly Review.</p><!--TEAC: Not sure if we want to add an orgName for the Tuppens that are referenced in this entry. I just did what was previously done when the family was referenced prior-->
             </div>
             <div type="entry">
                <head>Saterday 3 JUNE</head>
-               <p>At home - wrote to Mr. Dickinson &amp; Miss James - dressed my flowers - walked
-                  with dear Granny &amp; the Pets.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#James_Miss">Miss James</persName> - dressed my flowers - walked
+                  with dear <persName ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
             </div>
             <div type="entry">
                <head>Sunday 4 JUNE</head>
-               <p>At home - rained all day - little Miss Keep gave me a pretty flower to hang up in
-                  the arcade - wrote to Mrs. Hayward - read newspapers &amp; Reviews.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - rained all day - little <persName ref="#Keep_Harriet">Miss Keep</persName> gave me a pretty flower to hang up in
+                  the <placeName>arcade</placeName> - wrote to <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> - read newspapers &amp; Reviews.</p><!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
             </div>
             <div type="entry">
                <head>Monday 5 JUNE</head>
-               <p>At home - gave little Miss Keep a pretty needlebook and pincushion - read George
-                  3rd his [?] &amp; Family - sad stupid stuff - Mr. Dickinson called - weeded my
-                  little flower Court.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - gave little <persName ref="#Keep_Harriet">Miss Keep</persName> a pretty needlebook and pincushion - read George
+                  3rd his [?] &amp; Family - sad stupid stuff - <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called - weeded my
+                  little flower Court.</p><!--TEAC: If we can figure out the question mark while reviewing the original documents we can then research the book and add it to our SI-->
             </div>
             <div type="entry">
                <head>Tuesday 6 JUNE</head>
-               <p>At home - went twice walking with Drum &amp; the pets - walked 5 miles.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went twice walking with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets - walked 5 miles.</p>
             </div>
             <div type="entry">
                <head>Wednesday 7 JUNE</head>
-               <p>At home - went to Reading with dear Drum - called at the Brookes, Valpys &amp;c. -
-                  saw Mr. Nares, Mr. MacFarlane &amp; a great many people - came home to dinner
-                  &amp; walked after - pleasant day. </p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> - called at the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Valpys">Valpys</orgName> &amp;c. -
+                  saw <persName>Mr. Nares</persName>, <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> &amp; a great many people - came home to dinner
+                  &amp; walked after - pleasant day. </p> <!--TEAC: Mr. Nares needs to be add to the SI. MacFarlane may also have to be added I can find his SI ref but the previous coders put the ref that I used on his name-->
             </div>
          </div>
       </body>
@@ -5652,7 +5652,15 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                   
                </person>
-
+               <person xml:id="TEAC">
+                  <persName>
+                     <surname>Cameron</surname>
+                     <forename>Tyler</forename>
+                     <forename>EA.</forename>
+                     <roleName>Research Assistant</roleName>
+                  </persName>
+                  
+               </person>
 
 
             </listPerson>
