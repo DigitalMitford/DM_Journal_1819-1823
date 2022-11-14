@@ -5578,6 +5578,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName ref="#James_Miss">Miss James</persName> - finished my letter to <persName ref="#Hofland_B">Mrs. Hofland</persName> - read the
                   Sketch Book - very good - walked out with <persName ref="#Lucy_OV_fict">Lucy</persName> &amp; the Pets - dear <persName ref="#Mitford_Geo">Drum</persName>
                   better.</p>
+               <!--JDH: 2022-11-14 is the the first reference of the Sketch Book?-->
             </div>
             <!--TSA: 2022-11-07 This looks good to me, except the "dear drum better may not be correct. I can see "Drum" and "Better," but not "dear." To me it looks more like it starts with a capital J and sort of looks like "Je?e." I can not make out what that may be, but it leads me to believe that the transcription is not correct.-->
             <div type="entry">
@@ -5595,6 +5596,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head>Sunday 4 JUNE</head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - rained all day - little <persName ref="#Keep_Harriet">Miss Keep</persName> gave me a pretty flower to hang up in
                   the <placeName>arcade</placeName> - wrote to <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> - read newspapers &amp; Reviews.</p><!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
+           <!--JDH: 2022-11-14 Would arcade need a ref attribute? I believe it is in reference to an area of her home-->
             </div>
             <div type="entry">
                <head>Monday 5 JUNE</head>
