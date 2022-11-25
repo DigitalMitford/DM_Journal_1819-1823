@@ -1887,7 +1887,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#Watlington">Watlington</placeName> but did not go on account of the day's
                   looking showery &amp; our being disappointed of a <name ref="#horse">horse</name>,
                      <add hand="#MRM">1819</add> Mem. To look for the Execution of two Koromantyn
-                  negroes in <persName ref="#Edwards_Bryan">>Edwards</persName>' <title
+                  negroes in <persName ref="#Edwards_Bryan">Edwards</persName>' <title
                      ref="#HistWIndies_BE">History of the West Indies</title> Vol 2<hi
                      rend="superscript">nd</hi> page 57 2<hi rend="superscript">nd</hi> Edition,
                   mentioned by <persName ref="#Edgeworth_Maria">Miss Edgeworth</persName> in her
@@ -4103,12 +4103,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   >Bobbie</name>s--tried a pattern upon some net--wrote to <persName ref="#Haydon"
                      >Mr. Haydon</persName>.</p>
             </div>
-            <pb n="32"/>
-            <div type="year">
-               <head>
-                  <date when="1820">1820</date>
-               </head>
-            </div>
+         </div>
+         <pb n="32"/>
+         <div type="year">
+            <head>
+               <date when="1820">1820</date>
+            </head>
+
             <div type="entry">
                <head><date when="1820-01-01">Saturday 1 <add>JANUARY</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--fed my <name ref="#robin"
@@ -5500,10 +5501,10 @@ Publisher:	London : [publisher not identified], 1786.
                      <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; keep <persName
                      ref="#Webb_James">Mr. Webb's</persName> Birthday at <placeName
                      ref="#Wokingham_city">Wokingham</placeName> - met the <orgName ref="#Wheelers"
-                     >Wheelers</orgName>, <orgName ref="#Holtons">Holtons</orgName>,
-                     <orgName ref="#Haywards">Haywards</orgName><!-- ebb: Creating new SI entry --> &amp; <persName>Mrs.
-                     Talmage</persName><!-- ebb: NO SI ENTRY YET --> - came home at night - a
-                  delightfully pleasant day.</p>
+                     >Wheelers</orgName>, <orgName ref="#Holtons">Holtons</orgName>, <orgName
+                     ref="#Haywards">Haywards</orgName><!-- ebb: Creating new SI entry --> &amp;
+                     <persName>Mrs. Talmage</persName><!-- ebb: NO SI ENTRY YET --> - came home at
+                  night - a delightfully pleasant day.</p>
                <!-- tza13-10-24-22: I added some persName and placeName elements, and some I was able to find the ref attribute for, but not all of them. For example, Wokington doesn't show up, but others do (Wokingham City - [are they the same?]). 
                   orgName ref for Holtons and gaywards not found -->
                <!-- ebb 2022-10-30: Good work, Tyler and team: I've made some corrections to the transcript. Indeed she is mentioning Wokingham, not Wokington. This is near her hometown, where her friends the Webbs live. Mr. Webb runs
@@ -5559,7 +5560,7 @@ Publisher:	London : [publisher not identified], 1786.
                      MacFarlane</persName> drank tea with us in the evening - very pleasant.</p>
             </div>
             <div type="entry">
-               
+
                <head><date when="1820-05-31">Wednesday 31 <add>MAY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - went with <persName
                      ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city"
@@ -5574,49 +5575,72 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <!-- SRR: START OF SECOND SET OF ENTRIES -->
             <div type="entry">
-               <head>Thursday 1 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName ref="#James_Miss">Miss James</persName> - finished my letter to <persName ref="#Hofland_B">Mrs. Hofland</persName> - read the
-                  Sketch Book - very good - walked out with <persName ref="#Lucy_OV_fict">Lucy</persName> &amp; the Pets - dear <persName ref="#Mitford_Geo">Drum</persName>
-                  better.</p>
+               <head><date when="1820-06-01">Thursday 1 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#James_Miss">Miss James</persName> - finished my letter to <persName
+                     ref="#Hofland_B">Mrs. Hofland</persName> - read the Sketch Book - very good -
+                  walked out with <persName ref="#Lucy_OV_fict">Lucy</persName> &amp; the Pets -
+                  dear <persName ref="#Mitford_Geo">Drum</persName> better.</p>
                <!--JDH: 2022-11-14 is the the first reference of the Sketch Book?-->
             </div>
             <!--TSA: 2022-11-07 This looks good to me, except the "dear drum better may not be correct. I can see "Drum" and "Better," but not "dear." To me it looks more like it starts with a capital J and sort of looks like "Je?e." I can not make out what that may be, but it leads me to believe that the transcription is not correct.-->
             <div type="entry">
-               <head>Friday 2 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called &amp; the <orgName ref="#Whites">Whites</orgName> &amp; <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> - walked out with
-                  <persName ref="#Mitford_Geo">Drum</persName> - read the Quarterly Review.</p><!--TEAC: Not sure if we want to add an orgName for the Tuppens that are referenced in this entry. I just did what was previously done when the family was referenced prior-->
+               <head><date when="1820-06-02">Friday 2 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - <persName
+                     ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called &amp; the <orgName
+                     ref="#Whites">Whites</orgName> &amp; <persName ref="#Tuppen_Capt #Tuppen_Mrs"
+                     >Tuppens</persName> - walked out with <persName ref="#Mitford_Geo"
+                     >Drum</persName> - read the Quarterly Review.</p>
+               <!--TEAC: Not sure if we want to add an orgName for the Tuppens that are referenced in this entry. I just did what was previously done when the family was referenced prior-->
             </div>
             <!--TSA: 2022-11-07 I think this is good, but if one looks at the "Q" in quarterly review, it almost looks like what I thought was a J in the previous entry-->
             <div type="entry">
-               <head>Saturday 3 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#James_Miss">Miss James</persName> - dressed my flowers - walked
-                  with dear <persName ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
+               <head><date when="1820-06-03">Saturday 3 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to <persName
+                     ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName
+                     ref="#James_Miss">Miss James</persName> - dressed my flowers - walked with dear
+                     <persName ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
             </div>
             <div type="entry">
-               <head>Sunday 4 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - rained all day - little <persName ref="#Keep_Harriet">Miss Keep</persName> gave me a pretty flower to hang up in
-                  the <placeName>arcade</placeName> - wrote to <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> - read newspapers &amp; Reviews.</p><!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
-           <!--JDH: 2022-11-14 Would arcade need a ref attribute? I believe it is in reference to an area of her home-->
+               <head><date when="1820-06-04">Sunday 4 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - rained all day - little
+                     <persName ref="#Keep_Harriet">Miss Keep</persName> gave me a pretty flower to
+                  hang up in the <placeName>arcade</placeName> - wrote to <persName
+                     ref="#Hayward_MrsW">Mrs. Hayward</persName> - read newspapers &amp;
+                  Reviews.</p>
+               <!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
+               <!--JDH: 2022-11-14 Would arcade need a ref attribute? I believe it is in reference to an area of her home-->
             </div>
             <div type="entry">
-               <head>Monday 5 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - gave little <persName ref="#Keep_Harriet">Miss Keep</persName> a pretty needlebook and pincushion - read George
-                  3rd his [?] &amp; Family - sad stupid stuff - <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called - weeded my
-                  little flower Court.</p><!--TEAC: If we can figure out the question mark while reviewing the original documents we can then research the book and add it to our SI-->
+               <head><date when="1820-06-05">Monday 5 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - gave little <persName
+                     ref="#Keep_Harriet">Miss Keep</persName> a pretty needlebook and pincushion -
+                  read George 3rd his [?] &amp; Family - sad stupid stuff - <persName
+                     ref="#Dickinson_Charles">Mr. Dickinson</persName> called - weeded my little
+                  flower Court.</p>
+               <!--TEAC: If we can figure out the question mark while reviewing the original documents we can then research the book and add it to our SI-->
             </div>
             <!--TSA: 2022-11-07 I couldn't quite make out what was indicated by a question mark, but my guesses would be that the last few letters are "ut" or "it" making potential words "out" or maybe "skit"-->
             <div type="entry">
-               <head>Tuesday 6 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went twice walking with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets - walked 5 miles.</p>
+               <head><date when="1820-06-06">Tuesday 6 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went twice walking with
+                     <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets - walked 5
+                  miles.</p>
             </div>
             <div type="entry">
-               <head>Wednesday 7 JUNE</head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> - called at the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Valpys">Valpys</orgName> &amp;Co. -
-                  saw <persName>Mr. Nares</persName>, <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> &amp; a great many people - came home to dinner
-                  &amp; walked after - pleasant day. </p> <!--TEAC: Mr. Nares needs to be add to the SI. MacFarlane may also have to be added I can find his SI ref but the previous coders put the ref that I used on his name-->
+               <head><date when="1820-06-07">Wednesday 7 <add>JUNE</add></date></head>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName
+                     ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo"
+                     >Drum</persName> - called at the <orgName ref="#Brookes">Brookes</orgName>,
+                     <orgName ref="#Valpys">Valpys</orgName> &amp;Co. - saw <persName>Mr.
+                     Nares</persName>, <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName>
+                  &amp; a great many people - came home to dinner &amp; walked after - pleasant day. </p>
+               <!--TEAC: Mr. Nares needs to be add to the SI. MacFarlane may also have to be added I can find his SI ref but the previous coders put the ref that I used on his name-->
             </div>
-            <!--TSA: 2022-11-07 Everything in the above entries looked good unless marked otherwise. This past entry I made one change indicating "Co." rather than "c." I found that it appeared to be the case that it was short for company. -->
+
          </div>
+         <!--TSA: 2022-11-07 Everything in the above entries looked good unless marked otherwise. This past entry I made one change indicating "Co." rather than "c." I found that it appeared to be the case that it was short for company. -->
+
       </body>
       <back>
          <div type="Mitford_Team">
@@ -5656,7 +5680,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <forename>R.</forename>
                      <roleName>Research Assistant</roleName>
                   </persName>
-                  
+
                </person>
                <person xml:id="TEAC">
                   <persName>
@@ -5665,7 +5689,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <forename>EA.</forename>
                      <roleName>Research Assistant</roleName>
                   </persName>
-                  
+
                </person>
                <person xml:id="TSA">
                   <persName>
@@ -5700,8 +5724,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>
                      <surname>Hayward</surname>
                   </orgName>
-                  <note resp="#ebb">Likely includes <persName ref="#Hayward_MrW #Hayward_MrsW">Mr. &amp; Mrs. W.
-                     Hayward</persName>, a brewing family connected with inns in <placeName ref="#Watlington">Watlington</placeName>.</note>
+                  <note resp="#ebb">Likely includes <persName ref="#Hayward_MrW #Hayward_MrsW">Mr.
+                        &amp; Mrs. W. Hayward</persName>, a brewing family connected with inns in
+                        <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
                   <orgName>The Holton family</orgName>
@@ -8313,8 +8338,9 @@ Publisher:	London : [publisher not identified], 1786.
                      <geo>51.584 -1.388</geo>
                   </location>
                   <note resp="#lmw">Small market town on the edge of the Chiltern Hills. By the late
-                     eighteenth century, it had six inns, all owned by the <orgName ref="#Haywards">Hayward brewing family</orgName>.
-                     Watlington Town Hall, built in 1665, is a Grade II listed building.</note>
+                     eighteenth century, it had six inns, all owned by the <orgName ref="#Haywards"
+                        >Hayward brewing family</orgName>. Watlington Town Hall, built in 1665, is a
+                     Grade II listed building.</note>
                   <note><ptr target="https://www.british-history.ac.uk/vch/oxon/vol8/pp210-252"
                      /></note>
                   <note><ptr
