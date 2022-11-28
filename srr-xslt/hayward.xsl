@@ -18,18 +18,22 @@
                         <ul>
                             <li><h1>Digital Mitford:</h1></li>
                              <li>
-                                <a href="https://digitalmitford.org//letters.html" class="indexbut"
-                                    >Home</a>
+                                 <a href="https://digitalmitford.org//index.html" class="indexbut"
+                                    >Main</a>
                             </li>
                         </ul>
                     </nav>
                 </div>
                 <h2>The Haywards</h2>
                 <div id="entries">
-                    <xsl:apply-templates select="//persName[@ref = '#Hayward_MrsW']/../.."/>
-                <xsl:apply-templates select="//persName[@ref = '#Hayward_MrW']/../.."/>
-                <xsl:apply-templates select="//div[@type='year']/head"/>
-                    </div>
+                    <h3>Mrs. Hayward - <xsl:apply-templates select="//date[@when='1819']/parent::head"/></h3>
+                    <xsl:apply-templates select="//date[@when='1819']/parent::head/following-sibling::div//persName[@ref='#Hayward_MrsW']/.. /.."/>
+                    <h3><xsl:apply-templates select="//date[@when='1820']/parent::head"/></h3>
+                    <xsl:apply-templates select="//date[@when='1820']/parent::head/following-sibling::div//persName[@ref='#Hayward_MrsW']/.. /.."/>
+                    <h3>Watlington - <xsl:apply-templates select="//date[@when='1819']/parent::head"/></h3>
+                    <xsl:apply-templates select="//body//placeName[@ref='#Watlington']/../.."/>
+                    
+                </div>
             </body>
         </html>
     </xsl:template>
@@ -42,10 +46,10 @@
         </div>
     </xsl:template>
 
-    <xsl:template match="date">
-        <h3>
+    <xsl:template match="//body//div[@type='entry']//date">
+        <h4>
             <xsl:apply-templates/>
-        </h3>
+        </h4>
     </xsl:template>
 
     <xsl:template match="p">
@@ -70,30 +74,6 @@
                </org> 
     -->
 </xsl:stylesheet>
-
-
-
-<!-- 
-<div type="year">
-    <head>
-        <date when="1819">1819</date>
-    </head>
-
-    <div type="all entries in 1819"></div>
-
-
-    <div type="year">
-        <head>
-            <date when="1820">1820</date>
-        </head>
-    </div>
-    
-    
-    <div type="all other entries"></div>
-
-</div>
-
--->
 
 
 

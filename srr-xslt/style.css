@@ -1,5 +1,5 @@
 body {
-    background: #D5DCE7
+    background: #074F57
 }
 
 h1 {color: black;
@@ -8,9 +8,11 @@ h1 {color: black;
     margin: 0;
     padding: 4px 5px 4px 10px;
 }
-h2 {font-size: 200%;
+h2 {font-size: 250%;
 text-align:center;}
-h3 {font-size: 150%;}
+h3 {font-size: 210%;
+padding-left: 30px;}
+h4 {font-size: 150%;}
 p {font-size: 125%;
 }
 ul {
@@ -22,7 +24,7 @@ display: flex;
     color: black;
     margin: -8px;
     padding: 0;
-    background-color: #99A1A8;
+    background-color: #077187;
     
 }
 
@@ -39,7 +41,7 @@ nav ul {
 nav li {vertical-align: middle;}
 
 .indexbut {
-    background-color: #99A1A8;
+    background-color: #077187;
     color: black;
     border: none;
     padding: 25px 32px;
@@ -53,7 +55,7 @@ nav li {vertical-align: middle;}
     font-size: 125%;
 }
 .indexbut:hover {
-    background-color: #D5DCE7;
+    background-color: #074F57;
     color: black;
 }
 div#entries {padding-left: 20px;
@@ -61,8 +63,8 @@ padding-right: 25px;
 }
 
 
-.entry {background-color: #ffdb80;
-border: 10px solid #819139;
+.entry {background-color: #E6D766;
+border: 10px solid #74A57F;
 margin-bottom: 20px;
 border-radius: 3%/35px;
 padding: 0px 10px;
