@@ -10,11 +10,22 @@
         <html>
             <head>
                 <title>
+                    Mitford Journal - 1819 to 1823
                     <xsl:apply-templates select="descendant::titleStmt/title"/>
                 </title>
                 <link rel="stylesheet" type="text/css" href="akam-mitford-css.css"/>
             </head>
             <body>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../srr-xslt/haywardOUT.html">Haywards</a></li>
+                        <li><a href="../teac-xslt/plantsAnimals.html">Plants &amp; Animals</a></li>
+                        <li><a href="../tsa-xslt/akam-mitford-html.html">Journal</a></li>
+                        <li><a href="../about.html">About</a></li>
+                        <li><a href="../https://digitalmitford.org//index.html">Main Page</a></li>
+                    </ul>
+                </nav>
                 <h1>The Digital Mitford Journals</h1>
                 <section id="toc">
                     <h2>Contents</h2>
@@ -95,5 +106,10 @@
         <span class="title">
             <xsl:apply-templates/>
         </span>
+    </xsl:template>
+    <xsl:template match="body">
+        <body id="akam">
+            <xsl:apply-templates/>
+        </body>
     </xsl:template>
 </xsl:stylesheet>
