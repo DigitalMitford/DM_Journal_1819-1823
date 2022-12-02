@@ -1,21 +1,27 @@
-/* HOMR PAGE*********************************************** */
-body#home {
 
+
+
+/* **************************************************** */
+/* HOME PAGE*********************************************** */
+/* **************************************************** */
+body#home {
     color: indigo;
     font-family: arial, helvetica, sans-serif;
-
 }
 h1 {
-    font-size: 300%
+    font-size: 150%;
 }
 h2 {
-    font-size: 250%
+    font-size: 250%;
 }
 h3 {
-    font-size: 200%
+    font-size: 200%;
+    text-align: center;
+    margin: 0;
 }
+
 nav#nav {
-    color: #D4D6B9;
+    color: #F4F2CD;
     margin: 0;
     background-color: #383B53;
 }
@@ -29,15 +35,28 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-div#navblock {
-    display: flex;
-    color: black;
-    margin: -8px;
-    padding: 0;
-    background-color: #077187;
-
+footer {
+    background: #383B53;
+    color: #F4F2CD;
+    margin: -.6%;
+    width: 100%;
+    padding: 20px;
 }
-
+footer a {
+    color: #F4F2CD
+}
+div#navblock {
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #383B53;
+}
+.h1 {
+    float: left;
+    padding: 0;
+    margin: 11px 10px 0 0;
+    color: #F4F2CD;
+}
 .indexbut {
     background-color: #383B53;
     color: #D4D6B9;
@@ -51,8 +70,17 @@ div#navblock {
     cursor: pointer;
     transition-duration: 0.4s;
 }
-
 .indexbut:hover {
     background-color: #32213A;
     color: #D4D6B9;
 }
+.block {
+    background: #CED0DE;
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+}
+
+
+
+
+
