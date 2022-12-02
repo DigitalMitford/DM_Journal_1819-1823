@@ -10,7 +10,7 @@
         <html>
             <head>
                 <title>The Haywards</title>
-                <link rel="stylesheet" type="text/css" href="style.css"/>
+                <link rel="stylesheet" type="text/css" href="srr-xslt/style.css"/>
             </head>
             <body>
                 <div id="navblock">

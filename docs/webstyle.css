@@ -1,15 +1,19 @@
-
-body {
+/* HOMR PAGE*********************************************** */
+body#home {
 
 color: indigo;
 font-family: arial, helvetica, sans-serif;
 padding: 2% 5% 2% 5%;
 }
+h1 {font-size: 300%}
+h2 {font-size: 250%}
+h3 {font-size: 200%}
 nav#nav {
     color:#D4D6B9;
     margin: 0;
     background-color: #383B53;
 }
+
 
 nav {
     width: 100%;
