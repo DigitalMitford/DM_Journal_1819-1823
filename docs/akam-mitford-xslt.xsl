@@ -16,16 +16,21 @@
                 <link rel="stylesheet" type="text/css" href="akam-mitford-css.css"/>
             </head>
             <body>
-                <nav>
-                    <ul>
-                        <li><a href="../index.html">Home</a></li>
-                        <li><a href="../srr-xslt/haywardOUT.html">Haywards</a></li>
-                        <li><a href="../teac-xslt/plantsAnimals.html">Plants &amp; Animals</a></li>
-                        <li><a href="../tsa-xslt/akam-mitford-html.html">Journal</a></li>
-                        <li><a href="../about.html">About</a></li>
-                        <li><a href="../https://digitalmitford.org//index.html">Main Page</a></li>
-                    </ul>
-                </nav>
+                <div id="navblock">
+                    <h1 class="h1">Digital Mitford:</h1>
+                    
+                    <nav id="nav">
+                        <ul>
+                            <li><a href="index.html" class="indexbut">Home</a></li>
+                            <li><a href="akam-mitford-html.html" class="indexbut">Journal</a></li>
+                            <li><a href="haywardOUT.html" class="indexbut">Haywards</a></li>
+                            <li><a href="plantsAnimals.html" class="indexbut">Plants &amp; Animals</a></li>
+                            <li><a href="about.html" class="indexbut">About</a></li>
+                            <li><a href="https://digitalmitford.org//index.html" class="indexbut">Main
+                                Page</a></li>
+                        </ul>
+                    </nav>
+                </div>
                 <h1>The Digital Mitford Journals</h1>
                 <section id="toc">
                     <h2>Contents</h2>
