@@ -8,12 +8,26 @@ body#home {
     color: indigo;
     font-family: arial, helvetica, sans-serif;
 }
+body#about {
+    color: indigo;
+    font-family: arial, helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold
+} /* NEED FIXING */
+
 h1 {
     font-size: 150%;
+}
+body#about {
 }
 h2 {
     font-size: 250%;
 }
+
 h3 {
     font-size: 200%;
     text-align: center;
@@ -39,11 +53,18 @@ footer {
     background: #383B53;
     color: #F4F2CD;
     margin: -.6%;
-    width: 100%;
+    width: 98.5%;
     padding: 20px;
 }
 footer a {
     color: #F4F2CD
+}
+figure {
+    text-align: center;
+}
+figure img {
+    border: 0px;
+    border-radius: 10px;
 }
 div#navblock {
     vertical-align: central;
@@ -78,6 +99,7 @@ div#navblock {
     background: #CED0DE;
     padding: 20px;
     margin: 10px 10% 40px 10%;
+    border-radius: 10px;
 }
 
 
