@@ -1,5 +1,4 @@
 body {
-background:#D5DCE7;
 color: indigo;
     font-family: arial, helvetica, sans-serif;}
 
@@ -82,20 +81,29 @@ div#entries {
 
 
 .sect {
-    border: 10px solid #74A57F;
-    margin-bottom: 20px;
-    border-radius: 3%/35px;
-    padding: 0px 10px;
+    background: #CED0DE;
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
 }
 
 .backInfo {
-    background-color: #E6D766;
-    border: 10px solid #74A57F;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    border-radius: 3%/35px;
-    padding: 10px 10px;
+     background: #99A1A8;
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
 }
+footer {
+    background: #383B53;
+    color: #F4F2CD;
+    margin: -.6%;
+    width: 98.5%;
+    padding: 20px;
+}
+footer a {
+    color: #F4F2CD
+}
+
 
 /* PALLET
  * 

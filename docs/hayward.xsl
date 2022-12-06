@@ -82,6 +82,12 @@
 
                     </div>
                 </div>
+                <footer>
+                    <p>In the making by: <br /> Tyler Cameron, Savannah Ricks, Tyler Akam, and Jacob
+                        Huellen</p>
+                    <p>We are at <a href="https://behrend.psu.edu/">Penn State Erie, The Behrend
+                        College</a>.</p>
+                </footer>
             </body>
         </html>
     </xsl:template>
