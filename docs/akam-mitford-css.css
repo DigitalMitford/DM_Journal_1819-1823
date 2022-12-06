@@ -8,8 +8,7 @@ div.entry{
     background-color:lightgrey;
 }
 div.year{
-    padding-left:700px;
-    padding-right:700px;
+    margin:3em;
     background-color:darkgrey;
 }
 h3{
@@ -19,8 +18,8 @@ h2{
     font-size:1.5em;
 }
 body section{
-    padding-left:700px;
-    padding-right:700px;
+    /*padding-left:700px;
+    padding-right:700px;*/
     background-color:darkgrey;
 }
 td{
@@ -108,6 +107,13 @@ div#navblock {
     color: #F4F2CD;
 }
 
+div#flex{
+    display:flex;
+    width:100%;
+}
 section#toc{
-    text-align:left;
+    flex:1;
+}
+section#rv{
+    flex:5;
 }

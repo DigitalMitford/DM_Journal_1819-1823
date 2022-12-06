@@ -15,7 +15,7 @@
                 </title>
                 <link rel="stylesheet" type="text/css" href="akam-mitford-css.css"/>
             </head>
-            <body>
+            <body id="akam">
                 <div id="navblock">
                     <h1 class="h1">Digital Mitford:</h1>
                     
@@ -32,6 +32,7 @@
                     </nav>
                 </div>
                 <h1>The Digital Mitford Journals</h1>
+                <div id="flex">
                 <section id="toc">
                     <h2>Contents</h2>
                     <table>
@@ -44,8 +45,13 @@
                         </tr>
                     </table>
                 </section>
-        <xsl:apply-templates select="descendant::body"/>
+                    
+        <section id="rv">
+            <xsl:apply-templates select="descendant::body"/>
+        </section>
+                </div>
       </body>
+            
         </html>
     </xsl:template>
     <xsl:template match="div[@type='year']" mode="toc">
@@ -107,14 +113,10 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="title">
+    <xsl:template match="body//title">
         <span class="title">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="body">
-        <body id="akam">
-            <xsl:apply-templates/>
-        </body>
-    </xsl:template>
+   
 </xsl:stylesheet>
