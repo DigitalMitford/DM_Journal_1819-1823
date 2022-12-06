@@ -38,15 +38,16 @@ th{
     text-align:center;
 }
 
-div#navblock {
-    display: flex;
-    color: black;
-    margin: -8px;
-    padding: 0;
-    background-color: #077187;
-
+h1 {
+    font-size: 150%;
 }
-
+div#navblock {
+    font-family: arial, helvetica, sans-serif;
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #383B53;}
+    
 nav#nav {
     color: #F4F2CD;
     margin: 0;
