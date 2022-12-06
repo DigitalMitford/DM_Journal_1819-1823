@@ -1,13 +1,18 @@
 body {
-    background: #074F57
-}
+background:#D5DCE7;
+color: indigo;
+    font-family: arial, helvetica, sans-serif;}
 
 h1 {
-    color: black;
-    font-size: 320%;
+    font-size: 150%;
     float: left;
-    margin: 0;
-    padding: 4px 5px 4px 10px;
+    
+}
+.h1 {
+    float: left;
+    padding: 0;
+    margin: 11px 10px 0 0;
+    color: #F4F2CD;
 }
 h2 {
     font-size: 250%;
@@ -32,16 +37,16 @@ p {
 ul {
     list-style: none;
 }
-
 div#navblock {
-    display: flex;
-    color: black;
-    margin: -8px;
-    padding: 0;
-    background-color: #077187;
-
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #383B53;
 }
 
+nav#nav {color: #F4F2CD;
+    margin: 0;
+    background-color: #383B53;}
 nav {
     width: 100%;
     margin: 0;
@@ -52,15 +57,12 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-nav li {
-    vertical-align: middle;
-}
 
 .indexbut {
-    background-color: #077187;
-    color: black;
+    background-color: #383B53;
+    color: #D4D6B9;
     border: none;
-    padding: 25px 32px;
+    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -68,11 +70,10 @@ nav li {
     margin: 0px 0px 0px 0px;
     cursor: pointer;
     transition-duration: 0.4s;
-    font-size: 125%;
 }
 .indexbut:hover {
-    background-color: #074F57;
-    color: black;
+    background-color: #32213A;
+    color: #D4D6B9;
 }
 div#entries {
     padding-left: 20px;
@@ -81,7 +82,6 @@ div#entries {
 
 
 .sect {
-    background-color: #E6D766;
     border: 10px solid #74A57F;
     margin-bottom: 20px;
     border-radius: 3%/35px;

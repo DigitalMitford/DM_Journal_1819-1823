@@ -20,8 +20,9 @@ body#about {
     font-family: arial, helvetica, sans-serif;
 }
 
-body#about h2{
-    font-weight: bold
+body#about h3{
+    font-weight: normal;
+    margin-left: 80px;
 } /* NEED FIXING */
 
 h1 {
@@ -31,6 +32,7 @@ body#about {
 }
 h2 {
     font-size: 250%;
+    margin-left: 40px;
 }
 
 h3 {
@@ -38,7 +40,12 @@ h3 {
     text-align: center;
     margin: 0;
 }
-
+div#navblock {
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #383B53;}
+    
 nav#nav {
     color: #F4F2CD;
     margin: 0;
@@ -71,12 +78,8 @@ figure img {
     border: 0px;
     border-radius: 10px;
 }
-div#navblock {
-    vertical-align: central;
-    margin: -.6%;
-    padding: 0px 32px;
-    background-color: #383B53;
-}
+
+
 .h1 {
     float: left;
     padding: 0;
@@ -106,6 +109,12 @@ div#navblock {
     margin: 10px 10% 40px 10%;
     border-radius: 10px;
 }
+.cent_block {background: #CED0DE;
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+    text-align:center;}
+    
 .ab {text-align: left;}
 
 
