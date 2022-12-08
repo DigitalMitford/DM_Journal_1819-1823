@@ -49,6 +49,9 @@ h3 {
     text-align: center;
     margin: 0;
 }
+p {
+    font-size: 120%
+}
 div#navblock {
     min-width: 1000px;
     vertical-align: central;
@@ -81,14 +84,19 @@ footer {
 footer a {
     color: #F4F2CD
 }
-figure {
+figure#mitford {
     text-align: center;
 }
-figure img {
+figure#mitford img {
     border: 0px;
     border-radius: 10px;
 }
-
+.blockmit {
+    background: rgba(169, 162, 180, 0.85);
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+}
 
 .h1 {
     float: left;
@@ -112,11 +120,16 @@ figure img {
     background-color: #A9A2B4;
     color: black;
 }
+
 .block {
     background: rgba(169, 162, 180, 0.85);
     padding: 20px;
-    margin: 10px 10% 40px 10%;
+    margin: 0 200px 150px 300px;
     border-radius: 10px;
+    min-width: 500px;
+}
+.block a {
+    color: black;
 }
 .cent_block {
     background: rgba(169, 162, 180, 0.85);
@@ -125,21 +138,20 @@ figure img {
     border-radius: 10px;
     text-align: center;
 }
-
 .ab {
     text-align: left;
 }
-    
-
-.hs {border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 275px;
-  height: 400px;
-  
+.hs {
+    border-radius: 40%;
+    display: block;
+    max-width: 200px;
+    float: left;
+    max-height: 300px;
+    margin-left: 50px;
 }
 
-
+.cont {
+    margin: 0 15%;
+}
 
 

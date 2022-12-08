@@ -6,7 +6,7 @@
         indent="yes"/>
 
     <xsl:template match="/">
-        <html>
+        <html lang="en">
             <head>
                 <title>The Haywards</title>
                 <link rel="stylesheet" type="text/css" href="hayward_STYLE.css"/>
@@ -38,7 +38,7 @@
                         </ul>
                     </nav>
                 </div>
-                <h2>The Haywards</h2>
+                <h2>The Haywards:</h2>
                 <div id="entries">
                     <div class="sect">
                         <h3>Mrs. Hayward - <xsl:apply-templates
