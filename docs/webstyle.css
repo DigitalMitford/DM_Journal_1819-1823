@@ -2,7 +2,16 @@
 
 /* **************************************************** */
 /* COLOR PALLET ************************************** */
-/*  */
+/* old:
+ * CED0DE
+ * 383B53
+ * D4D6B9
+ * 
+ * New:
+ * rgba(50, 31, 54, 0.6)
+ * rgba(169, 162, 180, 0.85)*/
+
+
 /* **************************************************** */
 
 
@@ -12,15 +21,15 @@
 /* HOME PAGE*********************************************** */
 /* **************************************************** */
 body#home {
-    color: indigo;
+    background: white;
     font-family: arial, helvetica, sans-serif;
 }
 body#about {
-    color: indigo;
+    background: white;
     font-family: arial, helvetica, sans-serif;
 }
 
-body#about h3{
+body#about h3 {
     font-weight: normal;
     margin-left: 80px;
 } /* NEED FIXING */
@@ -41,15 +50,16 @@ h3 {
     margin: 0;
 }
 div#navblock {
+    min-width: 1000px;
     vertical-align: central;
     margin: -.6%;
     padding: 0px 32px;
-    background-color: #383B53;}
-    
+    background-color: #321F36;
+}
+
 nav#nav {
     color: #F4F2CD;
     margin: 0;
-    background-color: #383B53;
 }
 nav {
     width: 100%;
@@ -62,7 +72,7 @@ nav ul {
     padding: 0;
 }
 footer {
-    background: #383B53;
+    background: #321F36;
     color: #F4F2CD;
     margin: -.6%;
     width: 98.5%;
@@ -87,8 +97,7 @@ figure img {
     color: #F4F2CD;
 }
 .indexbut {
-    background-color: #383B53;
-    color: #D4D6B9;
+    color: #F4F2CD;
     border: none;
     padding: 15px 32px;
     text-align: center;
@@ -100,23 +109,26 @@ figure img {
     transition-duration: 0.4s;
 }
 .indexbut:hover {
-    background-color: #32213A;
-    color: #D4D6B9;
+    background-color: #A9A2B4;
+    color: black;
 }
 .block {
-    background: #CED0DE;
+    background: rgba(169, 162, 180, 0.85);
     padding: 20px;
     margin: 10px 10% 40px 10%;
     border-radius: 10px;
 }
-.cent_block {background: #CED0DE;
+.cent_block {
+    background: rgba(169, 162, 180, 0.85);
     padding: 20px;
     margin: 10px 10% 40px 10%;
     border-radius: 10px;
-    text-align:center;}
-    
-.ab {text-align: left;}
+    text-align: center;
+}
 
+.ab {
+    text-align: left;
+}
 
 
 

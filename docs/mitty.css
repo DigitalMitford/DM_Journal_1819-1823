@@ -8,7 +8,7 @@ h1 {
 }
 div#navblock {
 font-family: arial, helvetica, sans-serif;
-
+min-width: 1000px;
     vertical-align: central;
     margin: -.6%;
     padding: 0px 32px;

@@ -42,6 +42,7 @@ h1 {
     font-size: 150%;
 }
 div#navblock {
+min-width: 1000px;
     font-family: arial, helvetica, sans-serif;
     vertical-align: central;
     margin: -.6%;
