@@ -1,41 +1,51 @@
 span.date{
-    color: red;
+    color: #383B53;
     }
-
+body{
+    background-color:white;
+}
 div.entry{
-    border-style:dashed;
-    border-color:white;
-    background-color:lightgrey;
+   
+    background-color:rgba(169, 162, 180, 0.85);
+    border-radius:20px;
+    padding:10px;
+    background-color:#F4F2CD;
 }
 div.year{
     margin:3em;
-    background-color:darkgrey;
+    
 }
 h3{
     font-size:1em;
 }
 h2{
     font-size:1.5em;
+   
 }
 body section{
-    /*padding-left:700px;
-    padding-right:700px;*/
-    background-color:darkgrey;
+   
+    background-color:white;
 }
 td{
-  background-color:white;
+  background-color:#F4F2CD;
   border:black; 
-  border:1.5em
+  border:1.5em;
+  text-align:center;
+  padding-left:25px;
+  padding-right:30px;
+  border-radius:20px;
 }
 tr{
-background-color: lightgrey
-    
+background-color: #F4F2CD; 
+font-size:1.5em;
+border-radius:20px;
 }
 li{
-    background-color:lightgrey
+    background-color:#F4F2CD;
 }
 th{
     text-align:center;
+    border-radius:20px;
 }
 
 h1 {
@@ -115,7 +125,14 @@ div#flex{
 }
 section#toc{
     flex:1;
+    background-color:rgba(169, 162, 180, 0.85);
+    border-radius:20px;
+    text-align:center;
+    
 }
 section#rv{
     flex:5;
+    background-color:rgba(169, 162, 180, 0.85);
+    border-radius:20px;
+   
 }
