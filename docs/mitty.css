@@ -1,6 +1,6 @@
-body{background: gray}
+body{background: #8DAA50}
 
-h2 {color: blue}
+h2 {color: #7157D6}
 
 /* New by SRR */
 h1 {
@@ -12,12 +12,12 @@ min-width: 1000px;
     vertical-align: central;
     margin: -.6%;
     padding: 0px 32px;
-    background-color: #383B53;}
+    background-color: #FC989A;}
     
 nav#nav {
-    color: #F4F2CD;
+    color: #FC989B;
     margin: 0;
-    background-color: #383B53;
+    background-color: #FC989A;
 }
 nav {
     width: 100%;
@@ -30,8 +30,8 @@ nav ul {
     padding: 0;
 }
 .indexbut {
-    background-color: #383B53;
-    color: #D4D6B9;
+    background-color: #FC989A;
+    color: #FEECE8;
     border: none;
     padding: 15px 32px;
     text-align: center;
@@ -43,12 +43,12 @@ nav ul {
     transition-duration: 0.4s;
 }
 .indexbut:hover {
-    background-color: #32213A;
+    background-color: #FEECE8;
     color: #D4D6B9;
 }
 .h1 {
     float: left;
     padding: 0;
     margin: 11px 10px 0 0;
-    color: #F4F2CD;
+    color: #E66D5C;
 }

@@ -11,7 +11,7 @@ h1 {
     float: left;
     padding: 0;
     margin: 11px 10px 0 0;
-    color: #F4F2CD;
+    color: #400D01;
 }
 h2 {
     font-size: 250%;
@@ -41,7 +41,7 @@ div#navblock {
     vertical-align: central;
     margin: -.6%;
     padding: 0px 32px;
-    background-color: #321F36;
+    background-color: #B1735A;
 }
 
 nav#nav {
@@ -60,7 +60,7 @@ nav ul {
 }
 
 .indexbut {
-    color: #F4F2CD;
+    color: #400D01;
     border: none;
     padding: 15px 32px;
     text-align: center;
@@ -72,8 +72,8 @@ nav ul {
     transition-duration: 0.4s;
 }
 .indexbut:hover {
-    background-color: #A9A2B4;
-    color: black;
+    background-color: #400D01;
+    color: #B1735A;
 }
 div#entries {
     padding-left: 20px;
