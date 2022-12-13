@@ -77,7 +77,7 @@ nav ul {
 footer {
     background: #321F36;
     color: #F4F2CD;
-    margin: -.6%;
+    margin:  10px -.6% -.6% -.6%;
     width: 98.5%;
     padding: 20px;
 }
@@ -151,7 +151,7 @@ figure#mitford img {
 }
 
 .cont {
-    margin: 0 15%;
+    margin: 0 15% 250px 15%;
 }
 
 
