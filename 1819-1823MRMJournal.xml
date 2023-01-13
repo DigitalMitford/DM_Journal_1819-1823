@@ -5638,54 +5638,80 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA: 2023-1-13 The following entries are new and may need revised, or some info might need to go into the SI-->
             <div type="entry" xml:id="e-514">
                <head><date when="1820-06-08">Thursday 8 <add>JUNE</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - Captain Montague called - walked with <persName ref="#Russell_M">Granny</persName>, <persName ref="#Hill_Lucy">Luce</persName> &amp; the Pets - read
-                  London Magasine - <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> drank tea with us.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - Captain Montague called -
+                  walked with <persName ref="#Russell_M">Granny</persName>, <persName
+                     ref="#Hill_Lucy">Luce</persName> &amp; the Pets - read London Magasine -
+                     <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> drank tea with
+                  us.</p>
             </div>
             <div type="entry" xml:id="e-515">
                <head><date when="1820-06-09">Friday 9 <add>JUNE</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#Reading_city">Reading</placeName> to <persName ref="#Macfarlane_Chas">Mr. MacFarlane's</persName> Lecture on the Italian Poets - very
-                  good indeed - excellent - drank tea at <persName ref="#Tuppen_Mrs">Mrs. Tuppens</persName> - very pleasant Evening.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName
+                     ref="#Reading_city">Reading</placeName> to <persName ref="#Macfarlane_Chas">Mr.
+                     MacFarlane's</persName> Lecture on the Italian Poets - very good indeed -
+                  excellent - drank tea at <persName ref="#Tuppen_Mrs">Mrs. Tuppens</persName> -
+                  very pleasant Evening.</p>
             </div>
             <div type="entry" xml:id="e-516">
                <head><date when="1820-06-10">Saturday 10 <add>JUNE</add></date></head>
-               <p>Took a long walk with Granny &amp; the Pets - Mrs. Dickinson came to fetch me to
-                  Farley Mill after dinner.</p>
+               <p>Took a long walk with <persName ref="#Russell_M">Granny</persName> &amp; the Pets
+                  - <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> came to fetch me to
+                     <placeName ref="#Farley_Hill">Farley Hll</placeName> after dinner.</p>
             </div>
             <div type="entry" xml:id="e-517">
                <head><date when="1820-06-11">Sunday 11 <add>JUNE</add></date></head>
-               <p>At Farley Hill - heard from Drum, Miss Booth &amp; Mrs. Hayward - wrote to Drum -
-                  drove with Mrs. D. to Wokingham to call on the Webbs - read Classical Journal -
+               <p>At <placeName ref="#Farley_Hill">Farley Hll</placeName> - heard from <persName
+                     ref="#Mitford_Geo">Drum</persName>, Miss Booth &amp; <persName
+                     ref="#Hayward_MrsW">Mrs. Hayward</persName> - wrote to <persName
+                     ref="#Mitford_Geo">Drum</persName> - drove with <persName ref="#Dickinson_Mrs"
+                     >Mrs. D.</persName> to <placeName ref="#Wokingham_city">Wokingham</placeName>
+                  to call on the <orgName ref="#Webbs">Webbs</orgName> - read Classical Journal -
                   pleasant day.</p>
             </div>
             <div type="entry" xml:id="e-518">
                <head><date when="1820-06-12">Monday 12 <add>JUNE</add></date></head>
-               <p>At Farley Hill - walked about &amp; read Edwards's Canons of Criticism - famous -
-                  &amp; some reviews &amp; magasines.</p>
+               <p>At <placeName ref="#Farley_Hill">Farley Hll</placeName> - walked about &amp; read
+                  Edwards's Canons of Criticism - famous - &amp; some reviews &amp; magasines.</p>
             </div>
             <div type="entry" xml:id="e-519">
                <head><date when="1820-06-13">Tuesday 13 <add>JUNE</add></date></head>
-               <p>At Farley Hill - Drum &amp; Granny came to dinner - pleasant day.</p>
+               <p>At <placeName ref="#Farley_Hill">Farley Hll</placeName> - <persName
+                     ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M"
+                     >Granny</persName> came to dinner - pleasant day.</p>
             </div>
             <div type="entry" xml:id="e-520">
                <head><date when="1820-06-14">Wednesday 14 <add>JUNE</add></date></head>
-               <p>Drum went to Town (he had gone home to sleep). Granny &amp; I came home before
-                  dinner in the Cart with George to drive - dressed my flowers - read the London
-                  Magasine - wrote to Mrs. Dickinson.</p>
+               <p><persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city"
+                     >Town</placeName> (he had gone home to sleep). <persName ref="#Russell_M"
+                     >Granny</persName> &amp; I came <placeName ref="#ThreeMileCross"
+                     >home</placeName> before dinner in the Cart with George to drive - dressed my
+                  flowers - read the London Magasine - wrote to <persName ref="#Dickinson_Mrs">Mrs.
+                     Dickinson</persName>.</p>
+               <!--TSA 2023-01-13 Is "Home" for drum Three mile cross? Is George Drum?-->
             </div>
             <div type="entry" xml:id="e-521">
                <head><date when="1820-06-15">Thursday 15 <add>JUNE</add></date></head>
-               <p>(dear Granny's birthday) At home - heard from Drum - wrote to Drum &amp; Mrs.
-                  Hayward - read a very sweet Italian novel (the only Italian novel) called Ultime
-                  Lettere de Jacopo Ortis, written by Ugo Foscolo who is now in Eng: writing for the
-                  Quarterly - too dismal but good - walked with the pets - sent off little Fly (the
-                  brindled bitch) to Mrs. Wilson.</p>
+               <p>(dear <persName ref="#Russell_M">Granny's</persName> birthday) At <placeName
+                     ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#Mitford_Geo">Drum</persName> - wrote to <persName ref="#Mitford_Geo"
+                     >Drum</persName> &amp; <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> -
+                  read a very sweet Italian novel (the only Italian novel) called Ultime Lettere de
+                  Jacopo Ortis, written by Ugo Foscolo who is now in Eng: writing for the <title ref="#QuarterlyRev_per">Quarterly</title>
+                  - too dismal but good - walked with the pets - sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled
+                  bitch) to Mrs. Wilson.</p>
             </div>
             <div type="entry" xml:id="e-522">
                <head><date when="1820-06-16">Friday 16 <add>JUNE</add></date></head>
-               <p>At home - heard from Drum - wrote to Eliza Webb - read Morier's 2nd Journey in Persia - Mr. MacFarlane drank tea with us &amp; was very pleasant.</p>
+               <p>At <placeName
+                  ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#Mitford_Geo">Drum</persName> - wrote to <persName
+                        ref="#Webb_Eliza">Eliza Webb</persName> - read Morier's 2nd Journey in
+                  Persia - <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName> drank tea with us &amp; was very pleasant.</p>
             </div>
          </div>
-<!--TSA 2023-1-13 Before moving forward I'll make some secondary passes to edit these last few entries.-->
+         <!--TSA 2023-1-13 Before moving forward I'll make some secondary passes to edit these last few entries.
+         I've made a pass to include the tags I could find. I also read through the originaal documents and didn't find any errors in the transcriptions.
+         -->
 
       </body>
       <back>
