@@ -1,0 +1,118 @@
+body {
+background: white;
+font-family: arial, helvetica, sans-serif;}
+
+h1 {
+    font-size: 150%;
+    float: left;
+    
+}
+.h1 {
+    float: left;
+    padding: 0;
+    margin: 11px 10px 0 0;
+    color: #400D01;
+}
+h2 {
+    font-size: 250%;
+    margin-left: 40px;
+}
+h3 {
+    font-size: 210%;
+    padding-left: 30px;
+    margin: 20px 0px;
+}
+h4 {
+    font-size: 150%;
+    padding: 0px 0px 0px 30px;
+    margin: 0;
+}
+p {
+    font-size: 125%;
+    margin: 0 0 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ul {
+    list-style: none;
+}
+div#navblock {
+    min-width: 1000px;
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #B1735A;
+}
+
+nav#nav {
+    color: #F4F2CD;
+    margin: 0;
+}
+nav {
+    width: 100%;
+    margin: 0;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.indexbut {
+    color: #400D01;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.indexbut:hover {
+    background-color: #400D01;
+    color: #B1735A;
+}
+div#entries {
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+
+.sect {
+    background: rgba(169, 162, 180, 0.85);
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+}
+
+.backInfo {
+     background: rgba(50, 31, 54, 0.6);
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+}
+footer {
+    background: #321F36;
+    color: #F4F2CD;
+    margin: -.6%;
+    width: 98.5%;
+    padding: 20px;
+}
+footer a {
+    color: #F4F2CD
+}
+
+
+/* PALLET
+ * 
+ * YELLOW: C59E3B
+ * GREEN: 819139
+ * DARK GREEN: 50482C
+ * LIGHT BLUE: D5DCE7
+ * GREY: 99A1A8
+ * 
+ * 
+ *  */

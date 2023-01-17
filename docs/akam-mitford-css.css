@@ -1,0 +1,138 @@
+span.date{
+    color: #B1735A;
+    }
+body{
+    background-color:white;
+}
+div.entry{
+   
+    background-color:#B2B3AD;
+    border-radius:20px;
+    padding:10px;
+    background-color:#B2B3AD;
+}
+div.year{
+    margin:3em;
+    
+}
+h3{
+    font-size:1em;
+}
+h2{
+    font-size:1.5em;
+   
+}
+body section{
+   
+    background-color:white;
+}
+td{
+  background-color:#B2B3AD;
+  border:black; 
+  border:1.5em;
+  text-align:center;
+  padding-left:25px;
+  padding-right:30px;
+  border-radius:20px;
+}
+tr{
+background-color: #B2B3AD; 
+font-size:1.5em;
+border-radius:20px;
+}
+li{
+    background-color:#B2B3AD;
+}
+th{
+    text-align:center;
+    border-radius:20px;
+}
+
+h1 {
+    font-size: 150%;
+}
+div#navblock {
+min-width: 1000px;
+    font-family: arial, helvetica, sans-serif;
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #400D01;}
+    
+nav#nav {
+    color: #B1735A;
+    margin: 0;
+    background-color: #B2B3AD;
+}
+nav {
+    width: 100%;
+    margin: 0;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background: #383B53;
+    color: #F4F2CD;
+    margin: -.6%;
+    width: 100%;
+    padding: 20px;
+}
+footer a {
+    color: #F4F2CD
+}
+div#navblock {
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #B2B3AD;
+}
+.indexbut {
+    background-color: #B2B3AD;
+    color: #41372E;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.indexbut:hover {
+    background-color: #41372E;
+    color: #B2B3AD;
+}
+.block {
+    background: #B2B3AD;
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+}
+.h1 {
+    float: left;
+    padding: 0;
+    margin: 11px 10px 0 0;
+    color: #41372E;
+}
+
+div#flex{
+    display:flex;
+    width:100%;
+}
+section#toc{
+    flex:1;
+    background-color:#41372E;
+    border-radius:20px;
+    text-align:center;
+    
+}
+section#rv{
+    flex:5;
+    background-color:#41372E;
+    border-radius:20px;
+   
+}

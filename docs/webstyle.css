@@ -1,0 +1,157 @@
+
+
+/* **************************************************** */
+/* COLOR PALLET ************************************** */
+/* old:
+ * CED0DE
+ * 383B53
+ * D4D6B9
+ * 
+ * New:
+ * rgba(50, 31, 54, 0.6)
+ * rgba(169, 162, 180, 0.85)*/
+
+
+/* **************************************************** */
+
+
+
+
+/* **************************************************** */
+/* HOME PAGE*********************************************** */
+/* **************************************************** */
+body#home {
+    background: white;
+    font-family: arial, helvetica, sans-serif;
+}
+body#about {
+    background: white;
+    font-family: arial, helvetica, sans-serif;
+}
+
+body#about h3 {
+    font-weight: normal;
+    margin-left: 80px;
+} /* NEED FIXING */
+
+h1 {
+    font-size: 150%;
+}
+body#about {
+}
+h2 {
+    font-size: 250%;
+    margin-left: 40px;
+}
+
+h3 {
+    font-size: 200%;
+    text-align: center;
+    margin: 0;
+}
+p {
+    font-size: 120%
+}
+div#navblock {
+    min-width: 1000px;
+    vertical-align: central;
+    margin: -.6%;
+    padding: 0px 32px;
+    background-color: #321F36;
+}
+
+nav#nav {
+    color: #F4F2CD;
+    margin: 0;
+}
+nav {
+    width: 100%;
+    margin: 0;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background: #321F36;
+    color: #F4F2CD;
+    margin:  10px -.6% -.6% -.6%;
+    width: 98.5%;
+    padding: 20px;
+}
+footer a {
+    color: #F4F2CD
+}
+figure#mitford {
+    text-align: center;
+}
+figure#mitford img {
+    border: 0px;
+    border-radius: 10px;
+}
+.blockmit {
+    background: rgba(169, 162, 180, 0.85);
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+}
+
+.h1 {
+    float: left;
+    padding: 0;
+    margin: 11px 10px 0 0;
+    color: #F4F2CD;
+}
+.indexbut {
+    color: #F4F2CD;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.indexbut:hover {
+    background-color: #A9A2B4;
+    color: black;
+}
+
+.block {
+    background: rgba(169, 162, 180, 0.85);
+    padding: 20px;
+    margin: 0 200px 150px 300px;
+    border-radius: 10px;
+    min-width: 500px;
+}
+.block a {
+    color: black;
+}
+.cent_block {
+    background: rgba(169, 162, 180, 0.85);
+    padding: 20px;
+    margin: 10px 10% 40px 10%;
+    border-radius: 10px;
+    text-align: center;
+}
+.ab {
+    text-align: left;
+}
+.hs {
+    border-radius: 40%;
+    display: block;
+    max-width: 200px;
+    float: left;
+    max-height: 300px;
+    margin-left: 50px;
+}
+
+.cont {
+    margin: 0 15% 250px 15%;
+}
+
+
