@@ -5696,79 +5696,129 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Mitford_Geo">Drum</persName> - wrote to <persName ref="#Mitford_Geo"
                      >Drum</persName> &amp; <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> -
                   read a very sweet Italian novel (the only Italian novel) called Ultime Lettere de
-                  Jacopo Ortis, written by Ugo Foscolo who is now in Eng: writing for the <title ref="#QuarterlyRev_per">Quarterly</title>
-                  - too dismal but good - walked with the pets - sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled
+                  Jacopo Ortis, written by Ugo Foscolo who is now in Eng: writing for the <title
+                     ref="#QuarterlyRev_per">Quarterly</title> - too dismal but good - walked with
+                  the pets - sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled
                   bitch) to Mrs. Wilson.</p>
             </div>
             <div type="entry" xml:id="e-522">
                <head><date when="1820-06-16">Friday 16 <add>JUNE</add></date></head>
-               <p>At <placeName
-                  ref="#ThreeMileCross">home</placeName> - heard from <persName
-                     ref="#Mitford_Geo">Drum</persName> - wrote to <persName
-                        ref="#Webb_Eliza">Eliza Webb</persName> - read Morier's 2nd Journey in
-                  Persia - <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName> drank tea with us &amp; was very pleasant.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#Mitford_Geo">Drum</persName> - wrote to <persName ref="#Webb_Eliza">Eliza
+                     Webb</persName> - read Morier's 2nd Journey in Persia - <persName
+                     ref="#Macfarlane_Chas">Mr. MacFarlane</persName> drank tea with us &amp; was
+                  very pleasant.</p>
             </div>
             <!--TSA 2023-1-18 New batch of entries underneath this message-->
             <div type="entry" xml:id="e-523">
                <head><date when="1820-06-17">Saturday 17 <add>JUNE</add></date></head>
-               <p>At home - heard from Drum - weeded the garden - walked with dear Granny &amp; the pets - read Dubois' account of India - a curious book.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
+                     ref="#Mitford_Geo">Drum</persName> - weeded the garden - walked with dear
+                     <persName ref="#Russell_M">Granny</persName> &amp; the pets - read Dubois'
+                  account of India - a curious book.</p>
             </div>
+            <!--TSA 2023-1-20 Dubois' Account of India doesn't have a ref. It is referenced in the previous and next entry.-->
             <div type="entry" xml:id="e-524">
                <head><date when="1820-06-18">Sunday 18 <add>JUNE</add></date></head>
-               <p>At home - heard from dear Drum - wrote to dear Drum - walked with dear Granny &amp; the Pets - read Dubois' Account of India - heard from Elisa Webb.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from dear <persName
+                     ref="#Mitford_Geo">Drum</persName> - wrote to dear <persName ref="#Mitford_Geo"
+                     >Drum</persName> - walked with dear <persName ref="#Russell_M"
+                     >Granny</persName> &amp; the Pets - read Dubois' Account of India - heard from
+                     <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-525">
                <head><date when="1820-06-19">Monday 19 <add>JUNE</add></date></head>
-               <p>At home - wrote to dear Drum - called on Mrs. Richard Body - dressed my flowers - Dr. Valpy &amp; Mr. &amp; Mrs. Dickinson called on us.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to dear <persName
+                     ref="#Mitford_Geo">Drum</persName> - called on Mrs. Richard Body - dressed my
+                  flowers - <persName ref="#Valpy_Richard">Dr. Valpy</persName> &amp; Mr. &amp; Mrs.
+                  Dickinson called on us.</p>
             </div>
+            <!--TSA 2023-1-20 Mrs. Richard Body may not have a SI entry. I found Richard Body, but was unable to find a Mrs. Body, or anything similar. The Dickinsons are mentioned here, do I use a group or do each individual person?-->
             <div type="entry" xml:id="e-526">
                <head><date when="1820-06-20">Tuesday 20 <add>JUNE</add></date></head>
-               <p>At home - heard from dear Drum &amp; of his having dined with Mr. Haydon - walked with dear Granny &amp; the Pets - read the new number of the Edinburgh Review - wrote to dear Drum &amp; did some work.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from dear <persName
+                     ref="#Mitford_Geo">Drum</persName> &amp; of his having dined with <persName
+                     ref="#Haydon">Mr. Haydon</persName> - walked with dear <persName
+                     ref="#Russell_M">Granny</persName> &amp; the Pets - read the new number of the
+                     <title ref="#EdinburghRev_per">Edinburgh Review</title> - wrote to dear
+                     <persName ref="#Mitford_Geo">Drum</persName> &amp; did some work.</p>
             </div>
             <div type="entry" xml:id="e-527">
                <head><date when="1820-06-21">Wednesday 21 <add>JUNE</add></date></head>
-               <p>At home - heard from dear Drum &amp; Sir William - walked to Bertram House with Granny - Mr. Joliffe drank tea with us - wrote to Drum &amp; Sir William Elford.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from dear <persName
+                     ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Elford_SirWm">Sir
+                     William</persName> - walked to <placeName ref="#Bertram_house">Bertram
+                     House</placeName> with <persName ref="#Russell_M">Granny</persName> - <persName
+                     ref="#Jolliffe_Mr">Mr. Joliffe</persName> drank tea with us - wrote to
+                     <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName
+                     ref="#Elford_SirWm">Sir William Elford.</persName></p>
             </div>
+            <!--TSA 2023-1-20 I don't believe Mr. Joliffe has an entry in the SI. He doesn't autofill, but I've found other accounts of him in these journals, but they aren't spelled the same-->
             <div type="entry" xml:id="e-528">
                <head><date when="1820-06-22">Thursday 22 <add>JUNE</add></date></head>
-               <p>At home - heard from dear Drum &amp; Mrs. Dickinson - wrote to Mr. Monck &amp; sent off my letter to dear Sir William - walked with Granny &amp; the Pets - dear Drum came home at night.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> - wrote to <persName ref="#Monck_JB">Mr. Monck</persName> &amp;
+                  sent off my letter to dear <persName ref="#Elford_SirWm">Sir William</persName> - walked with <persName ref="#Russell_M">Granny</persName> &amp; the Pets - dear
+                  <persName ref="#Mitford_Geo">Drum</persName> came home at night.</p>
             </div>
             <div type="entry" xml:id="e-529">
                <head><date when="1820-06-23">Friday 23 <add>JUNE</add></date></head>
-               <p>At home - went into Reading in the Cart with Drum &amp; Granny &amp; Molly - called at the Brookes, Tuppens, Newberrys &amp; Valpy's - saw Mr. Edward Valpy &amp; his Wife - very pleasant morning - came home to dinner - wrote to Mrs. Jolliffe &amp; Mrs. Dickinson.</p>
-            </div>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went into <placeName ref="#Reading_city">Reading</placeName> in the Cart with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName> -
+                  called at the <orgName ref="#Brookes">Brookes</orgName>, Tuppens, <orgName ref="#Newberrys">Newberrys</orgName> &amp; <orgName ref="#Valpys">Valpy's</orgName> - saw Mr. Edward Valpy
+                  &amp; his Wife - very pleasant morning - came home to dinner - wrote to <persName ref="#Jollife_Mrs">Mrs.
+                  Jolliffe</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
+            </div>  
+            <!--TSA 2023-1-20 The Tuppens do not have an orgName. In my searching for one, I found that a persName was used instead. I decided not to put it in here, as it is not the ideal way to represent a referenced family. Could not find Mr. Edward Valpy and his Wife.-->
             <div type="entry" xml:id="e-530">
                <head><date when="1820-06-24">Saturday 24 <add>JUNE</add></date></head>
-               <p>At home - dined at the Newberrys to meet the book club &amp; Mr. Palmer (a wager dinner which Drum won of Mr. Newberry about Fyshe's voting with [?] on Sir Francis Burdett's motion) - a very pleasant day - wrote to Miss Booth - came home at night - Dr. Valpy brought a Mr. Burgess, a great Grecian, to dine at the Newberrys - he was an odd man - not at all pleasant.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - dined at the <orgName ref="#Newberrys">Newberrys</orgName> to meet the book club &amp; <persName
+                  ref="#Palmer_CF">Mr. Palmer</persName> (a wager
+                  dinner which <persName ref="#Mitford_Geo">Drum</persName> won of Mr. Newberry about <persName ref="#Palmer_CF">Fyshe's</persName> voting with [?] on Sir Francis
+                  Burdett's motion) - a very pleasant day - wrote to Miss Booth - came home at night
+                  - <persName ref="#Valpy_Richard">Dr. Valpy</persName> brought a Mr. Burgess, a great Grecian, to dine at the <orgName ref="#Newberrys">Newberrys</orgName> - he
+                  was an odd man - not at all pleasant.</p>
             </div>
+            <!--TSA 2023-1-20 This is where I stopped for this session-->
             <div type="entry" xml:id="e-531">
                <head><date when="1820-06-25">Sunday 25 <add>JUNE</add></date></head>
-               <p>Wrote to Elisa Webb - dressed my flowers - walked with Granny &amp; the Pets.</p>
+               <p>Wrote to Eliza Webb - dressed my flowers - walked with Granny &amp; the Pets.</p>
             </div>
             <div type="entry" xml:id="e-532">
                <head><date when="1820-06-26">Monday 26 <add>JUNE</add></date></head>
-               <p>At home - went into Reading with Drum - called on Mrs. Anthony Valpy &amp; Mrs. Newberry - came back to dinner - packed up my things to go to London tomorrow - wrote to Mrs. Dickinson &amp; Mrs. A. Valpy.</p>
+               <p>At home - went into Reading with Drum - called on Mrs. Anthony Valpy &amp; Mrs.
+                  Newberry - came back to dinner - packed up my things to go to London tomorrow -
+                  wrote to Mrs. Dickinson &amp; Mrs. A. Valpy.</p>
             </div>
             <div type="entry" xml:id="e-533">
                <head><date when="1820-06-27">Tuesday 27 <add>JUNE</add></date></head>
-               <p>At home - went to London with Drum in Mr. Eastaff's gig &amp; with Farmer Smith's mare - drove by Wokingham, where we breakfasted - then by Egham through Windsor Park (a most beautiful drive), &amp; drank tea at Richmond with the James's - got to Great Queen Street about 10 o'clock - the hottest day I ever remember.</p>
+               <p>At home - went to London with Drum in Mr. Eastaff's gig &amp; with Farmer Smith's
+                  mare - drove by Wokingham, where we breakfasted - then by Egham through Windsor
+                  Park (a most beautiful drive), &amp; drank tea at Richmond with the James's - got
+                  to Great Queen Street about 10 o'clock - the hottest day I ever remember.</p>
             </div>
             <div type="entry" xml:id="e-534">
                <head><date when="1820-06-28">Wednesday 28 <add>JUNE</add></date></head>
-            <p>In Town - went with the Newberrys to the Insurance Office - then with Drum to the Exhibition (not good) - Star Office - Sun Office - Chronicle Office - [?] - Haydon's Pictures, famous - British Gallery, captial - dined at home with the Newberrys &amp; Miss Danny in Great Queen Street - very hot day - Young Tanner came in the evening - pleasant morning.</p>
+               <p>In Town - went with the Newberrys to the Insurance Office - then with Drum to the
+                  Exhibition (not good) - Star Office - Sun Office - Chronicle Office - [?] -
+                  Haydon's Pictures, famous - British Gallery, captial - dined at home with the
+                  Newberrys &amp; Miss Danny in Great Queen Street - very hot day - Young Tanner
+                  came in the evening - pleasant morning.</p>
             </div>
             <div type="entry" xml:id="e-535">
                <head><date when="1820-06-29">Thursday 29 <add>JUNE</add></date></head>
-               <p>In Town - drove with Drum to call on the Perrys, Haydon &amp; the Monks - saw the Regent's Park - went in the evening with the Newberrys to see Miss Kelly at the English Opera House - wrote to dear Granny &amp; Mr. Haydon.</p>
+               <p>In Town - drove with Drum to call on the Perrys, Haydon &amp; the Monks - saw the
+                  Regent's Park - went in the evening with the Newberrys to see Miss Kelly at the
+                  English Opera House - wrote to dear Granny &amp; Mr. Haydon.</p>
             </div>
             <!--TSA 2023-1-18 The Monks referenced in this one, and on 1820-06-22 (Mr. Monck) are spelled differently. Are they the same family? -->
             <div type="entry" xml:id="e-536">
                <head><date when="1820-06-30">Friday 30 <add>JUNE</add></date></head>
-               <p>In London - went with Drum to stay at the James's - he went on home - walked with Miss James, Miss Emily &amp; Miss Newman to Lord Dysart's - a very pleasant day.</p>
+               <p>In London - went with Drum to stay at the James's - he went on home - walked with
+                  Miss James, Miss Emily &amp; Miss Newman to Lord Dysart's - a very pleasant
+                  day.</p>
             </div>
             <!--TSA 2023-1-18 End of new entries added. They need to be passed over with original handwriting and then the names need tagged-->
          </div>
-        
+
 
       </body>
       <back>
