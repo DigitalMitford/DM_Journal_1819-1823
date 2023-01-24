@@ -5810,8 +5810,10 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-06-27">Tuesday 27 <add>JUNE</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo">Drum</persName> in Mr. Eastaff's gig &amp; with Farmer Smith's
                   mare - drove by <placeName ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted - then by Egham through Windsor
-                  Park (a most beautiful drive), &amp; drank tea at Richmond with the James's - got
+                  Park (a most beautiful drive), &amp; drank tea at <placeName ref="#Richmond">Richmond</placeName> with the James's - got
                   to Great Queen Street about 10 o'clock - the hottest day I ever remember.</p>
+               <!-- ebb: If we don't have an SI or SI-add entry on Great Queen Street, let's add one. We can just say it's a location in London that MRM visited between X dates in the journal.
+               but also say something about what she's doing / seeing here.-->
             </div>
             <!--TSA 2023-1-23 No reference of Mr. Eastaff, Farmer Smith, Egham, Windsor Park, Richmond, Great Queen Street, James Family, but I did find Miss James-->
             <div type="entry" xml:id="e-534">
@@ -8361,10 +8363,10 @@ Publisher:	London : [publisher not identified], 1786.
 
                <place xml:id="field_TMC">
                   <placeName>Fields at Three Mile Cross</placeName>
-                  <district>Shinfield oarusg</district>
+                  <district>Shinfield parish</district>
                   <region>Berkshire</region>
                   <country>England</country>
-                  <note resp="#lmw">Fields near the <placeName ref="#cottage_TMC">gottage at Three
+                  <note resp="#lmw">Fields near the <placeName ref="#cottage_TMC">cottage at Three
                         Mile Cross</placeName>.</note>
                </place>
 
