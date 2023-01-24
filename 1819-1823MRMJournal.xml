@@ -5824,17 +5824,19 @@ Publisher:	London : [publisher not identified], 1786.
             </div><!--TSA 2023-1-23 Do these locations need tagged? No Miss Danny, Young Tanner. What is home? They didn't go home yet...-->
             <div type="entry" xml:id="e-535">
                <head><date when="1820-06-29">Thursday 29 <add>JUNE</add></date></head>
-               <p>In Town - drove with Drum to call on the Perrys, Haydon &amp; the Monks - saw the
-                  Regent's Park - went in the evening with the Newberrys to see Miss Kelly at the
-                  English Opera House - wrote to dear Granny &amp; Mr. Haydon.</p>
+               <p>In <placeName ref="#London_city">Town</placeName> - drove with <persName ref="#Mitford_Geo">Drum</persName> to call on the Perrys, <persName ref="#Haydon">Haydon</persName> &amp; the Monks - saw the
+                  Regent's Park - went in the evening with the <orgName ref="#Newberrys">Newberrys</orgName> to see Miss Kelly at the
+                  English Opera House - wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Haydon">Mr. Haydon.</persName></p>
             </div>
             <!--TSA 2023-1-18 The Monks referenced in this one, and on 1820-06-22 (Mr. Monck) are spelled differently. Are they the same family? -->
+            <!--TSA 2023-1-24 The Monks in this spelling don't have a ref. Miss Kelly, The Perrys, Regent's Park, and English Opera House don't have refs-->
             <div type="entry" xml:id="e-536">
                <head><date when="1820-06-30">Friday 30 <add>JUNE</add></date></head>
-               <p>In London - went with Drum to stay at the James's - he went on home - walked with
-                  Miss James, Miss Emily &amp; Miss Newman to Lord Dysart's - a very pleasant
+               <p>In <placeName ref="#London_city">London</placeName> - went with <persName ref="#Mitford_Geo">Drum</persName> to stay at the James's - he went on home - walked with
+                  <persName ref="#James_Miss">Miss James</persName>, Miss Emily &amp; Miss Newman to Lord Dysart's - a very pleasant
                   day.</p>
             </div>
+            <!--TSA 2023-1-24 No James Family ref, no Miss Emily, Miss Newman, and Lord Dysart. When Drum goes home, is that back to wherever they're staying, or ThreeMileCross?-->
             <!--TSA 2023-1-18 End of new entries added. They need to be passed over with original handwriting and then the names need tagged-->
          </div>
 
