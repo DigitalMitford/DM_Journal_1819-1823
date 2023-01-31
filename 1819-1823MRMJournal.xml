@@ -5661,7 +5661,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-517">
                <head><date when="1820-06-11">Sunday 11 <add>JUNE</add></date></head>
                <p>At <placeName ref="#Farley_Hill">Farley Hll</placeName> - heard from <persName
-                     ref="#Mitford_Geo">Drum</persName>, Miss Booth &amp; <persName
+                     ref="#Mitford_Geo">Drum</persName>, Miss Nooth &amp; <persName
                      ref="#Hayward_MrsW">Mrs. Hayward</persName> - wrote to <persName
                      ref="#Mitford_Geo">Drum</persName> - drove with <persName ref="#Dickinson_Mrs"
                      >Mrs. D.</persName> to <placeName ref="#Wokingham_city">Wokingham</placeName>
@@ -5684,7 +5684,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p><persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city"
                      >Town</placeName> (he had gone home to sleep). <persName ref="#Russell_M"
                      >Granny</persName> &amp; I came <placeName ref="#ThreeMileCross"
-                     >home</placeName> before dinner in the Cart with George to drive - dressed my
+                     >home</placeName> before dinner in the Cart with <persName ref="#Mitford_Geo">George</persName> to drive - dressed my
                   flowers - read the London Magasine - wrote to <persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName>.</p>
                <!--TSA 2023-01-13 Is "Home" for drum Three mile cross? Is George Drum?-->
@@ -5699,7 +5699,7 @@ Publisher:	London : [publisher not identified], 1786.
                   Jacopo Ortis, written by Ugo Foscolo who is now in Eng: writing for the <title
                      ref="#QuarterlyRev_per">Quarterly</title> - too dismal but good - walked with
                   the pets - sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled
-                  bitch) to Mrs. Wilson.</p>
+                  bitch) to <persName>Mrs. Wilson</persName>.</p>
             </div>
             <div type="entry" xml:id="e-522">
                <head><date when="1820-06-16">Friday 16 <add>JUNE</add></date></head>
@@ -5729,7 +5729,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-525">
                <head><date when="1820-06-19">Monday 19 <add>JUNE</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - wrote to dear <persName
-                     ref="#Mitford_Geo">Drum</persName> - called on Mrs. Richard Body - dressed my
+                     ref="#Mitford_Geo">Drum</persName> - called on <persName>Mrs. Richard Body</persName> - dressed my
                   flowers - <persName ref="#Valpy_Richard">Dr. Valpy</persName> &amp; <persName
                      ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName>
                   called on us.</p>
@@ -5771,9 +5771,9 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Reading_city">Reading</placeName> in the Cart with <persName
                      ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M"
                      >Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName> - called
-                  at the <orgName ref="#Brookes">Brookes</orgName>, Tuppens, <orgName
+                  at the <orgName ref="#Brookes">Brookes</orgName>, <orgName>Tuppens</orgName>, <orgName
                      ref="#Newberrys">Newberrys</orgName> &amp; <orgName ref="#Valpys"
-                     >Valpy's</orgName> - saw Mr. Edward Valpy &amp; his Wife - very pleasant
+                     >Valpy's</orgName> - saw <persName>Mr. Edward Valpy</persName> &amp; his Wife - very pleasant
                   morning - came home to dinner - wrote to <persName ref="#Jollife_Mrs">Mrs.
                      Jolliffe</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName>.</p>
@@ -5786,9 +5786,9 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Palmer_CF">Mr. Palmer</persName> (a wager dinner which <persName
                      ref="#Mitford_Geo">Drum</persName> won of <persName ref="#Newberry_J">Mr.
                      Newberry</persName> about <persName ref="#Palmer_CF">Fyshe's</persName> voting
-                  with [?] on Sir Francis Burdett's motion) - a very pleasant day - wrote to Miss
-                  Booth - came home at night - <persName ref="#Valpy_Richard">Dr. Valpy</persName>
-                  brought a Mr. Burgess, a great Grecian, to dine at the <orgName ref="#Newberrys"
+                  with [?] on <persName>Sir Francis Burdett</persName>'s motion) - a very pleasant day - wrote to <persName>Miss
+                  Nooth</persName> - came home at night - <persName ref="#Valpy_Richard">Dr. Valpy</persName>
+                  brought a <persName>Mr. Burgess</persName>, a great Grecian, to dine at the <orgName ref="#Newberrys"
                      >Newberrys</orgName> - he was an odd man - not at all pleasant.</p>
             </div>
             <!--TSA 2023-1-23 No Mr. Burgess, Miss Booth, or Sir Francis Burdett-->
