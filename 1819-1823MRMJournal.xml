@@ -5714,8 +5714,8 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-06-17">Saturday 17 <add>JUNE</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from <persName
                      ref="#Mitford_Geo">Drum</persName> - weeded the garden - walked with dear
-                     <persName ref="#Russell_M">Granny</persName> &amp; the pets - read Dubois'
-                  account of India - a curious book.</p>
+                     <persName ref="#Russell_M">Granny</persName> &amp; the pets - read <persName>Dubois</persName>'
+                  <title>account of India</title> - a curious book.</p>
             </div>
             <!--TSA 2023-1-20 Dubois' Account of India doesn't have a ref. It is referenced in the previous and next entry.-->
             <div type="entry" xml:id="e-524">
@@ -5723,7 +5723,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName> - heard from dear <persName
                      ref="#Mitford_Geo">Drum</persName> - wrote to dear <persName ref="#Mitford_Geo"
                      >Drum</persName> - walked with dear <persName ref="#Russell_M"
-                     >Granny</persName> &amp; the Pets - read Dubois' Account of India - heard from
+                     >Granny</persName> &amp; the Pets - read <persName>Dubois</persName>' <title>Account of India</title> - heard from
                      <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-525">
@@ -5773,7 +5773,7 @@ Publisher:	London : [publisher not identified], 1786.
                      >Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName> - called
                   at the <orgName ref="#Brookes">Brookes</orgName>, <orgName>Tuppens</orgName>, <orgName
                      ref="#Newberrys">Newberrys</orgName> &amp; <orgName ref="#Valpys"
-                     >Valpy's</orgName> - saw <persName>Mr. Edward Valpy</persName> &amp; his Wife - very pleasant
+                     >Valpy's</orgName> - saw <persName>Mr. Edward Valpy</persName> &amp; his <persName>Wife</persName> - very pleasant
                   morning - came home to dinner - wrote to <persName ref="#Jollife_Mrs">Mrs.
                      Jolliffe</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName>.</p>
@@ -5808,10 +5808,10 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA 2023-1-23 Mrs. Valpy and Mrs. Newberry don't autofill-->
             <div type="entry" xml:id="e-533">
                <head><date when="1820-06-27">Tuesday 27 <add>JUNE</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo">Drum</persName> in Mr. Eastaff's gig &amp; with Farmer Smith's
-                  mare - drove by <placeName ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted - then by Egham through Windsor
-                  Park (a most beautiful drive), &amp; drank tea at <placeName ref="#Richmond">Richmond</placeName> with the James's - got
-                  to Great Queen Street about 10 o'clock - the hottest day I ever remember.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName> - went to <placeName ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo">Drum</persName> in <persName>Mr. Eastaff</persName>'s gig &amp; with <persName>Farmer Smith</persName>'s
+                  mare - drove by <placeName ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted - then by <placeName>Egham</placeName> through <placeName>Windsor
+                  Park</placeName> (a most beautiful drive), &amp; drank tea at <placeName ref="#Richmond">Richmond</placeName> with the <orgName>James</orgName>'s - got
+                  to <placeName>Great Queen Street</placeName> about 10 o'clock - the hottest day I ever remember.</p>
                <!-- ebb: If we don't have an SI or SI-add entry on Great Queen Street, let's add one. We can just say it's a location in London that MRM visited between X dates in the journal.
                but also say something about what she's doing / seeing here.-->
             </div>
@@ -5820,22 +5820,22 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-06-28">Wednesday 28 <add>JUNE</add></date></head>
                <p>In <placeName ref="#London_city">Town</placeName> - went with the <orgName ref="#Newberrys">Newberrys</orgName> to the Insurance Office - then with <persName ref="#Mitford_Geo">Drum</persName> to the
                   Exhibition (not good) - Star Office - Sun Office - Chronicle Office - [?] -
-                  Haydon's Pictures, famous - British Gallery, captial - dined at home with the
-                  <orgName ref="#Newberrys">Newberrys</orgName> &amp; Miss Danny in Great Queen Street - very hot day - Young Tanner
+                  <persName ref="#Haydon">Haydon</persName>'s Pictures, famous - British Gallery, capital - dined at home with the
+                  <orgName ref="#Newberrys">Newberrys</orgName> &amp; <persName>Miss Danny</persName> in <placeName>Great Queen Street</placeName> - very hot day - <persName>Young Tanner</persName>
                   came in the evening - pleasant morning.</p>
             </div><!--TSA 2023-1-23 Do these locations need tagged? No Miss Danny, Young Tanner. What is home? They didn't go home yet...-->
             <div type="entry" xml:id="e-535">
                <head><date when="1820-06-29">Thursday 29 <add>JUNE</add></date></head>
-               <p>In <placeName ref="#London_city">Town</placeName> - drove with <persName ref="#Mitford_Geo">Drum</persName> to call on the Perrys, <persName ref="#Haydon">Haydon</persName> &amp; the Monks - saw the
-                  Regent's Park - went in the evening with the <orgName ref="#Newberrys">Newberrys</orgName> to see Miss Kelly at the
-                  English Opera House - wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Haydon">Mr. Haydon.</persName></p>
+               <p>In <placeName ref="#London_city">Town</placeName> - drove with <persName ref="#Mitford_Geo">Drum</persName> to call on the <orgName>Perrys</orgName>, <persName ref="#Haydon">Haydon</persName> &amp; the <orgName>Moncks</orgName> - saw the
+                  <placeName>Regent's Park</placeName> - went in the evening with the <orgName ref="#Newberrys">Newberrys</orgName> to see <persName>Miss Kelly</persName> at the
+                  <placeName>English Opera House</placeName> - wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Haydon">Mr. Haydon.</persName></p>
             </div>
             <!--TSA 2023-1-18 The Monks referenced in this one, and on 1820-06-22 (Mr. Monck) are spelled differently. Are they the same family? -->
             <!--TSA 2023-1-24 The Monks in this spelling don't have a ref. Miss Kelly, The Perrys, Regent's Park, and English Opera House don't have refs-->
             <div type="entry" xml:id="e-536">
                <head><date when="1820-06-30">Friday 30 <add>JUNE</add></date></head>
-               <p>In <placeName ref="#London_city">London</placeName> - went with <persName ref="#Mitford_Geo">Drum</persName> to stay at the James's - he went on home - walked with
-                  <persName ref="#James_Miss">Miss James</persName>, Miss Emily &amp; Miss Newman to Lord Dysart's - a very pleasant
+               <p>In <placeName ref="#London_city">London</placeName> - went with <persName ref="#Mitford_Geo">Drum</persName> to stay at the <orgName>James</orgName>'s - he went on home - walked with
+                  <persName ref="#James_Miss">Miss James</persName>, <persName ref="#James_Emily">Miss Emily</persName> &amp; <persName>Miss Newman</persName> to <persName>Lord Dysart</persName>'s - a very pleasant
                   day.</p>
             </div>
             <!--TSA 2023-1-24 No James Family ref, no Miss Emily, Miss Newman, and Lord Dysart. When Drum goes home, is that back to wherever they're staying, or ThreeMileCross?-->
