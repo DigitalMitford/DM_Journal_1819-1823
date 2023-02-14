@@ -5,6 +5,7 @@ type="application/xml"
 schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
+
    <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
    <!--LMW: do we know it was Coles, or someone else? Vera Watson? verify  -->
 
@@ -5837,9 +5838,11 @@ Publisher:	London : [publisher not identified], 1786.
                <p>In <placeName ref="#London_city">Town</placeName>--went with the <orgName
                      ref="#Newberrys">Newberrys</orgName> to the <placeName>Insurance
                      Office</placeName>--then with <persName ref="#Mitford_Geo">Drum</persName> to
-                  the <placeName>Exhibition</placeName> (not good)--<placeName>Star Office</placeName>--<placeName>Sun Office</placeName>--<placeName>Chronicle
+                  the <placeName>Exhibition</placeName> (not good)--<placeName>Star
+                     Office</placeName>--<placeName>Sun Office</placeName>--<placeName>Chronicle
                      Office</placeName>--[?]--<persName ref="#Haydon">Haydon</persName>'s Pictures,
-                  famous--<placeName>British Gallery</placeName>, <placeName>capital</placeName>--dined at home with the <orgName ref="#Newberrys"
+                     famous--<placeName>British Gallery</placeName>,
+                  <placeName>capital</placeName>--dined at home with the <orgName ref="#Newberrys"
                      >Newberrys</orgName> &amp; <persName>Miss Danny</persName> in <placeName>Great
                      Queen Street</placeName>--very hot day--<persName>Young Tanner</persName> came
                   in the evening--pleasant morning.</p>
@@ -5872,21 +5875,30 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA 2023-02-06 New entries being added below-->
             <div type="entry" xml:id="e-537">
                <head><date when="1820-07-01">Saturday 1 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went to see Pope's Place--nothing left of his but the grotto--&amp; walked round <placeName>Strawberry Hill</placeName>--went by water--in the evening walked in the meadows to hear music on the water--delightful day--wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; heard from <persName ref="#Haydon">Mr. Haydon</persName>.</p>
+
+
             </div>
             <!--TSA 2023-02-13 Should Pope's Place be a placeName or should Pope (referencing Pope Alexander) be a persName?-->
             <div type="entry" xml:id="e-538">
                <head><date when="1820-07-02">Sunday 2 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#Richmond">Richmond</placeName>--<persName ref="#Haydon">Mr. Haydon</persName> came &amp; spent the day with us--read <persName ref="#Hofland_B">Mrs. Hofland</persName>'s <title>Tales</title> &amp; <persName>Chalmers</persName>'s new sermons--happy day.</p>
             </div>
             <div type="entry" xml:id="e-539">
                <head><date when="1820-07-03">Monday 3 <add>JULY</add></date></head>
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see <placeName>Hampton Court</placeName>--delightful place--enchanting Cartoons--beautiful portrait of <persName>Titian</persName> by himself--returned at 6 to Dinner, &amp; heard from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming day.</p>
+
+
             </div>
             <!--TSA 2023-02-13 Should home in the context of this sentence be marked as a placeName? It seems to be in a different context.-->
             <div type="entry" xml:id="e-540">
                <head><date when="1820-07-04">Tuesday 4 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to <placeName>Kew</placeName>--called on <persName ref="#Nooth_C">Mrs. Nooth</persName> &amp; went over the palace--most lovely little place with fine books &amp; pictures--left my dear friends there, &amp; went <placeName ref="#ThreeMileCross">home</placeName> to <placeName ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> met me there &amp; brought me letters from <persName ref="#Elford_SirWm">Sir William Elford</persName>, <persName ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--coming <placeName ref="#ThreeMileCross">home</placeName> at night after a most delightful week.</p>
+
+
             </div>
             <div type="entry" xml:id="e-541">
                <head><date when="1820-07-05">Wednesday 5 <add>JULY</add></date></head>
@@ -5898,6 +5910,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-543">
                <head><date when="1820-07-07">Friday 7 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName> in the cart with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--called on the <orgName ref="#Brookes">Brookes</orgName>, <orgName ref="#Newberys">Newberrys</orgName>, <persName>Mrs. Palairet</persName> &amp;c.--very pleasant day--came back to dinner--took a walk with <persName ref="#Mitford_Geo">Drum</persName>, &amp; read <persName ref="#Hofland_B">Mrs. Hofland</persName>'s <title>Tales of the Priory</title>, which are too dismal but very good.</p>
             </div>
             <div type="entry" xml:id="e-544">
@@ -5907,19 +5920,24 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-545">
                <head><date when="1820-07-09">Sunday 9 <add>JULY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName ref="#Mitford_Geo">Drum</persName> to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>'s, met the <orgName ref="#Parfitt_family">Parfetts</orgName> there--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
+
+
             </div>
             <!--TSA 2023-02-13 Are the Parfett's the Parfitts? I tagged them as so, as it makes sense, but it would be good to make sure-->
             <div type="entry" xml:id="e-546">
                <head><date when="1820-07-10">Monday 10 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--watered my flowers, which are very beautiful this year in my little garden--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; the Pets (poor <persName ref="#Molly_pet">Molly</persName> was shut up for wanting a Husband)--wrote to <persName ref="#Raggett_Mrs">Mrs. Raggett</persName>.</p>
             </div>
             <div type="entry" xml:id="e-547">
                <head><date when="1820-07-11">Tuesday 11 <add>JULY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--did some needlework in my bower--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--rode with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Arborfield">Arborfield</placeName> to see <persName>Maria</persName>--the Lime trees &amp; the banks of the water delightful.</p>
+
             </div>
             <!--TSA 2023-02-13 Maria could be multiple people previously referenced in the doc. might need more context-->
             <div type="entry" xml:id="e-548">
                <head><date when="1820-07-12">Wednesday 12 <add>JULY</add></date></head>
+
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked in the arbour--dressed my flowers--walked with dear <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Russell_M">Granny</persName> &amp; the pets.</p>
             </div>
             <div type="entry" xml:id="e-549">
@@ -5937,6 +5955,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-552">
                <head><date when="1820-07-16">Sunday 16 <add>JULY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#James_Miss">Miss James</persName>--sate in my Arbour--read the <title ref="#LondonMag">London Magazine</title>--famous--walked with <persName ref="#Mitford_Geo">Drum</persName>, <persName ref="#Russell_M">Granny</persName> &amp; the pets--saw the glow-worm.</p>
+
             </div>
             <div type="entry" xml:id="e-553">
                <head><date when="1820-07-17">Monday 17 <add>JULY</add></date></head>
@@ -5953,6 +5972,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-556">
                <head><date when="1820-07-20">Thursday 20 <add>JULY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName>Miss Webb</persName> &amp; <persName ref="#Wheeler_Kate">Miss Wheeler</persName> came to spend the morning--<persName ref="#Molly_pet">Molly</persName> &amp; nasty little <persName>Trim</persName> ran away &amp; was married to <persName>Aleen</persName>'s great ugly dog--read <persName ref="#Hazlitt_Wm">Hazlitt</persName>'s <title>Age of Elizabeth</title>--famous.</p>
+
             </div>
             <!--TSA 2023-02-13 I could not find another reference of trim at all, nor aleen-->
             <div type="entry" xml:id="e-557">
@@ -5975,7 +5995,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-07-25">Tuesday 25 <add>JULY</add></date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--finished the work for my gown--poor <persName ref="#Hill_Lucy">Luce</persName> made up my white bonnet again--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--found four glow-worms, three of them in my old lane, <placeName>Kibes Lane</placeName>--heard from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> with a proof &amp; wrote him an answer.</p>
             </div>
-            
+
          </div>
 
 
@@ -6046,6 +6066,7 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="Voules">
+                  <!-- srr: Not found in main index -->
                   <orgName>The Voules family</orgName>
                   <orgName>Voules's</orgName>
                   <orgName>
@@ -6057,6 +6078,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org>
 
                <org xml:id="Haywards">
+                  <!-- srr: Not found in main Index -->
                   <orgName>the Hayward family </orgName>
                   <orgName>Haywards</orgName>
                   <orgName>
@@ -6067,6 +6089,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
+                  <!-- srr: Not found in main Index -->
                   <orgName>The Holton family</orgName>
                   <orgName>Holtons</orgName>
                   <orgName>
@@ -6095,72 +6118,96 @@ Publisher:	London : [publisher not identified], 1786.
                </org>
 
                <org xml:id="Drovers">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
                   <orgName>the Drover family</orgName>
                   <orgName>Drovers</orgName>
                   <orgName>
                      <surname>Drover</surname>
                   </orgName>
-                  <note resp="#ebb">A <rs type="person"
-                        ref="#Drover_JamesSr #Drover_Miss #Drover_JamesJr #Drover_Mrs #Drover_Elizabeth"
-                        >family</rs> who, according to <persName ref="#Needham_Francis">Francis
-                        Needham</persName>’s notes, lived on <placeName>Minster
-                     Street</placeName>.</note>
+                  <note resp="#ebb #lmw">A family who, according to <persName ref="#Needham_Francis"
+                        >Francis Needham</persName>’s notes, lived on <placeName>Minster
+                        Street</placeName> in <placeName ref="#Reading_city">Reading</placeName>,
+                     over their China shop. Members include: <persName ref="#Drover_JamesSr">James
+                        Drover, Senior</persName>, <persName ref="#Drover_Mrs">Mrs.
+                        Drover</persName>, <persName ref="#Drover_Miss">Miss Drover</persName>,
+                        <persName ref="#Drover_JamesJr">James Drover, Junior</persName>, and
+                        <persName ref="#Drover_Elizabeth">Elizabeth
+                     Drover</persName>.<!--https://www.berkshirehistory.com/villages/reading_minster_street_intro.html-->.</note>
                </org>
 
                <org xml:id="Whites">
-                  <!--done-->
-                  <orgName>The White family</orgName>
+                  <!-- srr: Replaced with main Index desc -->
+                  <!--lmw: Add members, when known.-->
+                  <orgName>the White family</orgName>
                   <orgName>Whites</orgName>
                   <orgName><surname>White</surname></orgName>
-                  <note resp="#lmw"/>
+                  <note resp="#lmw">Associated with <placeName ref="#Reading_city"
+                        >Reading</placeName>.</note>
                </org>
 
                <org xml:id="Brookes">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
                   <orgName>the Brooke family</orgName>
                   <orgName>Brookes</orgName>
                   <orgName><surname>Brooke</surname></orgName>
-                  <note resp="#lmw"><!--Mr. and Miss Brooke--></note>
+                  <note resp="#lmw">A family who lived at Moore House, <placeName ref="#Shinfield"
+                        >Shinfield</placeName>: <persName ref="#Brooke_Mr">Mr. Brooke</persName>,
+                        <persName ref="#Brooke_Mrs">Mrs. Brooke</persName> and their daughter
+                        <persName ref="#Brooke_Miss">Miss Brooke</persName>.</note>
                </org>
 
                <org xml:id="Garrards">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
                   <orgName>the Garrard family</orgName>
                   <orgName>Garrards</orgName>
                   <orgName><surname>Garrard</surname></orgName>
-                  <note resp="#lmw"/>
+                  <note resp="#lmw">Associated with <placeName ref="#Reading_city"
+                        >Reading</placeName>.</note>
                </org>
 
                <org xml:id="Hawkes_family">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
                   <orgName>the Hawkes family</orgName>
                   <orgName>Hawkes's</orgName>
                   <orgName><surname>Hawkes</surname></orgName>
                   <note resp="#lmw">Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName></note>
+                        >Reading</placeName>. May include <persName ref="#Hawkes_Miss">Miss
+                        Hawkes</persName>, whom <persName ref="#MRM">Mitford</persName> visits in
+                     1819. Source: Journal.</note>
                </org>
 
                <org xml:id="Joliffes">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
                   <orgName>the Joliffe family</orgName>
                   <orgName>Joliffes</orgName>
                   <orgName><addName>Jolliffes</addName></orgName>
                   <orgName><surname>Joliffe</surname></orgName>
-                  <note resp="#lmw">Surname variously spelled <q>Joliffe</q> and
-                     <q>Jollife</q>.</note>
+                  <note resp="#lmw">Surname variously spelled <q>Joliffe</q> and <q>Jolliffe</q>.
+                     Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
                </org>
 
                <org xml:id="Sherwoods">
-                  <!--done-->
+                  <!-- srr: Replaced with main Index desc -->
+                  <!--lmw: Add other members, when known.-->
                   <orgName>the Sherwood family</orgName>
                   <orgName>Sherwoods</orgName>
                   <orgName><surname>Sherwood</surname></orgName>
-                  <note resp="#lmw">In 1819, the family of <persName ref="#Sherwood_Mr">Mr.
-                        Sherwood</persName>, the local doctor.</note>
+                  <note resp="#lmw">The family of <persName ref="#Sherwood_Mr">Mr.
+                        Sherwood</persName>, a local doctor. Associated with <placeName
+                        ref="#Reading_city">Reading</placeName>.</note>
                </org>
 
+               <!-- srr: <org xml:id="Newberys">
+                  <orgName>the Newbery family</orgName>
+                  <orgName><surname>Newbery</surname></orgName>
+                  <orgName><addName>Newberrys</addName></orgName>
+                  <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
+                        Newbery</persName>. Associated with <placeName ref="#Reading_city"
+                        >Reading</placeName>.</note>
+               </org> -->
+
                <org xml:id="Newberrys">
+                  <!-- srr: A misspelling??? ^^^^ -->
                   <!--done-->
                   <orgName>the Newbery family</orgName>
                   <orgName>Newberys</orgName>
@@ -6186,8 +6233,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>the Shuter family</orgName>
                   <orgName>Shuters</orgName>
                   <orgName><surname>Shuter</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Shuter_Mr">Mr.
-                     Shuter</persName>.</note>
+                  <note resp="#lmw">The family of <persName ref="#Shuter_Mr">Mr. Shuter</persName>.
+                     Associated with <placeName ref="#Reading_city">Reading</placeName></note>
                </org>
 
                <org xml:id="Marsh_family">
@@ -6196,11 +6243,17 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>Marshes</orgName>
                   <orgName><surname>Marsh</surname></orgName>
                   <note resp="#lmw">The family of <persName ref="#Marsh_Henry">Harry
-                        Marsh</persName> and <persName ref="#Marsh_Mrs">Mrs.
-                     Marsh</persName>.</note>
+                        Marsh</persName> and <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>.
+                     Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
                </org>
+               
+               <!-- srr: <org xml:id="Marshs_shop">
+                  <orgName>Marsh's</orgName>
+                  <note resp="#rjp #lmw">Retail shop <persName ref="#MRM">Mitford</persName>
+                     mentions patronizing in 1819. Source: Journal. </note>
+               </org> -->
 
-               <org xml:id="Marshs_shop">
+               <org xml:id="Marshs_shop">    <!-- srr: Replace with main Index? ^^^ -->
                   <!--done-->
                   <orgName>Marsh's</orgName>
                   <note resp="#rjp #lmw">Likely a retail store in
@@ -6212,17 +6265,75 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
 
             <listPerson sortKey="histPersons">
-               <person xml:id="Tuppen_Mrs" sex="f"/>
+               <person xml:id="Tuppen_Mrs" sex="f">      <!-- Replaced with main Index desc -->
+                  <!--check ancestry tree-->
+                  <persName>Mrs. Tuppen</persName>
+                  <persName>
+                     <surname type="married">Tuppen</surname>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <note resp="#lmw">Spouse of <persName ref="#Tuppen_Capt">William
+                     Tuppen</persName>. Forename unknown. Dates unknown.</note>
+               </person>
                <!-- existing -->
+               
+               <!-- srr: <person xml:id="Junius" sex="m">
+                  <persName>Junius</persName>
+                  <persName>
+                     <forename>Lucius</forename>
+                     <surname>Junius</surname>
+                     <surname>Brutus</surname>
+                  </persName>
+                  <persName>Junius</persName>
+                  <persName>
+                     <roleName>Consul of the Roman Republic</roleName>
+                  </persName>
+                  <birth>
+                     <placeName>ancient Rome</placeName>
+                  </birth>
+                  <death when="-0509">509 BC <placeName>Silva Arsia, Rome</placeName>
+                  </death>
+                  <occupation type="government" subtype="politician"/>
+                  <occupation type="literary"/>
+                  <note>
+                     <ref target="http://viaf.org/viaf/296192012"/>
+                  </note>
+               </person>
+ -->
 
-               <person xml:id="Junius_pseudo" sex="m">
+               <person xml:id="Junius_pseudo" sex="m">      <!-- Not found in main Index, found a 'Junius' but prob lot the same pers ^^^ -->
                   <persName>Junius</persName>
                   <note resp="#lmw">Pseudonymous author of <title ref="#JuniusLtrs">The Letters of
                         Junius</title>, active during the 1770s. Still unidentified, although may
                      have been <persName ref="#Francis_Philip">Sir Philip Francis</persName>.</note>
                </person>
+               
+               <!-- <person xml:id="Phillips_Chas" sex="m">
+                  <persName>Charles Phillips</persName>
+                  <persName>
+                     <forename>Charles</forename>
+                     <surname>Phillips</surname>
+                  </persName>
+                  <birth when="1787">
+                     <placeName>Sligo, Ireland</placeName>
+                  </birth>
+                  <death when="1859-02-01">
+                     <placeName ref="#London_city">London, England</placeName>
+                  </death>
+                  <occupation type="literary"/>
+                  <occupation type="legal"/>
+                  <occupation type="legal" subtype="barrister"/>
+                  <occupation type="legal" subtype="judge"/>
+                  <note resp="#lmw">Irish author and barrister. <persName ref="#MRM"
+                        >Mitford</persName> mentions him a letter of 1819, along with <persName
+                        ref="#Burke_E">Edmund Burke</persName> and other Irish writers, as
+                     exhibiting a typical example of somewhat overblown Irish eloquence.</note>
+                  <note>
+                     <ref target="http://viaf.org/viaf/49248117"/>
+                  </note>
+               </person> -->
 
-               <person xml:id="Francis_Philip" sex="m">
+               <person xml:id="Francis_Philip" sex="m">     <!-- srr: Not found in main Index, closest resembelance in main^^^ but still doubt the same pers-->
                   <persName>Sir Philip Francis</persName>
                   <persName>
                      <surname>Francis</surname>
@@ -6248,7 +6359,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/44804"/></note>
                </person>
 
-               <person xml:id="Quillinan_Ed" sex="m">
+               <person xml:id="Quillinan_Ed" sex="m">    <!-- srr: Not found in main Index -->
                   <persName>Edward Quillinan</persName>
                   <persName>
                      <surname>Quillinan</surname>
@@ -6271,7 +6382,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Wordsworth_Dora">Dora Wordsworth</persName>.</note>
                </person>
 
-               <person xml:id="BuddenM" sex="f">
+               <person xml:id="BuddenM" sex="f">      <!-- srr: Not found in main Index -->
                   <persName>Maria Elizabeth Halsey Budden</persName>
                   <persName>
                      <surname type="married">Budden</surname>
@@ -6290,7 +6401,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/45736597"/></note>
                </person>
 
-               <person xml:id="Bisset_R" sex="m">
+               <person xml:id="Bisset_R" sex="m">     <!-- srr: Not found in main Index -->
                   <persName>Robert Bisset</persName>
                   <persName>
                      <surname>Bisset</surname>
@@ -6309,7 +6420,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/54407151"/></note>
                </person>
 
-               <person xml:id="Deacon_WF" sex="m">
+               <person xml:id="Deacon_WF" sex="m">    <!-- srr: Not found in main Index -->
                   <persName>William Frederick Deacon</persName>
                   <persName>
                      <surname>Deacon</surname>
@@ -6337,13 +6448,12 @@ Publisher:	London : [publisher not identified], 1786.
                      given.</note>
                </person>
 
-               <person xml:id="Slops" sex="u">
-                  <!--done-->
+               <person xml:id="Slops" sex="u">     <!-- srr: Replaced from main Index desc -->
                   <persName>Slops</persName>
-                  <note resp="#lmw">May be a Mitford pet.</note>
+                  <note resp="#lmw">May be a <orgName ref="#Mitfords">Mitford family</orgName> pet.</note>
                </person>
 
-               <person xml:id="Strutt_Jos" sex="m">
+               <person xml:id="Strutt_Jos" sex="m">      <!-- srr: Not found in main Index -->
                   <persName>Joseph Strutt</persName>
                   <persName>
                      <surname>Strutt</surname>
@@ -6372,7 +6482,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/69001823"/></note>
                </person>
 
-               <person xml:id="SchlegelF" sex="m">
+               <person xml:id="SchlegelF" sex="m">    <!-- srr: Not found in main Index -->
                   <!-- finish -->
                   <persName>Friedrich von Schlegel</persName>
                   <persName>
@@ -6400,7 +6510,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/59099547"/></note>
                </person>
 
-               <person xml:id="LopedeVega" sex="m">
+               <person xml:id="LopedeVega" sex="m">      <!-- srr: Not found in main Index -->
                   <persName>Félix Lope de Vega y Carpio</persName>
                   <persName>
                      <surname><nameLink>de</nameLink> Vega</surname>
@@ -6427,7 +6537,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/89773778"/></note>
                </person>
 
-               <person xml:id="MolesworthRbt" sex="m">
+               <person xml:id="MolesworthRbt" sex="m">      <!-- srr: Not found in main Index -->
                   <persName>Robert Molesworth</persName>
                   <persName>
                      <surname>Molesworth</surname>
@@ -6449,7 +6559,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/34492536"/></note>
                </person>
 
-               <person xml:id="Hoare_RC" sex="m">
+               <person xml:id="Hoare_RC" sex="m">     <!-- srr: Not found in main Index, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
                   <persName>Sir Richard Colt Hoare</persName>
                   <persName>
                      <surname>Hoare</surname>
@@ -6479,7 +6589,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/59091385"/></note>
                </person>
 
-               <person xml:id="Aikin_Lucy" sex="f">
+               <person xml:id="Aikin_Lucy" sex="f">      <!-- srr: Not found in main Index, only found 'Aitken_Mr' -->
                   <persName>Lucy Aikin</persName>
                   <persName>
                      <surname type="paternal">Aikin</surname>
@@ -6512,7 +6622,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/252381764"/></note>
                </person>
 
-               <person xml:id="Davenport_Sel" sex="f">
+               <person xml:id="Davenport_Sel" sex="f">      <!-- srr: Not found in main Index -->
                   <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
@@ -6535,7 +6645,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/10573617"/></note>
                </person>
 
-               <person xml:id="OKeeffe_Ad" sex="f">
+               <person xml:id="OKeeffe_Ad" sex="f">      <!-- srr: Not found in main Index, found 'OKeefe' aka John OKeefe -->
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -6559,7 +6669,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/160187741"/></note>
                </person>
 
-               <person xml:id="Blackford_Mar" sex="f">
+               <person xml:id="Blackford_Mar" sex="f">      <!-- srr: Not found in main Index -->
                   <persName>Lady Isabella Moncrieff Stoddart</persName>
                   <persName>
                      <surname type="paternal">Moncrieff</surname>
@@ -6580,7 +6690,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/74760068"/></note>
                </person>
 
-               <person xml:id="Robinson_Mary" sex="f">
+               <person xml:id="Robinson_Mary" sex="f">      <!-- srr: Not found in main Index, did find 'Robinson_MaryD' might be the same person -->
                   <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
