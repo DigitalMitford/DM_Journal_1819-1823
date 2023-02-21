@@ -5998,7 +5998,7 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA 2023-02-20 New entries below this line.-->
             <div type="entry" xml:id="e-562">
                <head><date when="1820-07-26">Wednesday 26 <add>JULY</add></date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName>Mr. Newberry</persName>'s &amp; met the <orgName>Westbrooks</orgName> &amp; <persName>Mrs. &amp; Miss Comyn</persName>--came <placeName ref="#ThreeMileCross">home</placeName> at night.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName>Mr. Newberry</persName>'s &amp; met the <orgName>Westbrooks</orgName> &amp; <persName>Mrs. &amp; Miss <unclear>Comyn</unclear></persName><note resp="ebb"><q>Comyn</q> is given in the typescript, but the manuscript could read Comyse or something else?</note>--came <placeName ref="#ThreeMileCross">home</placeName> at night.</p>
             </div>
             <!--TSA 2023-02-20 Comyn looks smudged/ran together in the typed versions. It might be good to double check with that and the original handwriting.-->
             <div type="entry" xml:id="e-563">
