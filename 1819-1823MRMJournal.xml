@@ -6066,7 +6066,7 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="Voules">
-                  <!-- srr: Not found in main index -->
+                  <!-- srr: Not found in local index -->
                   <orgName>The Voules family</orgName>
                   <orgName>Voules's</orgName>
                   <orgName>
@@ -6078,7 +6078,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org>
 
                <org xml:id="Haywards">
-                  <!-- srr: Not found in main Index -->
+                  <!-- srr: Not found in local Index -->
                   <orgName>the Hayward family </orgName>
                   <orgName>Haywards</orgName>
                   <orgName>
@@ -6089,7 +6089,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
-                  <!-- srr: Not found in main Index -->
+                  <!-- srr: Not found in local Index -->
                   <orgName>The Holton family</orgName>
                   <orgName>Holtons</orgName>
                   <orgName>
@@ -6117,85 +6117,19 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>Unmarried daughters of the Broughton family.</orgName>
                </org>
 
-               <org xml:id="Drovers">
-                  <!-- srr: Replaced with main Index desc -->
-                  <orgName>the Drover family</orgName>
-                  <orgName>Drovers</orgName>
-                  <orgName>
-                     <surname>Drover</surname>
-                  </orgName>
-                  <note resp="#ebb #lmw">A family who, according to <persName ref="#Needham_Francis"
-                        >Francis Needham</persName>’s notes, lived on <placeName>Minster
-                        Street</placeName> in <placeName ref="#Reading_city">Reading</placeName>,
-                     over their China shop. Members include: <persName ref="#Drover_JamesSr">James
-                        Drover, Senior</persName>, <persName ref="#Drover_Mrs">Mrs.
-                        Drover</persName>, <persName ref="#Drover_Miss">Miss Drover</persName>,
-                        <persName ref="#Drover_JamesJr">James Drover, Junior</persName>, and
-                        <persName ref="#Drover_Elizabeth">Elizabeth
-                     Drover</persName>.<!--https://www.berkshirehistory.com/villages/reading_minster_street_intro.html-->.</note>
-               </org>
+               
 
-               <org xml:id="Whites">
-                  <!-- srr: Replaced with main Index desc -->
-                  <!--lmw: Add members, when known.-->
-                  <orgName>the White family</orgName>
-                  <orgName>Whites</orgName>
-                  <orgName><surname>White</surname></orgName>
-                  <note resp="#lmw">Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName>.</note>
-               </org>
+               
 
-               <org xml:id="Brookes">
-                  <!-- srr: Replaced with main Index desc -->
-                  <orgName>the Brooke family</orgName>
-                  <orgName>Brookes</orgName>
-                  <orgName><surname>Brooke</surname></orgName>
-                  <note resp="#lmw">A family who lived at Moore House, <placeName ref="#Shinfield"
-                        >Shinfield</placeName>: <persName ref="#Brooke_Mr">Mr. Brooke</persName>,
-                        <persName ref="#Brooke_Mrs">Mrs. Brooke</persName> and their daughter
-                        <persName ref="#Brooke_Miss">Miss Brooke</persName>.</note>
-               </org>
+               
 
-               <org xml:id="Garrards">
-                  <!-- srr: Replaced with main Index desc -->
-                  <orgName>the Garrard family</orgName>
-                  <orgName>Garrards</orgName>
-                  <orgName><surname>Garrard</surname></orgName>
-                  <note resp="#lmw">Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName>.</note>
-               </org>
+               
 
-               <org xml:id="Hawkes_family">
-                  <!-- srr: Replaced with main Index desc -->
-                  <orgName>the Hawkes family</orgName>
-                  <orgName>Hawkes's</orgName>
-                  <orgName><surname>Hawkes</surname></orgName>
-                  <note resp="#lmw">Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName>. May include <persName ref="#Hawkes_Miss">Miss
-                        Hawkes</persName>, whom <persName ref="#MRM">Mitford</persName> visits in
-                     1819. Source: Journal.</note>
-               </org>
+               
 
-               <org xml:id="Joliffes">
-                  <!-- srr: Replaced with main Index desc -->
-                  <orgName>the Joliffe family</orgName>
-                  <orgName>Joliffes</orgName>
-                  <orgName><addName>Jolliffes</addName></orgName>
-                  <orgName><surname>Joliffe</surname></orgName>
-                  <note resp="#lmw">Surname variously spelled <q>Joliffe</q> and <q>Jolliffe</q>.
-                     Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
-               </org>
+               
 
-               <org xml:id="Sherwoods">
-                  <!-- srr: Replaced with main Index desc -->
-                  <!--lmw: Add other members, when known.-->
-                  <orgName>the Sherwood family</orgName>
-                  <orgName>Sherwoods</orgName>
-                  <orgName><surname>Sherwood</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Sherwood_Mr">Mr.
-                        Sherwood</persName>, a local doctor. Associated with <placeName
-                        ref="#Reading_city">Reading</placeName>.</note>
-               </org>
+               
 
                <!-- srr: <org xml:id="Newberys">
                   <orgName>the Newbery family</orgName>
@@ -6265,17 +6199,6 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
 
             <listPerson sortKey="histPersons">
-               <person xml:id="Tuppen_Mrs" sex="f">      <!-- Replaced with main Index desc -->
-                  <!--check ancestry tree-->
-                  <persName>Mrs. Tuppen</persName>
-                  <persName>
-                     <surname type="married">Tuppen</surname>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <note resp="#lmw">Spouse of <persName ref="#Tuppen_Capt">William
-                     Tuppen</persName>. Forename unknown. Dates unknown.</note>
-               </person>
-               <!-- existing -->
                
                <!-- srr: <person xml:id="Junius" sex="m">
                   <persName>Junius</persName>
@@ -6298,10 +6221,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <note>
                      <ref target="http://viaf.org/viaf/296192012"/>
                   </note>
-               </person>
- -->
-
-               <person xml:id="Junius_pseudo" sex="m">      <!-- Not found in main Index, found a 'Junius' but prob lot the same pers ^^^ -->
+               </person>-->
+               <person xml:id="Junius_pseudo" sex="m">      <!-- Not found in local Index, found a 'Junius' but prob lot the same pers ^^^ -->
                   <persName>Junius</persName>
                   <note resp="#lmw">Pseudonymous author of <title ref="#JuniusLtrs">The Letters of
                         Junius</title>, active during the 1770s. Still unidentified, although may
@@ -6333,7 +6254,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </person> -->
 
-               <person xml:id="Francis_Philip" sex="m">     <!-- srr: Not found in main Index, closest resembelance in main^^^ but still doubt the same pers-->
+               <person xml:id="Francis_Philip" sex="m">     <!-- srr: Not found in local Index, closest resembelance in main^^^ but still doubt the same pers-->
                   <persName>Sir Philip Francis</persName>
                   <persName>
                      <surname>Francis</surname>
@@ -6359,7 +6280,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/44804"/></note>
                </person>
 
-               <person xml:id="Quillinan_Ed" sex="m">    <!-- srr: Not found in main Index -->
+               <person xml:id="Quillinan_Ed" sex="m">    <!-- srr: Not found in local Index -->
                   <persName>Edward Quillinan</persName>
                   <persName>
                      <surname>Quillinan</surname>
@@ -6382,7 +6303,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Wordsworth_Dora">Dora Wordsworth</persName>.</note>
                </person>
 
-               <person xml:id="BuddenM" sex="f">      <!-- srr: Not found in main Index -->
+               <person xml:id="BuddenM" sex="f">      <!-- srr: Not found in local Index -->
                   <persName>Maria Elizabeth Halsey Budden</persName>
                   <persName>
                      <surname type="married">Budden</surname>
@@ -6401,7 +6322,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/45736597"/></note>
                </person>
 
-               <person xml:id="Bisset_R" sex="m">     <!-- srr: Not found in main Index -->
+               <person xml:id="Bisset_R" sex="m">     <!-- srr: Not found in local Index -->
                   <persName>Robert Bisset</persName>
                   <persName>
                      <surname>Bisset</surname>
@@ -6420,7 +6341,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/54407151"/></note>
                </person>
 
-               <person xml:id="Deacon_WF" sex="m">    <!-- srr: Not found in main Index -->
+               <person xml:id="Deacon_WF" sex="m">    <!-- srr: Not found in local Index -->
                   <persName>William Frederick Deacon</persName>
                   <persName>
                      <surname>Deacon</surname>
@@ -6448,12 +6369,9 @@ Publisher:	London : [publisher not identified], 1786.
                      given.</note>
                </person>
 
-               <person xml:id="Slops" sex="u">     <!-- srr: Replaced from main Index desc -->
-                  <persName>Slops</persName>
-                  <note resp="#lmw">May be a <orgName ref="#Mitfords">Mitford family</orgName> pet.</note>
-               </person>
+               
 
-               <person xml:id="Strutt_Jos" sex="m">      <!-- srr: Not found in main Index -->
+               <person xml:id="Strutt_Jos" sex="m">      <!-- srr: Not found in local Index -->
                   <persName>Joseph Strutt</persName>
                   <persName>
                      <surname>Strutt</surname>
@@ -6482,7 +6400,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/69001823"/></note>
                </person>
 
-               <person xml:id="SchlegelF" sex="m">    <!-- srr: Not found in main Index -->
+               <person xml:id="SchlegelF" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- finish -->
                   <persName>Friedrich von Schlegel</persName>
                   <persName>
@@ -6510,7 +6428,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/59099547"/></note>
                </person>
 
-               <person xml:id="LopedeVega" sex="m">      <!-- srr: Not found in main Index -->
+               <person xml:id="LopedeVega" sex="m">      <!-- srr: Not found in local Index -->
                   <persName>Félix Lope de Vega y Carpio</persName>
                   <persName>
                      <surname><nameLink>de</nameLink> Vega</surname>
@@ -6537,7 +6455,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/89773778"/></note>
                </person>
 
-               <person xml:id="MolesworthRbt" sex="m">      <!-- srr: Not found in main Index -->
+               <person xml:id="MolesworthRbt" sex="m">      <!-- srr: Not found in local Index -->
                   <persName>Robert Molesworth</persName>
                   <persName>
                      <surname>Molesworth</surname>
@@ -6559,7 +6477,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/34492536"/></note>
                </person>
 
-               <person xml:id="Hoare_RC" sex="m">     <!-- srr: Not found in main Index, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
+               <person xml:id="Hoare_RC" sex="m">     <!-- srr: Not found in local Index, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
                   <persName>Sir Richard Colt Hoare</persName>
                   <persName>
                      <surname>Hoare</surname>
@@ -6589,7 +6507,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/59091385"/></note>
                </person>
 
-               <person xml:id="Aikin_Lucy" sex="f">      <!-- srr: Not found in main Index, only found 'Aitken_Mr' -->
+               <person xml:id="Aikin_Lucy" sex="f">      <!-- srr: Not found in local Index, only found 'Aitken_Mr' -->
                   <persName>Lucy Aikin</persName>
                   <persName>
                      <surname type="paternal">Aikin</surname>
@@ -6622,7 +6540,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/252381764"/></note>
                </person>
 
-               <person xml:id="Davenport_Sel" sex="f">      <!-- srr: Not found in main Index -->
+               <person xml:id="Davenport_Sel" sex="f">      <!-- srr: Not found in local Index -->
                   <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
@@ -6645,7 +6563,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/10573617"/></note>
                </person>
 
-               <person xml:id="OKeeffe_Ad" sex="f">      <!-- srr: Not found in main Index, found 'OKeefe' aka John OKeefe -->
+               <person xml:id="OKeeffe_Ad" sex="f">      <!-- srr: Not found in local Index, found 'OKeefe' aka John OKeefe -->
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -6669,7 +6587,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/160187741"/></note>
                </person>
 
-               <person xml:id="Blackford_Mar" sex="f">      <!-- srr: Not found in main Index -->
+               <person xml:id="Blackford_Mar" sex="f">      <!-- srr: Not found in local Index -->
                   <persName>Lady Isabella Moncrieff Stoddart</persName>
                   <persName>
                      <surname type="paternal">Moncrieff</surname>
@@ -6690,7 +6608,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/74760068"/></note>
                </person>
 
-               <person xml:id="Robinson_Mary" sex="f">      <!-- srr: Not found in main Index, did find 'Robinson_MaryD' might be the same person -->
+               <person xml:id="Robinson_Mary" sex="f">      <!-- srr: Not found in local Index, did find 'Robinson_MaryD' might be the same person -->
                   <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
@@ -6700,7 +6618,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Visconti_E" sex="m">
+               <person xml:id="Visconti_E" sex="m"> <!-- srr: Not found in local Index -->
                   <persName>Ennio Quirino Visconti</persName>
                   <persName>
                      <surname>Visconti</surname>
@@ -6729,7 +6647,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/12366161"/></note>
                </person>
 
-               <person xml:id="Crabbe" sex="m">
+               <person xml:id="Crabbe" sex="m">    <!-- srr: Not found in local Index -->
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
@@ -6750,7 +6668,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/100175819"/></note>
                </person>
 
-               <person xml:id="HallamH" sex="m">
+               <person xml:id="HallamH" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Henry Hallam</persName>
                   <persName>
@@ -6771,7 +6689,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
 
-               <person xml:id="WrightJ" sex="m">
+               <person xml:id="WrightJ" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>John Wright</persName>
                   <persName>
@@ -6784,7 +6702,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/4920541"/></note>
                </person>
 
-               <person xml:id="ClementWI" sex="m">
+               <person xml:id="ClementWI" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>William Innell Clement</persName>
                   <persName>
@@ -6797,7 +6715,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/50757111"/></note>
                </person>
 
-               <person xml:id="FarquharsonG" sex="m">
+               <person xml:id="FarquharsonG" sex="m">    <!-- srr: Not found in local Index, found 'Farquhar_George'?? Doubt same person -->
                   <!-- stub -->
                   <persName>George Farquharson</persName>
                   <persName>
@@ -6808,7 +6726,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/30987190"/></note>
                </person>
 
-               <person xml:id="Edwards_Bryan" sex="m">
+               <person xml:id="Edwards_Bryan" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Bryan Edwards</persName>
                   <persName>
@@ -6821,7 +6739,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/79205127"/></note>
                </person>
 
-               <person xml:id="KempeAJ" sex="m">
+               <person xml:id="KempeAJ" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Alfred John Kempe</persName>
                   <persName>
@@ -6836,7 +6754,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/69277446"/></note>
                </person>
 
-               <person xml:id="Windham_Wm" sex="m">
+               <person xml:id="Windham_Wm" sex="m">      <!-- srr: Not fouond in local Index -->
                   <!-- stub -->
                   <persName>William Windham</persName>
                   <persName>
@@ -6848,7 +6766,7 @@ Publisher:	London : [publisher not identified], 1786.
 
                </person>
 
-               <person xml:id="Amyot_Thos" sex="m">
+               <person xml:id="Amyot_Thos" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Thomas Amyot</persName>
                   <persName>
@@ -6857,7 +6775,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="MatthewsH" sex="m">
+               <person xml:id="MatthewsH" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Henry Matthews</persName>
                   <persName>
@@ -6866,7 +6784,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Malcolm_J" sex="m">
+               <person xml:id="Malcolm_J" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>James Peller Malcolm</persName>
                   <persName>
@@ -6876,7 +6794,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Bowdich_TE" sex="m">
+               <person xml:id="Bowdich_TE" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Thomas Edward Bowdich</persName>
                   <persName>
@@ -6886,7 +6804,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Machiavelli" sex="m">
+               <person xml:id="Machiavelli" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Niccolo Machiavelli</persName>
                   <persName>
@@ -6895,7 +6813,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="EdgeworthRL" sex="m">
+               <person xml:id="EdgeworthRL" sex="m">     <!-- srr: Not found in local Index, found Edgeworth_Maria, maybe related? -->
                   <!-- stub -->
                   <persName>Richard Lovell Edgeworth</persName>
                   <persName>
@@ -6907,14 +6825,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <death when="1817"/>
                </person>
 
-               <person xml:id="Liebensrood_son" sex="m">
+               <person xml:id="Liebensrood_son" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>
                      <surname>Liebensrood</surname></persName>
                   <note resp="#lmw">Son of Mr. Liebensrood</note>
                </person>
 
-               <person xml:id="Hodgskin_Thos" sex="m">
+               <person xml:id="Hodgskin_Thos" sex="m">      <!-- srr: Not found in local Index, only found 'Hodgkinson_Mrs' -->
                   <!-- stub -->
                   <persName>Thomas Hodgskin</persName>
                   <persName>
@@ -6923,7 +6841,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Burckhardt_JL" sex="m">
+               <person xml:id="Burckhardt_JL" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>John Lewis Burckhardt</persName>
                   <persName>
@@ -6933,7 +6851,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="ScafeJ" sex="m">
+               <person xml:id="ScafeJ" sex="m">       <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>John Scafe</persName>
                   <persName>
@@ -6942,20 +6860,9 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Marshall_MrsLA" sex="f">
-                  <!-- done -->
-                  <persName>Mrs. L. A. Marshall</persName>
-                  <persName>
-                     <surname type="married">Marshall</surname>
-                     <forename>L. A.</forename>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <persName><addName>Meta</addName></persName>
-                  <note resp="#lmw">Wrote for juvenile and Evangelical audiences. Wrote under the
-                     pseudonym <q>Meta</q>. Paternal surname unknown. Dates unknown.</note>
-               </person>
+               
 
-               <person xml:id="MDonough_F" sex="m">
+               <person xml:id="MDonough_F" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Felix M'Donough</persName>
                   <persName>
@@ -6990,7 +6897,7 @@ Publisher:	London : [publisher not identified], 1786.
                      woodwinds; player on the lute.</note>
                </person>
 
-               <person xml:id="PrinceEdward1767" sex="m">
+               <person xml:id="PrinceEdward1767" sex="m">      <!-- srr: Not found in local Index -->
                   <persName>Prince Edward, Duke of Kent and Strathearn</persName>
                   <persName>
                      <surname>Hanover</surname>
@@ -7021,7 +6928,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
 
-               <person xml:id="ZouchT" sex="m">
+               <person xml:id="ZouchT" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Thomas Zouch</persName>
                   <persName>
@@ -7033,7 +6940,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"><!--Thomas Zouch, D.D. F.L.S. Prebendary of Durham--></note>
                </person>
 
-               <person xml:id="Wilmot_James" sex="m">
+               <person xml:id="Wilmot_James" sex="m">    <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
                   <!-- stub -->
                   <persName>James Wilmot</persName>
                   <persName>
@@ -7044,7 +6951,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <death when="1807"/>
                </person>
 
-               <person xml:id="Serres_OW" sex="f">
+               <person xml:id="Serres_OW" sex="f">    <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
                   <!-- stub -->
                   <persName>Olivia Wilmot Serres</persName>
                   <persName>
@@ -7054,7 +6961,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Taylor_Joseph" sex="m">
+               <person xml:id="Taylor_Joseph" sex="m">      <!-- srr: Not found in local Index, found many other Taylors -->
                   <!-- stub -->
                   <persName>Joseph Taylor</persName>
                   <persName>
@@ -7063,7 +6970,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Murphy_Ar" sex="m">
+               <person xml:id="Murphy_Ar" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Arthur Murphy</persName>
                   <persName>
@@ -7072,7 +6979,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Williams_Thos" sex="m">
+               <person xml:id="Williams_Thos" sex="m">      <!-- srr: Not found in local Index, only found 'Williams_Mr' -->
                   <!-- stub -->
                   <persName>Thomas Williams</persName>
                   <persName>
@@ -7081,7 +6988,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Jones_John" sex="m">
+               <person xml:id="Jones_John" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>John Jones</persName>
                   <persName>
@@ -7091,7 +6998,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><!--Sir John T. Jones--></note>
                </person>
 
-               <person xml:id="Richardson_Jon" sex="m">
+               <person xml:id="Richardson_Jon" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Jonathan Richardson</persName>
                   <persName>
@@ -7100,7 +7007,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Rose_Wm" sex="m">
+               <person xml:id="Rose_Wm" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>William Stewart Rose</persName>
                   <persName>
@@ -7138,7 +7045,7 @@ Publisher:	London : [publisher not identified], 1786.
                      baronetcy.</note>
                </person>
 
-               <person xml:id="Fitzclarence_Geo" sex="m">
+               <person xml:id="Fitzclarence_Geo" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>George Fitzclarence</persName>
                   <persName>
@@ -7151,7 +7058,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Hutton_Cath" sex="f">
+               <person xml:id="Hutton_Cath" sex="f">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Catherine Hutton</persName>
                   <persName>
@@ -7160,7 +7067,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Lester_E" sex="f">
+               <person xml:id="Lester_E" sex="f">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Elizabeth Lester</persName>
                   <persName>
@@ -7169,7 +7076,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Smith_Ch" sex="f">
+               <person xml:id="Smith_Ch" sex="f">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Charlotte Smith</persName>
                   <persName>
@@ -7178,16 +7085,9 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Brunton_Mary" sex="f">
-                  <!-- stub -->
-                  <persName>Mary Brunton</persName>
-                  <persName>
-                     <surname>Brunton</surname>
-                     <forename>Mary</forename>
-                  </persName>
-               </person>
+               
 
-               <person xml:id="Porter_Jane" sex="f">
+               <person xml:id="Porter_Jane" sex="f">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Jane Porter</persName>
                   <persName>
@@ -7196,7 +7096,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Helme_Eliz" sex="f">
+               <person xml:id="Helme_Eliz" sex="f">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Elizabeth Helme</persName>
                   <persName>
@@ -7205,7 +7105,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Comber_Thos" sex="m">
+               <person xml:id="Comber_Thos" sex="m">     <!-- srr: Not found in local Index, only found 'Comer_Mr'-->
                   <!-- stub -->
                   <persName>Thomas Comber</persName>
                   <persName>
@@ -7214,7 +7114,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Legh_T" sex="m">
+               <person xml:id="Legh_T" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Thomas Legh</persName>
                   <persName>
@@ -7228,7 +7128,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">M. P.</note>
                </person>
 
-               <person xml:id="Burnet_Gil" sex="m">
+               <person xml:id="Burnet_Gil" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Gilbert Burnet</persName>
                   <persName>
@@ -7237,7 +7137,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Murray_Hugh" sex="m">
+               <person xml:id="Murray_Hugh" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Hugh Murray</persName>
                   <persName>
@@ -7246,7 +7146,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Heude_Wm" sex="m">
+               <person xml:id="Heude_Wm" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>William Heude</persName>
                   <persName>
@@ -7255,7 +7155,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="RennellT" sex="m">
+               <person xml:id="RennellT" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Thomas Rennell</persName>
                   <persName>
@@ -7264,7 +7164,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Saabye" sex="m">
+               <person xml:id="Saabye" sex="m">    <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Hans Egede Saabye</persName>
                   <persName>
@@ -7274,7 +7174,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Savigny_JBH" sex="m">
+               <person xml:id="Savigny_JBH" sex="m">     <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Jean Baptiste Henri Savigny</persName>
                   <persName>
@@ -7285,7 +7185,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="deChaboulon" sex="m">
+               <person xml:id="deChaboulon" sex="m">     <!-- srr: Found 'de_Chaboulon' and they are the exact same person-->
                   <!-- stub -->
                   <persName>Pierre Alexandre Edouard Fleury de Chaboulon</persName>
                   <persName>
@@ -7297,7 +7197,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Correard_A" sex="m">
+               <person xml:id="Correard_A" sex="m">      <!-- srr: Not found in local Index -->
                   <!-- stub -->
                   <persName>Alexandre Corréard</persName>
                   <persName>
@@ -7306,17 +7206,9 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Howard_SirRob" sex="m">
-                  <!-- stub -->
-                  <persName>Sir Robert Howard</persName>
-                  <persName>
-                     <surname>Howard</surname>
-                     <forename>Robert</forename>
-                     <roleName/>
-                  </persName>
-               </person>
+               
 
-               <person xml:id="Nichols_JB" sex="m">
+               <person xml:id="Nichols_JB" sex="m">      <!-- srr: Not found in local Index, did find a 'Nicholls_John', not sure if the same person -->
                   <!-- stub -->
                   <persName>John Bowyer Nichols</persName>
                   <persName>
@@ -7326,7 +7218,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Brunton_Alex" sex="m">
+               <person xml:id="Brunton_Alex" sex="m">    <!-- srr: Not found in local Index, did find a 'Brunton_Alexander', not sure if the same person -->
                   <!-- stub -->
                   <persName>Alexander Brunton</persName>
                   <persName>
