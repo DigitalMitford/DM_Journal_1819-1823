@@ -1558,7 +1558,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >Mossy</persName></p>
             </div>
             <div type="entry" xml:id="e-123">
-               <head><date when="1819-05-09"/>Sunday 9 <add>MAY</add></head>
+               <head><date when="1819-05-09">Sunday 9 <add>MAY</add></date></head>
                <p> At <placeName ref="#Bertram_house">home</placeName>--quite well--wrote a note to
                      <persName ref="#StQuentin">Mr. St. Quentin</persName>--walked with dear
                      <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets. Looked over
@@ -1566,7 +1566,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#ItalianTrans_ChasD">Translations</title>.</p>
             </div>
             <div type="entry" xml:id="e-124">
-               <head><date when="1819-05-10"/>Monday 10 <add>MAY</add></head>
+               <head><date when="1819-05-10">Monday 10 <add>MAY</add></date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--Dear <persName
                      ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#London_city"
                      >London</placeName>--walked with dear <persName ref="#Russell_M"
@@ -6039,29 +6039,34 @@ Publisher:	London : [publisher not identified], 1786.
                <p>Went to Reading with Drum--called at Mrs. Valpy's &amp; c.--pleasant morning--came home to dinner--Mr. Dickinson drank tea here.</p>
             </div>
             <div type="entry" xml:id="e-572">
-               <head><date when="1820-08-05">Saturday 5 <add>AUGUST</add></date></head>
+               <head><date when="1820-08-05">Saturday 6th <add>AUGUST</add></date></head>
                <p>At home--Mr. Sherwood called--did a great deal of work--walked with Granny.</p>
             </div>
             <div type="entry" xml:id="e-573">
-               <head><date when="1820-08-06">Sunday 6 <add>AUGUST</add></date></head>
+               <head><date when="1820-08-06">Sunday 7th <add>AUGUST</add></date></head>
                <p>At home--read Warbeck of Wolfstein--very good--walked with Drum--last day of Lucy's being here, poor thing!</p>
             </div>
             <div type="entry" xml:id="e-574">
-               <head><date when="1820-08-07">Monday 7 <add>AUGUST</add></date></head>
+               <head><date when="1820-08-07">Monday 8th <add>AUGUST</add></date></head>
                <p>At home--poor dear Luce was married from our house at Shinfield Church to Mr. Hill--the wedding party Mr. &amp; Mrs. Hill, Mr. Goddard who gave her away, &amp; Charles Sweetser her brother. All dined at our house, &amp; then went off to drink tea at her Mother's, &amp; so home at night to Silchester--God bless her, poor dear thing! She lived with us twelve years--a most faithful, affectionate creature as ever lived upon earth--we were all very fond of her, especially Drum &amp; I--the Moncks called--walked with Drum &amp; Granny.</p>
             </div>
             <div type="entry" xml:id="e-575">
-               <head><date when="1820-08-08">Tuesday 8 <add>AUGUST</add></date></head>
+               <head><date when="1820-08-08">Tuesday 9th <add>AUGUST</add></date></head>
                <p>At home--heard from Miss James--wrote to Miss James--went to dine at Coley to keep little Bligh's birthday--the Sherwoods came in the evening.</p>
             </div>
             <!--TSA 2023-02-21 The wording on little Bligh's birthday seems odd, so it definitely needs compared to the handwritten text.-->
             <div type="entry" xml:id="e-576">
-               <head><date when="1820-08-09">Wednesday 9 <add>AUGUST</add></date></head>
+               <head><date when="1820-08-09">Wednesday 10th <add>AUGUST</add></date></head>
                <p>At home--Heard from Mr. Haydon &amp; Mrs. Rowden--worked at my black gown for the poor Duchess of York's death--poor dear Molly was spayed--she never said a word, poor love--walked with Drum.</p>
             </div>
             <div type="entry" xml:id="e-577">
-               <head><date when="1820-08-10">Thursday 10 <add>AUGUST</add></date></head>
-               <p>Finished my gown tail--wrote to Mrs. Rowden--Mr. Dickinson called--walked with Drum &amp; the pets--poor Molly very bad.</p>
+               <head><date when="1820-08-10">Thursday 10th <add>AUGUST</add></date></head>
+               <p>(I have been in a mistake all through this page as to date)<note resp="#ebb">Mitford was indeed incorrect about most of the dates on this page from Saturday August 5 through Wednesday August 10. 
+                  Consulting a perpetual calendar, we see that the numbers of Mitford's dates for this week were ahead by one.</note> Finished my gown tail--wrote to Mrs. Rowden--Mr. Dickinson called--walked with Drum &amp; the pets--poor Molly very bad.</p>
+            </div>
+            <fw>August 1820</fw>
+            <div type="entry" xml:id="e-578">
+               <head><date when="1820-08-11">Friday 11th</date></head>
             </div>
          </div>
 
