@@ -5821,7 +5821,7 @@ Publisher:	London : [publisher not identified], 1786.
                      Valpy</persName> &amp; <persName ref="#Newberry_Mrs">Mrs.
                   Newberry</persName>--came back to dinner--packed up my things to go to <placeName
                      ref="#London_city">London</placeName> tomorrow--wrote to <persName
-                     ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Valpy_Mrs"
+                     ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Harris_Anna"
                      >Mrs. A. Valpy</persName>.</p>
             </div>
             <!--TSA 2023-1-23 Mrs. Valpy and Mrs. Newberry don't autofill-->
@@ -5869,8 +5869,8 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <!--TSA 2023-1-18 The Monks referenced in this one, and on 1820-06-22 (Mr. Monck) are spelled differently. Are they the same family? -->
             <!--TSA 2023-1-24 The Monks in this spelling don't have a ref. Miss Kelly, The Perrys, Regent's Park, and English Opera House don't have refs-->
+            <fw>June 1820. &amp; July <note resp="ebb">This is positioned in the middle of the previous entry in a page turn.</note></fw> <!--TSA 2023-02-28 This might go inside the previous entry, depending on if we want to break it up. The entry from the last page continues into this page, with "June 1820" written at the top.-->
             <div type="entry" xml:id="e-536">
-               <fw>June 1820</fw> <!--TSA 2023-02-28 This might go inside the previous entry, depending on if we want to break it up. The entry from the last page continues into this page, with "June 1820" written at the top.-->
                <head><date when="1820-06-30">Friday 30th</date></head>
                <p>In <placeName ref="#London_city">London</placeName>--went with <persName
                      ref="#Mitford_Geo">Drum</persName> to stay at the
@@ -5901,11 +5901,13 @@ Publisher:	London : [publisher not identified], 1786.
 
 
             </div>
-            <!--TSA 2023-02-13 Should home in the context of this sentence be marked as a placeName? It seems to be in a different context.-->
+            <!--TSA 2023-02-13 Should home in the context of this sentence be marked as a placeName? It seems to be in a different context.
+            2023-02-28 ebb: She seems to be returning home via Wokingham, so let's tag it that way. 
+            -->
             <div type="entry" xml:id="e-540">
                <head><date when="1820-07-04">Tuesday 4th</date></head>
 
-               <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to <placeName>Kew</placeName>--called on <persName ref="#Nooth_C">Mrs. Nooth</persName> &amp; went over the palace--most lovely little place with fine books &amp; pictures--left my dear friends there, &amp; went <placeName ref="#ThreeMileCross">home</placeName> to <placeName ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> met me there &amp; brought me letters from <persName ref="#Elford_SirWm">Sir William Elford</persName>, <persName ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--coming <placeName ref="#ThreeMileCross">home</placeName> at night after a most delightful week.</p>
+               <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to <placeName>Kew</placeName>--called on <persName ref="#Nooth_C">Mrs. Nooth</persName> &amp; went over the palace--most lovely little place with fine books &amp; pictures--left my dear friends there, &amp; went home to <placeName ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> met me there &amp; brought me letters from <persName ref="#Elford_SirWm">Sir William Elford</persName>, <persName ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--coming <placeName ref="#ThreeMileCross">home</placeName> at night after a most delightful week.</p>
 
 
             </div>
@@ -5930,10 +5932,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-545">
                <head><date when="1820-07-09">Sunday 9th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName ref="#Mitford_Geo">Drum</persName> to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>'s, met the <orgName ref="#Parfitt_family">Parfetts</orgName> there--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
-
-
             </div>
-            <!--TSA 2023-02-13 Are the Parfett's the Parfitts? I tagged them as so, as it makes sense, but it would be good to make sure-->
             <div type="entry" xml:id="e-546">
                <head><date when="1820-07-10">Monday 10th</date></head>
 
@@ -5944,7 +5943,9 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--did some needlework in my bower--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--rode with <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Arborfield">Arborfield</placeName> to see <persName>Maria</persName>--the Lime trees &amp; the banks of the water delightful.</p>
 
             </div>
-            <!--TSA 2023-02-13 Maria could be multiple people previously referenced in the doc. might need more context-->
+            <!--TSA 2023-02-13 Maria could be multiple people previously referenced in the doc. might need more context
+            2023-02-28 ebb: Note that she's from Arborfield near lime trees.
+            -->
             <div type="entry" xml:id="e-548">
                <head><date when="1820-07-12">Wednesday 12th</date></head>
 
@@ -5957,7 +5958,8 @@ Publisher:	London : [publisher not identified], 1786.
             <fw>July 1820</fw>
             <div type="entry" xml:id="e-550">
                <head><date when="1820-07-14">Friday 14th</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName>Captain</persName> &amp; <persName>Miss Tuppen</persName> &amp; <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName> called--watered my flowers, which are very beautiful--walked with <persName ref="#Russell_M">Granny</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Tuppen_Capt">Captain</persName> &amp; <persName>Miss Tuppen</persName> &amp; <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName> called--watered my flowers, which are very beautiful--walked with <persName ref="#Russell_M">Granny</persName>.</p>
+            <!-- 2023-02-28 ebb: We have Captain Tuppen and Mrs. Tuppen in the si-local, but no Miss Tuppen? Is this a daughter? Or a reference to Mrs. Tuppen? Check.  -->
             </div>
             <div type="entry" xml:id="e-551">
                <head><date when="1820-07-15">Saturday 15th</date></head>
