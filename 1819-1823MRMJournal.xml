@@ -4514,7 +4514,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
             </div>
             <fw>February 1820</fw>
             <div type="entry" xml:id="e-402">
-               <head><date when="1820-02-17">Thursday 17th</date></head>
+               <head><date when="1820-02-17">Thursday the 17th 1820</date></head>
                <p>Wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>--went into <placeName
                      ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo"
                      >Drum</persName>--called at the <orgName ref="#Joliffes"
@@ -4801,12 +4801,12 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <fw>March 1820<!--TSA 2023-03-13: Mitford writes at home before the date, but scribbles it out--></fw>
             <div type="entry" xml:id="e-430">
-               <head><date when="1820-03-16">Thursday 16th</date></head>
+               <head><del rend="squiggles">At home</del> <date when="1820-03-16">Thursday 16th</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#fir"
                      >fir</name>topping, got a few--went <name ref="#primrose">primros</name>ing,
                   got a good many--read <title ref="#Mems_Napoleon1815">Memoires de Napoleon <pb
                         n="38"/> en 1815 par <persName ref="#deChaboulon">M. Fleury de
-                        Chaboulon</persName></title>--a good fellow, but the book rather dull.</p>
+                        Chaboulon</persName></title>--a good fellow--<del rend="squiggles"><gap reason="illegible" unit="char" quantity="4"/></del> but the book rather dull.</p>
             </div>
             <div type="entry" xml:id="e-431">
                <head><date when="1820-03-17">Friday 17th</date></head>
@@ -4855,7 +4855,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-436">
                <head><date when="1820-03-22">Wednesday 22nd</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--took <persName
-                     ref="#Rowden_Fr">Mrs. Rowden</persName> back to <placeName ref="#Reading_city"
+                  ref="#Rowden_Fr">Mrs. Rowden</persName> back to <del rend="squiggles"><gap reason="illegible" unit="char" quantity="6"/></del> <placeName ref="#Reading_city"
                      >Reading</placeName>--called on <orgName ref="#Valpys">the Valpy</orgName>'s,
                      <orgName ref="#Hawkes_family">Hawkes</orgName>'s, <orgName ref="#Brookes"
                      >Brookes</orgName>, <orgName ref="#Bulleys">Bulleys</orgName> &amp;c.--hired
