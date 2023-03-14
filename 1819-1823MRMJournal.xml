@@ -8526,9 +8526,15 @@ Publisher:	London : [publisher not identified], 1786.
 
                <bibl xml:id="Remarks_Italy">    <!-- srr: Different desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
+                  <title level="m">Remarks on Antiquities, Arts, and Letters, During an Excursion in Italy, in the Years 1802 and 1803.</title>
+                  <author ref="#Forsyth_Jos">Joseph Forsyth</author>
+                  <date when="1816">1816</date>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>J. Murray</publisher>
                   <note resp="#lmw">Mitford records she was <quote>charmed with
-                  it</quote>.</note>
+                     it</quote> in <ref target="#e-40">her journal entry of <date when="1819-02-15">Monday 15 February 1819</date></ref>.</note>
                </bibl>
 
                <bibl xml:id="Marriage_SF">      <!-- srr: Different desc here than in local Index -->
