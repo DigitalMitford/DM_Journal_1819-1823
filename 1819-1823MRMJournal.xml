@@ -8516,15 +8516,19 @@ Publisher:	London : [publisher not identified], 1786.
                      internal evidence.</note>
                </bibl>
 
-               <bibl xml:id="Florence_Macarthy_SO"><!--update existing-->     <!-- srr: Different desc here than in local Index -->
-                  <title>Florence Macarthy</title>
+               <bibl xml:id="Florence_Macarthy_SO"><!--update existing-->     <!-- srr: Better desc here than in local Index -->
+                  <title level="m">Florence Macarthy: An Irish Tale</title>
+                  <author ref="#Owenson_S"/>
+                  <publisher>Henry Colburn</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818">1818</date>
                   <note resp="#lmw">Mitford records that she was <quote>very much amused by
                         it</quote>. Later, she writes that she <quote>liked it better than the
                         first</quote>, perhaps comparing the last volume to the first. Source:
-                     Journal.</note>
+                     <ref target="#e-25">Journal entry <date when="1819-01-23">Saturday 23 JANUARY 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Remarks_Italy">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Remarks_Italy">    <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
                   <title level="m">Remarks on Antiquities, Arts, and Letters, During an Excursion in Italy, in the Years 1802 and 1803.</title>
                   <author ref="#Forsyth_Jos">Joseph Forsyth</author>
@@ -8537,67 +8541,148 @@ Publisher:	London : [publisher not identified], 1786.
                      it</quote> in <ref target="#e-40">her journal entry of <date when="1819-02-15">Monday 15 February 1819</date></ref>.</note>
                </bibl>
 
-               <bibl xml:id="Marriage_SF">      <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Marriage_SF">      <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
+                  <title level="m">Marriage: A Novel</title>
+                  <author ref="#Ferrier_Susan">Susan Ferrier</author>
+                  <publisher ref="#Blackwood_pub">William Blackwood</publisher>
+                  <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+                  <publisher ref="#Murray_pub">John Murray</publisher>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1818">1818</date>
                   <note resp="#lmw">Mitford records that she <quote>liked it very much</quote>; she
-                     also says that it <quote>made me laugh</quote>.</note>
+                     also says that it <quote>made me laugh</quote>. <ref target="#e-66">In journal entry <date when="1819-03-13">Saturday 13 MARCH 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Women_CM">      <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Women_CM">      <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
+                  <title level="m">Women: Or Pour et Contre. A Tale</title>
+                  <author ref="#Maturin_Charles"/>
+                  <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+                  <publisher ref="#Constable_pub">Constable and co.</publisher>
+                  <date when="1818">1818</date>
                   <note resp="#lmw">Mitford records that she <quote>liked it very much</quote>; she
-                     also says that it <quote>made me laugh</quote>.</note>
+                     also says that it <quote>made me laugh</quote>.<ref target="#e-80">In Journal <date when="1819-03-27">Saturday 27 MARCH 1819.</date></ref></note><!-- srr: why is Mitford's review incorrect here?? -->
                </bibl>
 
-               <bibl xml:id="Specimen_Nat_poem">      <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Specimen_Nat_poem">      <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>very good</quote>.</note>
+                  <title level="m">The Monks and the Giants: Prospectus and Specimen of an Intended National
+                     Work; Intended to Comprise the Most Interesting Particulars Relating to King
+                     Arthur and his Round Table, by William and Robert Whistlecraft of Stow-Market,
+                     in Suffolk, Harness and Collar Makers</title>
+                  <author ref="#Frere_JH">John Hookham Frere</author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>John Murray</publisher>
+                  <date when="1818">1818</date>
+                  <note resp="#alg #lmw">An ottava rima burlesque written by John Hookham Frere
+                     under the nom de plume William and Robert Whistlecraft. Sources: LBT, ODNB
+                  </note>
+                  <note resp="#lmw">Mitford rated it <quote>very good</quote>.<ref target="#e-99">In journal entry <date when="1819-04-15">Thursday 15 APRIL 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="TenYearsatTripoli">      <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="TenYearsatTripoli">      <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>very entertaining indeed</quote>.</note>
+                  <author ref="#Tully_Miss">Miss Tully</author>
+                  <!--LMW:  no reference sources indicate a forename for Miss Tully. -->
+                  <title level="m">A Narrative of a Ten Years’ Residence at Tripoli in Africa from the
+                     Original Correspondence in the Possession of the Family of the Late Richard
+                     Tully, Esq., Comprising Authentic Memoirs and Anecdotes of the Reigning Bashaw,
+                     His Family, and Other Persons of Distinction; also an Account of the Domestic
+                     Manners of the Moors, Arabs, and Turks</title>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>H. Colburn</publisher>
+                  <date when="1816">1816</date>
+                  <note resp="#lmw">
+                     <persName ref="#MRM">Mitford</persName> may have read the third edition,
+                     published in <date when="1819">1819</date>.</note>
+                  <note resp="#lmw">Mitford rated it <quote>very entertaining indeed</quote>. <ref target="#e-126">In journal entry <date when="1819-05-12">Wednesday 12 MAY 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Wheel_Fortune_play">     <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Wheel_Fortune_play">     <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>middling</quote>.</note>
+                  <title level="m">Wheel of Fortune</title>
+                  <author ref="#Cumberland_Rich"/>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <date when="1805"/>
+                  <note resp="#lmw">Play first performed in <date when="1795">1795</date> and printed <date when="1805">1805</date>.</note>
+                  <note resp="#lmw">Mitford rated it <quote>middling</quote>. <ref target="#e-130">In journal entry<date when="1819-05-16">Sunday 16 MAY 1819.</date></ref></note>
                </bibl>
 
                <bibl xml:id="Don_Juan_poem">    <!-- srr: Different desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>good but wicked</quote>.</note>
+                  <title level="m">Don Juan</title>
+                  <author>
+                     <persName ref="#Byron">Byron</persName>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Hunt</publisher>
+                  <note resp="#lmw">Published in parts between <date from="1820" to="1824">1820 and
+                     1824</date>.</note>
+                  <note resp="#lmw">Mitford rated it <quote>good but wicked</quote>. <ref target="#e-206">In journal entry <date when="1819-07-31">Saturday 31 JULY 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Peters_Letters_novel">      <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Peters_Letters_novel">      <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>very good</quote>.</note>
+                  <title level="m">Peter’s Letters to his Kinsfolk</title>
+                  <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+                  <publisher ref="#Blackwood_pub">William Blackwood</publisher>
+                  <date>1819</date>
+                  <author>
+                     <persName ref="#Lockhart_JG">John Gibson Lockhart</persName>
+                     <note resp="#lmw">A fictious first edition was advertised in Blackwood’s, and
+                        the first printed edition was labeled <q>second edition</q> on the title page,
+                        although it was actually the first edition. Published anonymously.</note>
+                  </author>
+                  <note resp="#lmw">Mitford rated it <quote>very good</quote>.<ref target="#e-247"> In journal entry <date when="1819-09-04">Saturday 4 SEPTEMBER 1819</date></ref></note><!-- srr: why is Mitford rereading this novel the next day after finishing it? -->
                </bibl>
 
-               <bibl xml:id="Life_LadyRussell">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Life_LadyRussell">    <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>interesting</quote>.</note>
+                  <title level="m">Some Account of the Life of Rachael Wriothesley, Lady Russell, by the
+                     editor of Madam Du Deffand’s letters. Followed by a series of letters from Lady
+                     Russell to her husband, William, Lord Russell; from 1672 to 1682; together with
+                     some miscellaneous letters to and from Lady Russell. To which are added, eleven
+                     letters from Dorothy Sidney, Countess of Sunderland, to George Saville, Marquis
+                     of Hallifax, in the year 1680</title>
+                  <title level="m">The Life of Lady Russell</title>
+                  <author ref="#Russell_Lady">Rachael Wriothesley, Lady Russell</author>
+                  <editor>Mary Berry</editor>
+                  <author ref="#Sunderland_Countess">Dorothy Sidney, Countess of Sunderland</author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Longman, Hurst, Rees, Orme and Brown</publisher>
+                  <date when="1819">1819</date>
+                  <note resp="#alg">Source: HathiTrust</note>
+                  <note resp="#lmw">Mitford rated it <quote>interesting</quote>. <ref target="#e-271">In journal entry <date when="1819-10-05">Tuesday 5 OCTOBER 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="PR_JLeyden">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="PR_JLeyden">    <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>very good</quote>.</note>
+                  <title level="m">The Poetical Remains of the Late <persName ref="#Leyden_John">Dr. John
+                     Leyden</persName>, with Memoirs of his Life, by the <persName>Rev. James
+                        Morton</persName>.</title>
+                  <title level="m">The Poetical Remains of <persName ref="#Leyden_John">Dr. Leyden</persName>
+                  </title>
+                  <author ref="#Leyden_John">John Leyden</author>
+                  <author>James Morton</author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Longman, Hurst, Rees, Orme and Brown</publisher>
+                  <note resp="#alg">Source: HathiTrust</note>
+                  <note resp="#lmw">Mitford rated it <quote>very good</quote>. <ref target="#e-279">In journal entry <date when="1819-10-14">Thursday 14 OCTOBER 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Shakespeare_Times_nonfict">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Shakespeare_Times_nonfict">    <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
+                  <title level="m">Shakespeare and His Times: Including the Biography of the Poet; Criticisms
+                     on his Genius and Writings; A New Chronology of the Plays; A Disquisition on
+                     the Object of His Sonnets; And a History of the Manners, Customs, and
+                     Amusements, Superstitions, Poetry, and Elegant Literature of His Age</title>
+                  <author ref="#Drake_Nathan">Nathan Drake</author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>T. Cadell and W. Davies</publisher>
+                  <date when="1817">1817</date>
                   <note resp="#lmw">Mitford considered it <quote>good materials badly
-                     used</quote>.</note>
+                     used</quote>. <ref target="#e-433"> In journal entry <date when="1820-03-19">Sunday 19th March 1820</date></ref></note>
                </bibl>
 
                <bibl xml:id="Monastery_WS">     <!-- srr: Not found in local Index, did find 'Monastery' -->
