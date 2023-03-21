@@ -6409,7 +6409,6 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
 
             <listPerson sortKey="histPersons">
-
                <!-- srr: <person xml:id="Junius" sex="m">
                   <persName>Junius</persName>
                   <persName>
@@ -8549,6 +8548,19 @@ Publisher:	London : [publisher not identified], 1786.
             </listBibl>
 
             <listBibl sortKey="work_MRM">
+               <bibl xml:id="Rome_ThreeMonths_Graham">
+                  <title level="m">Three Months Passed in the Mountains East of Rome: during the year 1819</title>
+                  <author ref="#Graham_Maria">Maria Graham</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher ref="#Longman_Hurst_ROB_pub">Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+                  <publisher ref="#Constable_pub">A. Constable and Company</publisher>
+                  <date>1820</date>
+                  <note resp="#ebb #lmw">Illustrated with engravings. Source: Google Books and
+                     WorldCAT. Mitford mentions this book in <ref target="#e-596">her Journal entry of <date when="1820-08-29">August 29, 1820</date></ref> and rated it <quote>not good</quote>.</note>
+               </bibl>
 
                <bibl xml:id="TwoPapers">     <!-- srr: Not found in local Index -->
                   <title level="m">Two Papers: A Theatrical Critique, and an Essay [ . . . ]
