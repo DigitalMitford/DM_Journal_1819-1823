@@ -8548,7 +8548,7 @@ Publisher:	London : [publisher not identified], 1786.
             </listBibl>
 
             <listBibl sortKey="work_MRM">
-               <bibl xml:id="Rome_ThreeMonths_Graham">
+               <bibl xml:id="Rome_ThreeMonths_Graham">      <!-- srr: Better desc here than in local Index -->
                   <title level="m">Three Months Passed in the Mountains East of Rome: during the year 1819</title>
                   <author ref="#Graham_Maria">Maria Graham</author>
                   <pubPlace>
@@ -8754,10 +8754,19 @@ Publisher:	London : [publisher not identified], 1786.
                      reads the final volume, <quote>pretty good too</quote>.</note>
                </bibl>
 
-               <bibl xml:id="WalpoletoMontagu">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="WalpoletoMontagu">    <!-- srr: Better desc here than in local Index -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>charming</quote>.</note>
+                  <title level="m">Letters from the Hon. Horace Walpole to George Montagu, Esq. from the year
+                     1736, to the year 1770: Now First Published from the Originals in the
+                     Possession of the Editor</title>
+                  <author>
+                     <persName ref="#Walpole_Hor">Horace Walpole</persName>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Rodwell and Martin, and H. Colburn</publisher>
+                  <date when="1818">1818</date>
+                  <note resp="#lmw">A second edition appears in 1819.</note>
+                  <note resp="#lmw">Mitford rated it <quote>charming</quote>.<ref target="306"> In journal entry <date when="1819-11-12">Friday 12 NOVEMBER 1819</date></ref></note>
                </bibl>
 
 
@@ -9436,7 +9445,7 @@ Publisher:	London : E. Cox and Son, 1815
                      three and four.</note>
                </bibl>
 
-               <bibl xml:id="ClassicalTour_Hoare">
+               <bibl xml:id="ClassicalTour_Hoare">    <!-- srr: Not found in local Index -->
                   <title level="m">A Classical Tour Through Italy and Sicily</title>
                   <author><persName ref="#Hoare_RC"/></author>
                   <publisher>Mawman</publisher>
@@ -9448,7 +9457,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>humdrum</quote>.</note>
                </bibl>
 
-               <bibl xml:id="InsaneWorld">
+               <bibl xml:id="InsaneWorld">      <!-- srr: Not found in local Index -->
                   <title level="m">The Insane World</title>
                   <author><persName ref="#Williams_Thos"/></author>
                   <publisher>J. Hatchard</publisher>
@@ -9459,7 +9468,7 @@ Publisher:	London : E. Cox and Son, 1815
                         frantical</quote>.</note>
                </bibl>
 
-               <bibl xml:id="AcctDenmark1692">
+               <bibl xml:id="AcctDenmark1692">     <!-- srr: Not found in local Index -->
                   <title level="m">An Account of Denmark in 1692</title>
                   <author><persName ref="#MolesworthRbt"/></author>
                   <publisher>Timothy Goodwin</publisher>
@@ -9469,7 +9478,7 @@ Publisher:	London : E. Cox and Son, 1815
                         the year MDCXCII</title>.</note>
                </bibl>
 
-               <bibl xml:id="Remarks_HistEng">
+               <bibl xml:id="Remarks_HistEng">     <!-- srr: Not found in local Index -->
                   <title level="m">Remarks on the History of England</title>
                   <author><persName ref="#Bolinbroke"/></author>
                   <publisher>Richard Francklin</publisher>
@@ -9481,7 +9490,7 @@ Publisher:	London : E. Cox and Son, 1815
                      read the later reprint published by T. Davies.</note>
                </bibl>
 
-               <bibl xml:id="Acct_War1808">
+               <bibl xml:id="Acct_War1808">     <!-- srr: Not found in local Index -->
                   <title level="m">Account of the War in Spain and Portugal, and in the South of
                      France, from 1808, to 1814, inclusive</title>
                   <author><persName ref="#Jones_John"/></author>
@@ -9493,7 +9502,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="WksPainting_JR">
+               <bibl xml:id="WksPainting_JR">      <!-- srr: Not found in local Index -->
                   <title level="m">The Works of Jonathan Richardson</title>
                   <author><persName ref="#Richardson_Jon"/></author>
                   <publisher>T. Davies</publisher>
@@ -9505,7 +9514,7 @@ Publisher:	London : E. Cox and Son, 1815
                         connoisseur</title>.</note>
                </bibl>
 
-               <bibl xml:id="Coll_PolTracts">
+               <bibl xml:id="Coll_PolTracts">      <!-- srr: Not found in local Index -->
                   <title level="m">A Collection of Political Tracts</title>
                   <author><persName ref="#Bolinbroke"/></author>
                   <publisher>Richard Francklin</publisher>
@@ -9517,7 +9526,7 @@ Publisher:	London : E. Cox and Son, 1815
                      T. Davies.</note>
                </bibl>
 
-               <bibl xml:id="TalesHall_GC">
+               <bibl xml:id="TalesHall_GC">     <!-- srr: Not found in local Index -->
                   <title level="m">Tales of the Hall</title>
                   <author><persName ref="#Crabbe"/></author>
                   <publisher>John Murray</publisher>
@@ -9526,7 +9535,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">2 vols. Verse. Last work published in his lifetime.</note>
                </bibl>
 
-               <bibl xml:id="Journal_India1817">
+               <bibl xml:id="Journal_India1817">      <!-- srr: Not found in local Index -->
                   <title level="m">Journal of a Route Across India</title>
                   <author><persName ref="#Fitzclarence_Geo"/></author>
                   <publisher>John Murray</publisher>
@@ -9537,7 +9546,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Beginning of 1818</title>.</note>
                </bibl>
 
-               <bibl xml:id="Desc_NSWales">
+               <bibl xml:id="Desc_NSWales">     <!-- srr: Not found in local Index -->
                   <title level="m">A Description of the Colony of New South Wales</title>
                   <author><persName ref="#Wentworth_WC"/></author>
                   <publisher>G. &amp; W. B. Whittaker</publisher>
@@ -9549,7 +9558,7 @@ Publisher:	London : E. Cox and Son, 1815
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="MiserMarried">
+               <bibl xml:id="MiserMarried">     <!-- srr: Not found in local Index -->
                   <title level="m">The Miser Married: A Novel</title>
                   <author><persName ref="#Hutton_Cath">Catherine Hutton</persName></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9559,7 +9568,7 @@ Publisher:	London : E. Cox and Son, 1815
                      thing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Life_WmRussell">
+               <bibl xml:id="Life_WmRussell">      <!-- srr: Not found in local Index -->
                   <title level="m">The Life of William, Lord Russell</title>
                   <author><persName ref="#Russell_John"/></author>
                   <publisher>Longman, Hurst, Rees, Orme and Brown</publisher>
@@ -9570,7 +9579,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>pretty good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="LectsHistLit_Schlegel">
+               <bibl xml:id="LectsHistLit_Schlegel">     <!-- srr: Not found in local Index -->
                   <title level="m">Lectures on the History of Literature: Ancient and Modern</title>
                   <author><persName ref="#SchlegelF"/></author>
                   <publisher>William Blackwood</publisher>
@@ -9578,7 +9587,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="YoungPhil_CS">
+               <bibl xml:id="YoungPhil_CS">     <!-- srr: Not found in local Index -->
                   <title level="m">The Young Philosopher. A Novel</title>
                   <author><persName ref="#Smith_Ch">Charlotte Smith</persName></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -9588,7 +9597,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal.</note>
                </bibl>
 
-               <bibl xml:id="LifeRichard2">
+               <bibl xml:id="LifeRichard2">     <!-- srr: Not found in local Index -->
                   <title level="m">The Life and Reign of King Richard the Second, by a Person of
                      Quality</title>
                   <author><persName ref="#Howard_SirRob"/></author>
@@ -9597,7 +9606,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1681"/>
                </bibl>
 
-               <bibl xml:id="HistAcctAfrica_JL">
+               <bibl xml:id="HistAcctAfrica_JL">      <!-- srr: Not found in local Index -->
                   <title level="m">Historical Account of Discoveries and Travels in Africa, by the
                      late J. Leyden</title>
                   <author><persName ref="#Leyden_John #Murray_Hugh"/></author>
@@ -9609,7 +9618,7 @@ Publisher:	London : E. Cox and Son, 1815
                         present time, with illustrations</title>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Napoleon1815">
+               <bibl xml:id="Mems_Napoleon1815">      <!-- srr: Not found in local Index -->
                   <title level="m">Mémoires pour servir à l'histoire de la vie privée, du retour, et
                      du règne de Napoléon en 1815</title>
                   <author><persName ref="#deChaboulon"/></author>
@@ -9620,7 +9629,7 @@ Publisher:	London : E. Cox and Son, 1815
                      it <quote>a most interesting book</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Byron_6thPoems">
+               <bibl xml:id="Byron_6thPoems">      <!-- srr: Not found in local Index -->
                   <title level="m">The Works of the Right Honourable Lord Byron. Vol. 6 of 6</title>
                   <author><persName ref="#Byron"/></author>
                   <publisher>John Murray</publisher>
@@ -9632,24 +9641,24 @@ Publisher:	London : E. Cox and Son, 1815
                            ref="#Lament_Tasso">Lament of Tasso</title>, &amp;c.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Prisoner_Chillon">
+               <bibl xml:id="Prisoner_Chillon">    <!-- srr: Not found in local Index -->
                   <title level="m">Prisoner of Chillon</title>
                   <author ref="#Byron"/>
                </bibl>
 
-               <bibl xml:id="Lament_Tasso">
+               <bibl xml:id="Lament_Tasso">     <!-- srr: Not found in local Index -->
                   <title level="m">Lament of Tasso</title>
                   <author ref="#Byron"/>
                </bibl>
 
-               <bibl xml:id="Petrarque_deG">
+               <bibl xml:id="Petrarque_deG">    <!-- srr: Not found in local Index -->
                   <title level="m">Pétrarque et Laura</title>
                   <author><persName ref="#deGenlis_Mme"/></author>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="Pilgrim_Cross">
+               <bibl xml:id="Pilgrim_Cross">    <!-- srr: Not found in local Index -->
                   <title level="m">The Pilgrim of the Cross</title>
                   <author><persName ref="#Helme_Eliz"/></author>
                   <publisher>P. Norbury</publisher>
@@ -9660,7 +9669,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Legend</title>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_Senegal">
+               <bibl xml:id="Narr_Senegal">     <!-- srr: Not found in local Index -->
                   <title level="m">Narrative of a Voyage to Senegal in 1816</title>
                   <author><persName ref="#Savigny_JBH #Correard_A"/></author>
                   <publisher>Henry Colburn</publisher>
@@ -9675,7 +9684,7 @@ Publisher:	London : E. Cox and Son, 1815
                         the Gambia</title>. Mitford rated it <quote>horrible</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Illus_LitHist">
+               <bibl xml:id="Illus_LitHist">    <!-- srr: Not found in local Index -->
                   <title level="m">Illustrations of the Literary History of the Eighteenth
                      Century</title>
                   <author><persName ref="#Nichols_JB"/></author>
@@ -9689,7 +9698,7 @@ Publisher:	London : E. Cox and Son, 1815
                         amusing</quote> and <quote>amusing enough</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Percival">
+               <bibl xml:id="Percival">      <!-- srr: Not found in local Index -->
                   <title level="m">Percival: or, Nature Vindicated: a Novel.</title>
                   <author><persName ref="#Dallas_RC"/></author>
                   <publisher>Longman and Rees</publisher>
@@ -9699,7 +9708,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal.</note>
                </bibl>
 
-               <bibl xml:id="Remarks_scepticism">
+               <bibl xml:id="Remarks_scepticism">     <!-- srr: Not found in local Index -->
                   <title level="m">Remarks on Scepticism</title>
                   <author><persName ref="#RennellT"/></author>
                   <publisher>F. C. and J. Rivington</publisher>
@@ -9711,7 +9720,7 @@ Publisher:	London : E. Cox and Son, 1815
                         points</title>.</note>
                </bibl>
 
-               <bibl xml:id="Lects_WmLawrence">
+               <bibl xml:id="Lects_WmLawrence">    <!-- srr: Not found in local Index -->
                   <title level="m">Cursory Observations upon the Lectures on Physiology, Zoology,
                      and the Natural History of Man</title>
                   <author><persName ref="#Lawrence_Wm"/></author>
@@ -9728,7 +9737,7 @@ Publisher:	London : E. Cox and Son, 1815
                      She rated it <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Journal_Greenland">
+               <bibl xml:id="Journal_Greenland">      <!-- srr: Not found in local Index -->
                   <title level="m">Greenland: being extracts from a journal kept in that country in
                      the years 1770 to 1778</title>
                   <author><persName ref="#Saabye"/></author>
@@ -9741,7 +9750,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Greenlanders, and of the mission in Greenland</title></note>
                </bibl>
 
-               <bibl xml:id="History_Burnet">
+               <bibl xml:id="History_Burnet">      <!-- srr: Not found in local Index -->
                   <title level="m">Bishop Burnet's History of his Own Time</title>
                   <author><persName ref="#Burnet_Gil"/></author>
                   <publisher>R. and M. Priestley</publisher>
@@ -9755,7 +9764,7 @@ Publisher:	London : E. Cox and Son, 1815
                      life</title>.</note>
                </bibl>
 
-               <bibl xml:id="Diary_Invalid">
+               <bibl xml:id="Diary_Invalid">    <!-- srr: Not found in local Index -->
                   <title level="m">The Diary of an Invalid</title>
                   <author><persName ref="#MatthewsH"/></author>
                   <publisher>John Murray</publisher>
@@ -9767,7 +9776,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Vaux">
+               <bibl xml:id="Mems_Vaux">     <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the First Thirty-two Years of the Life of James Hardy
                      Vaux</title>
                   <author ref="#VauxJH"/>
@@ -9781,12 +9790,12 @@ Publisher:	London : E. Cox and Son, 1815
                         Vaux</title>.</note>
                </bibl>
 
-               <bibl xml:id="LeightonPr">
+               <bibl xml:id="LeightonPr">    <!-- srr: Not found in local Index -->
                   <title level="m">Leighton Priory</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
 
-               <bibl xml:id="MysteriousWife">
+               <bibl xml:id="MysteriousWife">      <!-- srr: Not found in local Index -->
                   <title level="m">The Mysterious Wife: a novel</title>
                   <author ref="#MeekeM"/>
                   <publisher>William Lane</publisher>
@@ -9796,7 +9805,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Gabrielli.</note>
                </bibl>
 
-               <bibl xml:id="ThaddeusofWarsaw">
+               <bibl xml:id="ThaddeusofWarsaw">    <!-- srr: Not found in local Index -->
                   <title level="m">Thaddeus of Warsaw</title>
                   <author ref="#Porter_Jane"/>
                   <publisher>Longman and Rees</publisher>
@@ -9805,7 +9814,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw"/>
                </bibl>
 
-               <bibl xml:id="Mems_Evelyn">
+               <bibl xml:id="Mems_Evelyn">      <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs, Illustrative of the Life and Writing of John
                      Evelyn</title>
                   <author ref="#EvelynJ"/>
@@ -9825,7 +9834,7 @@ Publisher:	London : E. Cox and Son, 1815
                         entertaining</quote>.</note>
                </bibl>
 
-               <bibl xml:id="PrivLife_Misc_JN">
+               <bibl xml:id="PrivLife_Misc_JN">    <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Private Life of my Father</title>
                   <author ref="#deStael"/>
                   <publisher>Henry Colburn</publisher>
@@ -9836,7 +9845,7 @@ Publisher:	London : E. Cox and Son, 1815
                         French.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_ParisianMass">
+               <bibl xml:id="Hist_ParisianMass">      <!-- srr: Not found in local Index -->
                   <title level="m">The History of the Parisian Massacre</title>
                   <author ref="#Comber_Thos"/>
                   <publisher>J. J. Stockdale</publisher>
@@ -9849,7 +9858,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>bad</quote>.</note>
                </bibl>
 
-               <bibl xml:id="AutumnRhine">
+               <bibl xml:id="AutumnRhine">      <!-- srr: Not found in local Index -->
                   <title level="m">An Autumn Near the Rhine</title>
                   <author ref="#DoddCE"/>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9860,7 +9869,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Bordering on the Rhine</title>.</note>
                </bibl>
 
-               <bibl xml:id="DeRance">
+               <bibl xml:id="DeRance">    <!-- srr: Not found in local Index -->
                   <title level="m">De Rancé: a Poem</title>
                   <author ref="#Cunningham_JW"/>
                   <publisher>T. Cadell and W. Davies</publisher>
@@ -9868,7 +9877,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1815"/>
                </bibl>
 
-               <bibl xml:id="Zuma">
+               <bibl xml:id="Zuma">    <!-- srr: Not found in local Index -->
                   <title level="m">Zuma, or the Tree of Health</title>
                   <author ref="#deGenlis"/>
                   <publisher>Henry Colburn</publisher>
@@ -9882,7 +9891,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_Algiersin1816">
+               <bibl xml:id="Narr_Algiersin1816">     <!-- srr: Not found in local Index -->
                   <title level="m">A Narrative of the Expedition to Algiers in the Year 1816</title>
                   <author ref="#Salame_Ab"/>
                   <publisher>John Murray</publisher>
@@ -9893,7 +9902,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Viscount Exmouth</title>. Mitford rated it <quote>good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Journal_Soldier71st">
+               <bibl xml:id="Journal_Soldier71st">    <!-- srr: Not found in local Index -->
                   <title level="m">A Journal of a Soldier of the 71st</title>
                   <author ref="#PocockeT"/>
                   <publisher>W. B. Whittaker</publisher>
@@ -9904,7 +9913,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford called it as <quote>stupid enough</quote>.</note>
                </bibl>
 
-               <bibl xml:id="HeadlongHall">
+               <bibl xml:id="HeadlongHall">     <!-- srr: Not found in local Index -->
                   <title level="m">Headlong Hall</title>
                   <author ref="#Peacock_TL"/>
                   <publisher>T. Hookham, Jr.</publisher>
@@ -9913,7 +9922,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1816"/>
                   <note resp="#lmw">Mitford rated it as <quote>famous</quote>.</note></bibl>
 
-               <bibl xml:id="ItalianTrans_ChasD">
+               <bibl xml:id="ItalianTrans_ChasD">     <!-- srr: Not found in local Index -->
                   <title level="m">Italian Translations </title>
                   <author ref="#Dickinson_Chas"/>
                   <date when="1819"/>
@@ -9922,7 +9931,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Sicilian_MM">
+               <bibl xml:id="Sicilian_MM">      <!-- srr: Not found in local Index -->
                   <title level="m">The Sicilian</title>
                   <author ref="#MeekeM"/>
                   <pubPlace>
@@ -9935,7 +9944,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Minerva Press.</note>
                </bibl>
 
-               <bibl xml:id="WinterEve_JH">
+               <bibl xml:id="WinterEve_JH">     <!-- srr: Not found in local Index -->
                   <title level="m">Winter Evening's Tales</title>
                   <author ref="#Hogg_J"/>
                   <pubPlace>
@@ -9949,7 +9958,7 @@ Publisher:	London : E. Cox and Son, 1815
                         collected among the cottagers in the South of Scotland</title>.</note>
                </bibl>
 
-               <bibl xml:id="TalesofWHS">
+               <bibl xml:id="TalesofWHS">    <!-- srr: Not found in local Index -->
                   <title level="m">Tales of Wonder, of Humour, and of Sentiment; Original and
                      Translated</title>
                   <author ref="#PlumptreAnne #PlumptreAnnabella"/>
@@ -9967,7 +9976,7 @@ Publisher:	London : E. Cox and Son, 1815
                         >Tsching-Quang</title>. Mitford rates it <quote>very amusing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Ltrs_Cont_JW">
+               <bibl xml:id="Ltrs_Cont_JW">     <!-- srr: Not found in local Index -->
                   <title level="m">Letters from the Continent</title>
                   <author ref="#Ormsby_James"/>
                   <pubPlace>
@@ -9982,7 +9991,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Aix-la-Chapelle, and the Left Bank of the Rhine</title>.</note>
                </bibl>
 
-               <bibl xml:id="VoyagePG_WH">
+               <bibl xml:id="VoyagePG_WH">      <!-- srr: Not found in local Index -->
                   <title level="m">A Voyage up the Persian Gulf, and a Journey Overland from India
                      to England, in 1817</title>
                   <author ref="#HeudeWm"/>
@@ -9996,7 +10005,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw"/>
                </bibl>
 
-               <bibl xml:id="BeggarGirl">
+               <bibl xml:id="BeggarGirl">    <!-- srr: Not found in local Index -->
                   <title level="m">The Beggar Girl and her Benefactors</title>
                   <author ref="#Bennett_AM"/>
                   <pubPlace>
@@ -10010,7 +10019,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Walk_Switz1816">
+               <bibl xml:id="Walk_Switz1816">      <!-- srr: Not found in local Index -->
                   <title level="m">A Walk Through Switzerland in September 1816</title>
                   <author ref="#HookhamT"/>
                   <pubPlace>
@@ -10022,7 +10031,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1818"/>
                </bibl>
 
-               <bibl xml:id="IntNarr_Bruce">
+               <bibl xml:id="IntNarr_Bruce">    <!-- srr: Not found in local Index -->
                   <title level="m">An Interesting Narrative of the Travels of James Bruce, Esq. into
                      Abyssinia</title>
                   <author ref="#Shaw_Sam"/>
@@ -10039,7 +10048,7 @@ Publisher:	London : E. Cox and Son, 1815
                         learned &amp; curious</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_Crusades_CM">
+               <bibl xml:id="Hist_Crusades_CM">    <!-- srr: Not found in local Index -->
                   <title level="m">The History of the Crusades</title>
                   <author ref="#Mill_Chas"/>
                   <pubPlace>
@@ -10054,7 +10063,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Anecdotes_King">
+               <bibl xml:id="Anecdotes_King">      <!-- srr: Not found in local Index -->
                   <title level="m">Political and Literary Anecdotes of his Own Times</title>
                   <author ref="#KingWm"/>
                   <pubPlace>
@@ -10066,7 +10075,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="Tour_Alet">
+               <bibl xml:id="Tour_Alet">     <!-- srr: Not found in local Index -->
                   <title level="m">A Tour to Alet and La Grande Chartreuse</title>
                   <author ref="#SchimmelpennickMA"/>
                   <pubPlace>
@@ -10084,7 +10093,7 @@ Publisher:	London : E. Cox and Son, 1815
                         of Port Royal</title>. </note>
                </bibl>
 
-               <bibl xml:id="CrimTrials_Porteous">
+               <bibl xml:id="CrimTrials_Porteous">    <!-- srr: Not found in local Index -->
                   <title level="m">Criminal Trials Illustrative of the Tale Entitled <q>The Heart of
                         Mid-Lothian</q></title>
                   <author ref="#SharpeCK"/>
@@ -10101,7 +10110,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Capt. John Porteous.</title>. </note>
                </bibl>
 
-               <bibl xml:id="PeterBell_JHR"><!-- existing id. -->
+               <bibl xml:id="PeterBell_JHR"><!-- existing id. -->    <!-- srr: Better desc than in local Index -->
                   <title level="m">Peter Bell. A Lyrical Ballad.</title>
                   <author ref="#Reynolds_JH"/>
                   <pubPlace>
@@ -10113,10 +10122,10 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1817"/>
                   <note resp="#lmw">Parodic work, purporting to be by <persName ref="#Wordsworth_Wm"
                         >Wordsworth</persName>. Mitford reports that she liked it and the original
-                        <quote>very much</quote>. Source: Journal.</note>
+                     <quote>very much</quote>. Source: <ref target="156">Journal entry <date when="1819-06-11">Friday 11 JUNE 1819</date></ref> </note>
                </bibl>
 
-               <bibl xml:id="PeterBell_WW">
+               <bibl xml:id="PeterBell_WW">     <!-- srr: Not found in local Index -->
                   <title level="m">Peter Bell. A Tale in Verse.</title>
                   <author ref="#Wordsworth_Wm"/>
                   <pubPlace>
@@ -10131,7 +10140,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>very much</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Voyage_PolarExp">
+               <bibl xml:id="Voyage_PolarExp">     <!-- srr: Not found in local Index -->
                   <title level="m">A Voyage of Discovery, Made Under the Orders of the Admiralty, in
                      his Majesty's ships Isabella and Alexander for the purpose of exploring
                      Baffin's Bay, and Enquiring into the possibility of a North-West
@@ -10146,7 +10155,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="WhiteCottage_AM">
+               <bibl xml:id="WhiteCottage_AM">     <!-- srr: Not found in local Index -->
                   <title level="m">The White Cottage</title>
                   <author ref="#MowerA"/>
                   <pubPlace>
@@ -10160,7 +10169,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford rated it <quote>too dismal</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Calamities">
+               <bibl xml:id="Calamities">    <!-- srr: Not found in local Index -->
                   <title level="m">Calamities of Authors</title>
                   <author ref="#Disraeli_I"/>
                   <pubPlace>
@@ -10175,7 +10184,7 @@ Publisher:	London : E. Cox and Son, 1815
                      characters</title>.</note>
                </bibl>
 
-               <bibl xml:id="Obs_Landscape">
+               <bibl xml:id="Obs_Landscape">    <!-- srr: Not found in local Index -->
                   <title level="m">Observations on the Theory and Practice of Landscape
                      Gardening</title>
                   <author ref="#Repton"/>
@@ -10194,7 +10203,7 @@ Publisher:	London : E. Cox and Son, 1815
                         arts.</title></note>
                </bibl>
 
-               <bibl xml:id="Obs_CauseEffect">
+               <bibl xml:id="Obs_CauseEffect">     <!-- srr: Not found in local Index -->
                   <title level="m">Observations on the Nature and Tendency of the Doctrine of Mr.
                      Hume, concerning the relation of cause and effect</title>
                   <author ref="#Brown_DrT"/>
@@ -10207,7 +10216,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1806"/>
                </bibl>
 
-               <bibl xml:id="Visit_LaTrappe">
+               <bibl xml:id="Visit_LaTrappe">      <!-- srr: Not found in local Index -->
                   <title level="m">A Visit to the Monastery of La Trappe, in 1817</title>
                   <author ref="#Fellowes_W"/>
                   <pubPlace>
@@ -10225,7 +10234,7 @@ Publisher:	London : E. Cox and Son, 1815
                      well</quote>.</note>
                </bibl>
 
-               <bibl xml:id="ChronHist_Arctic">
+               <bibl xml:id="ChronHist_Arctic">    <!-- srr: Not found in local Index -->
                   <title level="m">A Chronological History of Voyages Into the Arctic
                      Regions</title>
                   <author ref="#Barrow_J"/>
@@ -10244,7 +10253,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Buchan</title>.</note>
                </bibl>
 
-               <bibl xml:id="PictTour_FrSw">
+               <bibl xml:id="PictTour_FrSw">    <!-- srr: Not found in local Index -->
                   <title level="m">A Picturesque Tour Through France, Switzerland, on the Banks of
                      the Rhine, and Through Part of the Netherlands in the Year 1816</title>
                   <author ref="#MawmanJ"/>
@@ -10258,7 +10267,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Curran">
+               <bibl xml:id="Mems_Curran">      <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Legal, Literary, and Political Life of the Late,
                      the Right Honourable John Philpot Curran</title>
                   <author ref="#ORegan"/>
@@ -10277,7 +10286,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Bar.</title> Mitford rates it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="CircNarr_Russia">
+               <bibl xml:id="CircNarr_Russia">     <!-- srr: Not found in local Index -->
                   <title level="m">A Circumstantial Narrative of the Campaign in Russia </title>
                   <author ref="#LabaumeE"/>
                   <pubPlace>
@@ -10294,7 +10303,7 @@ Publisher:	London : E. Cox and Son, 1815
                         eye-witness</title>. </note>
                </bibl>
 
-               <bibl xml:id="Year_Day">
+               <bibl xml:id="Year_Day">      <!-- srr: Not found in local Index -->
                   <title level="m">A Year and a Day </title>
                   <author ref="#BrookeFrances"/>
                   <pubPlace>
@@ -10309,7 +10318,7 @@ Publisher:	London : E. Cox and Son, 1815
                      rates it <quote>pretty enough but too dismal</quote>. Source: Journal. </note>
                </bibl>
 
-               <bibl xml:id="Mems_Temple">
+               <bibl xml:id="Mems_Temple">      <!-- srr: Not found in local Index -->
                   <title level="m">Mémoires Particuliers de la Captivité de la Famille Royale de la
                      Tour de Temple</title>
                   <author ref="#MarieTherese_France">Marie-Thérèse Charlotte de France, Duchesse
@@ -10326,7 +10335,7 @@ Publisher:	London : E. Cox and Son, 1815
                         captivité de la famille royale de la Tour de Temple</title>. </note>
                </bibl>
 
-               <bibl xml:id="Woman_MB">
+               <bibl xml:id="Woman_MB">      <!-- srr: Not found in local Index -->
                   <title level="m">Woman, or Minor maxims </title>
                   <author ref="#Budden_M"/>
                   <pubPlace>
@@ -10340,7 +10349,7 @@ Publisher:	London : E. Cox and Son, 1815
                         maxims. A Sketch.</title> Minerva Press. </note>
                </bibl>
 
-               <bibl xml:id="Lives_HaydenMoz">
+               <bibl xml:id="Lives_HaydenMoz">     <!-- srr: Not found in local Index -->
                   <title level="m">The Lives of Haydn and Mozart </title>
                   <author ref="#Bombet_L">L. A. C. Bombet</author>
                   <pubPlace>
@@ -10356,7 +10365,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note><!-- check vols. and name on tp or if anon. -->
                </bibl>
 
-               <bibl xml:id="Anecdotes_WSeward">
+               <bibl xml:id="Anecdotes_WSeward">      <!-- srr: Not found in local Index -->
                   <title level="m">Anecdotes of Distinguished Persons</title>
                   <author ref="#Seward_Wm">William Seward</author>
                   <pubPlace>
@@ -10373,7 +10382,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note><!-- check full title and name on tp or if anon. First edition, 1796-->
                </bibl>
 
-               <bibl xml:id="AnecdotesTo1700_JM">
+               <bibl xml:id="AnecdotesTo1700_JM">     <!-- srr: Not found in local Index -->
                   <title level="m">Anecdotes of the Manners and Customs of London from the Roman
                      Invasion to the Year 1700</title>
                   <author ref="#Malcolm_J">James Peller Malcolm</author><pubPlace>
@@ -10394,7 +10403,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="BurkeWks_Rivington">
+               <bibl xml:id="BurkeWks_Rivington">     <!-- srr: Not found in local Index -->
                   <title level="m">The Works of the Rt. Hon. Edmund Burke</title>
                   <author ref="#Burke_E">Edmund Burke</author><pubPlace>
                      <placeName ref="#London_city">London</placeName></pubPlace>
@@ -10408,7 +10417,7 @@ Publisher:	London : E. Cox and Son, 1815
                      calls Burke a <quote>sad turncoat</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Life_Burke_RB">
+               <bibl xml:id="Life_Burke_RB">    <!-- srr: Not found in local Index -->
                   <title level="m">The Life of Burke</title>
                   <author ref="#Bisset_R">Robert Bisset</author>
                   <pubPlace>
@@ -10427,7 +10436,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Narrative_Eqypt_RW">
+               <bibl xml:id="Narrative_Eqypt_RW">     <!-- srr: Not found in local Index -->
                   <title level="m">A Narrative of the Expedition to Egypt</title>
                   <author ref="#WilsonRbt">Robert T. Wilson</author>
                   <pubPlace>
@@ -10445,7 +10454,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
 
 
-               <bibl xml:id="Lectures_Paint_HF">
+               <bibl xml:id="Lectures_Paint_HF">      <!-- srr: Not found in local Index -->
                   <title level="m">Lectures on Painting: Delivered at the Royal Academy, March,
                      1801.</title>
                   <author ref="#Fuseli_H"/>
@@ -10458,7 +10467,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1801"/>
                </bibl>
 
-               <bibl xml:id="Materials_WB">
+               <bibl xml:id="Materials_WB">     <!-- srr: Not found in local Index -->
                   <title level="m">Materials for Thinking</title>
                   <author ref="#Burdon_Wm">William Burdon</author>
                   <pubPlace>
@@ -10470,7 +10479,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1806"/>
                </bibl>
 
-               <bibl xml:id="Account_GeoMathews">
+               <bibl xml:id="Account_GeoMathews">     <!-- srr: Not found in local Index -->
                   <title level="m">Account of the Extraordinary and Shocking Case of George
                      Mathews</title>
                   <author ref="#Mathews_Geo">George Mathews</author>
@@ -10495,7 +10504,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Wonders_NW">
+               <bibl xml:id="Wonders_NW">    <!-- srr: Not found in local Index -->
                   <title level="m">The Wonders of the Little World</title>
                   <author ref="#Wanley_N">Nathaniel Wanley</author>
                   <pubPlace>
@@ -10514,7 +10523,7 @@ Publisher:	London : E. Cox and Son, 1815
                      have read the 2-volume expanded edition published in 1806, edited my William
                      Johnston.</note>&gt; </bibl>
 
-               <bibl xml:id="Fall_Jerusalem_HM">
+               <bibl xml:id="Fall_Jerusalem_HM">      <!-- srr: Not found in local Index -->
                   <title level="m">The Fall of Jerusalem</title>
                   <author ref="#Milman_HH"/>
                   <pubPlace>
@@ -10529,7 +10538,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="MansfieldPk">
+               <bibl xml:id="MansfieldPk">      <!-- srr: Not found in local Index -->
                   <title level="m">Mansfield Park</title>
                   <author>
                      <persName ref="#Austen_Jane">Jane Austen</persName>
@@ -10541,7 +10550,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Published as <q>bu the Author of Pride and Prejudice.</q></note>
                </bibl>
 
-               <bibl xml:id="Sense_S">
+               <bibl xml:id="Sense_S">    <!-- srr: Not found in local Index -->
                   <title level="m">Sense and Sensibility</title>
                   <author>
                      <persName ref="#Austen_Jane">Jane Austen</persName>
@@ -10553,7 +10562,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Sidney_TZ">
+               <bibl xml:id="Mems_Sidney_TZ">      <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Life and Writings of Sir Philip Sidney</title>
                   <author>
                      <persName ref="#Zouch_T"/>
@@ -10564,7 +10573,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="PopularTales_ME">
+               <bibl xml:id="PopularTales_ME">     <!-- srr: Not found in local Index -->
                   <title level="m">Popular Tales</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10582,7 +10591,7 @@ Publisher:	London : E. Cox and Son, 1815
                         level="a">To-morrow</title>.</note>
                </bibl>
 
-               <bibl xml:id="MoralTales_ME">
+               <bibl xml:id="MoralTales_ME">    <!-- srr: Not found in local Index -->
                   <title level="m">Moral Tales for Young People</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10598,7 +10607,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Inconnue</title>.</note>
                </bibl>
 
-               <bibl xml:id="ComicDramas_ME">
+               <bibl xml:id="ComicDramas_ME">      <!-- srr: Not found in local Index -->
                   <title level="m">Comic Dramas, in Three Acts</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10612,7 +10621,7 @@ Publisher:	London : E. Cox and Son, 1815
                      good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="WalpoleltrstoCole">
+               <bibl xml:id="WalpoleltrstoCole">      <!-- srr: Not found in local Index -->
                   <title level="m">Letters from the Hon. Horace Walpole, to the Rev. William Cole
                      and others</title>
                   <author>
@@ -10627,7 +10636,7 @@ Publisher:	London : E. Cox and Son, 1815
                      called them <quote>delightful</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mystery_TG">
+               <bibl xml:id="Mystery_TG">    <!-- srr: Not found in local Index -->
                   <title level="m">Mystery, or Forty Years Ago: A Novel</title>
                   <author ref="#GaspeyT">
                      <persName>Thomas Gaspey</persName>
@@ -10639,7 +10648,7 @@ Publisher:	London : E. Cox and Son, 1815
                      good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Altham">
+               <bibl xml:id="Altham">     <!-- srr: Not found in local Index -->
                   <title level="m">Altham and His Wife: A Domestic Tale</title>
                   <author>
                      <persName>Charles Ollier</persName>
@@ -10651,7 +10660,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal</note>
                </bibl>
 
-               <bibl xml:id="Mems_Huet">
+               <bibl xml:id="Mems_Huet">     <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Life of Peter Daniel Huet, Bishop of
                      Avranches</title>
                   <author>
@@ -10668,7 +10677,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Conde">
+               <bibl xml:id="Mems_Conde">    <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Life of the Great Condé</title>
                   <author>
                      <persName>Louis Joseph de Bourbon, prince de Condé</persName>
@@ -10682,7 +10691,7 @@ Publisher:	London : E. Cox and Son, 1815
                         enough</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Display_JT">
+               <bibl xml:id="Display_JT">    <!-- srr: Not found in local Index -->
                   <title level="m">Display</title>
                   <author>
                      <persName ref="#Taylor_Jane">Jane Taylor</persName>
@@ -10694,7 +10703,7 @@ Publisher:	London : E. Cox and Son, 1815
                         People</title>.</note>
                </bibl>
 
-               <bibl xml:id="CarysDante">
+               <bibl xml:id="CarysDante">    <!-- srr: Not found in local Index -->
                   <title level="m">The Vision; or, Hell, Purgatory, and Paradise</title>
                   <author>
                      <persName ref="#Dante"/>
@@ -10706,7 +10715,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Printed for the author.</note>
                </bibl>
 
-               <bibl xml:id="Letters_NItaly">
+               <bibl xml:id="Letters_NItaly">      <!-- srr: Not found in local Index -->
                   <title level="m">Letters from the North of Italy</title>
                   <author>
                      <persName ref="#Rose_Wm">William Stewart Rose</persName>
@@ -10719,7 +10728,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good though vulgar</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Quakers_EL">
+               <bibl xml:id="Quakers_EL">    <!-- srr: Not found in local Index -->
                   <title level="m">The Quakers: A Tale</title>
                   <author>
                      <persName ref="#Lester_E">Elizabeth Lester</persName>
@@ -10729,7 +10738,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1817">1817</date>
                </bibl>
 
-               <bibl xml:id="Specimens_BritPoets">
+               <bibl xml:id="Specimens_BritPoets">    <!-- srr: Not found in local Index -->
                   <title level="m">Specimens of the British Poets</title>
                   <author>
                      <persName ref="#Campbell_Thos"/>
@@ -10744,7 +10753,7 @@ Publisher:	London : E. Cox and Son, 1815
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Parvenus">
+               <bibl xml:id="Parvenus">      <!-- srr: Not found in local Index -->
                   <title level="m">Les Parvenus; ou, Les Aventures de Julien Delmours</title>
                   <author>
                      <persName ref="#deGenlis"/>
@@ -10753,7 +10762,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819">1819</date>
                </bibl>
 
-               <bibl xml:id="Zapolya">
+               <bibl xml:id="Zapolya">    <!-- srr: Not found in local Index -->
                   <title level="m">Zapolya</title>
                   <author>
                      <persName ref="#Coleridge_ST"/>
@@ -10766,7 +10775,7 @@ Publisher:	London : E. Cox and Son, 1815
                      it <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_ElizHamilton">
+               <bibl xml:id="Mems_ElizHamilton">      <!-- srr: Not found in local Index -->
                   <title level="m">Memoirs of the Late Mrs. Elizabeth Hamilton</title>
                   <author>
                      <persName ref="#Benger_ElizO">Elizabeth Ogilvy Benger</persName>
@@ -10780,7 +10789,7 @@ Publisher:	London : E. Cox and Son, 1815
                      bad</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Rivals_RBS">
+               <bibl xml:id="Rivals_RBS">    <!-- srr: Not found in local Index -->
                   <title level="m">The Rivals: A Comedy</title>
                   <author ref="#Sheridan_RichardB"/>
                   <note resp="#lmw">First performed in <date when="1776">1776</date> at <placeName
@@ -10788,7 +10797,7 @@ Publisher:	London : E. Cox and Son, 1815
                      the play, Mitford rated it <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_SAmPatriots">
+               <bibl xml:id="Narr_SAmPatriots">    <!-- srr: Not found in local Index -->
                   <title level="m">Narrative of the Expedition which Sailed from England in 1817, to
                      Join the South American Patriots</title>
                   <author>
@@ -10804,7 +10813,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Contest, Mode of Warfare, State of the Armies, &amp;c.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_JSpinner">
+               <bibl xml:id="Hist_JSpinner">    <!-- srr: Not found in local Index -->
                   <title level="m">The History of Jenny Spinner</title>
                   <author>
                      <persName ref="#James_Miss"/>
