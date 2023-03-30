@@ -6219,7 +6219,7 @@ Publisher:	London : [publisher not identified], 1786.
               Example: 
               <note resp="#srr">Savannah's note inside a new SI entry.</note>
                -->
-               <person xml:id="amp">      <!-- srr: Not found in local Index -->
+               <person xml:id="amp">      <!-- srr: Not found in local SI, but in Published SI-->
                   <persName>
                      <surname>Peddicord</surname>
                      <forename>Amber</forename>
@@ -6240,7 +6240,7 @@ Publisher:	London : [publisher not identified], 1786.
                         target="https://www.greensburg.pitt.edu/academics/majors-minors/digital-studies"
                         >Digital Studies Certificate</ref>. She graduates in spring 2021.</note>
                </person>
-               <person xml:id="SRR">      <!-- srr: Not found in local Index -->
+               <person xml:id="SRR">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Ricks</surname>
                      <forename>Savannah</forename>
@@ -6249,7 +6249,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
 
                </person>
-               <person xml:id="TEAC">     <!-- srr: Not found in local Index -->
+               <person xml:id="TEAC">     <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Cameron</surname>
                      <forename>Tyler</forename>
@@ -6258,7 +6258,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
 
                </person>
-               <person xml:id="TSA">      <!-- srr: Not found in local Index -->
+               <person xml:id="TSA">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Akam</surname>
                      <forename>Tyler</forename>
@@ -6275,7 +6275,7 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="Voules">
-                  <!-- srr: Not found in local index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <orgName>The Voules family</orgName>
                   <orgName>Voules's</orgName>
                   <orgName>
@@ -6287,7 +6287,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org>
 
                <org xml:id="Haywards">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI-->
                   <orgName>the Hayward family </orgName>
                   <orgName>Haywards</orgName>
                   <orgName>
@@ -6298,7 +6298,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI-->
                   <orgName>The Holton family</orgName>
                   <orgName>Holtons</orgName>
                   <orgName>
@@ -6310,21 +6310,9 @@ Publisher:	London : [publisher not identified], 1786.
 
                <!-- srr: I've added the last 3 orgs ^^^ -->
 
-               <org xml:id="Havell_Lib">
-                  <!--done-->
-                  <orgName>Havell's Library</orgName>
-                  <note resp="#lmw">Subscription library. <persName ref="#Mitford_Geo">George
-                        Mitford</persName> purchases a half year subscription for <persName
-                        ref="#MRM">Mary</persName> in <date when="1819-01">January 1819</date>.
-                     Source: Journal.</note>
-               </org>
+               
 
-               <org xml:id="BroughtonDas">
-                  <!--done-->
-                  <orgName>Misses Broughton</orgName>
-                  <orgName><surname>Broughton</surname></orgName>
-                  <orgName>Unmarried daughters of the Broughton family.</orgName>
-               </org>
+               
 
 
 
@@ -6340,7 +6328,8 @@ Publisher:	London : [publisher not identified], 1786.
 
 
 
-               <!-- srr: <org xml:id="Newberys">
+               <!-- srr: From local SI *************************************************************
+                  <org xml:id="Newberys">
                   <orgName>the Newbery family</orgName>
                   <orgName><surname>Newbery</surname></orgName>
                   <orgName><addName>Newberrys</addName></orgName>
@@ -6350,6 +6339,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org> -->
 
                <org xml:id="Newberrys">
+                  <!-- srr: Not found in Published SI -->
                   <!-- srr: A misspelling??? ^^^^ -->
                   <!--done-->
                   <orgName>the Newbery family</orgName>
@@ -6359,9 +6349,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
                         Newberry</persName>. Surname variously spelled <q>Newbery</q> and
                         <q>Newberry</q>.</note>
-               </org>
+               </org><!-- srr: ******************************************************************* -->
 
-               <org xml:id="Anstruthers">
+               <org xml:id="Anstruthers">    <!-- srr: Better desc than in local Index -->
                   <!--done-->
                   <orgName>the Anstruther family</orgName>
                   <orgName>Anstruthers</orgName>
@@ -6371,39 +6361,12 @@ Publisher:	London : [publisher not identified], 1786.
                         >Reading</placeName>.</note>
                </org>
 
-               <org xml:id="Shuters">
-                  <!--done-->
-                  <orgName>the Shuter family</orgName>
-                  <orgName>Shuters</orgName>
-                  <orgName><surname>Shuter</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Shuter_Mr">Mr. Shuter</persName>.
-                     Associated with <placeName ref="#Reading_city">Reading</placeName></note>
-               </org>
+               
 
-               <org xml:id="Marsh_family">
-                  <!--done-->
-                  <orgName>the Marsh family</orgName>
-                  <orgName>Marshes</orgName>
-                  <orgName><surname>Marsh</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Marsh_Henry">Harry
-                        Marsh</persName> and <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>.
-                     Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
-               </org>
+               
 
-               <!-- srr: <org xml:id="Marshs_shop">
-                  <orgName>Marsh's</orgName>
-                  <note resp="#rjp #lmw">Retail shop <persName ref="#MRM">Mitford</persName>
-                     mentions patronizing in 1819. Source: Journal. </note>
-               </org> -->
-
-               <org xml:id="Marshs_shop">
-                  <!-- srr: Replace with main Index? ^^^ -->
-                  <!--done-->
-                  <orgName>Marsh's</orgName>
-                  <note resp="#rjp #lmw">Likely a retail store in
-                     Reading.<!--This is a place the MRM goes to purchase things...likely a retail
-                     store...VERIFY!--><!--LMW: MADE AN orgName as a business, rather than a place. Any relation to Harry Marsh? one-time banker--></note>
-               </org>
+               
+               
 
 
             </listOrg>
@@ -6432,7 +6395,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </person>-->
                <person xml:id="Junius_pseudo" sex="m">
-                  <!-- Not found in local Index, found a 'Junius' but prob lot the same pers ^^^ -->
+                  <!-- Not found in local SI or in Published SI, found a 'Junius' but prob lot the same pers ^^^ -->
                   <persName>Junius</persName>
                   <note resp="#lmw">Pseudonymous author of <title ref="#JuniusLtrs">The Letters of
                         Junius</title>, active during the 1770s. Still unidentified, although may
@@ -6465,7 +6428,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person> -->
 
                <person xml:id="Francis_Philip" sex="m">
-                  <!-- srr: Not found in local Index, closest resembelance in main^^^ but still doubt the same pers-->
+                  <!-- srr: Not found in local SI or in Published SI, closest resembelance in main^^^ but still doubt the same pers-->
                   <persName>Sir Philip Francis</persName>
                   <persName>
                      <surname>Francis</surname>
@@ -6492,7 +6455,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Quillinan_Ed" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Edward Quillinan</persName>
                   <persName>
                      <surname>Quillinan</surname>
@@ -6516,7 +6479,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BuddenM" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Maria Elizabeth Halsey Budden</persName>
                   <persName>
                      <surname type="married">Budden</surname>
@@ -6536,7 +6499,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bisset_R" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Robert Bisset</persName>
                   <persName>
                      <surname>Bisset</surname>
@@ -6556,7 +6519,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Deacon_WF" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>William Frederick Deacon</persName>
                   <persName>
                      <surname>Deacon</surname>
@@ -6577,17 +6540,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/51543214"/></note>
                </person>
 
-               <person xml:id="Solomon" sex="u">
-                  <!--done-->
-                  <persName>Solomon</persName>
-                  <note resp="#lmw">May be the name of a Mitford servant or pet. Surname not
-                     given.</note>
-               </person>
+
+
+               
 
 
 
                <person xml:id="Strutt_Jos" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Joseph Strutt</persName>
                   <persName>
                      <surname>Strutt</surname>
@@ -6617,7 +6577,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="SchlegelF" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- finish -->
                   <persName>Friedrich von Schlegel</persName>
                   <persName>
@@ -6646,7 +6606,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="LopedeVega" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Félix Lope de Vega y Carpio</persName>
                   <persName>
                      <surname><nameLink>de</nameLink> Vega</surname>
@@ -6674,7 +6634,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MolesworthRbt" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Robert Molesworth</persName>
                   <persName>
                      <surname>Molesworth</surname>
@@ -6697,7 +6657,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hoare_RC" sex="m">
-                  <!-- srr: Not found in local Index, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
+                  <!-- srr: Not found in local SI or in Published SI, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
                   <persName>Sir Richard Colt Hoare</persName>
                   <persName>
                      <surname>Hoare</surname>
@@ -6728,7 +6688,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Aikin_Lucy" sex="f">
-                  <!-- srr: Not found in local Index, only found 'Aitken_Mr' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Aitken_Mr' -->
                   <persName>Lucy Aikin</persName>
                   <persName>
                      <surname type="paternal">Aikin</surname>
@@ -6762,7 +6722,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Davenport_Sel" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
@@ -6786,7 +6746,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="OKeeffe_Ad" sex="f">
-                  <!-- srr: Not found in local Index, found 'OKeefe' aka John OKeefe -->
+                  <!-- srr: Not found in local SI or in Published SI, found 'OKeefe' aka John OKeefe -->
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -6811,7 +6771,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Blackford_Mar" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Lady Isabella Moncrieff Stoddart</persName>
                   <persName>
                      <surname type="paternal">Moncrieff</surname>
@@ -6833,7 +6793,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Robinson_Mary" sex="f">
-                  <!-- srr: Not found in local Index, did find 'Robinson_MaryD' might be the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Robinson_MaryD' in local SI, might be the same person -->
                   <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
@@ -6844,7 +6804,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Visconti_E" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Ennio Quirino Visconti</persName>
                   <persName>
                      <surname>Visconti</surname>
@@ -6874,7 +6834,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Crabbe" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
@@ -6896,7 +6856,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="HallamH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Hallam</persName>
                   <persName>
@@ -6918,7 +6878,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="WrightJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Wright</persName>
                   <persName>
@@ -6932,7 +6892,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="ClementWI" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Innell Clement</persName>
                   <persName>
@@ -6946,7 +6906,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="FarquharsonG" sex="m">
-                  <!-- srr: Not found in local Index, found 'Farquhar_George'?? Doubt same person -->
+                  <!-- srr: Not found in local SI or in Published SI, found 'Farquhar_George'?? Doubt same person -->
                   <!-- stub -->
                   <persName>George Farquharson</persName>
                   <persName>
@@ -6958,7 +6918,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Edwards_Bryan" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Bryan Edwards</persName>
                   <persName>
@@ -6972,7 +6932,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="KempeAJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Alfred John Kempe</persName>
                   <persName>
@@ -6988,7 +6948,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Windham_Wm" sex="m">
-                  <!-- srr: Not fouond in local Index -->
+                  <!-- srr: Not fouond in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Windham</persName>
                   <persName>
@@ -6997,11 +6957,10 @@ Publisher:	London : [publisher not identified], 1786.
                      <note resp="#lmw">1750-1810 </note>
                      <note><ptr target="http://viaf.org/viaf/79013184"/></note>
                   </persName>
-
                </person>
 
                <person xml:id="Amyot_Thos" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Amyot</persName>
                   <persName>
@@ -7011,7 +6970,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MatthewsH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Matthews</persName>
                   <persName>
@@ -7021,7 +6980,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Malcolm_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>James Peller Malcolm</persName>
                   <persName>
@@ -7032,7 +6991,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bowdich_TE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Edward Bowdich</persName>
                   <persName>
@@ -7043,7 +7002,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Machiavelli" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Niccolo Machiavelli</persName>
                   <persName>
@@ -7053,7 +7012,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="EdgeworthRL" sex="m">
-                  <!-- srr: Not found in local Index, found Edgeworth_Maria, maybe related? -->
+                  <!-- srr: Not found in local SI or in Published SI, found Edgeworth_Maria, maybe related? -->
                   <!-- stub -->
                   <persName>Richard Lovell Edgeworth</persName>
                   <persName>
@@ -7066,7 +7025,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Liebensrood_son" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>
                      <surname>Liebensrood</surname></persName>
@@ -7074,7 +7033,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hodgskin_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Hodgkinson_Mrs' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Hodgkinson_Mrs' -->
                   <!-- stub -->
                   <persName>Thomas Hodgskin</persName>
                   <persName>
@@ -7084,7 +7043,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Burckhardt_JL" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Lewis Burckhardt</persName>
                   <persName>
@@ -7095,7 +7054,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="ScafeJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Scafe</persName>
                   <persName>
@@ -7107,7 +7066,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="MDonough_F" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Felix M'Donough</persName>
                   <persName>
@@ -7117,33 +7076,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Surname also spelled MacDonough.</note>
                </person>
 
-               <person xml:id="Wilhelmina_Prussia1709" sex="f">
-                  <persName>Frederika Sophie Wilhelmine of Prussia</persName>
-                  <persName>
-                     <forename>Frederika</forename>
-                     <forename>Sophie</forename>
-                     <forename>Wilhelmine</forename>
-                  </persName>
-                  <persName><addName>Margravine of Brandenburg-Bareuth</addName></persName>
-                  <birth when="1709-07-03">
-                     <placeName>Berlin, Germany</placeName>
-                  </birth>
-                  <death when="1758-10-14">
-                     <placeName>Bayreuth, Bavaria, Germany</placeName>
-                  </death>
-                  <occupation type="artist"/>
-                  <occupation type="benefactor"/>
-                  <occupation type="literary"/>
-                  <occupation type="benefactor" subtype="patron"/>
-                  <occupation type="literary" subtype="autobiographer"/>
-                  <note resp="#lmw">House of Hohenzollern, granddaughter of George I of Great
-                     Britain, daughter of Frederic William I of Prussia and older sister of
-                     Frederick the Great. Patron of music; composer for voice, strings, keyboard and
-                     woodwinds; player on the lute.</note>
-               </person>
+               
 
                <person xml:id="PrinceEdward1767" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Prince Edward, Duke of Kent and Strathearn</persName>
                   <persName>
                      <surname>Hanover</surname>
@@ -7175,7 +7111,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="ZouchT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Zouch</persName>
                   <persName>
@@ -7188,7 +7124,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Wilmot_James" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Wilmot_John' -->
                   <!-- stub -->
                   <persName>James Wilmot</persName>
                   <persName>
@@ -7200,7 +7136,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Serres_OW" sex="f">
-                  <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Olivia Wilmot Serres</persName>
                   <persName>
@@ -7211,7 +7147,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Taylor_Joseph" sex="m">
-                  <!-- srr: Not found in local Index, found many other Taylors -->
+                  <!-- srr: Not found in local SI or in Published SI, found many other Taylors -->
                   <!-- stub -->
                   <persName>Joseph Taylor</persName>
                   <persName>
@@ -7221,7 +7157,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Murphy_Ar" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Arthur Murphy</persName>
                   <persName>
@@ -7231,7 +7167,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Williams_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Williams_Mr' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found many Williams -->
                   <!-- stub -->
                   <persName>Thomas Williams</persName>
                   <persName>
@@ -7241,7 +7177,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Jones_John" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Jones</persName>
                   <persName>
@@ -7252,7 +7188,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Richardson_Jon" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jonathan Richardson</persName>
                   <persName>
@@ -7262,7 +7198,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Rose_Wm" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Stewart Rose</persName>
                   <persName>
@@ -7272,36 +7208,10 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Lawrence_Wm" sex="m">
-                  <!-- done -->
-                  <persName>William Lawrence</persName>
-                  <persName>
-                     <surname>Lawrence</surname>
-                     <forename>William</forename>
-                     <roleName>1st Baronet</roleName>
-                  </persName>
-                  <birth when="1783-07-16"><placeName>Cirencester, Gloucestershire,
-                        England</placeName></birth>
-                  <death when="1867-07-05">
-                     <placeName>Westminster, London, England</placeName>
-                  </death>
-                  <occupation type="scholar" subtype="naturalist"/>
-                  <occupation type="scholar" subtype="philosopher"/>
-                  <occupation type="medical" subtype="surgeon"/>
-                  <occupation type="government" subtype="reformer"/>
-                  <note resp="#lmw">Lawrence contributed to ideas about the material origin of human
-                     consciousness and about natural selection refuting Lamarck, in the generation
-                     immediately preceding Darwin. In 1822, <persName ref="#Scott_John_LdEldon">the
-                        Lord Chancellor</persName> condemned as blasphemous Lawrence's second book,
-                        <title level="m">The Natural History of Man</title>, and he was forced to
-                     withdraw it. He campaigned for medical reforms and co-founded <title>The
-                        Lancet</title>. He later became president of the Royal College of Surgeons
-                     and was appointed surgeon to Queen Victoria, who granted him a
-                     baronetcy.</note>
-               </person>
+              
 
                <person xml:id="Fitzclarence_Geo" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>George Fitzclarence</persName>
                   <persName>
@@ -7315,7 +7225,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hutton_Cath" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Catherine Hutton</persName>
                   <persName>
@@ -7325,7 +7235,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Lester_E" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Elizabeth Lester</persName>
                   <persName>
@@ -7335,7 +7245,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Smith_Ch" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charlotte Smith</persName>
                   <persName>
@@ -7347,7 +7257,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Porter_Jane" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jane Porter</persName>
                   <persName>
@@ -7357,7 +7267,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Helme_Eliz" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Elizabeth Helme</persName>
                   <persName>
@@ -7367,7 +7277,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Comber_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Comer_Mr'-->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Comer_Mr'-->
                   <!-- stub -->
                   <persName>Thomas Comber</persName>
                   <persName>
@@ -7377,7 +7287,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Legh_T" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Legh</persName>
                   <persName>
@@ -7392,7 +7302,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Burnet_Gil" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Gilbert Burnet</persName>
                   <persName>
@@ -7402,7 +7312,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Murray_Hugh" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Hugh Murray</persName>
                   <persName>
@@ -7412,7 +7322,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Heude_Wm" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Heude</persName>
                   <persName>
@@ -7422,7 +7332,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="RennellT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Rennell</persName>
                   <persName>
@@ -7432,7 +7342,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Saabye" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Hans Egede Saabye</persName>
                   <persName>
@@ -7443,7 +7353,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Savigny_JBH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jean Baptiste Henri Savigny</persName>
                   <persName>
@@ -7468,7 +7378,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Correard_A" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Alexandre Corréard</persName>
                   <persName>
@@ -7480,7 +7390,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Nichols_JB" sex="m">
-                  <!-- srr: Not found in local Index, did find a 'Nicholls_John', not sure if the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find a 'Nicholls_John', not sure if the same person -->
                   <!-- stub -->
                   <persName>John Bowyer Nichols</persName>
                   <persName>
@@ -7491,7 +7401,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Brunton_Alex" sex="m">
-                  <!-- srr: Not found in local Index, did find a 'Brunton_Alexander', not sure if the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find a 'Brunton_Alexander', not sure if the same person -->
                   <!-- stub -->
                   <persName>Alexander Brunton</persName>
                   <persName>
@@ -7501,7 +7411,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Russell_John" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Russell</persName>
                   <persName>
@@ -7511,7 +7421,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Opie_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Opie</persName>
                   <persName>
@@ -7521,7 +7431,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="VauxJH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Hardy Vaux</persName>
                   <persName>
@@ -7533,7 +7443,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BarrowJ" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Barrow_John' I feel like they're the same-->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Barrow_John' I feel like they're the same-->
                   <!-- stub -->
                   <persName>John Barrow</persName>
                   <persName>
@@ -7543,7 +7453,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bennett_AM" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Anna Maria Bennett</persName>
                   <persName>
@@ -7560,7 +7470,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BrookeFrances" sex="f">
-                  <!-- srr: Not found in local Index, found a 'Brooke_Miss' and 'Brooke_Mrs' with no forenames-->
+                  <!-- srr: Not found in local SI or in Published SI, found a 'Brooke_Miss' and 'Brooke_Mrs' with no forenames-->
                   <!-- stub -->
                   <persName>Frances Brooke</persName>
                   <persName>
@@ -7584,7 +7494,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook1" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired in <placeName
@@ -7595,7 +7505,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook2" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName
@@ -7610,7 +7520,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook3" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName
@@ -7621,7 +7531,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cunningham_JW" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Cunningham</persName>
                   <persName>
@@ -7633,7 +7543,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Disraeli_I" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Isaac D'Israeli</persName>
                   <persName>
@@ -7643,7 +7553,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="DoddCE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Dodd</persName>
                   <persName>
@@ -7656,7 +7566,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="DundasHen" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Dundas, Lord Melville</persName>
                   <persName>
@@ -7676,7 +7586,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PorteousJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Porteous</persName>
                   <persName>
@@ -7688,7 +7598,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="EvelynJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Evelyn</persName>
                   <persName>
@@ -7698,7 +7608,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Fellowes_W" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Fellowes</persName>
                   <persName>
@@ -7709,7 +7619,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hackett_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>James Hackett</persName>
                   <persName>
@@ -7719,7 +7629,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="GaspeyT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Gaspey</persName>
                   <persName>
@@ -7729,7 +7639,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="HookhamT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Hookham</persName>
                   <persName>
@@ -7749,7 +7659,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="LabaumeE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Eugène Labaume</persName>
                   <persName>
@@ -7759,7 +7669,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MarieTherese_France" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
                </person>
@@ -7774,7 +7684,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MawmanJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Joseph Mawman</persName>
                   <persName>
@@ -7784,7 +7694,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MeekeM" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Mary Meeke</persName>
                   <persName>
@@ -7794,7 +7704,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Mill_Chas" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Mill</persName>
                   <persName>
@@ -7804,7 +7714,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MowerA" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Arthur Mower</persName>
                   <persName>
@@ -7814,7 +7724,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MuschetN" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Nicol Muschet</persName>
                   <persName>
@@ -7827,7 +7737,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Ormsby_James" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Ormsby</persName>
                   <persName>
