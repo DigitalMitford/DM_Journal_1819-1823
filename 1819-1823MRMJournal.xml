@@ -6102,11 +6102,11 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-574">
                <head><date when="1820-08-07">Monday 8th</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--poor dear <persName ref="#Hill_Lucy">Luce</persName> was married from <placeName ref="#ThreeMileCross">our house</placeName> at <placeName>Shinfield Church</placeName> to <persName ref="#Hill_Charles">Mr. Hill</persName>--the wedding party <persName ref="#Hill_Charles Hill_Lucy">Mr. &amp; Mrs. Hill</persName>, <persName>Mr. Goddard</persName> who gave her away, &amp; <persName>Charles Sweetser</persName> her brother. All dined at <placeName ref="#ThreeMileCross">our house</placeName>, &amp; then went off to drink tea at her Mother's, &amp; so <placeName ref="#ThreeMileCross">home</placeName> at night to <placeName ref="#Silchester">Silchester</placeName>--God bless her, poor dear thing! She lived with us twelve years--a most faithful, affectionate creature as ever lived upon earth--we were all very fond of her, especially <persName ref="#Mitford_Geo">Drum</persName> &amp; I--the <orgName ref="#Monck_family">Moncks</orgName> called--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--poor dear <persName ref="#Hill_Lucy">Lucy</persName> was married from <placeName ref="#ThreeMileCross">our house</placeName> at <placeName>Shinfield Church</placeName> to <persName ref="#Hill_Charles">Mr. Hill</persName>--the wedding party <persName ref="#Hill_Charles Hill_Lucy">Mr. &amp; Mrs. Hill</persName>, <persName>Mr. Goddard</persName> who gave her away, &amp; <persName>Charles Sweetser</persName> her brother all dined at <placeName ref="#ThreeMileCross">our house</placeName>, &amp; then went off to drink tea at her Mother's, &amp; so <placeName ref="#ThreeMileCross">home</placeName> at night to <placeName ref="#Silchester">Silchester</placeName>--God bless her, poor dear thing! She lived with us twelve years--a most faithful, affectionate creature as ever lived upon earth--we were all very fond of her, especially <persName ref="#Mitford_Geo">Drum</persName> &amp; I--the <orgName ref="#Monck_family">Moncks</orgName> called--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>.</p>
             </div>
             <div type="entry" xml:id="e-575">
                <head><date when="1820-08-08">Tuesday 9th</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#James_Miss">Miss James</persName>--wrote to <persName ref="#James_Miss">Miss James</persName>--went to dine at <placeName ref="#Coley_Berks">Coley</placeName> to keep little <persName>Bligh</persName>'s birthday--the <orgName>Sherwoods</orgName> came in the evening.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#James_Miss">Miss James</persName>--wrote to <persName ref="#James_Miss">Miss James</persName>--went to dine at <placeName ref="#Coley_Berks">Coley</placeName> to keep little <persName>Bligh</persName>'s birthday--the <orgName>Sherwoods</orgName> came in the evening--a very pleasant day.</p>
             </div>
             <!--TSA 2023-02-21 The wording on little Bligh's birthday seems odd, so it definitely needs compared to the handwritten text.-->
             <div type="entry" xml:id="e-576">
@@ -6130,8 +6130,9 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-580">
                <head><date when="1820-08-13">Sunday 13th</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Webb_Eliza">Eliza Webb</persName>--Wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--the <orgName>Dickinsons</orgName> called--<persName ref="#Molly_pet">Molly</persName> better--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets. Saw ten glow-worms in the ditch between <persName>Captain King</persName>'s &amp; <persName>Will Howell</persName>'s--glow-worms very plentiful this year, especially in that place.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Webb_Eliza">Eliza Webb</persName>--wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--the <orgName>Dickinsons</orgName> called--<persName ref="#Molly_pet">Molly</persName> better--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets. Saw ten glow-worms in the ditch between <persName>Captain King</persName>'s &amp; <persName>Will Howell</persName>'s--glow-worms very plentiful this year, especially in that place.</p>
             </div>
+            <!--TSA 2023-03-28 In the handwritten journal, this section has a line between the two for the same day. Do we represent that she went back to the journal later and added more to it? (Also, stopped here in comparing for now)-->
             <div type="entry" xml:id="e-581">
                <head><date when="1820-08-14">Monday 14th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my gown trimming--walked with dear <persName ref="#Mitford_Geo">Drum</persName>.</p>
@@ -6158,52 +6159,53 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-587">
                <head><date when="1820-08-20">Sunday 20th</date></head>
-               <p>At home--heard from Mr. Haydon--Captain Tuppen called--wrote to Captain Tuppen, Miss James, Miss Emily James, Miss Nooth &amp; Mr. Haydon--went walking with Drum.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName>--<persName ref="#Tuppen_Capt">Captain Tuppen</persName> called--wrote to <persName ref="#Tuppen_Capt">Captain Tuppen</persName>, <persName ref="#James_Miss">Miss James</persName>, <persName ref="#James_Emily">Miss Emily James</persName>, <persName ref="#Nooth_C">Miss Nooth</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--went walking with <persName ref="#Mitford_Geo">Drum</persName>.</p>
             </div>
             <div type="entry" xml:id="e-588">
                <head><date when="1820-08-21">Monday 21st</date></head>
-               <p>At home--rained all day--could not stir--did a great deal of work &amp; read Dr. Drake's Winter Nights--good.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--rained all day--could not stir--did a great deal of work &amp; read <persName>Dr. Drake</persName>'s <title>Winter Nights</title>--good.</p>
             </div>
             <div type="entry" xml:id="e-589">
                <head><date when="1820-08-22">Tuesday 22nd</date></head>
-               <p>At home--heard from Sir William--wrote to Miss Brooke--poor dear Luce sent me some flowers--walked with Drum.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir William</persName>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName>--poor dear <persName ref="#Hill_Lucy">Luce</persName> sent me some flowers--walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
             </div>
             <div type="entry" xml:id="e-590">
                <head><date when="1820-08-23">Wednesday 23rd</date></head>
-               <p>At home--went to Reading--called on the Valpys (both), Mrs. Anstruther, Mrs. Tuppen, Mrs. Marsh, &amp; c--dined at Mrs. Newberry's--came home in the evening--Mrs. Dickinson &amp; Miss Eliza Webb called whilst I was out--wrote to Mrs. Dickinson with a proof, &amp; Mrs. Jolliffe.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName>--called on the <orgName ref="#Valpys">Valpys</orgName> (both), <persName>Mrs. Anstruther</persName>, <persName>Mrs. Tuppen</persName>, <persName>Mrs. Marsh</persName>, &amp; c--dined at <persName>Mrs. Newberry</persName>'s--came <placeName ref="#ThreeMileCross">home</placeName> in the evening--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Webb_Eliza">Miss Eliza Webb</persName> called whilst I was out--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with a proof, &amp; <persName>Mrs. Jolliffe</persName>.</p>
             </div>
             <div type="entry" xml:id="e-591">
                <head><date when="1820-08-24">Thursday 24th</date></head>
-               <p>Went coursing to Mortimer Westend, where poor dear Lucy joined us--Moses killed two hares &amp; a rabbit--a delightful day--came home to dinner--Harry &amp; Mrs. Marsh called--wrote to Sir William Elford &amp; Eliza Webb--read the Festival of Flora--very pretty.</p>
+               <p>Went coursing to <placeName>Mortimer Westend</placeName>, where poor dear <persName ref="#Hill_Lucy">Lucy</persName> joined us--<persName ref="#Moses_pet">Moses</persName> killed two hares &amp; a rabbit--a delightful day--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--<persName>Harry</persName> &amp; <persName>Mrs. Marsh</persName> called--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--read the <title>Festival of Flora</title>--very pretty.</p>
             </div>
+            <!--TSA 2023-03-27 Is "Harry" Henry Marsh? Check the handwritten journal-->
             <div type="entry" xml:id="e-592">
                <head><date when="1820-08-25">Friday 25th</date></head>
-               <p>Waited at home for Lady Madelina--Mr. Body called, Lady Mad. did not--had a note from Mr. MacFarlane with his Poem of the Wanderer--finished the work for my new gowns.</p>
+               <p>Waited at <placeName ref="#ThreeMileCross">home</placeName> for <persName ref="#Palmer_Mad">Lady Madelina</persName>--<persName ref="#Body_Richard">Mr. Body</persName> called, <persName ref="#Palmer_Mad">Lady Mad.</persName> did not--had a note from <persName>Mr. MacFarlane</persName> with his Poem of <title>the Wanderer</title>--finished the work for my new gowns.</p>
             </div>
-            <!--TSA 2023-03-20 The wording in this looks awkward, definitely compare to the handwriting.-->
             <div type="entry" xml:id="e-593">
                <head><date when="1820-08-26">Saturday 26th</date></head>
-               <p>At home--heard from Mrs. Dickinson--went into Reading to call on Lady Madelina Palmer--found her very agreeable--saw a great many people--came home with the Rigbys--wrote to Mrs. Rigby &amp; Mrs. Dickinson.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--went into <placeName ref="#Reading_city">Reading</placeName> to call on <persName ref="#Palmer_Mad">Lady Madelina Palmer</persName>--found her very agreeable--saw a great many people--came <placeName ref="#ThreeMileCross">home</placeName> with the <orgName>Rigbys</orgName>--wrote to <persName>Mrs. Rigby</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
             </div>
+            <!--TSA 2023-03-28 The Rigbys don't have an org, they may be new. However, when trying to see if Mrs. Rigby has a ref, I found an R_Rigsby. Either could be a misspelling as that potential entry has no known forename. This calls for some investiagting in the SI and the handwritten journal.-->
             <div type="entry" xml:id="e-594">
                <head><date when="1820-08-27">Sunday 27th</date></head>
-               <p>Mrs. Dickinson called--Lucy &amp; Mr. Hill dined here--poor little Anne, our Cook, went away--wrote to Mr. MacFarlane.</p>
+               <p><persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called--<persName ref="#Hill_Lucy">Lucy</persName> &amp; <persName ref="#Hill_Charles">Mr. Hill</persName> dined here--poor little <persName ref="#Anne_servant">Anne</persName>, our Cook, went away--wrote to <persName>Mr. MacFarlane</persName>.</p>
             </div>
             <div type="entry" xml:id="e-595">
                <head><date when="1820-08-28">Monday 28th</date></head>
-               <p>At home--Captain Tuppen &amp; Mr. Wilson called--walked about with Granny, chatted with Richard Body.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Tuppen_Capt">Captain Tuppen</persName> &amp; <persName>Mr. Wilson</persName> called--walked about with <persName ref="#Russell_M">Granny</persName>, chatted with <persName ref="#Body_Richard">Richard Body</persName>.</p>
             </div>
             <div type="entry" xml:id="e-596">
                <head><date when="1820-08-29">Tuesday 29th</date></head>
-               <p>At home--walked with dear Drum &amp; dear Granny &amp; the pets to Arborfield Mill over the tumbling bay--ducked Molly--a charming walk--saw Mrs. &amp; Miss Brooke returning from Southampton, &amp; Richasrd Body--read Mrs. Graham's Residence in the Mountains east of Rome--not good--wrote to Eliza Webb.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; dear <persName ref="#Russell_M">Granny</persName> &amp; the pets to <placeName>Arborfield Mill</placeName> over the tumbling bay--ducked <persName ref="#Molly_pet">Molly</persName>--a charming walk--saw <persName ref="#Brooke_Miss">Mrs. &amp; Miss Brooke</persName> returning from <placeName ref="#Southhampton_city">Southampton</placeName>, &amp; <persName ref="#Body_Richard">Richard Body</persName>--read <persName ref="#Graham_Maria">Mrs. Graham</persName>'s <title>Residence in the Mountains east of Rome</title>--not good--wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-597">
                <head><date when="1820-08-30">Wednesday 30th</date></head>
-               <p>At home--heard from Miss Nooth--worked at my frill--walked with dear Granny--wrote to Miss Nooth.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Nooth_C">Miss Nooth</persName>--worked at my frill--walked with dear <persName ref="#Russell_M">Granny</persName>--wrote to <persName ref="#Nooth_C">Miss Nooth</persName>.</p>
             </div>
             <div type="entry" xml:id="e-598">
                <head><date when="1820-08-31">Thursday 31st</date></head>
-               <p>At home--went coursing with dear Drum to Mortimer Common--Moses killed 4 hares &amp; a rabbit--capital sport--delightful day--Mr. Dickinson &amp; Captain Tuppen called whilst I was out--finished my letter to Miss Nooth.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went coursing with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Mortimer_Comm">Mortimer Common</placeName>--<persName ref="#Moses_pet">Moses</persName> killed 4 hares &amp; a rabbit--capital sport--delightful day--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Tuppen_Capt">Captain Tuppen</persName> called whilst I was out--finished my letter to <persName ref="#Nooth_C">Miss Nooth</persName>.</p>
             </div>
          </div>
 
