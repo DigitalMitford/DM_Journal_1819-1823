@@ -7748,7 +7748,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PlumptreAnne" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Anne Plumtre</persName>
                   <persName>
@@ -7758,7 +7758,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PlumptreAnnabella" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Annabella Plumtre</persName>
                   <persName>
@@ -7768,7 +7768,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PocockeT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Pococke</persName>
                   <persName>
@@ -7778,7 +7778,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Repton" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Humphry Repton</persName>
                   <persName>
@@ -7790,7 +7790,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Ross_Capt" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Ross</persName>
                   <!-- stub -->
@@ -7802,7 +7802,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Salame_Ab" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Abraham Salame</persName>
                   <persName>
@@ -7812,7 +7812,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Schimmelpennick_MA" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Mary Anne Galton Schimmelpennick</persName>
                   <persName>
@@ -7824,7 +7824,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Sharpe_CK" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Kirkpatrick Sharpe</persName>
                   <persName>
@@ -7835,7 +7835,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Shaw_Sam" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Samuel Shaw</persName>
                   <persName>
@@ -7845,7 +7845,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Wilson_Andrew" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Andrew Wilson</persName>
                   <persName>
@@ -7856,7 +7856,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Armstrong_Mr" sex="m">
-                  <!-- srr: Found 'Armstrong_Mr' but not sure if same person -->
+                  <!-- srr: Found 'Armstrong_Mr' in local SI but not sure if same person -->
                   <!--done-->
                   <persName>Mr. Armstrong</persName>
                   <persName>
@@ -7879,7 +7879,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Dearesley_Mr" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Dearsley_Wm' might be same person-->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Dearsley_Wm' might be same person-->
                   <!--done-->
                   <persName>Mr. Dearesley</persName>
                   <persName>
@@ -7904,7 +7904,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"
                      ><!--LMW: July 1819 journal mentions both Mr. John Deverell and then Mr. Deverell.  John could be the son of Mr.--></note>
                </person>
-               <person xml:id="Fly_pet" sex="f">
+               
+               
+               <person xml:id="Fly_pet" sex="f">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Fly</persName>
                   <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February
                      1819 and <q>married</q> to MRM's dog Mossy in May 1819. </note>
@@ -7912,7 +7914,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Havell_Mrs" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!--done-->
                   <persName>Mrs. Havell</persName>
                   <persName>
@@ -7971,7 +7973,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Maitland_Mr" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Maitland_Eb' could be same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Maitland_Eb' in local SI, could be same person -->
                   <!--done-->
                   <persName>Mr. Maitland</persName>
                   <persName>
