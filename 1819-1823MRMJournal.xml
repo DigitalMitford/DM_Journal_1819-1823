@@ -6312,23 +6312,6 @@ Publisher:	London : [publisher not identified], 1786.
 
                <!-- srr: I've added the last 3 orgs ^^^ -->
 
-               
-
-               
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                <!-- srr: From local SI *************************************************************
                   <org xml:id="Newberys">
@@ -6363,39 +6346,11 @@ Publisher:	London : [publisher not identified], 1786.
                         >Reading</placeName>.</note>
                </org>
 
-               
-
-               
-
-               
-               
-
 
             </listOrg>
 
             <listPerson sortKey="histPersons">
-               <!-- srr: <person xml:id="Junius" sex="m">
-                  <persName>Junius</persName>
-                  <persName>
-                     <forename>Lucius</forename>
-                     <surname>Junius</surname>
-                     <surname>Brutus</surname>
-                  </persName>
-                  <persName>Junius</persName>
-                  <persName>
-                     <roleName>Consul of the Roman Republic</roleName>
-                  </persName>
-                  <birth>
-                     <placeName>ancient Rome</placeName>
-                  </birth>
-                  <death when="-0509">509 BC <placeName>Silva Arsia, Rome</placeName>
-                  </death>
-                  <occupation type="government" subtype="politician"/>
-                  <occupation type="literary"/>
-                  <note>
-                     <ref target="http://viaf.org/viaf/296192012"/>
-                  </note>
-               </person>-->
+               
                <person xml:id="Junius_pseudo" sex="m">
                   <!-- Not found in local SI or in Published SI, found a 'Junius' but prob lot the same pers ^^^ -->
                   <persName>Junius</persName>
@@ -6404,33 +6359,8 @@ Publisher:	London : [publisher not identified], 1786.
                      have been <persName ref="#Francis_Philip">Sir Philip Francis</persName>.</note>
                </person>
 
-               <!-- <person xml:id="Phillips_Chas" sex="m">
-                  <persName>Charles Phillips</persName>
-                  <persName>
-                     <forename>Charles</forename>
-                     <surname>Phillips</surname>
-                  </persName>
-                  <birth when="1787">
-                     <placeName>Sligo, Ireland</placeName>
-                  </birth>
-                  <death when="1859-02-01">
-                     <placeName ref="#London_city">London, England</placeName>
-                  </death>
-                  <occupation type="literary"/>
-                  <occupation type="legal"/>
-                  <occupation type="legal" subtype="barrister"/>
-                  <occupation type="legal" subtype="judge"/>
-                  <note resp="#lmw">Irish author and barrister. <persName ref="#MRM"
-                        >Mitford</persName> mentions him a letter of 1819, along with <persName
-                        ref="#Burke_E">Edmund Burke</persName> and other Irish writers, as
-                     exhibiting a typical example of somewhat overblown Irish eloquence.</note>
-                  <note>
-                     <ref target="http://viaf.org/viaf/49248117"/>
-                  </note>
-               </person> -->
-
                <person xml:id="Francis_Philip" sex="m">
-                  <!-- srr: Not found in local SI or in Published SI, closest resembelance in main^^^ but still doubt the same pers-->
+                  <!-- srr: Not found in local SI or in Published SI, closest resembelance in local^^^ but still doubt the same pers-->
                   <persName>Sir Philip Francis</persName>
                   <persName>
                      <surname>Francis</surname>
@@ -7651,7 +7581,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="KingWm" sex="m">
-                  <!-- srr: Found 'King_Wm', might be same person -->
+                  <!-- srr: Not found in local SI or Published, did find 'King_Wm', might be same person -->
                   <!-- stub -->
                   <persName>William King</persName>
                   <persName>
@@ -7857,27 +7787,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><!-- assocuated with Porteous trial --></note>
                </person>
 
-               <person xml:id="Armstrong_Mr" sex="m">
-                  <!-- srr: Found 'Armstrong_Mr' in local SI but not sure if same person -->
-                  <!--done-->
-                  <persName>Mr. Armstrong</persName>
-                  <persName>
-                     <surname>Armstrong</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"/>
-               </person>
-
-               <person xml:id="Bacon_Mr" sex="m">
-                  <!-- srr: Found 'Bacon_Mr' but not sure if same person -->
-                  <!--done-->
-                  <persName>Mr. Bacon</persName>
-                  <persName>
-                     <surname>Bacon</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"/>
-               </person>
+               
 
 
                <person xml:id="Dearesley_Mr" sex="m">
@@ -7985,8 +7895,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Ogbourn_Miss" sex="f">    <!-- srr: Do we need to keep? -->
-                  <!-- srr:  -->
+               <person xml:id="Ogbourn_Miss" sex="f">    <!-- srr: Do we need to keep? I did find a 'Ogbourn_Miss' in local SI not in Published SI-->
                   <!--done-->
                   <persName>Miss Ogbourn</persName>
                   <persName>
@@ -8020,7 +7929,7 @@ Publisher:	London : [publisher not identified], 1786.
                               </person>
                               -->
                
-               <person xml:id="Cockle_Gen" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Cockle_Gen" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>General Cockle</persName>
                   <persName>
                      <surname>Cockle</surname>
@@ -8029,7 +7938,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Stewart_Mr" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Stewart_Mr" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <!-- 2022-10-30 ebb: mentioned in April 2020. 
                      I wonder if this is the same person as Major Stewart, whom she mentions in entries the next month? 
                      I'm moving the entries to sit next to each other.
@@ -8042,7 +7951,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Stewart_Major" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Stewart_Major" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <!-- ebb: Could this be the same as Stewart_Mr?  -->
                   <persName>
                      <surname>Major</surname>
@@ -8050,7 +7959,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Talmage_Mrs" sex="f">     <!-- srr: Not found in local Index -->
+               <person xml:id="Talmage_Mrs" sex="f">     <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Mrs. Talmage</persName>
                   <persName>
                      <surname>Talmage</surname>
@@ -8065,11 +7974,11 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="places">
             <listPlace sortKey="histPlaces">
 
-               <place xml:id="Exmouth"/>     <!-- srr: Not found in local Index -->
+               <place xml:id="Exmouth"/>     <!-- srr: Not found in local SI or in Published SI -->
 
-               <place xml:id="ManchesterHouse"/>      <!-- srr: Not found in local Index -->
+               <place xml:id="ManchesterHouse"/>      <!-- srr: Not found in local SI or in Published SI -->
 
-               <place xml:id="copse_Dearesley">    <!-- srr: Not found in local Index -->
+               <place xml:id="copse_Dearesley">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Dearesley's copse</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8080,7 +7989,7 @@ Publisher:	London : [publisher not identified], 1786.
                      there in <date when="1819-03">March 1819</date>. Source: Journal.</note>
                </place>
 
-               <place xml:id="cottage_TMC">     <!-- srr: Not found in local Index -->
+               <place xml:id="cottage_TMC">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>cottage at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8094,7 +8003,7 @@ Publisher:	London : [publisher not identified], 1786.
                      there until <date when="1851">1851</date>.</note>
                </place>
 
-               <place xml:id="field_BBr">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_BBr">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Fields at Burghfield Bridge</placeName>
                   <district>Wokingham</district>
                   <region>Berkshire</region>
@@ -8105,7 +8014,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819-04">April 1819</date>.</note>
                </place>
 
-               <place xml:id="field_BH">     <!-- srr: Not found in local Index -->
+               <place xml:id="field_BH">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Fields at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8117,7 +8026,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#hay">hay</name>ing.</note>
                </place>
 
-               <place xml:id="plantation_BH">      <!-- srr: Not found in local Index -->
+               <place xml:id="plantation_BH">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Plantations at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8129,7 +8038,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819">1819</date> and <date when="1820">1820</date>,</note>
                </place>
 
-               <place xml:id="field_Body">      <!-- srr: Not found in local Index -->
+               <place xml:id="field_Body">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Body's fields</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8140,7 +8049,7 @@ Publisher:	London : [publisher not identified], 1786.
                         1819</date>.</note>
                </place>
 
-               <place xml:id="field_Dearesley">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_Dearesley">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Dearesley's field</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8153,7 +8062,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819-03">March 1819</date>.</note>
                </place>
 
-               <place xml:id="field_Davies">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_Davies">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Davies's fields</placeName>
                   <district>xxx</district>
                   <!--??-->
@@ -8162,7 +8071,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </place>
 
-               <place xml:id="field_Pithers">      <!-- srr: Not found in local Index -->
+               <place xml:id="field_Pithers">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Pithers's fields</placeName>
                   <district>Shinfield</district>
                   <region>Berkshire</region>
@@ -8174,7 +8083,7 @@ Publisher:	London : [publisher not identified], 1786.
                      year.</note>
                </place>
 
-               <place xml:id="field_PW">     <!-- srr: Not found in local Index, did find 'Pingewood' -->
+               <place xml:id="field_PW">     <!-- srr: Not found in local SI or in Published SI, did find 'Pingewood' -->
                   <placeName>Fields at Pinge Wood</placeName>
                   <district>Whitley</district>
                   <region>Berkshire</region>
@@ -8187,7 +8096,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#woodsorrel">wood sorrel</name>.</note>
                </place>
 
-               <place xml:id="field_TMC">    <!-- Not found in main Index, did find 'ThreeMileCross' -->
+               <place xml:id="field_TMC">    <!-- Not found in local SI or in Published SI, did find 'ThreeMileCross' -->
                   <placeName>Fields at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8196,7 +8105,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Mile Cross</placeName>.</note>
                </place>
 
-               <place xml:id="garden_BH">    <!-- srr: Not found in local Index -->
+               <place xml:id="garden_BH">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>garden at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8205,7 +8114,7 @@ Publisher:	London : [publisher not identified], 1786.
                         House</placeName> estate.</note>
                </place>
 
-               <place xml:id="meadow_BH">    <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_BH">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>meadows at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8214,7 +8123,7 @@ Publisher:	London : [publisher not identified], 1786.
                         House</placeName> estate.</note>
                </place>
 
-               <place xml:id="meadow_Bridgwater">     <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_Bridgwater">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Bridgwater's meadows</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8225,7 +8134,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1820-04">April 1820</date>.</note>
                </place>
 
-               <place xml:id="meadow_Davies">      <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_Davies">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Davies's meadows</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8236,7 +8145,7 @@ Publisher:	London : [publisher not identified], 1786.
                      and <name ref="#violet">violet</name>s.</note>
                </place>
 
-               <place xml:id="meadow_TMC">      <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_TMC">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>meadows at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8245,7 +8154,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Mile Cross</placeName>.</note>
                </place>
 
-               <place xml:id="GroveCottage">    <!-- srr: Not found in local Index -->
+               <place xml:id="GroveCottage">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Grove Cottage</placeName>
                   <region>Berkshire</region>
                   <country>England</country>
@@ -8254,7 +8163,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Bertram_house">Bertram House</placeName>in 1820.</note>
                </place>
 
-               <place xml:id="Ashmolean_Old">      <!-- srr: Not found in local Index -->
+               <place xml:id="Ashmolean_Old">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Ashmolean</placeName>
                   <district>Oxford</district>
                   <!--??-->
@@ -8271,14 +8180,14 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </place>
 
-               <place xml:id="PaperMill_Marlow">      <!-- srr: Not found in local Index -->
+               <place xml:id="PaperMill_Marlow">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Paper mill on the Thames</placeName>
                   <district>Marlow</district>
                   <region>Berkshire</region>
                   <country>England</country>
                </place>
 
-               <place xml:id="BurghfieldBr">    <!-- srr: Not found in local Index -->
+               <place xml:id="BurghfieldBr">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Burghfield Bridge</placeName>
                   <district>Wokingham</district>
                   <region>Berkshire</region>
@@ -8297,7 +8206,7 @@ Publisher:	London : [publisher not identified], 1786.
                      /></note>
                </place>
 
-               <place xml:id="Lockinge">     <!-- srr: Not found in local Index -->
+               <place xml:id="Lockinge">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Lockinge</placeName>
                   <district>Wantage</district>
                   <region>Berkshire</region>
@@ -8312,7 +8221,7 @@ Publisher:	London : [publisher not identified], 1786.
                      /></note>
                </place>
 
-               <place xml:id="Overton">      <!-- srr: Not found in local Index -->
+               <place xml:id="Overton">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Overton</placeName>
                   <region>Hampshire</region>
                   <country>England</country>
@@ -8330,7 +8239,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <!-- https://www.stmarysoverton.org.uk/history.php [the dickers family have a plaque in the church] -->
                </place>
 
-               <place xml:id="ReadingTownHall">    <!-- srr: Not found in local Index -->
+               <place xml:id="ReadingTownHall">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Reading Town Hall</placeName>
                   <district>Reading</district>
                   <region>Berkshire</region>
@@ -8344,7 +8253,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="https://www.readingtownhall.co.uk/"/></note>
                </place>
 
-               <place xml:id="WhitleyWood">     <!-- srr: Not found in local Index -->
+               <place xml:id="WhitleyWood">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Whitley Wood</placeName>
                   <district>Reading</district>
                   <region>Berkshire</region>
@@ -8358,7 +8267,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note/>
                </place>
 
-               <place xml:id="Watlington">      <!-- srr: Not found in local Index -->
+               <place xml:id="Watlington">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Watlington</placeName>
                   <region>Oxfordshire</region>
                   <country>England</country>
@@ -8384,13 +8293,13 @@ Publisher:	London : [publisher not identified], 1786.
 
             <list sortKey="plants">
                
-               <item xml:id="flower"/>    <!-- srr: Not found in local Index -->
+               <item xml:id="flower"/>    <!-- srr: Not found in local SI or in Published SI -->
 
             </list>
 
             <list sortKey="animals">
 
-               <item xml:id="butterfly"/>    <!-- srr: Not found in local Index -->
+               <item xml:id="butterfly"/>    <!-- srr: Not found in local SI or in Published SI -->
 
             </list>
          </div>
@@ -8399,10 +8308,10 @@ Publisher:	London : [publisher not identified], 1786.
 
             <listBibl sortKey="serial_MRM">
 
-               <bibl xml:id="Times_Papers">     <!-- srr: Not found in local Index, did find 'Times_news' --> 
+               <bibl xml:id="Times_Papers">     <!-- srr: Not found in local SI or Published SI, did find 'Times_news' --> 
                </bibl>
                
-               <bibl xml:id="Pamphleteer_per">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Pamphleteer_per">     <!-- srr: Not found in local SI or Published SI -->
                   <title>The Pamphleteer</title>
                   <pubPlace>London</pubPlace>
                   <publisher><orgName ref="#AJValpy_pub">A. J. Valpy</orgName></publisher>
@@ -8419,32 +8328,32 @@ Publisher:	London : [publisher not identified], 1786.
                      Mitford and her circle included copyright law, the laws regulating theatres,
                      greyhounds and coursing, and brewing.</note> xvvv </bibl>
 
-               <bibl xml:id="BritishCritic_per">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="BritishCritic_per">      <!-- srr: Not found in local SI or Published SI -->
                   <title>British Critic</title>
                   <note resp="#lmw">Tory periodical</note>
                </bibl>
 
-               <bibl xml:id="EclecticRev">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="EclecticRev">      <!-- srr: Not found in local SI or Published SI -->
                   <title>Eclectic Review</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="MonthlyMag">    <!-- srr: Not found in local Index, did find 'New_Monthly_Mag' -->
+               <bibl xml:id="MonthlyMag">    <!-- srr: Not found in local SI or Published SI, did find 'New_Monthly_Mag' -->
                   <title>the Monthly Magazine</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EuroMag">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EuroMag">    <!-- srr: Not found in local SI or Published SI -->
                   <title>European Magazine</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EdinburghRev">     <!-- srr: Not found in local Index, did find 'EdinburghRev_per' might be same thing -->
+               <bibl xml:id="EdinburghRev">     <!-- srr: Not found in local SI or Published SI, did find 'EdinburghRev_per' might be same thing -->
                   <title>Edinburgh Review</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EdinburghMag1785to1816">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EdinburghMag1785to1816">    <!-- srr: Not found in local SI or Published SI -->
                   <title>Edinburgh Magazine; or Literary Miscellany</title>
                   <pubPlace><placeName ref="#Edinburgh"/></pubPlace>
                   <publisher><orgName>J. Sibbald</orgName></publisher>
@@ -8452,7 +8361,7 @@ Publisher:	London : [publisher not identified], 1786.
                      until 1826.</note>
                </bibl>
 
-               <bibl xml:id="EdinburghMag1817to1826">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EdinburghMag1817to1826">    <!-- srr: Not found in local SI or Published SI -->
                   <title>Edinburgh Magazine; or Literary Miscellany</title>
                   <pubPlace><placeName ref="#Edinburgh"/></pubPlace>
                   <publisher><orgName>J. Constable</orgName></publisher>
