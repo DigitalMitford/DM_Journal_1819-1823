@@ -5921,11 +5921,8 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-539">
 
                <head><date when="1820-07-03">Monday 3rd</date></head>
-               <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see <placeName>Hampton Court</placeName>--delightful place--enchanting <name>Cartoons</name>--beautiful portrait of <persName>Titian</persName> by himself--returned at 6 to Dinner, &amp; heard from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming day.</p>
+               <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see <placeName>Hampton Court</placeName>--delightful place--enchanting Cartoons--<rs type="art">beautiful portrait of <persName ref="#Titian">Titian</persName> by himself</rs>--returned at 6 to Dinner, &amp; heard from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming day.</p>
             </div>
-            <!--TSA 2023-02-13 Should home in the context of this sentence be marked as a placeName? It seems to be in a different context.
-            2023-02-28 ebb: She seems to be returning home via Wokingham, so let's tag it that way. 
-            -->
             <div type="entry" xml:id="e-540">
                <head><date when="1820-07-04">Tuesday 4th</date></head>
 
@@ -6176,7 +6173,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-591">
                <head><date when="1820-08-24">Thursday 24th</date></head>
-               <p>Went coursing to <placeName>Mortimer Westend</placeName>, where poor dear <persName ref="#Hill_Lucy">Lucy</persName> joined us--<persName ref="#Moses_pet">Moses</persName> killed two <name>hares</name> &amp; a <name>rabbit</name>--a delightful day--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--<persName ref="#Marsh_Henry">Harry</persName> &amp; <persName>Mrs. Marsh</persName> called--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--read the <title>Festival of Flora</title>--very pretty.</p>
+               <p>Went coursing to <placeName>Mortimer Westend</placeName>, where poor dear <persName ref="#Hill_Lucy">Lucy</persName> joined us--<persName ref="#Moses_pet">Moses</persName> killed two <name ref="#hare">hares</name> &amp; a <name ref="#rabbit">rabbit</name>--a delightful day--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--<persName ref="#Marsh_Henry">Harry</persName> &amp; <persName>Mrs. Marsh</persName> called--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--read the <title>Festival of Flora</title>--very pretty.</p>
             </div>
             <fw>August--1820 Three Mile Cross</fw>
             <!--TSA 2023-03-27 Is "Harry" Henry Marsh? Check the handwritten journal-->
@@ -6207,7 +6204,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-598">
                <head><date when="1820-08-31">Thursday 31st</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went coursing with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Mortimer_Comm">Mortimer Common</placeName>--<persName ref="#Moses_pet">Moses</persName> killed 4 <name>hares</name> &amp; a <name>rabbit</name>--capital sport--delightful day--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Tuppen_Capt">Captain Tuppen</persName> called whilst I was out--finished my letter to <persName ref="#Nooth_C">Miss Nooth</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went coursing with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Mortimer_Comm">Mortimer Common</placeName>--<persName ref="#Moses_pet">Moses</persName> killed 4 <name ref="#hare">hares</name> &amp; a <name ref="#rabbit">rabbit</name>--capital sport--delightful day--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> &amp; <persName ref="#Tuppen_Capt">Captain Tuppen</persName> called whilst I was out--finished my letter to <persName ref="#Nooth_C">Miss Nooth</persName>.</p>
             </div>
             <!--TSA 2023-04-04 I'm beginning to go through names for plants and animals and I found that the hares have a prior ref using ref="#hare" but it does not autofill. I found the same with rabbit-->
          </div>
