@@ -4068,9 +4068,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >bobbie</name>s--wrote to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName>--read
                      <title ref="#QueenhooH">Queenhoo Hall</title>--good.</p>
-               <p>read <title ref="#Mems_Montrose">Memoirs of the <persName
-                        ref="#Graham_DofMontrose">Marquis of Montrose</persName></title> a very
-                  great man &amp; great poet!</p>
             </div>
             <div type="entry" xml:id="e-353">
                <head><date when="1819-12-29">Wednesday 29 <add>DECEMBER</add></date></head>
@@ -6221,7 +6218,7 @@ Publisher:	London : [publisher not identified], 1786.
               Example: 
               <note resp="#srr">Savannah's note inside a new SI entry.</note>
                -->
-               <person xml:id="amp">      <!-- srr: Not found in local Index -->
+               <person xml:id="amp">      <!-- srr: Not found in local SI, but in Published SI-->
                   <persName>
                      <surname>Peddicord</surname>
                      <forename>Amber</forename>
@@ -6242,7 +6239,7 @@ Publisher:	London : [publisher not identified], 1786.
                         target="https://www.greensburg.pitt.edu/academics/majors-minors/digital-studies"
                         >Digital Studies Certificate</ref>. She graduates in spring 2021.</note>
                </person>
-               <person xml:id="SRR">      <!-- srr: Not found in local Index -->
+               <person xml:id="srr">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Ricks</surname>
                      <forename>Savannah</forename>
@@ -6251,7 +6248,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
 
                </person>
-               <person xml:id="TEAC">     <!-- srr: Not found in local Index -->
+               <person xml:id="TEAC">     <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Cameron</surname>
                      <forename>Tyler</forename>
@@ -6260,7 +6257,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
 
                </person>
-               <person xml:id="TSA">      <!-- srr: Not found in local Index -->
+               <person xml:id="TSA">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>
                      <surname>Akam</surname>
                      <forename>Tyler</forename>
@@ -6277,7 +6274,7 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                <org xml:id="Voules">
-                  <!-- srr: Not found in local index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <orgName>The Voules family</orgName>
                   <orgName>Voules's</orgName>
                   <orgName>
@@ -6289,7 +6286,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org>
 
                <org xml:id="Haywards">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI-->
                   <orgName>the Hayward family </orgName>
                   <orgName>Haywards</orgName>
                   <orgName>
@@ -6300,7 +6297,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <placeName ref="#Watlington">Watlington</placeName>.</note>
                </org>
                <org xml:id="Holtons">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI-->
                   <orgName>The Holton family</orgName>
                   <orgName>Holtons</orgName>
                   <orgName>
@@ -6312,37 +6309,9 @@ Publisher:	London : [publisher not identified], 1786.
 
                <!-- srr: I've added the last 3 orgs ^^^ -->
 
-               <org xml:id="Havell_Lib">
-                  <!--done-->
-                  <orgName>Havell's Library</orgName>
-                  <note resp="#lmw">Subscription library. <persName ref="#Mitford_Geo">George
-                        Mitford</persName> purchases a half year subscription for <persName
-                        ref="#MRM">Mary</persName> in <date when="1819-01">January 1819</date>.
-                     Source: Journal.</note>
-               </org>
 
-               <org xml:id="BroughtonDas">
-                  <!--done-->
-                  <orgName>Misses Broughton</orgName>
-                  <orgName><surname>Broughton</surname></orgName>
-                  <orgName>Unmarried daughters of the Broughton family.</orgName>
-               </org>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-               <!-- srr: <org xml:id="Newberys">
+               <!-- srr: From local SI *************************************************************
+                  <org xml:id="Newberys">
                   <orgName>the Newbery family</orgName>
                   <orgName><surname>Newbery</surname></orgName>
                   <orgName><addName>Newberrys</addName></orgName>
@@ -6352,6 +6321,7 @@ Publisher:	London : [publisher not identified], 1786.
                </org> -->
 
                <org xml:id="Newberrys">
+                  <!-- srr: Not found in Published SI -->
                   <!-- srr: A misspelling??? ^^^^ -->
                   <!--done-->
                   <orgName>the Newbery family</orgName>
@@ -6361,9 +6331,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
                         Newberry</persName>. Surname variously spelled <q>Newbery</q> and
                         <q>Newberry</q>.</note>
-               </org>
+               </org><!-- srr: ******************************************************************* -->
 
-               <org xml:id="Anstruthers">
+               <org xml:id="Anstruthers">    <!-- srr: Better desc than in local Index -->
                   <!--done-->
                   <orgName>the Anstruther family</orgName>
                   <orgName>Anstruthers</orgName>
@@ -6373,101 +6343,21 @@ Publisher:	London : [publisher not identified], 1786.
                         >Reading</placeName>.</note>
                </org>
 
-               <org xml:id="Shuters">
-                  <!--done-->
-                  <orgName>the Shuter family</orgName>
-                  <orgName>Shuters</orgName>
-                  <orgName><surname>Shuter</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Shuter_Mr">Mr. Shuter</persName>.
-                     Associated with <placeName ref="#Reading_city">Reading</placeName></note>
-               </org>
-
-               <org xml:id="Marsh_family">
-                  <!--done-->
-                  <orgName>the Marsh family</orgName>
-                  <orgName>Marshes</orgName>
-                  <orgName><surname>Marsh</surname></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Marsh_Henry">Harry
-                        Marsh</persName> and <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>.
-                     Associated with <placeName ref="#Reading_city">Reading</placeName>.</note>
-               </org>
-
-               <!-- srr: <org xml:id="Marshs_shop">
-                  <orgName>Marsh's</orgName>
-                  <note resp="#rjp #lmw">Retail shop <persName ref="#MRM">Mitford</persName>
-                     mentions patronizing in 1819. Source: Journal. </note>
-               </org> -->
-
-               <org xml:id="Marshs_shop">
-                  <!-- srr: Replace with main Index? ^^^ -->
-                  <!--done-->
-                  <orgName>Marsh's</orgName>
-                  <note resp="#rjp #lmw">Likely a retail store in
-                     Reading.<!--This is a place the MRM goes to purchase things...likely a retail
-                     store...VERIFY!--><!--LMW: MADE AN orgName as a business, rather than a place. Any relation to Harry Marsh? one-time banker--></note>
-               </org>
-
 
             </listOrg>
 
             <listPerson sortKey="histPersons">
-               <!-- srr: <person xml:id="Junius" sex="m">
-                  <persName>Junius</persName>
-                  <persName>
-                     <forename>Lucius</forename>
-                     <surname>Junius</surname>
-                     <surname>Brutus</surname>
-                  </persName>
-                  <persName>Junius</persName>
-                  <persName>
-                     <roleName>Consul of the Roman Republic</roleName>
-                  </persName>
-                  <birth>
-                     <placeName>ancient Rome</placeName>
-                  </birth>
-                  <death when="-0509">509 BC <placeName>Silva Arsia, Rome</placeName>
-                  </death>
-                  <occupation type="government" subtype="politician"/>
-                  <occupation type="literary"/>
-                  <note>
-                     <ref target="http://viaf.org/viaf/296192012"/>
-                  </note>
-               </person>-->
+               
                <person xml:id="Junius_pseudo" sex="m">
-                  <!-- Not found in local Index, found a 'Junius' but prob lot the same pers ^^^ -->
+                  <!-- Not found in local SI or in Published SI, found a 'Junius' but prob lot the same pers ^^^ -->
                   <persName>Junius</persName>
                   <note resp="#lmw">Pseudonymous author of <title ref="#JuniusLtrs">The Letters of
                         Junius</title>, active during the 1770s. Still unidentified, although may
                      have been <persName ref="#Francis_Philip">Sir Philip Francis</persName>.</note>
                </person>
 
-               <!-- <person xml:id="Phillips_Chas" sex="m">
-                  <persName>Charles Phillips</persName>
-                  <persName>
-                     <forename>Charles</forename>
-                     <surname>Phillips</surname>
-                  </persName>
-                  <birth when="1787">
-                     <placeName>Sligo, Ireland</placeName>
-                  </birth>
-                  <death when="1859-02-01">
-                     <placeName ref="#London_city">London, England</placeName>
-                  </death>
-                  <occupation type="literary"/>
-                  <occupation type="legal"/>
-                  <occupation type="legal" subtype="barrister"/>
-                  <occupation type="legal" subtype="judge"/>
-                  <note resp="#lmw">Irish author and barrister. <persName ref="#MRM"
-                        >Mitford</persName> mentions him a letter of 1819, along with <persName
-                        ref="#Burke_E">Edmund Burke</persName> and other Irish writers, as
-                     exhibiting a typical example of somewhat overblown Irish eloquence.</note>
-                  <note>
-                     <ref target="http://viaf.org/viaf/49248117"/>
-                  </note>
-               </person> -->
-
                <person xml:id="Francis_Philip" sex="m">
-                  <!-- srr: Not found in local Index, closest resembelance in main^^^ but still doubt the same pers-->
+                  <!-- srr: Not found in local SI or in Published SI, closest resembelance in local^^^ but still doubt the same pers-->
                   <persName>Sir Philip Francis</persName>
                   <persName>
                      <surname>Francis</surname>
@@ -6494,7 +6384,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Quillinan_Ed" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Edward Quillinan</persName>
                   <persName>
                      <surname>Quillinan</surname>
@@ -6518,7 +6408,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BuddenM" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Maria Elizabeth Halsey Budden</persName>
                   <persName>
                      <surname type="married">Budden</surname>
@@ -6538,7 +6428,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bisset_R" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Robert Bisset</persName>
                   <persName>
                      <surname>Bisset</surname>
@@ -6558,7 +6448,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Deacon_WF" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>William Frederick Deacon</persName>
                   <persName>
                      <surname>Deacon</surname>
@@ -6579,17 +6469,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="http://viaf.org/viaf/51543214"/></note>
                </person>
 
-               <person xml:id="Solomon" sex="u">
-                  <!--done-->
-                  <persName>Solomon</persName>
-                  <note resp="#lmw">May be the name of a Mitford servant or pet. Surname not
-                     given.</note>
-               </person>
+
+
+               
 
 
 
                <person xml:id="Strutt_Jos" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Joseph Strutt</persName>
                   <persName>
                      <surname>Strutt</surname>
@@ -6619,7 +6506,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="SchlegelF" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- finish -->
                   <persName>Friedrich von Schlegel</persName>
                   <persName>
@@ -6648,7 +6535,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="LopedeVega" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Félix Lope de Vega y Carpio</persName>
                   <persName>
                      <surname><nameLink>de</nameLink> Vega</surname>
@@ -6676,7 +6563,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MolesworthRbt" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Robert Molesworth</persName>
                   <persName>
                      <surname>Molesworth</surname>
@@ -6699,7 +6586,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hoare_RC" sex="m">
-                  <!-- srr: Not found in local Index, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
+                  <!-- srr: Not found in local SI or in Published SI, found 'Hoare_MA', maybe the wife of 'Hoare_RC?'-->
                   <persName>Sir Richard Colt Hoare</persName>
                   <persName>
                      <surname>Hoare</surname>
@@ -6730,7 +6617,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Aikin_Lucy" sex="f">
-                  <!-- srr: Not found in local Index, only found 'Aitken_Mr' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Aitken_Mr' -->
                   <persName>Lucy Aikin</persName>
                   <persName>
                      <surname type="paternal">Aikin</surname>
@@ -6764,7 +6651,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Davenport_Sel" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Selina Davenport</persName>
                   <persName>
                      <surname type="married">Davenport</surname>
@@ -6788,7 +6675,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="OKeeffe_Ad" sex="f">
-                  <!-- srr: Not found in local Index, found 'OKeefe' aka John OKeefe -->
+                  <!-- srr: Not found in local SI or in Published SI, found 'OKeefe' aka John OKeefe -->
                   <persName>Adelaide O'Keeffe</persName>
                   <persName>
                      <surname type="paternal">O'Keeffe</surname>
@@ -6813,7 +6700,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Blackford_Mar" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Lady Isabella Moncrieff Stoddart</persName>
                   <persName>
                      <surname type="paternal">Moncrieff</surname>
@@ -6835,7 +6722,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Robinson_Mary" sex="f">
-                  <!-- srr: Not found in local Index, did find 'Robinson_MaryD' might be the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Robinson_MaryD' in local SI, might be the same person -->
                   <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
@@ -6846,7 +6733,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Visconti_E" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Ennio Quirino Visconti</persName>
                   <persName>
                      <surname>Visconti</surname>
@@ -6876,7 +6763,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Crabbe" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>George Crabbe</persName>
                   <persName>
                      <surname>Crabbe</surname>
@@ -6898,7 +6785,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="HallamH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Hallam</persName>
                   <persName>
@@ -6920,7 +6807,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="WrightJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Wright</persName>
                   <persName>
@@ -6934,7 +6821,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="ClementWI" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Innell Clement</persName>
                   <persName>
@@ -6948,7 +6835,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="FarquharsonG" sex="m">
-                  <!-- srr: Not found in local Index, found 'Farquhar_George'?? Doubt same person -->
+                  <!-- srr: Not found in local SI or in Published SI, found 'Farquhar_George'?? Doubt same person -->
                   <!-- stub -->
                   <persName>George Farquharson</persName>
                   <persName>
@@ -6960,7 +6847,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Edwards_Bryan" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Bryan Edwards</persName>
                   <persName>
@@ -6974,7 +6861,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="KempeAJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Alfred John Kempe</persName>
                   <persName>
@@ -6990,7 +6877,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Windham_Wm" sex="m">
-                  <!-- srr: Not fouond in local Index -->
+                  <!-- srr: Not fouond in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Windham</persName>
                   <persName>
@@ -6999,11 +6886,10 @@ Publisher:	London : [publisher not identified], 1786.
                      <note resp="#lmw">1750-1810 </note>
                      <note><ptr target="http://viaf.org/viaf/79013184"/></note>
                   </persName>
-
                </person>
 
                <person xml:id="Amyot_Thos" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Amyot</persName>
                   <persName>
@@ -7013,7 +6899,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MatthewsH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Matthews</persName>
                   <persName>
@@ -7023,7 +6909,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Malcolm_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>James Peller Malcolm</persName>
                   <persName>
@@ -7034,7 +6920,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bowdich_TE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Edward Bowdich</persName>
                   <persName>
@@ -7045,7 +6931,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Machiavelli" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Niccolo Machiavelli</persName>
                   <persName>
@@ -7055,7 +6941,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="EdgeworthRL" sex="m">
-                  <!-- srr: Not found in local Index, found Edgeworth_Maria, maybe related? -->
+                  <!-- srr: Not found in local SI or in Published SI, found Edgeworth_Maria, maybe related? -->
                   <!-- stub -->
                   <persName>Richard Lovell Edgeworth</persName>
                   <persName>
@@ -7068,7 +6954,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Liebensrood_son" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>
                      <surname>Liebensrood</surname></persName>
@@ -7076,7 +6962,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hodgskin_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Hodgkinson_Mrs' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Hodgkinson_Mrs' -->
                   <!-- stub -->
                   <persName>Thomas Hodgskin</persName>
                   <persName>
@@ -7086,7 +6972,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Burckhardt_JL" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Lewis Burckhardt</persName>
                   <persName>
@@ -7097,7 +6983,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="ScafeJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Scafe</persName>
                   <persName>
@@ -7109,7 +6995,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="MDonough_F" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Felix M'Donough</persName>
                   <persName>
@@ -7119,33 +7005,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Surname also spelled MacDonough.</note>
                </person>
 
-               <person xml:id="Wilhelmina_Prussia1709" sex="f">
-                  <persName>Frederika Sophie Wilhelmine of Prussia</persName>
-                  <persName>
-                     <forename>Frederika</forename>
-                     <forename>Sophie</forename>
-                     <forename>Wilhelmine</forename>
-                  </persName>
-                  <persName><addName>Margravine of Brandenburg-Bareuth</addName></persName>
-                  <birth when="1709-07-03">
-                     <placeName>Berlin, Germany</placeName>
-                  </birth>
-                  <death when="1758-10-14">
-                     <placeName>Bayreuth, Bavaria, Germany</placeName>
-                  </death>
-                  <occupation type="artist"/>
-                  <occupation type="benefactor"/>
-                  <occupation type="literary"/>
-                  <occupation type="benefactor" subtype="patron"/>
-                  <occupation type="literary" subtype="autobiographer"/>
-                  <note resp="#lmw">House of Hohenzollern, granddaughter of George I of Great
-                     Britain, daughter of Frederic William I of Prussia and older sister of
-                     Frederick the Great. Patron of music; composer for voice, strings, keyboard and
-                     woodwinds; player on the lute.</note>
-               </person>
+               
 
                <person xml:id="PrinceEdward1767" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Prince Edward, Duke of Kent and Strathearn</persName>
                   <persName>
                      <surname>Hanover</surname>
@@ -7177,7 +7040,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="ZouchT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Zouch</persName>
                   <persName>
@@ -7190,7 +7053,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Wilmot_James" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Wilmot_John' -->
                   <!-- stub -->
                   <persName>James Wilmot</persName>
                   <persName>
@@ -7202,7 +7065,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Serres_OW" sex="f">
-                  <!-- srr: Not found in local Index, only found 'Wilmot_John' -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Olivia Wilmot Serres</persName>
                   <persName>
@@ -7213,7 +7076,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Taylor_Joseph" sex="m">
-                  <!-- srr: Not found in local Index, found many other Taylors -->
+                  <!-- srr: Not found in local SI or in Published SI, found many other Taylors -->
                   <!-- stub -->
                   <persName>Joseph Taylor</persName>
                   <persName>
@@ -7223,7 +7086,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Murphy_Ar" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Arthur Murphy</persName>
                   <persName>
@@ -7233,7 +7096,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Williams_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Williams_Mr' -->
+                  <!-- srr: Not found in local SI or in Published SI, only found many Williams -->
                   <!-- stub -->
                   <persName>Thomas Williams</persName>
                   <persName>
@@ -7243,7 +7106,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Jones_John" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Jones</persName>
                   <persName>
@@ -7254,7 +7117,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Richardson_Jon" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jonathan Richardson</persName>
                   <persName>
@@ -7264,7 +7127,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Rose_Wm" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Stewart Rose</persName>
                   <persName>
@@ -7274,36 +7137,10 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Lawrence_Wm" sex="m">
-                  <!-- done -->
-                  <persName>William Lawrence</persName>
-                  <persName>
-                     <surname>Lawrence</surname>
-                     <forename>William</forename>
-                     <roleName>1st Baronet</roleName>
-                  </persName>
-                  <birth when="1783-07-16"><placeName>Cirencester, Gloucestershire,
-                        England</placeName></birth>
-                  <death when="1867-07-05">
-                     <placeName>Westminster, London, England</placeName>
-                  </death>
-                  <occupation type="scholar" subtype="naturalist"/>
-                  <occupation type="scholar" subtype="philosopher"/>
-                  <occupation type="medical" subtype="surgeon"/>
-                  <occupation type="government" subtype="reformer"/>
-                  <note resp="#lmw">Lawrence contributed to ideas about the material origin of human
-                     consciousness and about natural selection refuting Lamarck, in the generation
-                     immediately preceding Darwin. In 1822, <persName ref="#Scott_John_LdEldon">the
-                        Lord Chancellor</persName> condemned as blasphemous Lawrence's second book,
-                        <title level="m">The Natural History of Man</title>, and he was forced to
-                     withdraw it. He campaigned for medical reforms and co-founded <title>The
-                        Lancet</title>. He later became president of the Royal College of Surgeons
-                     and was appointed surgeon to Queen Victoria, who granted him a
-                     baronetcy.</note>
-               </person>
+              
 
                <person xml:id="Fitzclarence_Geo" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>George Fitzclarence</persName>
                   <persName>
@@ -7317,7 +7154,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hutton_Cath" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Catherine Hutton</persName>
                   <persName>
@@ -7327,7 +7164,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Lester_E" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Elizabeth Lester</persName>
                   <persName>
@@ -7337,7 +7174,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Smith_Ch" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charlotte Smith</persName>
                   <persName>
@@ -7349,7 +7186,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Porter_Jane" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jane Porter</persName>
                   <persName>
@@ -7359,7 +7196,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Helme_Eliz" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Elizabeth Helme</persName>
                   <persName>
@@ -7369,7 +7206,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Comber_Thos" sex="m">
-                  <!-- srr: Not found in local Index, only found 'Comer_Mr'-->
+                  <!-- srr: Not found in local SI or in Published SI, only found 'Comer_Mr'-->
                   <!-- stub -->
                   <persName>Thomas Comber</persName>
                   <persName>
@@ -7379,7 +7216,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Legh_T" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Legh</persName>
                   <persName>
@@ -7394,7 +7231,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Burnet_Gil" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Gilbert Burnet</persName>
                   <persName>
@@ -7404,7 +7241,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Murray_Hugh" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Hugh Murray</persName>
                   <persName>
@@ -7414,7 +7251,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Heude_Wm" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Heude</persName>
                   <persName>
@@ -7424,7 +7261,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="RennellT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Rennell</persName>
                   <persName>
@@ -7434,7 +7271,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Saabye" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Hans Egede Saabye</persName>
                   <persName>
@@ -7445,7 +7282,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Savigny_JBH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Jean Baptiste Henri Savigny</persName>
                   <persName>
@@ -7470,7 +7307,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Correard_A" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Alexandre Corréard</persName>
                   <persName>
@@ -7482,7 +7319,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Nichols_JB" sex="m">
-                  <!-- srr: Not found in local Index, did find a 'Nicholls_John', not sure if the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find a 'Nicholls_John', not sure if the same person -->
                   <!-- stub -->
                   <persName>John Bowyer Nichols</persName>
                   <persName>
@@ -7493,7 +7330,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Brunton_Alex" sex="m">
-                  <!-- srr: Not found in local Index, did find a 'Brunton_Alexander', not sure if the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find a 'Brunton_Alexander', not sure if the same person -->
                   <!-- stub -->
                   <persName>Alexander Brunton</persName>
                   <persName>
@@ -7503,7 +7340,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Russell_John" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Russell</persName>
                   <persName>
@@ -7513,7 +7350,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Opie_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Opie</persName>
                   <persName>
@@ -7523,7 +7360,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="VauxJH" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Hardy Vaux</persName>
                   <persName>
@@ -7535,7 +7372,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BarrowJ" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Barrow_John' I feel like they're the same-->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Barrow_John' I feel like they're the same-->
                   <!-- stub -->
                   <persName>John Barrow</persName>
                   <persName>
@@ -7545,7 +7382,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Bennett_AM" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Anna Maria Bennett</persName>
                   <persName>
@@ -7562,7 +7399,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="BrookeFrances" sex="f">
-                  <!-- srr: Not found in local Index, found a 'Brooke_Miss' and 'Brooke_Mrs' with no forenames-->
+                  <!-- srr: Not found in local SI or in Published SI, found a 'Brooke_Miss' and 'Brooke_Mrs' with no forenames-->
                   <!-- stub -->
                   <persName>Frances Brooke</persName>
                   <persName>
@@ -7586,7 +7423,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook1" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired in <placeName
@@ -7597,7 +7434,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook2" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName
@@ -7612,7 +7449,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cook3" sex="u">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Cook</persName>
                   <occupation type="service" subtype="cook"/>
                   <note resp="#lmw">Cook <persName ref="#MRM">Mitford</persName> hired <placeName
@@ -7623,7 +7460,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Cunningham_JW" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Cunningham</persName>
                   <persName>
@@ -7635,7 +7472,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Disraeli_I" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Isaac D'Israeli</persName>
                   <persName>
@@ -7645,7 +7482,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="DoddCE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Dodd</persName>
                   <persName>
@@ -7658,7 +7495,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="DundasHen" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Henry Dundas, Lord Melville</persName>
                   <persName>
@@ -7678,7 +7515,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PorteousJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Porteous</persName>
                   <persName>
@@ -7690,7 +7527,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="EvelynJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Evelyn</persName>
                   <persName>
@@ -7700,7 +7537,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Fellowes_W" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>William Fellowes</persName>
                   <persName>
@@ -7711,7 +7548,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Hackett_J" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>James Hackett</persName>
                   <persName>
@@ -7721,7 +7558,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="GaspeyT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Gaspey</persName>
                   <persName>
@@ -7731,7 +7568,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="HookhamT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Hookham</persName>
                   <persName>
@@ -7741,7 +7578,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="KingWm" sex="m">
-                  <!-- srr: Found 'King_Wm', might be same person -->
+                  <!-- srr: Not found in local SI or Published, did find 'King_Wm', might be same person -->
                   <!-- stub -->
                   <persName>William King</persName>
                   <persName>
@@ -7751,7 +7588,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="LabaumeE" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Eugène Labaume</persName>
                   <persName>
@@ -7761,7 +7598,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MarieTherese_France" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Marie-Thérèse Charlotte de France, Duchesse d'Angloulême</persName>
                </person>
@@ -7776,7 +7613,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MawmanJ" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Joseph Mawman</persName>
                   <persName>
@@ -7786,7 +7623,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MeekeM" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Mary Meeke</persName>
                   <persName>
@@ -7796,7 +7633,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Mill_Chas" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Mill</persName>
                   <persName>
@@ -7806,7 +7643,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MowerA" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Arthur Mower</persName>
                   <persName>
@@ -7816,7 +7653,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="MuschetN" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Nicol Muschet</persName>
                   <persName>
@@ -7829,7 +7666,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Ormsby_James" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Ormsby</persName>
                   <persName>
@@ -7840,7 +7677,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PlumptreAnne" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Anne Plumtre</persName>
                   <persName>
@@ -7850,7 +7687,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PlumptreAnnabella" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Annabella Plumtre</persName>
                   <persName>
@@ -7860,7 +7697,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="PocockeT" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Thomas Pococke</persName>
                   <persName>
@@ -7870,7 +7707,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Repton" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Humphry Repton</persName>
                   <persName>
@@ -7882,7 +7719,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Ross_Capt" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>John Ross</persName>
                   <!-- stub -->
@@ -7894,7 +7731,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Salame_Ab" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Abraham Salame</persName>
                   <persName>
@@ -7904,7 +7741,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Schimmelpennick_MA" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Mary Anne Galton Schimmelpennick</persName>
                   <persName>
@@ -7916,7 +7753,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Sharpe_CK" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Charles Kirkpatrick Sharpe</persName>
                   <persName>
@@ -7927,7 +7764,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Shaw_Sam" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Samuel Shaw</persName>
                   <persName>
@@ -7937,7 +7774,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Wilson_Andrew" sex="m">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Andrew Wilson</persName>
                   <persName>
@@ -7947,31 +7784,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><!-- assocuated with Porteous trial --></note>
                </person>
 
-               <person xml:id="Armstrong_Mr" sex="m">
-                  <!-- srr: Found 'Armstrong_Mr' but not sure if same person -->
-                  <!--done-->
-                  <persName>Mr. Armstrong</persName>
-                  <persName>
-                     <surname>Armstrong</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"/>
-               </person>
-
-               <person xml:id="Bacon_Mr" sex="m">
-                  <!-- srr: Found 'Bacon_Mr' but not sure if same person -->
-                  <!--done-->
-                  <persName>Mr. Bacon</persName>
-                  <persName>
-                     <surname>Bacon</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#lmw"/>
-               </person>
+               
 
 
                <person xml:id="Dearesley_Mr" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Dearsley_Wm' might be same person-->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Dearsley_Wm' might be same person-->
                   <!--done-->
                   <persName>Mr. Dearesley</persName>
                   <persName>
@@ -7996,7 +7813,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"
                      ><!--LMW: July 1819 journal mentions both Mr. John Deverell and then Mr. Deverell.  John could be the son of Mr.--></note>
                </person>
-               <person xml:id="Fly_pet" sex="f">
+               
+               
+               <person xml:id="Fly_pet" sex="f">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Fly</persName>
                   <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February
                      1819 and <q>married</q> to MRM's dog Mossy in May 1819. </note>
@@ -8004,7 +7823,7 @@ Publisher:	London : [publisher not identified], 1786.
 
 
                <person xml:id="Havell_Mrs" sex="f">
-                  <!-- srr: Not found in local Index -->
+                  <!-- srr: Not found in local SI or in Published SI -->
                   <!--done-->
                   <persName>Mrs. Havell</persName>
                   <persName>
@@ -8063,7 +7882,7 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Maitland_Mr" sex="m">
-                  <!-- srr: Not found in local Index, did find 'Maitland_Eb' could be same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Maitland_Eb' in local SI, could be same person -->
                   <!--done-->
                   <persName>Mr. Maitland</persName>
                   <persName>
@@ -8073,8 +7892,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Ogbourn_Miss" sex="f">    <!-- srr: Do we need to keep? -->
-                  <!-- srr:  -->
+               <person xml:id="Ogbourn_Miss" sex="f">    <!-- srr: Do we need to keep? I did find a 'Ogbourn_Miss' in local SI not in Published SI-->
                   <!--done-->
                   <persName>Miss Ogbourn</persName>
                   <persName>
@@ -8108,7 +7926,7 @@ Publisher:	London : [publisher not identified], 1786.
                               </person>
                               -->
                
-               <person xml:id="Cockle_Gen" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Cockle_Gen" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <persName>General Cockle</persName>
                   <persName>
                      <surname>Cockle</surname>
@@ -8117,7 +7935,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Stewart_Mr" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Stewart_Mr" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <!-- 2022-10-30 ebb: mentioned in April 2020. 
                      I wonder if this is the same person as Major Stewart, whom she mentions in entries the next month? 
                      I'm moving the entries to sit next to each other.
@@ -8130,7 +7948,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </person>
 
-               <person xml:id="Stewart_Major" sex="m">      <!-- srr: Not found in local Index -->
+               <person xml:id="Stewart_Major" sex="m">      <!-- srr: Not found in local SI or in Published SI -->
                   <!-- ebb: Could this be the same as Stewart_Mr?  -->
                   <persName>
                      <surname>Major</surname>
@@ -8138,7 +7956,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="Talmage_Mrs" sex="f">     <!-- srr: Not found in local Index -->
+               <person xml:id="Talmage_Mrs" sex="f">     <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Mrs. Talmage</persName>
                   <persName>
                      <surname>Talmage</surname>
@@ -8153,11 +7971,11 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="places">
             <listPlace sortKey="histPlaces">
 
-               <place xml:id="Exmouth"/>     <!-- srr: Not found in local Index -->
+               <place xml:id="Exmouth"/>     <!-- srr: Not found in local SI or in Published SI -->
 
-               <place xml:id="ManchesterHouse"/>      <!-- srr: Not found in local Index -->
+               <place xml:id="ManchesterHouse"/>      <!-- srr: Not found in local SI or in Published SI -->
 
-               <place xml:id="copse_Dearesley">    <!-- srr: Not found in local Index -->
+               <place xml:id="copse_Dearesley">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Dearesley's copse</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8168,7 +7986,7 @@ Publisher:	London : [publisher not identified], 1786.
                      there in <date when="1819-03">March 1819</date>. Source: Journal.</note>
                </place>
 
-               <place xml:id="cottage_TMC">     <!-- srr: Not found in local Index -->
+               <place xml:id="cottage_TMC">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>cottage at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8182,7 +8000,7 @@ Publisher:	London : [publisher not identified], 1786.
                      there until <date when="1851">1851</date>.</note>
                </place>
 
-               <place xml:id="field_BBr">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_BBr">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Fields at Burghfield Bridge</placeName>
                   <district>Wokingham</district>
                   <region>Berkshire</region>
@@ -8193,7 +8011,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819-04">April 1819</date>.</note>
                </place>
 
-               <place xml:id="field_BH">     <!-- srr: Not found in local Index -->
+               <place xml:id="field_BH">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Fields at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8205,7 +8023,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#hay">hay</name>ing.</note>
                </place>
 
-               <place xml:id="plantation_BH">      <!-- srr: Not found in local Index -->
+               <place xml:id="plantation_BH">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Plantations at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8217,7 +8035,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819">1819</date> and <date when="1820">1820</date>,</note>
                </place>
 
-               <place xml:id="field_Body">      <!-- srr: Not found in local Index -->
+               <place xml:id="field_Body">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Body's fields</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8228,7 +8046,7 @@ Publisher:	London : [publisher not identified], 1786.
                         1819</date>.</note>
                </place>
 
-               <place xml:id="field_Dearesley">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_Dearesley">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Dearesley's field</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8241,7 +8059,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1819-03">March 1819</date>.</note>
                </place>
 
-               <place xml:id="field_Davies">    <!-- srr: Not found in local Index -->
+               <place xml:id="field_Davies">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Davies's fields</placeName>
                   <district>xxx</district>
                   <!--??-->
@@ -8250,7 +8068,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw"/>
                </place>
 
-               <place xml:id="field_Pithers">      <!-- srr: Not found in local Index -->
+               <place xml:id="field_Pithers">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Pithers's fields</placeName>
                   <district>Shinfield</district>
                   <region>Berkshire</region>
@@ -8262,7 +8080,7 @@ Publisher:	London : [publisher not identified], 1786.
                      year.</note>
                </place>
 
-               <place xml:id="field_PW">     <!-- srr: Not found in local Index, did find 'Pingewood' -->
+               <place xml:id="field_PW">     <!-- srr: Not found in local SI or in Published SI, did find 'Pingewood' -->
                   <placeName>Fields at Pinge Wood</placeName>
                   <district>Whitley</district>
                   <region>Berkshire</region>
@@ -8275,7 +8093,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#woodsorrel">wood sorrel</name>.</note>
                </place>
 
-               <place xml:id="field_TMC">    <!-- Not found in main Index, did find 'ThreeMileCross' -->
+               <place xml:id="field_TMC">    <!-- Not found in local SI or in Published SI, did find 'ThreeMileCross' -->
                   <placeName>Fields at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8284,7 +8102,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Mile Cross</placeName>.</note>
                </place>
 
-               <place xml:id="garden_BH">    <!-- srr: Not found in local Index -->
+               <place xml:id="garden_BH">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>garden at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8293,7 +8111,7 @@ Publisher:	London : [publisher not identified], 1786.
                         House</placeName> estate.</note>
                </place>
 
-               <place xml:id="meadow_BH">    <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_BH">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>meadows at Bertram House</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8302,7 +8120,7 @@ Publisher:	London : [publisher not identified], 1786.
                         House</placeName> estate.</note>
                </place>
 
-               <place xml:id="meadow_Bridgwater">     <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_Bridgwater">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Bridgwater's meadows</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8313,7 +8131,7 @@ Publisher:	London : [publisher not identified], 1786.
                         when="1820-04">April 1820</date>.</note>
                </place>
 
-               <place xml:id="meadow_Davies">      <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_Davies">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Mr. Davies's meadows</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8324,7 +8142,7 @@ Publisher:	London : [publisher not identified], 1786.
                      and <name ref="#violet">violet</name>s.</note>
                </place>
 
-               <place xml:id="meadow_TMC">      <!-- srr: Not found in local Index -->
+               <place xml:id="meadow_TMC">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>meadows at Three Mile Cross</placeName>
                   <district>Shinfield parish</district>
                   <region>Berkshire</region>
@@ -8333,7 +8151,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Mile Cross</placeName>.</note>
                </place>
 
-               <place xml:id="GroveCottage">    <!-- srr: Not found in local Index -->
+               <place xml:id="GroveCottage">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Grove Cottage</placeName>
                   <region>Berkshire</region>
                   <country>England</country>
@@ -8342,7 +8160,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Bertram_house">Bertram House</placeName>in 1820.</note>
                </place>
 
-               <place xml:id="Ashmolean_Old">      <!-- srr: Not found in local Index -->
+               <place xml:id="Ashmolean_Old">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Ashmolean</placeName>
                   <district>Oxford</district>
                   <!--??-->
@@ -8359,14 +8177,14 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </place>
 
-               <place xml:id="PaperMill_Marlow">      <!-- srr: Not found in local Index -->
+               <place xml:id="PaperMill_Marlow">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Paper mill on the Thames</placeName>
                   <district>Marlow</district>
                   <region>Berkshire</region>
                   <country>England</country>
                </place>
 
-               <place xml:id="BurghfieldBr">    <!-- srr: Not found in local Index -->
+               <place xml:id="BurghfieldBr">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Burghfield Bridge</placeName>
                   <district>Wokingham</district>
                   <region>Berkshire</region>
@@ -8385,7 +8203,7 @@ Publisher:	London : [publisher not identified], 1786.
                      /></note>
                </place>
 
-               <place xml:id="Lockinge">     <!-- srr: Not found in local Index -->
+               <place xml:id="Lockinge">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Lockinge</placeName>
                   <district>Wantage</district>
                   <region>Berkshire</region>
@@ -8400,7 +8218,7 @@ Publisher:	London : [publisher not identified], 1786.
                      /></note>
                </place>
 
-               <place xml:id="Overton">      <!-- srr: Not found in local Index -->
+               <place xml:id="Overton">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Overton</placeName>
                   <region>Hampshire</region>
                   <country>England</country>
@@ -8418,7 +8236,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <!-- https://www.stmarysoverton.org.uk/history.php [the dickers family have a plaque in the church] -->
                </place>
 
-               <place xml:id="ReadingTownHall">    <!-- srr: Not found in local Index -->
+               <place xml:id="ReadingTownHall">    <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Reading Town Hall</placeName>
                   <district>Reading</district>
                   <region>Berkshire</region>
@@ -8432,7 +8250,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note><ptr target="https://www.readingtownhall.co.uk/"/></note>
                </place>
 
-               <place xml:id="WhitleyWood">     <!-- srr: Not found in local Index -->
+               <place xml:id="WhitleyWood">     <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Whitley Wood</placeName>
                   <district>Reading</district>
                   <region>Berkshire</region>
@@ -8446,7 +8264,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note/>
                </place>
 
-               <place xml:id="Watlington">      <!-- srr: Not found in local Index -->
+               <place xml:id="Watlington">      <!-- srr: Not found in local SI or in Published SI -->
                   <placeName>Watlington</placeName>
                   <region>Oxfordshire</region>
                   <country>England</country>
@@ -8472,13 +8290,13 @@ Publisher:	London : [publisher not identified], 1786.
 
             <list sortKey="plants">
                
-               <item xml:id="flower"/>    <!-- srr: Not found in local Index -->
+               <item xml:id="flower"/>    <!-- srr: Not found in local SI or in Published SI -->
 
             </list>
 
             <list sortKey="animals">
 
-               <item xml:id="butterfly"/>    <!-- srr: Not found in local Index -->
+               <item xml:id="butterfly"/>    <!-- srr: Not found in local SI or in Published SI -->
 
             </list>
          </div>
@@ -8487,10 +8305,10 @@ Publisher:	London : [publisher not identified], 1786.
 
             <listBibl sortKey="serial_MRM">
 
-               <bibl xml:id="Times_Papers">     <!-- srr: Not found in local Index, did find 'Times_news' --> 
+               <bibl xml:id="Times_Papers">     <!-- srr: Not found in local SI or Published SI, did find 'Times_news' --> 
                </bibl>
                
-               <bibl xml:id="Pamphleteer_per">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Pamphleteer_per">     <!-- srr: Not found in local SI or Published SI -->
                   <title>The Pamphleteer</title>
                   <pubPlace>London</pubPlace>
                   <publisher><orgName ref="#AJValpy_pub">A. J. Valpy</orgName></publisher>
@@ -8507,32 +8325,32 @@ Publisher:	London : [publisher not identified], 1786.
                      Mitford and her circle included copyright law, the laws regulating theatres,
                      greyhounds and coursing, and brewing.</note> xvvv </bibl>
 
-               <bibl xml:id="BritishCritic_per">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="BritishCritic_per">      <!-- srr: Not found in local SI or Published SI -->
                   <title>British Critic</title>
                   <note resp="#lmw">Tory periodical</note>
                </bibl>
 
-               <bibl xml:id="EclecticRev">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="EclecticRev">      <!-- srr: Not found in local SI or Published SI -->
                   <title>Eclectic Review</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="MonthlyMag">    <!-- srr: Not found in local Index, did find 'New_Monthly_Mag' -->
+               <bibl xml:id="MonthlyMag">    <!-- srr: Not found in local SI or Published SI, did find 'New_Monthly_Mag' -->
                   <title>the Monthly Magazine</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EuroMag">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EuroMag">    <!-- srr: Not found in local SI or Published SI -->
                   <title>European Magazine</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EdinburghRev">     <!-- srr: Not found in local Index, did find 'EdinburghRev_per' might be same thing -->
+               <bibl xml:id="EdinburghRev">     <!-- srr: Not found in local SI or Published SI, did find 'EdinburghRev_per' might be same thing -->
                   <title>Edinburgh Review</title>
                   <note resp="#lmw">Periodical</note>
                </bibl>
 
-               <bibl xml:id="EdinburghMag1785to1816">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EdinburghMag1785to1816">    <!-- srr: Not found in local SI or Published SI -->
                   <title>Edinburgh Magazine; or Literary Miscellany</title>
                   <pubPlace><placeName ref="#Edinburgh"/></pubPlace>
                   <publisher><orgName>J. Sibbald</orgName></publisher>
@@ -8540,7 +8358,7 @@ Publisher:	London : [publisher not identified], 1786.
                      until 1826.</note>
                </bibl>
 
-               <bibl xml:id="EdinburghMag1817to1826">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="EdinburghMag1817to1826">    <!-- srr: Not found in local SI or Published SI -->
                   <title>Edinburgh Magazine; or Literary Miscellany</title>
                   <pubPlace><placeName ref="#Edinburgh"/></pubPlace>
                   <publisher><orgName>J. Constable</orgName></publisher>
@@ -8550,7 +8368,7 @@ Publisher:	London : [publisher not identified], 1786.
             </listBibl>
 
             <listBibl sortKey="work_MRM">
-               <bibl xml:id="Rome_ThreeMonths_Graham">
+               <bibl xml:id="Rome_ThreeMonths_Graham">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <title level="m">Three Months Passed in the Mountains East of Rome: during the year 1819</title>
                   <author ref="#Graham_Maria">Maria Graham</author>
                   <pubPlace>
@@ -8564,7 +8382,7 @@ Publisher:	London : [publisher not identified], 1786.
                      WorldCAT. Mitford mentions this book in <ref target="#e-596">her Journal entry of <date when="1820-08-29">August 29, 1820</date></ref> and rated it <quote>not good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="TwoPapers">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="TwoPapers">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Two Papers: A Theatrical Critique, and an Essay [ . . . ]
                      attributed to the Editor of the <q>Ex-m-n-r</q>
                   </title>
@@ -8579,7 +8397,7 @@ Publisher:	London : [publisher not identified], 1786.
                      internal evidence.</note>
                </bibl>
 
-               <bibl xml:id="Florence_Macarthy_SO"><!--update existing-->     <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Florence_Macarthy_SO"><!--update existing-->     <!-- srr: Better desc here than in local SI and Published SI -->
                   <title level="m">Florence Macarthy: An Irish Tale</title>
                   <author ref="#Owenson_S"/>
                   <publisher>Henry Colburn</publisher>
@@ -8591,7 +8409,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <ref target="#e-25">Journal entry <date when="1819-01-23">Saturday 23 JANUARY 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Remarks_Italy">    <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Remarks_Italy">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Remarks on Antiquities, Arts, and Letters, During an Excursion in Italy, in the Years 1802 and 1803.</title>
                   <author ref="#Forsyth_Jos">Joseph Forsyth</author>
@@ -8604,7 +8422,7 @@ Publisher:	London : [publisher not identified], 1786.
                      it</quote> in <ref target="#e-40">her journal entry of <date when="1819-02-15">Monday 15 February 1819</date></ref>.</note>
                </bibl>
 
-               <bibl xml:id="Marriage_SF">      <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Marriage_SF">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Marriage: A Novel</title>
                   <author ref="#Ferrier_Susan">Susan Ferrier</author>
@@ -8617,7 +8435,7 @@ Publisher:	London : [publisher not identified], 1786.
                      also says that it <quote>made me laugh</quote>. <ref target="#e-66">In journal entry <date when="1819-03-13">Saturday 13 MARCH 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Women_CM">      <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Women_CM">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Women: Or Pour et Contre. A Tale</title>
                   <author ref="#Maturin_Charles"/>
@@ -8628,7 +8446,7 @@ Publisher:	London : [publisher not identified], 1786.
                      also says that it <quote>made me laugh</quote>.<ref target="#e-80">In Journal <date when="1819-03-27">Saturday 27 MARCH 1819.</date></ref></note><!-- srr: why is Mitford's review incorrect here?? -->
                </bibl>
 
-               <bibl xml:id="Specimen_Nat_poem">      <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Specimen_Nat_poem">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">The Monks and the Giants: Prospectus and Specimen of an Intended National
                      Work; Intended to Comprise the Most Interesting Particulars Relating to King
@@ -8644,7 +8462,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>very good</quote>.<ref target="#e-99">In journal entry <date when="1819-04-15">Thursday 15 APRIL 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="TenYearsatTripoli">      <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="TenYearsatTripoli">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <author ref="#Tully_Miss">Miss Tully</author>
                   <!--LMW:  no reference sources indicate a forename for Miss Tully. -->
@@ -8662,7 +8480,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>very entertaining indeed</quote>. <ref target="#e-126">In journal entry <date when="1819-05-12">Wednesday 12 MAY 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Wheel_Fortune_play">     <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Wheel_Fortune_play">     <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Wheel of Fortune</title>
                   <author ref="#Cumberland_Rich"/>
@@ -8672,7 +8490,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>middling</quote>. <ref target="#e-130">In journal entry<date when="1819-05-16">Sunday 16 MAY 1819.</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Don_Juan_poem">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="Don_Juan_poem">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Don Juan</title>
                   <author>
@@ -8685,7 +8503,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>good but wicked</quote>. <ref target="#e-206">In journal entry <date when="1819-07-31">Saturday 31 JULY 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Peters_Letters_novel">      <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Peters_Letters_novel">      <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Peter’s Letters to his Kinsfolk</title>
                   <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
@@ -8700,7 +8518,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>very good</quote>.<ref target="#e-247"> In journal entry <date when="1819-09-04">Saturday 4 SEPTEMBER 1819</date></ref></note><!-- srr: why is Mitford rereading this novel the next day after finishing it? -->
                </bibl>
 
-               <bibl xml:id="Life_LadyRussell">    <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Life_LadyRussell">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Some Account of the Life of Rachael Wriothesley, Lady Russell, by the
                      editor of Madam Du Deffand’s letters. Followed by a series of letters from Lady
@@ -8719,7 +8537,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>interesting</quote>. <ref target="#e-271">In journal entry <date when="1819-10-05">Tuesday 5 OCTOBER 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="PR_JLeyden">    <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="PR_JLeyden">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">The Poetical Remains of the Late <persName ref="#Leyden_John">Dr. John
                      Leyden</persName>, with Memoirs of his Life, by the <persName>Rev. James
@@ -8734,7 +8552,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford rated it <quote>very good</quote>. <ref target="#e-279">In journal entry <date when="1819-10-14">Thursday 14 OCTOBER 1819</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Shakespeare_Times_nonfict">    <!-- srr: Better desc here than in local Index -->
+               <bibl xml:id="Shakespeare_Times_nonfict">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
                   <title level="m">Shakespeare and His Times: Including the Biography of the Poet; Criticisms
                      on his Genius and Writings; A New Chronology of the Plays; A Disquisition on
@@ -8748,22 +8566,31 @@ Publisher:	London : [publisher not identified], 1786.
                      used</quote>. <ref target="#e-433"> In journal entry <date when="1820-03-19">Sunday 19th March 1820</date></ref></note>
                </bibl>
 
-               <bibl xml:id="Monastery_WS">     <!-- srr: Not found in local Index, did find 'Monastery' -->
+               <bibl xml:id="Monastery_WS">     <!-- srr: Not found in local SI or Published SI, did find 'Monastery' -->
                   <!--update existing-->
                   <title/>
                   <note resp="#lmw">As Mitford reads, she rates it <quote>not very good</quote>,
                         <quote>not so good as some of his Novels</quote> and then, presumably as she
-                     reads the final volume, <quote>pretty good too</quote>.</note>
+                     reads the final volume, <quote>pretty good too</quote>. <ref target="#e-452"> In journal entry <date when="1820-04-07">Friday 7th April 1820</date></ref></note>
                </bibl>
 
-               <bibl xml:id="WalpoletoMontagu">    <!-- srr: Different desc here than in local Index -->
+               <bibl xml:id="WalpoletoMontagu">    <!-- srr: Better desc here than in local SI and Published SI -->
                   <!--update existing-->
-                  <title/>
-                  <note resp="#lmw">Mitford rated it <quote>charming</quote>.</note>
+                  <title level="m">Letters from the Hon. Horace Walpole to George Montagu, Esq. from the year
+                     1736, to the year 1770: Now First Published from the Originals in the
+                     Possession of the Editor</title>
+                  <author>
+                     <persName ref="#Walpole_Hor">Horace Walpole</persName>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Rodwell and Martin, and H. Colburn</publisher>
+                  <date when="1818">1818</date>
+                  <note resp="#lmw">A second edition appears in 1819.</note>
+                  <note resp="#lmw">Mitford rated it <quote>charming</quote>.<ref target="#e-306"> In journal entry <date when="1819-11-12">Friday 12 NOVEMBER 1819</date></ref></note>
                </bibl>
 
 
-               <bibl xml:id="Hacho">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Hacho">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Hacho; or, the Spell of St. Wilten</title>
                   <author><persName ref="#Deacon_WF">William Frederick Deacon</persName></author>
                   <publisher>William Hone</publisher>
@@ -8771,9 +8598,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <date when="1819"/>
                   <note resp="#lmw">Narrative poem in imitation of <persName ref="#Scott_Wal"
                         >Scott</persName>, written while the author was at Cambridge.</note>
+                  <note resp="srr">Mitford rated it <quote>tolerable</quote>. <ref target="#e-397"> In journal entry <date when="1820-02-11">Friday 11th February 1820</date></ref></note>
                </bibl>
 
-               <bibl xml:id="ManinMoon_Hone">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="ManinMoon_Hone">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Man in the Moon</title>
                   <author><persName ref="#Cruikshank_Geo"/></author>
                   <publisher>William Hone</publisher>
@@ -8781,10 +8609,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <date when="1820"/>
                   <note resp="#lmw">Full title: <title level="m">The Man in the Moon, A Speech from
                         the Throne to the Senate of Lunataria. In the Moon.</title>. Political
-                     satire.</note>
+                     satire.</note><!-- srr: No Rating -->
+                  
                </bibl>
 
-               <bibl xml:id="Acct_Know">  <!-- srr: Not found in local Index -->
+               <bibl xml:id="Acct_Know">  <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Account of the captivity of Capt. Robert Knox and other
                      Englishmen, in the island of Ceylon</title>
                   <author><persName ref="#Knox_Rbt"/></author>
@@ -8794,10 +8623,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Full title: <title level="m">Account of the Captivity of Capt.
                         Robert Knox and other Englishmen, in the island of Ceylon; and of the
                         Captain's miraculous escape, and return to England, in September, 1680;
-                        after detention on the island of nineteen years and a half.</title>.</note>
+                        after detention on the island of nineteen years and a half.</title>.</note><!-- srr: No Rating -->
                </bibl>
 
-               <bibl xml:id="Mems_Montrose">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mems_Montrose">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Most Renowned James Graham, Marquis of
                      Montrose</title>
                   <author ref="#Graham_DofMontrose"/>
@@ -8809,10 +8638,10 @@ Publisher:	London : [publisher not identified], 1786.
                         Graham, Marquis of Montrose. Translated from the Latin of the Rev. Dr.
                         George Wishart, afterwards Bishop of Edinburgh. To which are added, sundry
                         original letters, never before published</title>. After reading, Mitford
-                     commented that Graham was <q>a very great man &amp; great poet!</q>.</note>
+                     commented that Graham was <q>a very great man &amp; great poet!</q>.</note><!-- srr: No Rating -->
                </bibl>
 
-               <bibl xml:id="Mordaunt">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mordaunt">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mordaunt: Sketches of Life, Characters, and Manners, in Various
                      Countries</title>
                   <author>
@@ -8824,10 +8653,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Full title: <title level="m">Mordaunt: Sketches of Life,
                         Characters, and Manners, in Various Countries; including the Memoirs of a
                         French Lady of Quality.</title>. Mitford rated it <q>an excellent old
-                        Novel</q>.</note>
+                        Novel</q>.</note> <!-- No Rating -->
                </bibl>
 
-               <bibl xml:id="Sacrifice_Isabel">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Sacrifice_Isabel">    <!-- srr: Not found in local SI or Published SI -->
                   <title>The Sacrifice Of Isabel: A Poem.</title>
                   <author><persName ref="#Quillinan_Ed"/></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -8837,7 +8666,7 @@ Publisher:	London : [publisher not identified], 1786.
                </bibl>
 
 
-               <bibl xml:id="Diary_Dodington"/>    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Diary_Dodington"/>    <!-- srr: Not found in local SI or Published SI -->
                <!--<persName ref="#Dodington_Geo">Bubb Doddington</persName>'s Diary</title> <q>which is Corruption itself</q>.</p>
                   The diary of the late George Bubb Dodington, Baron of Melcombe Regis, from March 8, 1749, to February 6, 1761;
 Author:	George Bubb Doddington Melcombe, Baron.; Aston William; Bookbinder Head & Hull; Head & Hull Bookbinder; Hull & Head Bookbinder; All authors
@@ -8845,13 +8674,13 @@ Publisher:	Salisbury, pr. & sold by E.Easton; London, G. & T. Wilkie;, 1784.
                http://viaf.org/viaf/36909450
                -->
 
-               <bibl xml:id="PrivateCorr_BF"/>     <!-- srr: Not found in local Index -->
+               <bibl xml:id="PrivateCorr_BF"/>     <!-- srr: Not found in local SI or Published SI -->
                <!--<persName ref="#Franklin_Ben">Dr. Franklin</persName>'s Correspondence</title>
                   The private correspondence of Benjamin Franklin, LL. D, F.R.S., &c. Minister Plenipontentiary from the United States of America at the court of France, and for the Treaty of Peace and Independence with Great Britain, &c. & c : comprising a series of letters on miscellaneous, literary, and political subjects written between the years 1753 and 1790, illustrating the memoirs of his public and private life, and developing the secret history of his political transactions and negociations
                   1817
                   <q>famous>q/>-->
 
-               <bibl xml:id="BioMem_PrCharlotte"/>    <!-- srr: Not found in local Index -->
+               <bibl xml:id="BioMem_PrCharlotte"/>    <!-- srr: Not found in local SI or Published SI -->
                <!--Life of <persName ref="#PrincessCharlotte">Princess Charlotte</persName></title> by <persName ref="#Booth_John">Booth</persName>
                   A biographical memoir of the public and private life of the much lamented Princess Charlotte Augusta of Wales and Saxe-Coburg : illustrated with recollections, anecdotes, and traits of character, including incidental observations upon persons and events connected with the subject of the memoir, accompanied by explanatory and authentic documents in an appendix.
 Author:	Henry Hoppner Meyer; George Hawkins; John Barfield; John Booth, (Bookseller); John Hatchard; All authors
@@ -8859,14 +8688,14 @@ Publisher:	London : Printed by J. Barfield, Wardour-Street, printer to H.R.H. th
 
 <q>a catch penny thing</q>-->
 
-               <bibl xml:id="Mems_Martyn"/>     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mems_Martyn"/>     <!-- srr: Not found in local SI or Published SI -->
                <!--memoirs of <persName ref="#Martyn_H">H. Martyn</persName></title>
                   Memoirs of the Rev. Henry Martyn, etc. [By John Sargent.].
 Author:	John SARGENT, Rector of Lavington.; Henry Martyn
 Publisher:	London : J. Hatchard, 1819.
                      full title: Memoir of the Rev. Henry Martyn, B.D. late fellow of St. John's College, Cambridge, and chaplain to the honorable East India Company.-->
 
-               <bibl xml:id="MiltonWksLife_CS"/>      <!-- srr: Not found in local Index, did find 'Milton_PoemsI' and 'Milton_PoemsII' -->
+               <bibl xml:id="MiltonWksLife_CS"/>      <!-- srr: Not found in local SI or Published SI, did find 'Milton_PoemsI' and 'Milton_PoemsII' -->
                <!--<persName ref="#Symmon_Chas">Symmon</persName>'s Life of Milton</title>
                   The prose works of John Milton : with a life of the author
 Author:	John Milton; Charles Symmons
@@ -8875,7 +8704,7 @@ Series:	Library of English literature, LEL 20265-68.
 <q>very good<q/>
                -->
 
-               <bibl xml:id="NoFiction"/>    <!-- srr: Not found in local Index -->
+               <bibl xml:id="NoFiction"/>    <!-- srr: Not found in local SI or Published SI -->
                <!--No Fiction</title>
                   No Fiction: a narrative founded on recent and interesting facts. [By Andrew Reed.]].
 Author:	FICTION.; Andrew REED, the Elder.
@@ -8883,42 +8712,42 @@ Publisher:	London, 1820.
 <q>sad methodistical stuff</q>
                -->
 
-               <bibl xml:id="Sermons_RRussell">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Sermons_RRussell">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Manuscript sermons</title>
                   <author ref="#Russell_Richard"/>
                   <note resp="#lmw">Unpublished manuscript sermons by <persName ref="#MRM"
                         >Mitford</persName>'s grandfather. <persName ref="#MRM">Mitford</persName>
                      owns a copy, which she loans to <persName ref="#Knyvett_Chas">Charles
-                        Knyvett</persName>.</note>
+                        Knyvett</persName>.</note><!-- srr: No Rating -->
                </bibl>
 
 
-               <bibl xml:id="MossyMs">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="MossyMs">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Manuscript tribute to Mossy</title>
                   <author ref="#MRM"/>
                   <note resp="#lmw">Manuscript tribute to <persName ref="#Mossy_pet"
-                        >Mossy</persName>, written after his death.</note>
+                        >Mossy</persName>, written after his death.</note><!-- srr: No Rating -->
                </bibl>
 
-               <bibl xml:id="MossyPoem">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="MossyPoem">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Manuscript poem to Mossy</title>
                   <author ref="#MRM"/>
                   <note resp="#lmw">Manuscript poem to <persName ref="#Mossy_pet">Mossy</persName>,
-                     written after his death.</note>
+                     written after his death.</note><!-- srr: No Rating -->
                </bibl>
 
-               <bibl xml:id="Independence">     <!-- srr: Not found in local Index, did find 'Independence_1827' -->
+               <bibl xml:id="Independence">     <!-- srr: Not found in local SI or Published SI, did find 'Independence_1827' -->
                   <title level="m">Independence</title>
-                  <note resp="#lmw">Author and date unidentified.</note>
+                  <note resp="#lmw">Author and date unidentified.</note><!-- srr: No Rating -->
                </bibl>
 
-               <bibl xml:id="AuthAcct_FrRev">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="AuthAcct_FrRev">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Authentic Account of the French Revolution</title>
                   <note resp="#lmw">Author and date unidentified. Mitford rated it
                         <q>interesting</q>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Morland">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Morland">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Morland</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
@@ -8926,28 +8755,28 @@ Publisher:	London, 1820.
 Author:	Francis William Blagdon; George Morland
 Publisher:	London : Printed for Edward Orme, 1806. -->
 
-               <bibl xml:id="Raymond">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Raymond">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Raymond</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
 
-               <bibl xml:id="Branford">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Branford">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Branford</title>
                   <note resp="#lmw">Author and date unidentified. Mitford rated it <quote>pretty
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="SoldierBoy">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="SoldierBoy">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Soldier Boy</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
 
-               <bibl xml:id="Ellesmere">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Ellesmere">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Ellesmere</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
 
-               <bibl xml:id="Vicissitudes">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Vicissitudes">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Vicissitudes</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                   <!-- On the Origin and Vicissitudes of Literature, Science and Art,
@@ -8962,7 +8791,7 @@ Publisher:	London : E. Cox and Son, 1815
                   -->
                </bibl>
 
-               <bibl xml:id="Lectures_JOpie">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Lectures_JOpie">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Lectures on Painting</title>
                   <author ref="#Opie_J #Opie_Amelia"/>
                   <publisher>Longman, Hurst, Rees and Orme</publisher>
@@ -8976,7 +8805,7 @@ Publisher:	London : E. Cox and Son, 1815
                      character</title>.</note>
                </bibl>
 
-               <bibl xml:id="CritProse_Dryden">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="CritProse_Dryden">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Critical and Miscellaneous Prose Works of John Dryden</title>
                   <author><persName ref="#Dryden"/></author>
                   <editor>Edmond Malone</editor>
@@ -8990,7 +8819,7 @@ Publisher:	London : E. Cox and Son, 1815
                         greater part of which has never before been published.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Italian_AR">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Italian_AR">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Italian</title>
                   <author><persName ref="#Radcliffe_A"/></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -9000,7 +8829,7 @@ Publisher:	London : E. Cox and Son, 1815
                         the Black Penitents. A Romance</title>.</note>
                </bibl>
 
-               <bibl xml:id="Orig_Miniature">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Orig_Miniature">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Original of the Miniature. a Novel.</title>
                   <author><persName ref="#Davenport_Sel"/></author>
                   <publisher>A. K. Newman</publisher>
@@ -9009,7 +8838,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">4 volumes. Printed at the Minerva Press.</note>
                </bibl>
 
-               <bibl xml:id="QueenhooH">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="QueenhooH">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Queenhoo Hall, A Romance</title>
                   <author><persName ref="#Strutt_Jos"/></author>
                   <publisher>John Murray</publisher>
@@ -9020,7 +8849,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
 
 
-               <bibl xml:id="View_Europe">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="View_Europe">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">View of the State of Europe during the Middle Ages</title>
                   <author><persName ref="#HallamH"/></author>
                   <publisher>John Murray</publisher>
@@ -9029,7 +8858,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">3 volumes. Mitford rated it <quote>good</quote></note>
                </bibl>
 
-               <bibl xml:id="WrightvClement">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="WrightvClement">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Report of the Action, Wright v. Clement</title>
                   <author><persName ref="#WrightJ #ClementWI #FarquharsonG"/></author>
                   <publisher>J. Wright</publisher>
@@ -9042,7 +8871,7 @@ Publisher:	London : E. Cox and Son, 1815
                      jury</title>.</note>
                </bibl>
 
-               <bibl xml:id="DescCat_Louvre">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="DescCat_Louvre">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Descriptive Catalogue of the Pictures in the Royal Museum, or,
                      the Louvre</title>
                   <author><persName ref="#Visconti_E"/></author>
@@ -9054,7 +8883,7 @@ Publisher:	London : E. Cox and Son, 1815
                         sculpture in the lower gallery.</title></note>
                </bibl>
 
-               <bibl xml:id="HistWIndies_BE">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="HistWIndies_BE">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">History of the West Indies</title>
                   <author><persName ref="#Edwards_Bryan"/></author>
                   <publisher>G. and W. B. Whittaker</publisher>
@@ -9065,7 +8894,7 @@ Publisher:	London : E. Cox and Son, 1815
                         time. with maps and plates</title>.</note>
                </bibl>
 
-               <bibl xml:id="Life_Wesley">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Life_Wesley">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Life of Wesley</title>
                   <author><persName ref="#Southey_R"/></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9076,7 +8905,7 @@ Publisher:	London : E. Cox and Son, 1815
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_Campaign_Saxony">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Narr_Campaign_Saxony">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Circumstantial Narrative of the Campaign in Saxony, in the year
                      1813</title>
                   <author><persName ref="#KempeAJ"/></author>
@@ -9090,7 +8919,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford rated it <quote>good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Dudley">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Dudley">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Dudley</title>
                   <author><persName ref="#OKeeffe_Ad"/></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9099,7 +8928,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">3 volumes. by <q>Miss O'Keeffe</q>.</note>
                </bibl>
 
-               <bibl xml:id="EskdaleHerdboy">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="EskdaleHerdboy">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Eskdale Herd-Boy</title>
                   <author><persName ref="#Blackford_Mar"/></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -9110,7 +8939,7 @@ Publisher:	London : E. Cox and Son, 1815
                      rated it <quote>good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Speeches_Windham">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Speeches_Windham">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Speeches in Parliament of the Right Honourable William
                      Windham</title>
                   <author><persName ref="#Windham_Wm #Amyot_Thos"/></author>
@@ -9123,7 +8952,7 @@ Publisher:	London : E. Cox and Son, 1815
                      and <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="TalesofFancy_Shipwreck">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="TalesofFancy_Shipwreck">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Tales of Fancy: The Shipwreck</title>
                   <author>
                      <persName ref="#Burney_SH">Sarah Harriet Burney</persName>
@@ -9138,7 +8967,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote> and <quote>very good indeed</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Country_Neighbours"><!--existing entry, fix date--><!-- srr: Better desc -->
+               <bibl xml:id="Country_Neighbours"><!--existing entry, fix date--><!-- srr: Better desc than in local SI and Published SI-->
                   <title level="m">Tales of Fancy: Country Neighbors; or, The Secret</title>
                   <author>
                      <persName ref="#Burney_SH">Sarah Harriet Burney</persName>
@@ -9152,7 +8981,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote> and <quote>very good indeed</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Delphine">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Delphine">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Delphine</title>
                   <author><persName ref="#deStael"/></author>
                   <publisher>J. J. Paschoud</publisher>
@@ -9162,7 +8991,7 @@ Publisher:	London : E. Cox and Son, 1815
                         dismal</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Travels_Nubia">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Travels_Nubia">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Travels in Nubia</title>
                   <author><persName ref="#Burckhardt_JL"/></author>
                   <publisher>John Murray</publisher>
@@ -9172,7 +9001,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Interior Parts of Africa.</note>
                </bibl>
 
-               <bibl xml:id="Mission_Ashantee">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mission_Ashantee">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mission from Cape Coast Castle to Ashantee</title>
                   <author><persName ref="#Bowdich_TE"/></author>
                   <publisher>John Murray</publisher>
@@ -9184,7 +9013,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>dull</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_RLEdgeworth">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mems_RLEdgeworth">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of Richard Lovell Edgeworth</title>
                   <author><persName ref="#EdgeworthRL #Edgeworth_Maria"/></author>
                   <publisher>R. Hunter</publisher>
@@ -9195,7 +9024,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Edgeworth</title>. Mitford rated it <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Travels_NGermany">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Travels_NGermany">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Travels in the North of Germany</title>
                   <author><persName ref="#Hodgskin_Thos"/></author>
                   <publisher>A. Constable</publisher>
@@ -9207,7 +9036,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>good politics but middling writing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Knights_Swan">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Knights_Swan">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Knights of the Swan</title>
                   <author><persName ref="#deGenlis_Mme"/></author>
                   <publisher>Vernor and Hood</publisher>
@@ -9218,7 +9047,7 @@ Publisher:	London : E. Cox and Son, 1815
                         in continuation of The tales of the castle</title>.</note>
                </bibl>
 
-               <bibl xml:id="Walsingham">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Walsingham">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Walsingham</title>
                   <author><persName ref="#Robinson_Mary"/></author>
                   <publisher>T. N. Longman</publisher>
@@ -9229,7 +9058,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Press. Mitford rated it <quote>old &amp; bad</quote>.</note>
                </bibl>
 
-               <bibl xml:id="KingCoal">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="KingCoal">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">King Coal's Levée</title>
                   <author><persName ref="#ScafeJ"/></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9240,7 +9069,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford called it a <quote>pretty little thing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_WilhelminaofPrussia">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mems_WilhelminaofPrussia">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of Frederica Sophia Wilhelmina</title>
                   <author><persName ref="#Wilhelmine_Prussia1709"/></author>
                   <publisher>Henry Colburn</publisher>
@@ -9253,7 +9082,7 @@ Publisher:	London : E. Cox and Son, 1815
                      French in 1810.</note>
                </bibl>
 
-               <bibl xml:id="HermitInLondon">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="HermitInLondon">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Hermit in London</title>
                   <author><persName ref="#MDonough_F"/></author>
                   <publisher>Henry Colburn</publisher>
@@ -9264,7 +9093,7 @@ Publisher:	London : E. Cox and Son, 1815
                      rated it <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Sketch_FriendsFam">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="Sketch_FriendsFam">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Sketch of my Friend's Family</title>
                   <author><persName ref="#Marshall_MrsLA"/></author>
                   <publisher>Henry Teape</publisher>
@@ -9276,7 +9105,7 @@ Publisher:	London : E. Cox and Son, 1815
                      stuff</quote>.</note>
                </bibl>
 
-               <bibl xml:id="SirPFrancisDenied">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="SirPFrancisDenied">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Sir Philip Francis denied!: a letter addressed to the British
                      nation</title>
                   <author><persName ref="#Serres_OW"/></author>
@@ -9288,7 +9117,7 @@ Publisher:	London : E. Cox and Son, 1815
                      over the identity of the pseudonymous author.</note>
                </bibl>
 
-               <bibl xml:id="JuniusLtrs">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="JuniusLtrs">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Letters of Junius</title>
                   <author><persName ref="#Junius_pseudo"/></author>
                   <editor>Henry Sampson Woodfall</editor>
@@ -9309,7 +9138,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
 
 
-               <bibl xml:id="LecPoetry_WHaz">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="LecPoetry_WHaz">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Lectures on the English Poets, delivered at the Surrey
                      Institution</title>
                   <author ref="#Hazlitt_Wm"/>
@@ -9322,7 +9151,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819">1819</date>
                </bibl>
 
-               <bibl xml:id="Narr_EgyptCataracts">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Narr_EgyptCataracts">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Narrative of a Journey in Egypt and the Country Beyond the
                      Cataracts</title>
                   <author><persName ref="#Radcliffe_A"/></author>
@@ -9331,7 +9160,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1817"/>
                </bibl>
 
-               <bibl xml:id="HaroldEx">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="HaroldEx">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Harold the Exile</title>
                   <author>anonymous</author>
                   <pubPlace ref="#London_city">London</pubPlace>
@@ -9343,7 +9172,7 @@ Publisher:	London : E. Cox and Son, 1815
                         &amp; dismal</quote>.</note>
                </bibl>
 
-               <bibl xml:id="AntiquitatesCurio">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="AntiquitatesCurio">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Antiquitates Curiosae: the etymology of many remarkable old
                      sayings, proverbs, &amp; singular customs</title>
                   <author><persName ref="#Taylor_Joseph"/></author>
@@ -9352,7 +9181,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="WaytoKeepHim">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="WaytoKeepHim">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Way to Keep Him. A Comedy in Five Acts</title>
                   <author><persName ref="#Murphy_Ar"/></author>
                   <publisher>P. Vaillant</publisher>
@@ -9363,7 +9192,7 @@ Publisher:	London : E. Cox and Son, 1815
                      earlier 1760 version had 3 acts, rather than 5.</note>
                </bibl>
 
-               <bibl xml:id="NapoleonPeint">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="NapoleonPeint">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Napoleon Peint Par Lui-même. Extraits du Véritable Manuscrit de
                      Napoleon Bonaparte, par un Amércain</title>
                   <author><persName ref="#Napoleon"/></author>
@@ -9373,7 +9202,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw"/>
                </bibl>
 
-               <bibl xml:id="TraitsNature">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="TraitsNature">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Traits of Nature</title>
                   <author><persName ref="#Burney_SH"/></author>
                   <publisher>Henry Colburn</publisher>
@@ -9382,7 +9211,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">5 volumes.</note>
                </bibl>
 
-               <bibl xml:id="Mazeppa_By">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Mazeppa_By">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mazeppa, a Poem.</title>
                   <author><persName ref="#Byron"/></author>
                   <publisher>John Murray</publisher>
@@ -9392,7 +9221,7 @@ Publisher:	London : E. Cox and Son, 1815
                      much</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Reynolds_LitWks">     <!-- srr: Not found in local Index -->
+               <bibl xml:id="Reynolds_LitWks">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Literary Works of Sir Joshua Reynolds</title>
                   <author><persName ref="#Reynolds_Josh"/></author>
                   <publisher>Cadell and Davies</publisher>
@@ -9407,7 +9236,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Malone, Esq. In Three Volumes</title>.</note>
                </bibl>
 
-               <bibl xml:id="MemsQE1">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="MemsQE1">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Court of Elizabeth, Queen of England</title>
                   <author><persName ref="#Aikin_Lucy"/></author>
                   <publisher>Longman, Hurst, Rees, Orme, Brown, and Green</publisher>
@@ -9416,7 +9245,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">2 volumes.</note>
                </bibl>
 
-               <bibl xml:id="Manners">    <!-- srr: Not found in local Index -->
+               <bibl xml:id="Manners">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Manners: A Novel</title>
                   <author><persName ref="#BrookeFrances"/></author>
                   <publisher>Baldwin, Cradock, and Joy</publisher>
@@ -9426,7 +9255,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford rated it <quote>a pretty thing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="TalesofmyLandord_3rd">      <!-- srr: Not found in local Index -->
+               <bibl xml:id="TalesofmyLandord_3rd">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Tales of my Landlord, 3rd series</title>
                   <author><persName ref="#Scott_Wal"/></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -9438,7 +9267,7 @@ Publisher:	London : E. Cox and Son, 1815
                      three and four.</note>
                </bibl>
 
-               <bibl xml:id="ClassicalTour_Hoare">
+               <bibl xml:id="ClassicalTour_Hoare">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Classical Tour Through Italy and Sicily</title>
                   <author><persName ref="#Hoare_RC"/></author>
                   <publisher>Mawman</publisher>
@@ -9450,7 +9279,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>humdrum</quote>.</note>
                </bibl>
 
-               <bibl xml:id="InsaneWorld">
+               <bibl xml:id="InsaneWorld">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Insane World</title>
                   <author><persName ref="#Williams_Thos"/></author>
                   <publisher>J. Hatchard</publisher>
@@ -9461,7 +9290,7 @@ Publisher:	London : E. Cox and Son, 1815
                         frantical</quote>.</note>
                </bibl>
 
-               <bibl xml:id="AcctDenmark1692">
+               <bibl xml:id="AcctDenmark1692">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">An Account of Denmark in 1692</title>
                   <author><persName ref="#MolesworthRbt"/></author>
                   <publisher>Timothy Goodwin</publisher>
@@ -9471,7 +9300,7 @@ Publisher:	London : E. Cox and Son, 1815
                         the year MDCXCII</title>.</note>
                </bibl>
 
-               <bibl xml:id="Remarks_HistEng">
+               <bibl xml:id="Remarks_HistEng">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Remarks on the History of England</title>
                   <author><persName ref="#Bolinbroke"/></author>
                   <publisher>Richard Francklin</publisher>
@@ -9483,7 +9312,7 @@ Publisher:	London : E. Cox and Son, 1815
                      read the later reprint published by T. Davies.</note>
                </bibl>
 
-               <bibl xml:id="Acct_War1808">
+               <bibl xml:id="Acct_War1808">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Account of the War in Spain and Portugal, and in the South of
                      France, from 1808, to 1814, inclusive</title>
                   <author><persName ref="#Jones_John"/></author>
@@ -9495,7 +9324,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="WksPainting_JR">
+               <bibl xml:id="WksPainting_JR">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Works of Jonathan Richardson</title>
                   <author><persName ref="#Richardson_Jon"/></author>
                   <publisher>T. Davies</publisher>
@@ -9507,7 +9336,7 @@ Publisher:	London : E. Cox and Son, 1815
                         connoisseur</title>.</note>
                </bibl>
 
-               <bibl xml:id="Coll_PolTracts">
+               <bibl xml:id="Coll_PolTracts">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Collection of Political Tracts</title>
                   <author><persName ref="#Bolinbroke"/></author>
                   <publisher>Richard Francklin</publisher>
@@ -9519,7 +9348,7 @@ Publisher:	London : E. Cox and Son, 1815
                      T. Davies.</note>
                </bibl>
 
-               <bibl xml:id="TalesHall_GC">
+               <bibl xml:id="TalesHall_GC">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Tales of the Hall</title>
                   <author><persName ref="#Crabbe"/></author>
                   <publisher>John Murray</publisher>
@@ -9528,7 +9357,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">2 vols. Verse. Last work published in his lifetime.</note>
                </bibl>
 
-               <bibl xml:id="Journal_India1817">
+               <bibl xml:id="Journal_India1817">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Journal of a Route Across India</title>
                   <author><persName ref="#Fitzclarence_Geo"/></author>
                   <publisher>John Murray</publisher>
@@ -9539,7 +9368,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Beginning of 1818</title>.</note>
                </bibl>
 
-               <bibl xml:id="Desc_NSWales">
+               <bibl xml:id="Desc_NSWales">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Description of the Colony of New South Wales</title>
                   <author><persName ref="#Wentworth_WC"/></author>
                   <publisher>G. &amp; W. B. Whittaker</publisher>
@@ -9551,7 +9380,7 @@ Publisher:	London : E. Cox and Son, 1815
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="MiserMarried">
+               <bibl xml:id="MiserMarried">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Miser Married: A Novel</title>
                   <author><persName ref="#Hutton_Cath">Catherine Hutton</persName></author>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9561,7 +9390,7 @@ Publisher:	London : E. Cox and Son, 1815
                      thing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Life_WmRussell">
+               <bibl xml:id="Life_WmRussell">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Life of William, Lord Russell</title>
                   <author><persName ref="#Russell_John"/></author>
                   <publisher>Longman, Hurst, Rees, Orme and Brown</publisher>
@@ -9572,7 +9401,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>pretty good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="LectsHistLit_Schlegel">
+               <bibl xml:id="LectsHistLit_Schlegel">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Lectures on the History of Literature: Ancient and Modern</title>
                   <author><persName ref="#SchlegelF"/></author>
                   <publisher>William Blackwood</publisher>
@@ -9580,7 +9409,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="YoungPhil_CS">
+               <bibl xml:id="YoungPhil_CS">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Young Philosopher. A Novel</title>
                   <author><persName ref="#Smith_Ch">Charlotte Smith</persName></author>
                   <publisher>T. Cadell, Jr. and W. Davies</publisher>
@@ -9590,7 +9419,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal.</note>
                </bibl>
 
-               <bibl xml:id="LifeRichard2">
+               <bibl xml:id="LifeRichard2">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Life and Reign of King Richard the Second, by a Person of
                      Quality</title>
                   <author><persName ref="#Howard_SirRob"/></author>
@@ -9599,7 +9428,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1681"/>
                </bibl>
 
-               <bibl xml:id="HistAcctAfrica_JL">
+               <bibl xml:id="HistAcctAfrica_JL">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Historical Account of Discoveries and Travels in Africa, by the
                      late J. Leyden</title>
                   <author><persName ref="#Leyden_John #Murray_Hugh"/></author>
@@ -9611,7 +9440,7 @@ Publisher:	London : E. Cox and Son, 1815
                         present time, with illustrations</title>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Napoleon1815">
+               <bibl xml:id="Mems_Napoleon1815">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mémoires pour servir à l'histoire de la vie privée, du retour, et
                      du règne de Napoléon en 1815</title>
                   <author><persName ref="#deChaboulon"/></author>
@@ -9622,7 +9451,7 @@ Publisher:	London : E. Cox and Son, 1815
                      it <quote>a most interesting book</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Byron_6thPoems">
+               <bibl xml:id="Byron_6thPoems">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Works of the Right Honourable Lord Byron. Vol. 6 of 6</title>
                   <author><persName ref="#Byron"/></author>
                   <publisher>John Murray</publisher>
@@ -9634,24 +9463,24 @@ Publisher:	London : E. Cox and Son, 1815
                            ref="#Lament_Tasso">Lament of Tasso</title>, &amp;c.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Prisoner_Chillon">
+               <bibl xml:id="Prisoner_Chillon">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Prisoner of Chillon</title>
                   <author ref="#Byron"/>
                </bibl>
 
-               <bibl xml:id="Lament_Tasso">
+               <bibl xml:id="Lament_Tasso">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Lament of Tasso</title>
                   <author ref="#Byron"/>
                </bibl>
 
-               <bibl xml:id="Petrarque_deG">
+               <bibl xml:id="Petrarque_deG">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Pétrarque et Laura</title>
                   <author><persName ref="#deGenlis_Mme"/></author>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="Pilgrim_Cross">
+               <bibl xml:id="Pilgrim_Cross">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Pilgrim of the Cross</title>
                   <author><persName ref="#Helme_Eliz"/></author>
                   <publisher>P. Norbury</publisher>
@@ -9662,7 +9491,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Legend</title>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_Senegal">
+               <bibl xml:id="Narr_Senegal">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Narrative of a Voyage to Senegal in 1816</title>
                   <author><persName ref="#Savigny_JBH #Correard_A"/></author>
                   <publisher>Henry Colburn</publisher>
@@ -9677,7 +9506,7 @@ Publisher:	London : E. Cox and Son, 1815
                         the Gambia</title>. Mitford rated it <quote>horrible</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Illus_LitHist">
+               <bibl xml:id="Illus_LitHist">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Illustrations of the Literary History of the Eighteenth
                      Century</title>
                   <author><persName ref="#Nichols_JB"/></author>
@@ -9691,7 +9520,7 @@ Publisher:	London : E. Cox and Son, 1815
                         amusing</quote> and <quote>amusing enough</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Percival">
+               <bibl xml:id="Percival">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Percival: or, Nature Vindicated: a Novel.</title>
                   <author><persName ref="#Dallas_RC"/></author>
                   <publisher>Longman and Rees</publisher>
@@ -9701,7 +9530,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal.</note>
                </bibl>
 
-               <bibl xml:id="Remarks_scepticism">
+               <bibl xml:id="Remarks_scepticism">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Remarks on Scepticism</title>
                   <author><persName ref="#RennellT"/></author>
                   <publisher>F. C. and J. Rivington</publisher>
@@ -9713,7 +9542,7 @@ Publisher:	London : E. Cox and Son, 1815
                         points</title>.</note>
                </bibl>
 
-               <bibl xml:id="Lects_WmLawrence">
+               <bibl xml:id="Lects_WmLawrence">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Cursory Observations upon the Lectures on Physiology, Zoology,
                      and the Natural History of Man</title>
                   <author><persName ref="#Lawrence_Wm"/></author>
@@ -9730,7 +9559,7 @@ Publisher:	London : E. Cox and Son, 1815
                      She rated it <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Journal_Greenland">
+               <bibl xml:id="Journal_Greenland">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Greenland: being extracts from a journal kept in that country in
                      the years 1770 to 1778</title>
                   <author><persName ref="#Saabye"/></author>
@@ -9743,7 +9572,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Greenlanders, and of the mission in Greenland</title></note>
                </bibl>
 
-               <bibl xml:id="History_Burnet">
+               <bibl xml:id="History_Burnet">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Bishop Burnet's History of his Own Time</title>
                   <author><persName ref="#Burnet_Gil"/></author>
                   <publisher>R. and M. Priestley</publisher>
@@ -9757,7 +9586,7 @@ Publisher:	London : E. Cox and Son, 1815
                      life</title>.</note>
                </bibl>
 
-               <bibl xml:id="Diary_Invalid">
+               <bibl xml:id="Diary_Invalid">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Diary of an Invalid</title>
                   <author><persName ref="#MatthewsH"/></author>
                   <publisher>John Murray</publisher>
@@ -9769,7 +9598,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Vaux">
+               <bibl xml:id="Mems_Vaux">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the First Thirty-two Years of the Life of James Hardy
                      Vaux</title>
                   <author ref="#VauxJH"/>
@@ -9783,12 +9612,12 @@ Publisher:	London : E. Cox and Son, 1815
                         Vaux</title>.</note>
                </bibl>
 
-               <bibl xml:id="LeightonPr">
+               <bibl xml:id="LeightonPr">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Leighton Priory</title>
                   <note resp="#lmw">Author and date unidentified.</note>
                </bibl>
 
-               <bibl xml:id="MysteriousWife">
+               <bibl xml:id="MysteriousWife">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Mysterious Wife: a novel</title>
                   <author ref="#MeekeM"/>
                   <publisher>William Lane</publisher>
@@ -9798,7 +9627,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Gabrielli.</note>
                </bibl>
 
-               <bibl xml:id="ThaddeusofWarsaw">
+               <bibl xml:id="ThaddeusofWarsaw">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Thaddeus of Warsaw</title>
                   <author ref="#Porter_Jane"/>
                   <publisher>Longman and Rees</publisher>
@@ -9807,7 +9636,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw"/>
                </bibl>
 
-               <bibl xml:id="Mems_Evelyn">
+               <bibl xml:id="Mems_Evelyn">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs, Illustrative of the Life and Writing of John
                      Evelyn</title>
                   <author ref="#EvelynJ"/>
@@ -9827,7 +9656,7 @@ Publisher:	London : E. Cox and Son, 1815
                         entertaining</quote>.</note>
                </bibl>
 
-               <bibl xml:id="PrivLife_Misc_JN">
+               <bibl xml:id="PrivLife_Misc_JN">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Private Life of my Father</title>
                   <author ref="#deStael"/>
                   <publisher>Henry Colburn</publisher>
@@ -9838,7 +9667,7 @@ Publisher:	London : E. Cox and Son, 1815
                         French.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_ParisianMass">
+               <bibl xml:id="Hist_ParisianMass">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The History of the Parisian Massacre</title>
                   <author ref="#Comber_Thos"/>
                   <publisher>J. J. Stockdale</publisher>
@@ -9851,7 +9680,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>bad</quote>.</note>
                </bibl>
 
-               <bibl xml:id="AutumnRhine">
+               <bibl xml:id="AutumnRhine">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">An Autumn Near the Rhine</title>
                   <author ref="#DoddCE"/>
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
@@ -9862,7 +9691,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Bordering on the Rhine</title>.</note>
                </bibl>
 
-               <bibl xml:id="DeRance">
+               <bibl xml:id="DeRance">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">De Rancé: a Poem</title>
                   <author ref="#Cunningham_JW"/>
                   <publisher>T. Cadell and W. Davies</publisher>
@@ -9870,7 +9699,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1815"/>
                </bibl>
 
-               <bibl xml:id="Zuma">
+               <bibl xml:id="Zuma">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Zuma, or the Tree of Health</title>
                   <author ref="#deGenlis"/>
                   <publisher>Henry Colburn</publisher>
@@ -9884,7 +9713,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_Algiersin1816">
+               <bibl xml:id="Narr_Algiersin1816">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Narrative of the Expedition to Algiers in the Year 1816</title>
                   <author ref="#Salame_Ab"/>
                   <publisher>John Murray</publisher>
@@ -9895,7 +9724,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Viscount Exmouth</title>. Mitford rated it <quote>good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Journal_Soldier71st">
+               <bibl xml:id="Journal_Soldier71st">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Journal of a Soldier of the 71st</title>
                   <author ref="#PocockeT"/>
                   <publisher>W. B. Whittaker</publisher>
@@ -9906,7 +9735,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford called it as <quote>stupid enough</quote>.</note>
                </bibl>
 
-               <bibl xml:id="HeadlongHall">
+               <bibl xml:id="HeadlongHall">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Headlong Hall</title>
                   <author ref="#Peacock_TL"/>
                   <publisher>T. Hookham, Jr.</publisher>
@@ -9915,7 +9744,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1816"/>
                   <note resp="#lmw">Mitford rated it as <quote>famous</quote>.</note></bibl>
 
-               <bibl xml:id="ItalianTrans_ChasD">
+               <bibl xml:id="ItalianTrans_ChasD">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Italian Translations </title>
                   <author ref="#Dickinson_Chas"/>
                   <date when="1819"/>
@@ -9924,7 +9753,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Sicilian_MM">
+               <bibl xml:id="Sicilian_MM">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Sicilian</title>
                   <author ref="#MeekeM"/>
                   <pubPlace>
@@ -9937,7 +9766,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Minerva Press.</note>
                </bibl>
 
-               <bibl xml:id="WinterEve_JH">
+               <bibl xml:id="WinterEve_JH">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Winter Evening's Tales</title>
                   <author ref="#Hogg_J"/>
                   <pubPlace>
@@ -9951,7 +9780,7 @@ Publisher:	London : E. Cox and Son, 1815
                         collected among the cottagers in the South of Scotland</title>.</note>
                </bibl>
 
-               <bibl xml:id="TalesofWHS">
+               <bibl xml:id="TalesofWHS">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Tales of Wonder, of Humour, and of Sentiment; Original and
                      Translated</title>
                   <author ref="#PlumptreAnne #PlumptreAnnabella"/>
@@ -9969,7 +9798,7 @@ Publisher:	London : E. Cox and Son, 1815
                         >Tsching-Quang</title>. Mitford rates it <quote>very amusing</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Ltrs_Cont_JW">
+               <bibl xml:id="Ltrs_Cont_JW">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Letters from the Continent</title>
                   <author ref="#Ormsby_James"/>
                   <pubPlace>
@@ -9984,7 +9813,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Aix-la-Chapelle, and the Left Bank of the Rhine</title>.</note>
                </bibl>
 
-               <bibl xml:id="VoyagePG_WH">
+               <bibl xml:id="VoyagePG_WH">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Voyage up the Persian Gulf, and a Journey Overland from India
                      to England, in 1817</title>
                   <author ref="#HeudeWm"/>
@@ -9998,7 +9827,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw"/>
                </bibl>
 
-               <bibl xml:id="BeggarGirl">
+               <bibl xml:id="BeggarGirl">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Beggar Girl and her Benefactors</title>
                   <author ref="#Bennett_AM"/>
                   <pubPlace>
@@ -10012,7 +9841,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Walk_Switz1816">
+               <bibl xml:id="Walk_Switz1816">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Walk Through Switzerland in September 1816</title>
                   <author ref="#HookhamT"/>
                   <pubPlace>
@@ -10024,7 +9853,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1818"/>
                </bibl>
 
-               <bibl xml:id="IntNarr_Bruce">
+               <bibl xml:id="IntNarr_Bruce">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">An Interesting Narrative of the Travels of James Bruce, Esq. into
                      Abyssinia</title>
                   <author ref="#Shaw_Sam"/>
@@ -10041,7 +9870,7 @@ Publisher:	London : E. Cox and Son, 1815
                         learned &amp; curious</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_Crusades_CM">
+               <bibl xml:id="Hist_Crusades_CM">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The History of the Crusades</title>
                   <author ref="#Mill_Chas"/>
                   <pubPlace>
@@ -10056,7 +9885,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Anecdotes_King">
+               <bibl xml:id="Anecdotes_King">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Political and Literary Anecdotes of his Own Times</title>
                   <author ref="#KingWm"/>
                   <pubPlace>
@@ -10068,7 +9897,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="Tour_Alet">
+               <bibl xml:id="Tour_Alet">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Tour to Alet and La Grande Chartreuse</title>
                   <author ref="#SchimmelpennickMA"/>
                   <pubPlace>
@@ -10086,7 +9915,7 @@ Publisher:	London : E. Cox and Son, 1815
                         of Port Royal</title>. </note>
                </bibl>
 
-               <bibl xml:id="CrimTrials_Porteous">
+               <bibl xml:id="CrimTrials_Porteous">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Criminal Trials Illustrative of the Tale Entitled <q>The Heart of
                         Mid-Lothian</q></title>
                   <author ref="#SharpeCK"/>
@@ -10103,7 +9932,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Capt. John Porteous.</title>. </note>
                </bibl>
 
-               <bibl xml:id="PeterBell_JHR"><!-- existing id. -->
+               <bibl xml:id="PeterBell_JHR"><!-- existing id. -->    <!-- srr: Better desc than in local SI and Published SI -->
                   <title level="m">Peter Bell. A Lyrical Ballad.</title>
                   <author ref="#Reynolds_JH"/>
                   <pubPlace>
@@ -10115,10 +9944,10 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1817"/>
                   <note resp="#lmw">Parodic work, purporting to be by <persName ref="#Wordsworth_Wm"
                         >Wordsworth</persName>. Mitford reports that she liked it and the original
-                        <quote>very much</quote>. Source: Journal.</note>
+                     <quote>very much</quote>. Source: <ref target="156">Journal entry <date when="1819-06-11">Friday 11 JUNE 1819</date></ref> </note>
                </bibl>
 
-               <bibl xml:id="PeterBell_WW">
+               <bibl xml:id="PeterBell_WW">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Peter Bell. A Tale in Verse.</title>
                   <author ref="#Wordsworth_Wm"/>
                   <pubPlace>
@@ -10133,7 +9962,7 @@ Publisher:	London : E. Cox and Son, 1815
                      <quote>very much</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Voyage_PolarExp">
+               <bibl xml:id="Voyage_PolarExp">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Voyage of Discovery, Made Under the Orders of the Admiralty, in
                      his Majesty's ships Isabella and Alexander for the purpose of exploring
                      Baffin's Bay, and Enquiring into the possibility of a North-West
@@ -10148,7 +9977,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819"/>
                </bibl>
 
-               <bibl xml:id="WhiteCottage_AM">
+               <bibl xml:id="WhiteCottage_AM">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The White Cottage</title>
                   <author ref="#MowerA"/>
                   <pubPlace>
@@ -10162,7 +9991,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Mitford rated it <quote>too dismal</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Calamities">
+               <bibl xml:id="Calamities">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Calamities of Authors</title>
                   <author ref="#Disraeli_I"/>
                   <pubPlace>
@@ -10177,7 +10006,7 @@ Publisher:	London : E. Cox and Son, 1815
                      characters</title>.</note>
                </bibl>
 
-               <bibl xml:id="Obs_Landscape">
+               <bibl xml:id="Obs_Landscape">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Observations on the Theory and Practice of Landscape
                      Gardening</title>
                   <author ref="#Repton"/>
@@ -10196,7 +10025,7 @@ Publisher:	London : E. Cox and Son, 1815
                         arts.</title></note>
                </bibl>
 
-               <bibl xml:id="Obs_CauseEffect">
+               <bibl xml:id="Obs_CauseEffect">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Observations on the Nature and Tendency of the Doctrine of Mr.
                      Hume, concerning the relation of cause and effect</title>
                   <author ref="#Brown_DrT"/>
@@ -10209,7 +10038,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1806"/>
                </bibl>
 
-               <bibl xml:id="Visit_LaTrappe">
+               <bibl xml:id="Visit_LaTrappe">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Visit to the Monastery of La Trappe, in 1817</title>
                   <author ref="#Fellowes_W"/>
                   <pubPlace>
@@ -10227,7 +10056,7 @@ Publisher:	London : E. Cox and Son, 1815
                      well</quote>.</note>
                </bibl>
 
-               <bibl xml:id="ChronHist_Arctic">
+               <bibl xml:id="ChronHist_Arctic">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Chronological History of Voyages Into the Arctic
                      Regions</title>
                   <author ref="#Barrow_J"/>
@@ -10246,7 +10075,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Buchan</title>.</note>
                </bibl>
 
-               <bibl xml:id="PictTour_FrSw">
+               <bibl xml:id="PictTour_FrSw">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Picturesque Tour Through France, Switzerland, on the Banks of
                      the Rhine, and Through Part of the Netherlands in the Year 1816</title>
                   <author ref="#MawmanJ"/>
@@ -10260,7 +10089,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Curran">
+               <bibl xml:id="Mems_Curran">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Legal, Literary, and Political Life of the Late,
                      the Right Honourable John Philpot Curran</title>
                   <author ref="#ORegan"/>
@@ -10279,7 +10108,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Bar.</title> Mitford rates it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="CircNarr_Russia">
+               <bibl xml:id="CircNarr_Russia">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Circumstantial Narrative of the Campaign in Russia </title>
                   <author ref="#LabaumeE"/>
                   <pubPlace>
@@ -10296,7 +10125,7 @@ Publisher:	London : E. Cox and Son, 1815
                         eye-witness</title>. </note>
                </bibl>
 
-               <bibl xml:id="Year_Day">
+               <bibl xml:id="Year_Day">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Year and a Day </title>
                   <author ref="#BrookeFrances"/>
                   <pubPlace>
@@ -10311,7 +10140,7 @@ Publisher:	London : E. Cox and Son, 1815
                      rates it <quote>pretty enough but too dismal</quote>. Source: Journal. </note>
                </bibl>
 
-               <bibl xml:id="Mems_Temple">
+               <bibl xml:id="Mems_Temple">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mémoires Particuliers de la Captivité de la Famille Royale de la
                      Tour de Temple</title>
                   <author ref="#MarieTherese_France">Marie-Thérèse Charlotte de France, Duchesse
@@ -10328,7 +10157,7 @@ Publisher:	London : E. Cox and Son, 1815
                         captivité de la famille royale de la Tour de Temple</title>. </note>
                </bibl>
 
-               <bibl xml:id="Woman_MB">
+               <bibl xml:id="Woman_MB">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Woman, or Minor maxims </title>
                   <author ref="#Budden_M"/>
                   <pubPlace>
@@ -10342,7 +10171,7 @@ Publisher:	London : E. Cox and Son, 1815
                         maxims. A Sketch.</title> Minerva Press. </note>
                </bibl>
 
-               <bibl xml:id="Lives_HaydenMoz">
+               <bibl xml:id="Lives_HaydenMoz">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Lives of Haydn and Mozart </title>
                   <author ref="#Bombet_L">L. A. C. Bombet</author>
                   <pubPlace>
@@ -10358,7 +10187,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note><!-- check vols. and name on tp or if anon. -->
                </bibl>
 
-               <bibl xml:id="Anecdotes_WSeward">
+               <bibl xml:id="Anecdotes_WSeward">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Anecdotes of Distinguished Persons</title>
                   <author ref="#Seward_Wm">William Seward</author>
                   <pubPlace>
@@ -10375,7 +10204,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note><!-- check full title and name on tp or if anon. First edition, 1796-->
                </bibl>
 
-               <bibl xml:id="AnecdotesTo1700_JM">
+               <bibl xml:id="AnecdotesTo1700_JM">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Anecdotes of the Manners and Customs of London from the Roman
                      Invasion to the Year 1700</title>
                   <author ref="#Malcolm_J">James Peller Malcolm</author><pubPlace>
@@ -10396,7 +10225,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="BurkeWks_Rivington">
+               <bibl xml:id="BurkeWks_Rivington">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Works of the Rt. Hon. Edmund Burke</title>
                   <author ref="#Burke_E">Edmund Burke</author><pubPlace>
                      <placeName ref="#London_city">London</placeName></pubPlace>
@@ -10410,7 +10239,7 @@ Publisher:	London : E. Cox and Son, 1815
                      calls Burke a <quote>sad turncoat</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Life_Burke_RB">
+               <bibl xml:id="Life_Burke_RB">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Life of Burke</title>
                   <author ref="#Bisset_R">Robert Bisset</author>
                   <pubPlace>
@@ -10429,7 +10258,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Narrative_Eqypt_RW">
+               <bibl xml:id="Narrative_Eqypt_RW">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">A Narrative of the Expedition to Egypt</title>
                   <author ref="#WilsonRbt">Robert T. Wilson</author>
                   <pubPlace>
@@ -10447,7 +10276,7 @@ Publisher:	London : E. Cox and Son, 1815
                </bibl>
 
 
-               <bibl xml:id="Lectures_Paint_HF">
+               <bibl xml:id="Lectures_Paint_HF">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Lectures on Painting: Delivered at the Royal Academy, March,
                      1801.</title>
                   <author ref="#Fuseli_H"/>
@@ -10460,7 +10289,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1801"/>
                </bibl>
 
-               <bibl xml:id="Materials_WB">
+               <bibl xml:id="Materials_WB">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Materials for Thinking</title>
                   <author ref="#Burdon_Wm">William Burdon</author>
                   <pubPlace>
@@ -10472,7 +10301,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1806"/>
                </bibl>
 
-               <bibl xml:id="Account_GeoMathews">
+               <bibl xml:id="Account_GeoMathews">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Account of the Extraordinary and Shocking Case of George
                      Mathews</title>
                   <author ref="#Mathews_Geo">George Mathews</author>
@@ -10497,7 +10326,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="Wonders_NW">
+               <bibl xml:id="Wonders_NW">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Wonders of the Little World</title>
                   <author ref="#Wanley_N">Nathaniel Wanley</author>
                   <pubPlace>
@@ -10516,7 +10345,7 @@ Publisher:	London : E. Cox and Son, 1815
                      have read the 2-volume expanded edition published in 1806, edited my William
                      Johnston.</note>&gt; </bibl>
 
-               <bibl xml:id="Fall_Jerusalem_HM">
+               <bibl xml:id="Fall_Jerusalem_HM">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Fall of Jerusalem</title>
                   <author ref="#Milman_HH"/>
                   <pubPlace>
@@ -10531,7 +10360,7 @@ Publisher:	London : E. Cox and Son, 1815
                   </note>
                </bibl>
 
-               <bibl xml:id="MansfieldPk">
+               <bibl xml:id="MansfieldPk">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mansfield Park</title>
                   <author>
                      <persName ref="#Austen_Jane">Jane Austen</persName>
@@ -10543,7 +10372,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Published as <q>bu the Author of Pride and Prejudice.</q></note>
                </bibl>
 
-               <bibl xml:id="Sense_S">
+               <bibl xml:id="Sense_S">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Sense and Sensibility</title>
                   <author>
                      <persName ref="#Austen_Jane">Jane Austen</persName>
@@ -10555,7 +10384,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Sidney_TZ">
+               <bibl xml:id="Mems_Sidney_TZ">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Life and Writings of Sir Philip Sidney</title>
                   <author>
                      <persName ref="#Zouch_T"/>
@@ -10566,7 +10395,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Mitford rated it as <quote>stupid</quote>.</note>
                </bibl>
 
-               <bibl xml:id="PopularTales_ME">
+               <bibl xml:id="PopularTales_ME">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Popular Tales</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10584,7 +10413,7 @@ Publisher:	London : E. Cox and Son, 1815
                         level="a">To-morrow</title>.</note>
                </bibl>
 
-               <bibl xml:id="MoralTales_ME">
+               <bibl xml:id="MoralTales_ME">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Moral Tales for Young People</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10600,7 +10429,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Inconnue</title>.</note>
                </bibl>
 
-               <bibl xml:id="ComicDramas_ME">
+               <bibl xml:id="ComicDramas_ME">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Comic Dramas, in Three Acts</title>
                   <author>
                      <persName ref="#Edgeworth_Maria"/>
@@ -10614,7 +10443,7 @@ Publisher:	London : E. Cox and Son, 1815
                      good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="WalpoleltrstoCole">
+               <bibl xml:id="WalpoleltrstoCole">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Letters from the Hon. Horace Walpole, to the Rev. William Cole
                      and others</title>
                   <author>
@@ -10629,7 +10458,7 @@ Publisher:	London : E. Cox and Son, 1815
                      called them <quote>delightful</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mystery_TG">
+               <bibl xml:id="Mystery_TG">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Mystery, or Forty Years Ago: A Novel</title>
                   <author ref="#GaspeyT">
                      <persName>Thomas Gaspey</persName>
@@ -10641,7 +10470,7 @@ Publisher:	London : E. Cox and Son, 1815
                      good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Altham">
+               <bibl xml:id="Altham">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Altham and His Wife: A Domestic Tale</title>
                   <author>
                      <persName>Charles Ollier</persName>
@@ -10653,7 +10482,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Journal</note>
                </bibl>
 
-               <bibl xml:id="Mems_Huet">
+               <bibl xml:id="Mems_Huet">     <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Life of Peter Daniel Huet, Bishop of
                      Avranches</title>
                   <author>
@@ -10670,7 +10499,7 @@ Publisher:	London : E. Cox and Son, 1815
                      Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Mems_Conde">
+               <bibl xml:id="Mems_Conde">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Life of the Great Condé</title>
                   <author>
                      <persName>Louis Joseph de Bourbon, prince de Condé</persName>
@@ -10684,7 +10513,7 @@ Publisher:	London : E. Cox and Son, 1815
                         enough</quote>. Source: Journal.</note>
                </bibl>
 
-               <bibl xml:id="Display_JT">
+               <bibl xml:id="Display_JT">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Display</title>
                   <author>
                      <persName ref="#Taylor_Jane">Jane Taylor</persName>
@@ -10696,7 +10525,7 @@ Publisher:	London : E. Cox and Son, 1815
                         People</title>.</note>
                </bibl>
 
-               <bibl xml:id="CarysDante">
+               <bibl xml:id="CarysDante">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Vision; or, Hell, Purgatory, and Paradise</title>
                   <author>
                      <persName ref="#Dante"/>
@@ -10708,7 +10537,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Printed for the author.</note>
                </bibl>
 
-               <bibl xml:id="Letters_NItaly">
+               <bibl xml:id="Letters_NItaly">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Letters from the North of Italy</title>
                   <author>
                      <persName ref="#Rose_Wm">William Stewart Rose</persName>
@@ -10721,7 +10550,7 @@ Publisher:	London : E. Cox and Son, 1815
                         <quote>very good though vulgar</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Quakers_EL">
+               <bibl xml:id="Quakers_EL">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Quakers: A Tale</title>
                   <author>
                      <persName ref="#Lester_E">Elizabeth Lester</persName>
@@ -10731,7 +10560,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1817">1817</date>
                </bibl>
 
-               <bibl xml:id="Specimens_BritPoets">
+               <bibl xml:id="Specimens_BritPoets">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Specimens of the British Poets</title>
                   <author>
                      <persName ref="#Campbell_Thos"/>
@@ -10746,7 +10575,7 @@ Publisher:	London : E. Cox and Son, 1815
                         good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Parvenus">
+               <bibl xml:id="Parvenus">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Les Parvenus; ou, Les Aventures de Julien Delmours</title>
                   <author>
                      <persName ref="#deGenlis"/>
@@ -10755,7 +10584,7 @@ Publisher:	London : E. Cox and Son, 1815
                   <date when="1819">1819</date>
                </bibl>
 
-               <bibl xml:id="Zapolya">
+               <bibl xml:id="Zapolya">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Zapolya</title>
                   <author>
                      <persName ref="#Coleridge_ST"/>
@@ -10768,7 +10597,7 @@ Publisher:	London : E. Cox and Son, 1815
                      it <quote>very good</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Mems_ElizHamilton">
+               <bibl xml:id="Mems_ElizHamilton">      <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Memoirs of the Late Mrs. Elizabeth Hamilton</title>
                   <author>
                      <persName ref="#Benger_ElizO">Elizabeth Ogilvy Benger</persName>
@@ -10782,7 +10611,7 @@ Publisher:	London : E. Cox and Son, 1815
                      bad</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Rivals_RBS">
+               <bibl xml:id="Rivals_RBS">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Rivals: A Comedy</title>
                   <author ref="#Sheridan_RichardB"/>
                   <note resp="#lmw">First performed in <date when="1776">1776</date> at <placeName
@@ -10790,7 +10619,7 @@ Publisher:	London : E. Cox and Son, 1815
                      the play, Mitford rated it <quote>famous</quote>.</note>
                </bibl>
 
-               <bibl xml:id="Narr_SAmPatriots">
+               <bibl xml:id="Narr_SAmPatriots">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">Narrative of the Expedition which Sailed from England in 1817, to
                      Join the South American Patriots</title>
                   <author>
@@ -10806,7 +10635,7 @@ Publisher:	London : E. Cox and Son, 1815
                         Contest, Mode of Warfare, State of the Armies, &amp;c.</title>.</note>
                </bibl>
 
-               <bibl xml:id="Hist_JSpinner">
+               <bibl xml:id="Hist_JSpinner">    <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The History of Jenny Spinner</title>
                   <author>
                      <persName ref="#James_Miss"/>
