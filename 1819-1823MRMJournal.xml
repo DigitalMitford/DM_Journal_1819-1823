@@ -4068,9 +4068,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >bobbie</name>s--wrote to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName>--read
                      <title ref="#QueenhooH">Queenhoo Hall</title>--good.</p>
-               <!-- srr: DISCREPANCY --><p>read <title ref="#Mems_Montrose">Memoirs of the <persName
-                        ref="#Graham_DofMontrose">Marquis of Montrose</persName></title> a very
-                  great man &amp; great poet!</p>
             </div>
             <div type="entry" xml:id="e-353">
                <head><date when="1819-12-29">Wednesday 29 <add>DECEMBER</add></date></head>
