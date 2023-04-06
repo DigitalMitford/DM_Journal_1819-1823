@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
+type="application/xml" 
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
+type="application/xml" 
+schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+   <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
+   <!--LMW: do we know it was Coles, or someone else? Vera Watson? verify  -->
+
+   <!--ebb:Note to Digital Mitford Editors: In this typescript, we've noticed the frequent use of the characters XX or X, and my working hypothesis is that these characters indicate points in Mitford's diary that were illegible to the transcriber. However, they also seem to be used in conjunction with titles of books Mitford mentions reading. There is probably some system to this that isn't apparent in the typescript itself. To verify this, we need to consult the original manuscript notebook.-->
+   <!-- LMW: The x's are Mitford's. They are in the ms. several possibilities. later additions, to point out books or other refs she wants to remember or re copy elsewhere? x's in letters sometimes refer to added material at bottom of page, like a footnote, but that doesn't seem to be the function here. Add note about this to the msDesc section?-->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Russell Mitford's Notebook of 1819 to 1823</title>
+            <author ref="#MRM">Mary Russell Mitford</author>
+            <editor ref="#rjp">Rebecca J. Parker</editor>
+            <editor ref="#ebb">Elisa Beshero-Bondar</editor>
+            <editor ref="#lmw">Lisa M. Wilson</editor>
+            <!-- LMW where to credit Coles? -->
+            <!--ebb: Add more editor elements as other editors become involved. -->
+            <sponsor>
+               <orgName>Mary Russell Mitford Society: Digital Mitford Project</orgName>
+            </sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>Transcription and coding by</resp>
+               <persName ref="#rjp">Rebecca J. Parker</persName>
+               <persName ref="#ebb">Elisa Beshero-Bondar</persName>
+               <persName ref="#lmw">Lisa M. Wilson</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Proofing and corrections by</resp>
+               <persName ref="#ebb">Elisa Beshero-Bondar</persName>
+               <persName ref="#lmw">Lisa M. Wilson</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>First digital edition in TEI, date: 19 May 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Digital Mitford: The Mary Russell Mitford Archive</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2014</date>
+            <availability>
+               <p>Reproduced by courtesy of the <placeName>Reading Central
+                  Library</placeName>.<!--ebb:Double-check permissions bc the original manuscript
+                    is at the British Library. Any issues for us since we're reproducing the typed transcript from Reading Central Library?--></p>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+
+         </publicationStmt>
+         <sourceDesc>
+
+
+            <msDesc>
+               <msIdentifier>
+                  <repository ref="#ReadingCL">Reading Central Library</repository>
+                  <collection>Accession Number: L 7088</collection>
+                  <idno>qB/TU/MIT #1361549 REF. STRONGROOM. Barcode number:
+                     34126003337949<!--ebb:is the last digit a g? I think it's a 9, but check at Reading Central Library.--></idno>
+               </msIdentifier>
+               <p>Our source text is marked as an <q>original carbon copy</q> of a typed transcript
+                  of Mary Russell Mitford's notebook. From the title page of the source text: <q>The
+                     transcript of which this is a copy is in the possession of the Public Library,
+                     Reading, Berks, England. A photostat copy of the MS is also available at that
+                     library.</q> Copyright presumably rests with the British Museum. <date when="1955-07">July 1955</date>.
+                  <!--ebb: Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
+            </msDesc>
+         </sourceDesc>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository ref="#BL">British Library</repository>
+                  <collection><!--ebb:Check current collection info for BL Literary Pocket Book ms of Mitford's notebook.</collection>--></collection>
+                  <idno><!--ebb:This is the shelfmark from the British Library Catalog-->DPB
+                     c.60.b.7.<!--ebb:What follows is the shelfmark for the BL as indicated on the July 1955 typescript. Doublecheck in BL catalog.-->P
+                     24834 : C.60.b.7.</idno>
+               </msIdentifier>
+               <p>This is the location information for the autograph manuscript in Mary Russell
+                  Mitford's hand, at the British Library.</p>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <handNotes>
+            <handNote xml:id="red_crayon_RCLnb" medium="red_crayon"> Red crayon or thick red pencil.
+               Annotation by an archivist on an opening page of the carbon copy of the typed
+               transcript of Mitford's journal at Reading Central Library</handNote>
+            <handNote xml:id="black_pencil_RCLnb" medium="black_pencil">Black pencil or crayon.
+               Crosses out lines in the red crayon indicated above.</handNote>
+            <handNote xml:id="black_pen_RCLnb" medium="pen">Annotation by an archivist, presumably
+               at Reading Central Library, recording the shelfmark.</handNote>
+            <handNote xml:id="lt_pencil_RCLnb" medium="pencil">Annotation by an archivist at Reading
+               Central Library, recording the shelfmark on the title page in light grey
+               pencil.</handNote>
+            <handNote xml:id="blue_pen_RCLnb" medium="pen">Annotation by an archivist at Reading
+               Central Library, recording the accession number.</handNote>
+         </handNotes>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Mitford’s spelling and punctuation are retained, except where a word is split at the
+               end of a line and the beginning of the next in the manuscript. Where Mitford’s
+               spelling and hyphenation of words deviates from the standard, in order to facilitate
+               searching we are using the TEI elements choice, sic, and reg to encode both Mitford’s
+               spelling and the regular international standard of Oxford English spelling, following
+               the first listed spelling in the Oxford English Dictionary. The long s and ligatured
+               forms are not encoded.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+
+   <text>
+      <front>
+         <div type="meta">
+            <p>
+               <add><handShift resp="#red_crayon_RCLnb"/><!--ebb: written diagonally at bottom right of an opening blank sheet-->original
+                  carbon copy of Mitford diary. <handShift resp="#black_pencil_RCLnb"/><del rend="strikethrough"><handShift resp="#red_crayon_RCLnb"/>pages 1-49. i.e. end
+                     of 1819</del></add>
+            </p>
+            <pb n="ii"/>
+            <p>
+               <label><!--ebb: sticker with bar code affixed at bottom left of page-->Reading
+                  Borough Council<lb/>
+                  <!--barcode--><lb/>34126003337949</label>
+            </p>
+            <p>
+               <!--ebb: To the right of the barcode sticker-->
+               <add><handShift resp="#black_pen_RCLnb"/>q B/TU/MIT REF.
+                  STRONGROOM.<lb/>#1361549</add>
+            </p>
+            <pb n="iii"/>
+            <p>
+               <label>
+                  <!--ebb: in upper right corner of the title page. CHECK UPPER RIGHT CORNER, our photo cuts off part of the top line-->
+                  <add><handShift resp="#lt_pencil_RCLnb"/><unclear><supplied>B</supplied></unclear><lb/>TU<lb/>MIT</add>
+               </label>
+            </p>
+         </div>
+         <div type="title">
+            <head>MARY RUSSELL MITFORD<lb/> Transcript of notebook of Mary Russell Mitford<lb/>
+               contained in the British Museum (P 24834 : C.60.b.7.)</head>
+            <p>The note-book has a printed title page <q>The Literary Pocket-Book; or, Companion for
+                  the lover of Nature &amp; Art, 1819</q>. The size of the notebook is 13 x 8
+               cm.</p>
+            <p>Miss Mitford's notes begin on 1 January 1819 and end 11 March 1823.</p>
+            <p>The transcript of which this is a copy is in the possession of the Public Library,
+               Reading, Berks, England. A photostat copy of the MS is also available at that
+               library. Copyright presumably rests with the British Museum.</p>
+            <p><emph rend="underline">July 1955</emph>.</p>
+
+            <pb n="iv"/>
+            <p>
+               <label>
+                  <!--ebb: black ink stamp in the form of an outer box containing three lines to form four labelled rows, filled in with handwriting in black and then blue ink.-->
+                  RPL Local<lb/>Collection<lb/>
+                  <milestone unit="line"/> Class <add><handShift resp="#black_pen_RCLnb"/>B/TU/MIT</add><lb/>
+                  <milestone unit="line"/> Acc. No. <add><handShift resp="#blue_pen_RCLnb"/>L
+                     7088</add><lb/>
+                  <milestone unit="line"/> Acc. Date <add><handShift resp="#blue_pen_RCLnb"/>-</add>
+                  <milestone unit="box"/><!--ebb: indicating surrounding box in this library ink stamp-->
+               </label>
+            </p>
+
+         </div>
+      </front>
+      
