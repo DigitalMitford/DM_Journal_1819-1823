@@ -6497,7 +6497,8 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             </div>
             <!--TSA 2023-04-04 I'm beginning to go through names for plants and animals and I found that the hares have a prior ref using ref="#hare" but it does not autofill. I found the same with rabbit-->
-            <div type="entry" xml:id="e-599">
+<div type="month" xml:id="Sep-1820"> 
+   <div type="entry" xml:id="e-599">
                <head><date when="1820-09-01">Friday 1st</date></head>
                <p>At home--heard from Mr.Haydon--worked at my frill--walked with Drum &amp; Granny--wrote to Mr. Haydon.</p>
             </div>
@@ -6572,7 +6573,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-617">
                <head><date when="1820-09-19">Tuesday 19th</date></head>
                <p>At home--worked at my flounce--Mrs. Dickinson &amp; Miss Broughton called--walked with Drum &amp; the pets.</p>
-            </div>
+            </div></div>
             <!--TSA 2023-04-18 I stopped here with transcribing. I've only looked at the typescript.-->
          </div>
 
