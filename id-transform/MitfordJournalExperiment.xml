@@ -548,6 +548,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      At <placeName ref="#Bertram_house">home</placeName> all day.</p>
                </div>
             </div>
+            <div type="month" xml:id="Feb-1819">
             <div type="entry" xml:id="e-34">
                <head>
                   <date when="1819-02-01">Monday 1 </date>
@@ -768,6 +769,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#EclecticRev">Eclectic Review</title> &amp; the <title
                      ref="#BritishCritic_per">British Critic</title>. Both stupid.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Mar-1819">
             <pb n="5"/>
             <div type="entry" xml:id="e-54">
                <head>
@@ -1097,6 +1100,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      place</placeName>--never saw so many <name ref="#flower">flower</name>s in my
                      life--<persName ref="#Miranda_pet">Miranda</persName> a great pet.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Apr-1819">
             <div type="entry" xml:id="e-85">
                <head>
                   <date when="1819-04-01">Thursday 1 </date>
@@ -1468,6 +1473,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   Switzerland</title><!-- LMW: echoes a walk through our village title. influences of travel literature -->--liked
                   it pretty well.</p>
             </div>
+            </div>
+            <div type="month" xml:id="May-1819">
             <div type="entry" xml:id="e-115">
                <head>
                   <date when="1819-05-01">Saturday 1 May</date>
@@ -1874,6 +1881,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#BritishCritic_per">British Critic</title> Reviews--wrote to <persName
                      ref="#James_Miss">Miss James</persName>.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Jun-1819">
             <div type="entry" xml:id="e-146">
                <head>
                   <date when="1819-06-01">Tuesday 1 </date>
@@ -2230,6 +2239,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >Mr.
                   Palmer</persName><!--rjp:I wonder if this is a transcription error and should be Palmer?? LMW: LIKELY YES-->.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Jul-1819">
             <div type="entry" xml:id="e-176">
                <head>
                   <date when="1819-07-01">Thursday 1 </date>
@@ -2620,6 +2631,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >Lord Byron</persName>'s <title ref="#Don_Juan_poem">Don Juan</title> good but
                   wicked.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Aug-1819">
             <div type="entry" xml:id="e-207">
                <head><date when="1819-08-01">Sunday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--lay in the <name ref="#hay"
@@ -2932,6 +2945,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         Falmore</persName></unclear> --Came <placeName ref="#Bertram_house"
                      >home</placeName> at night.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Sep-1819">
             <div type="entry" xml:id="e-238">
                <head><date when="1819-09-01">Wednesday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#filbert"
@@ -3225,6 +3240,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >Granny</persName> &amp; <persName ref="#Slops">Slops</persName>--read <title
                      ref="#MiserMarried">the Miser Married</title>--a clever thing.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Oct-1819">
             <div type="entry" xml:id="e-268">
                <head><date when="1819-10-01">Friday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from <persName
@@ -3550,6 +3567,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      <name ref="#flower">flower</name>s--read <title ref="#Manners"
                   >Manners</title>--a pretty thing.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Nov-1819">
             <div type="entry" xml:id="e-296">
                <head><date when="1819-11-01">Monday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--wrote to <persName
@@ -3633,6 +3652,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      Egypt</title> &amp; wrote to <persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName>.</p>
             </div>
+               <!-- srr: Missing Oct 11th entry -->
             <div type="entry" xml:id="e-306">
                <head><date when="1819-11-12">Friday 12 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--read <title
@@ -3816,6 +3836,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      <persName ref="#Molly_pet">Molly</persName> very amiable--want <persName
                      ref="#Russell_M">Granny</persName>.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Dec-1819">
             <div type="entry" xml:id="e-325">
                <head><date when="1819-12-01">Wednesday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from <persName
@@ -4106,13 +4128,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   >Bobbie</name>s--tried a pattern upon some net--wrote to <persName ref="#Haydon"
                      >Mr. Haydon</persName>.</p>
             </div>
+            </div>
          </div>
          <pb n="32"/>
          <div type="year">
             <head>
                <date when="1820">1820</date>
             </head>
-
+            <div type="month" xml:id="Jan-1820">
             <div type="entry" xml:id="e-356">
                <head><date when="1820-01-01">Saturday 1 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--fed my <name ref="#robin"
@@ -4362,6 +4385,8 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                      >Mrs. Dickinson</persName>--wrote to <persName ref="#Elford_SirWm">Sir William
                      Elford</persName>.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Feb-1820">
             <!--TSA 2023-03-14 The beginning of this entry has some scribbled out text-->
             <fw>Feby 1820</fw>
             <div type="entry" xml:id="e-387">
@@ -4655,6 +4680,8 @@ Publisher:	London : [publisher not identified], 1786.
                   again--who went to <placeName ref="#London_city">London</placeName> from the Grand
                   Jury.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Mar-1820">
             <fw>March 1820</fw>
             <div type="entry" xml:id="e-415">
                <head><date when="1820-03-01">Wednesday 1st</date></head>
@@ -4967,6 +4994,8 @@ Publisher:	London : [publisher not identified], 1786.
                   a great many--read the New <title ref="#LondonMag">London Magazine</title>--very
                   good--wrote to <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
             </div>
+            </div>
+            <div type="month" xml:id="Apr-1820">
             <div type="entry" xml:id="e-446">
                <head><date when="1820-04-01">Saturday April First</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#violet"
@@ -5296,6 +5325,8 @@ Publisher:	London : [publisher not identified], 1786.
                      <title ref="#WinterEve_JH">Tales</title>--famous--wrote to <persName
                      ref="#Haydon">Mr. Haydon</persName>.</p>
             </div>
+            </div>
+            <div type="month" xml:id="May-1820">
             <div type="entry" xml:id="e-476">
                <head><date when="1820-05-01">Monday May First</date></head>
                <p>Went in the Cart to <placeName ref="#Reading_city">Reading</placeName> Fair with
@@ -5594,6 +5625,8 @@ Publisher:	London : [publisher not identified], 1786.
                   Havell</persName>.</p>
                <!--JDH: 2022-10-26 Everything looks good so far with the original writing-->
             </div>
+            </div>
+            <div type="month" xml:id="Jun-1820">
             <!-- SRR: START OF SECOND SET OF ENTRIES -->
             <fw>June 1820</fw>
             <div type="entry" xml:id="e-507">
@@ -5904,7 +5937,10 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA 2023-1-24 No James Family ref, no Miss Emily, Miss Newman, and Lord Dysart. When Drum goes home, is that back to wherever they're staying, or ThreeMileCross?-->
             <!--TSA 2023-1-18 End of new entries added. They need to be passed over with original handwriting and then the names need tagged-->
             <!--TSA 2023-02-06 New entries being added below-->
+            </div>
+            <div type="month" xml:id="Jul-1820">
             <div type="entry" xml:id="e-537">
+               
                <head><date when="1820-07-01">Saturday 1st</date></head>
 
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went to see <placeName>Pope's
@@ -6193,6 +6229,8 @@ Publisher:	London : [publisher not identified], 1786.
                      <persName ref="#Russell_M">Granny</persName>.</p>
 
             </div>
+            </div>
+            <div type="month" xml:id="Aug-1820">
             <!--TSA 2023-02-21 Read through all of July's handwriting and compared to what we have in here. It all seems to be the same, although some new names, such as "Mrs. and Miss Comyn" don't quite look like these people to me. It might be worth checking the letters to see who's who.-->
             <div type="entry" xml:id="e-568">
                <head><date when="1820-08-01">Tuesday 1st August</date></head>
@@ -6218,6 +6256,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#ThreeMileCross">home</placeName> to dinner--<persName
                      ref="#Dickinson_Charles">Mr. Dickinson</persName> drank tea here.</p>
             </div>
+               <!-- srr: Missing Aug 5th, and what is this <fw> below -->
             <fw>August 1820</fw>
             <div type="entry" xml:id="e-572">
                <head><date when="1820-08-05">Saturday 6th</date></head>
@@ -6478,6 +6517,7 @@ Publisher:	London : [publisher not identified], 1786.
                      >Mr. Dickinson</persName> &amp; <persName ref="#Tuppen_Capt">Captain
                      Tuppen</persName> called whilst I was out--finished my letter to <persName
                      ref="#Nooth_C">Miss Nooth</persName>.</p>
+            </div>
             </div>
             <!--TSA 2023-04-04 I'm beginning to go through names for plants and animals and I found that the hares have a prior ref using ref="#hare" but it does not autofill. I found the same with rabbit-->
          </div>
