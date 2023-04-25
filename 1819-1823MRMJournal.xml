@@ -6500,11 +6500,11 @@ Publisher:	London : [publisher not identified], 1786.
 <div type="month" xml:id="Sep-1820"> 
    <div type="entry" xml:id="e-599">
                <head><date when="1820-09-01">Friday 1st</date></head>
-               <p>At home--heard from Mr.Haydon--worked at my frill--walked with Drum &amp; Granny--wrote to Mr. Haydon.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr.Haydon</persName>--worked at my frill--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--wrote to <persName ref="#Haydon">Mr. Haydon</persName>.</p>
             </div>
             <div type="entry" xml:id="e-600">
                <head><date when="1820-09-02">Saturday 2nd</date></head>
-               <p>At home--went to Reading with dear Drum &amp; Molly--called on Mrs. A. Valpy, Dr. Valpy, Mrs. Monck, the Brookes &amp; Mrs. Newberry--spent a very pleasant morning--came home to dinner.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Molly_pet">Molly</persName>--called on <persName>Mrs. A. Valpy</persName>, <persName ref="#Valpy_Richard">Dr. Valpy</persName>, <persName ref="#Monck_Mrs">Mrs. Monck</persName>, the <orgName>Brookes</orgName> &amp; <persName>Mrs. Newberry</persName>--spent a very pleasant morning--came <placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
             </div>
             <div type="entry" xml:id="e-601">
                <head><date when="1820-09-03">Sunday 3rd</date></head>
@@ -6573,8 +6573,52 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-617">
                <head><date when="1820-09-19">Tuesday 19th</date></head>
                <p>At home--worked at my flounce--Mrs. Dickinson &amp; Miss Broughton called--walked with Drum &amp; the pets.</p>
-            </div></div>
-            <!--TSA 2023-04-18 I stopped here with transcribing. I've only looked at the typescript.-->
+            </div>
+   <div type="entry" xml:id="e-618">
+      <head><date when="1820-09-20">Wednesday 20th</date></head>
+      <p>At home--went to Wokingham--met Mr. Vidal &amp; Mr. Morris--dined there &amp; came home in the evening.</p>
+   </div>
+   <div type="entry" xml:id="e-619">
+      <head><date when="1820-09-21">Thursday 21st</date></head>
+      <p>At home--wrote to Mr.Dickinson--went to the Fair--lunched at Mrs. Brooke's--dined at Dr. Valpy's--met the Matthews's, [S]almons, &amp;c.--a pleasant day--talked a good deal to young Procter, a clever boy in the school--came home at night--very wet day.</p>
+   </div>
+   <div type="entry" xml:id="e-620">
+      <head><date when="1820-09-22">Friday 22nd</date></head>
+      <p>At home--heard from Mr. Haydon--wrote to Miss Brooke &amp; Eliza Webb--worked at my flounce--walked with Drum &amp; the pets--read Madamemoiselle de Tournon [?].</p>
+   </div>
+   <div type="entry" xml:id="e-621">
+      <head><date when="1820-09-23">Saturday 23rd</date></head>
+      <p>At home--worked at my flounce in my Arbour--read Mademoiselle de Tourner [?], pretty enough but dismal--walked with Drum.</p>
+   </div>
+   <div type="entry" xml:id="e-622">
+   <head><date when="1820-09-24">Sunday 24th</date></head>
+      <p>At home--heard from Miss James &amp; Sir W. Elford--wrote to Mr. Johnson, &amp; began a letter to Miss James--walked with Drum &amp; the pets.</p>
+   </div>
+   <div type="entry" xml:id="e-623">
+      <head><date when="1820-09-25">Monday 25th</date></head>
+      <p>At home--Mr. Dickinson called--walked with dear Granny--finished my letter to Miss James--read Beaumont &amp; Fletcher.</p>
+   </div>
+   <div type="entry" xml:id="e-624">
+      <head><date when="1820-09-26">Tuesday 26th</date></head>
+      <p>At home--heard from Eliza Webb--wrote to Eliza Webb &amp; Miss Valpy--Mrs. Dickinson called--went with her to call on Mrs. Philip Crowther at Whitley Cottage--she was too ill to see me--but saw her husband, a pleasant man. Walked with Granny--worked at my flounce.</p>
+   </div>
+   <div type="entry" xml:id="e-625">
+      <head><date when="1820-09-27">Wednesday 27th</date></head>
+      <p>At home--finished my flounce &amp; trimming--Mr. Body called--heard from Eliza Webb--wrote to Eliza Webb &amp; Mr. Haydon--Mr. Haydon's dogs Daphne &amp; Wasp came from Town to board at Wail [?].</p>
+   </div>
+   <div type="entry" xml:id="e-626">
+      <head><date when="1820-09-28">Thursday 28th</date></head>
+      <p>At home--Mr. Greene called--went with dear Drum to Reading--bought my stuff gown--came home to dinner--bought some other little things for myself &amp; dear Granny--God bless my own dear generous boy.</p>
+   </div>
+   <div type="entry" xml:id="e-627">
+      <head><date when="1820-09-29">Friday 29th</date></head>
+      <p>At home--walked out with dear Granny--the Moncks &amp; Mrs. Dickinson called--dressed my flowers.</p>
+   </div>
+   <div type="entry" xml:id="e-628">
+      <head><date when="1820-09-30">Saturday 30th</date></head>
+      <p>At home--heard from Mr. Haydon, Miss Webb &amp; Miss Valpy--wrote to Sir William Elford--walked to our old Place--read Keat's Poems, very fine--sate out of doors all the morning.</p>
+   </div>
+</div>
          </div>
 
 
