@@ -5665,7 +5665,7 @@ Publisher:	London : [publisher not identified], 1786.
                <!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
                <!--JDH: 2022-11-14 Would arcade need a ref attribute? I believe it is in reference to an area of her home-->
             </div>
-            <fw>June 1820</fw>
+            
             <div type="entry" xml:id="e-511">
                <head><date when="1820-06-05">Monday 5th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--gave little <persName
@@ -5699,10 +5699,9 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName>Captain
                      Montague</persName> called--walked with <persName ref="#Russell_M"
                      >Granny</persName>, <persName ref="#Hill_Lucy">Luce</persName> &amp; the
-                  Pets--read <title>London Magasine</title>--<persName ref="#Dickinson_Charles">Mr.
+                  Pets--read <title>London Magazine</title>--<persName ref="#Dickinson_Charles">Mr.
                      Dickinson</persName> drank tea with us.</p>
             </div>
-            <fw>June 1820</fw>
             <div type="entry" xml:id="e-515">
                <head><date when="1820-06-09">Friday 9th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
@@ -5720,7 +5719,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-517">
                <head><date when="1820-06-11">Sunday 11th</date></head>
                <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName>--heard from <persName
-                     ref="#Mitford_Geo">Drum</persName>, Miss Nooth &amp; <persName
+                     ref="#Mitford_Geo">Drum</persName>, <persName>Miss Nooth</persName><!-- srr: Nooth or Booth? --> &amp; <persName
                      ref="#Hayward_MrsW">Mrs. Hayward</persName>--wrote to <persName
                      ref="#Mitford_Geo">Drum</persName>--drove with <persName ref="#Dickinson_Mrs"
                      >Mrs. D.</persName> to <placeName ref="#Wokingham_city">Wokingham</placeName>
@@ -5731,7 +5730,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-06-12">Monday 12th</date></head>
                <p>At <placeName ref="#Farley_Hill">Farley Hill</placeName>--walked about &amp; read
                      <title>Edwards's Canons of Criticism</title>--famous--&amp; some reviews &amp;
-                  magasines.</p>
+                  magazines.</p>
             </div>
             <div type="entry" xml:id="e-519">
                <head><date when="1820-06-13">Tuesday 13th</date></head>
@@ -5746,7 +5745,7 @@ Publisher:	London : [publisher not identified], 1786.
                      >home</placeName> to sleep). <persName ref="#Russell_M">Granny</persName> &amp;
                   I came <placeName ref="#ThreeMileCross">home</placeName> before dinner in the Cart
                   with <persName ref="#Mitford_Geo">George</persName> to drive--dressed my
-                  <name ref="#flower">flowers</name>--read the <title>London Magasine</title>--wrote to <persName
+                  <name ref="#flower">flowers</name>--read the <title>London Magazine</title>--wrote to <persName
                      ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
                <!--TSA 2023-01-13 Is "Home" for drum Three mile cross? Is George Drum?-->
             </div>
@@ -5764,6 +5763,7 @@ Publisher:	London : [publisher not identified], 1786.
                   pets--sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled bitch)
                   to <persName>Mrs. Wilson</persName>.</p>
             </div>
+            <!-- srr: Review Marker -->
             <!--TSA 2023-04-04 Stopped here with tagging <name> elements on plants and animals. Going upwards.-->
             <div type="entry" xml:id="e-522">
                <head><date when="1820-06-16">Friday 16th</date></head>
@@ -8869,7 +8869,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">Mitford records that she <quote>don't like it
                      much--too dismal</quote>.<ref target="#e-80">In Journal
                            <date when="1819-03-27">Saturday 27 MARCH
-                  1819.</date></ref></note><!-- srr: why is Mitford's review incorrect here?? -->
+                  1819.</date></ref></note>
                </bibl>
 
                <bibl xml:id="Specimen_Nat_poem">
