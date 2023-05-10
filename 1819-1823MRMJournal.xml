@@ -603,7 +603,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#Tuppen_Mrs">Mrs.
                      Tuppen</persName><!--rjp:I wonder if this is transcription error and supposed to be Tuppen--><!-- LMW: Yes -->--<orgName
                      ref="#Brookes">the Brookes</orgName>--<persName ref="#Boyd_Mrs">Mrs.
-                     Boyd</persName>--<persName ref="#Newbery_Mrs">Mrs. Newberry</persName> &amp;
+                     Boyd</persName>--<persName ref="#Newbery_Mrs">Mrs. Newbery</persName> &amp;
                      <orgName ref="#Valpys">the Valpy's</orgName>--saw a great many people &amp;
                   hired a <persName ref="#Cook1">Cook</persName>.</p>
             </div>
@@ -1111,7 +1111,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      >Reading</placeName>--saw a great many people--called at the <orgName
                      ref="#Brookes">Brookes</orgName>
                   <persName ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> &amp; <orgName
-                     ref="#Newberys">Newberrys</orgName>. Read <title ref="#Undine">Undine</title>
+                     ref="#Newberys">Newberys</orgName>. Read <title ref="#Undine">Undine</title>
                   &amp; <persName ref="#King_Wm">Dr. King</persName>'s <title ref="#Anecdotes_King"
                      >Anecdotes of his own Times</title>.</p>
                <p>April 1<hi rend="superscript">st</hi> Subscription for half a year to <orgName
@@ -1137,7 +1137,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--walked with <persName
                      ref="#Russell_M">Granny</persName> and the Pets--heard from <persName
-                     ref="#Newbery_Mrs">Mrs. Newberry</persName>--read <persName ref="#Walpole_Hor"
+                     ref="#Newbery_Mrs">Mrs. Newbery</persName>--read <persName ref="#Walpole_Hor"
                      >Horace Walpole</persName>'s delightful <title ref="#WalpoleLtrstoCole">Letters
                      to Mr. Cole</title> &amp; <title ref="#TomCrib">Tom Crib's Memorial to
                      Congress</title>--Dear <persName ref="#Mitford_Geo">Drum</persName> came
@@ -1151,8 +1151,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--Dear <persName
                      ref="#Mitford_Geo">Drum</persName> quite well again--Heard from <persName
                      ref="#Elford_SirWm">Sir W. Elford</persName>. <persName
-                     ref="#Newberry_J #Newbery_Mrs">Mr. &amp; Mrs. Newberry</persName> called--wrote
-                  to <persName ref="#Newbery_Mrs">Mrs. Newberry</persName> &amp; <persName
+                     ref="#Newbery_J #Newbery_Mrs">Mr. &amp; Mrs. Newbery</persName> called--wrote
+                  to <persName ref="#Newbery_Mrs">Mrs. Newbery</persName> &amp; <persName
                      ref="#Webb_Eliza">Miss Eliza Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-89">
@@ -1649,7 +1649,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
                <p> At <placeName ref="#Bertram_house">home</placeName>--went to <placeName
                      ref="#Reading_city">Reading</placeName>--called on <persName ref="#Tuppen_Mrs"
-                     >Mrs. Tuppen</persName>, <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>,
+                     >Mrs. Tuppen</persName>, <persName ref="#Newbery_Mrs">Mrs. Newbery</persName>,
                      <persName ref="#Brooke_Miss">Miss Brooke</persName>, <persName
                      ref="#Anstruther_Miss">Miss Anstruther</persName> &amp; <orgName ref="#Valpys"
                      >the Valpy's </orgName>--bought some things for <persName ref="#Russell_M"
@@ -2051,7 +2051,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went to <placeName
                      ref="#Reading_city">Reading</placeName>--called on <persName ref="#Brooke_Miss"
                      >Miss Brooke</persName>, <persName ref="#Tuppen_Mrs">Mrs. Tuppen</persName>,
-                     <persName ref="#Newbery_Mrs">Mrs. Newberry</persName>--&amp; bought <persName
+                     <persName ref="#Newbery_Mrs">Mrs. Newbery</persName>--&amp; bought <persName
                      ref="#Russell_M">Granny</persName> a new gown &amp; some other things at
                      <orgName ref="#Marshs_shop">Marsh's</orgName>--</p>
             </div>
@@ -2798,7 +2798,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <persName ref="#Bobby_pet">Bobby</persName> &amp; <persName ref="#Mossy_pet"
                      >Mossy</persName> very amiable--finished reading <persName ref="#EvelynJ"
                      >Evelyn</persName>'s <title ref="#Mems_Evelyn">Memoirs</title>--very
-                     entertaining--<persName ref="#Newbery_J">Jacob Newberry</persName>
+                     entertaining--<persName ref="#Newbery_J">Jacob Newbery</persName>
                   called--walked between <placeName ref="#Bertram_house">the house</placeName> &amp;
                      <placeName ref="#whiteGate_BH">the white gate</placeName>.</p>
             </div>
@@ -3300,7 +3300,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#Johnson_Mr">Mr. Johnson</persName>--went to <placeName
                      ref="#Reading_city">Reading</placeName>--called at <persName ref="#Brooke_Mr"
                      >Mr. Brooke</persName>s--<orgName ref="#Newberys"
-                     >Newberry's</orgName>--<orgName ref="#Garrards">Garrards</orgName>--<orgName
+                     >Newbery's</orgName>--<orgName ref="#Garrards">Garrards</orgName>--<orgName
                      ref="#Valpys">Valpy</orgName>s--<orgName ref="#Reading_Inst"
                      >Institution</orgName> &amp; <persName ref="#Warwicke_Miss">Miss
                      Warwicke</persName>--Came <placeName ref="#Bertram_house">home</placeName> to
@@ -3320,7 +3320,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--dressed my <name
                      ref="#flower">flower</name>s--walked in the <placeName ref="#garden_BH"
                      >garden</placeName>--sent a pattern to <persName ref="#Newbery_Mrs">Mrs.
-                     Newberry</persName>--wrote to <persName ref="#Webb_Mary_younger">Miss
+                     Newbery</persName>--wrote to <persName ref="#Webb_Mary_younger">Miss
                      Webb</persName> &amp; <persName ref="#Dickinson_Mrs">Mrs.
                   Dickinson</persName>--read <persName ref="#Nicholls">Nicholls</persName>'s <title
                      ref="#Illus_LitHist">Illustrations of Literature</title>--amusing enough.</p>
@@ -3402,7 +3402,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <head><date when="1819-10-16">Saturday 16 </date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--pretty well again--heard from
                      <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName> &amp; <persName
-                     ref="#Newbery_Mrs">Mrs. Newberry</persName>--wrote to <persName
+                     ref="#Newbery_Mrs">Mrs. Newbery</persName>--wrote to <persName
                      ref="#Elford_SirWm">Sir William</persName>&amp; <persName ref="#Raggett_Mrs"
                      >Mrs. Raggett</persName>--read <persName ref="#Howard_SirRob">Sir Robert
                      Howard</persName>'s <title ref="#LifeRichard2">life of Richard 2nd</title>--a
@@ -3466,7 +3466,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went to <placeName
                      ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo"
                      >Drum</persName>--called on the <orgName ref="#Brookes">Brookes</orgName>
-                  <orgName ref="#Newberys">Newberrys</orgName> &amp; <orgName ref="#Valpys"
+                  <orgName ref="#Newberys">Newberys</orgName> &amp; <orgName ref="#Valpys"
                      >Valpys</orgName>--a very pleasant morning indeed--heard from <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>--wrote to <persName ref="#Webb_Eliza"
                      >Eliza Webb</persName>--read <persName ref="#Lawrence_Wm">Mr.
@@ -3794,7 +3794,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      ref="#Russell_M">Granny</persName>--went to <placeName ref="#Reading_city"
                      >Reading</placeName> with dear <persName ref="#Mitford_Geo"
                   >Drum</persName>--called at the <orgName ref="#Whites">Whites</orgName>--<orgName
-                     ref="#Brookes">Brookes</orgName>--<orgName ref="#Newberys">Newberrys</orgName>
+                     ref="#Brookes">Brookes</orgName>--<orgName ref="#Newberys">Newberys</orgName>
                   &amp; <orgName ref="#Bulleys">Bulleys</orgName>--dined at <orgName ref="#Valpys"
                      >the Valpys</orgName>--no company but <persName ref="#Ross_Miss">Miss
                      Ross</persName>--a very pleasant day--came <placeName ref="#Bertram_house"
@@ -3961,7 +3961,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      Johnson</persName>--went with dear <persName ref="#Mitford_Geo">Drum</persName>
                   to <placeName ref="#Reading_city">Reading</placeName>--called at the <orgName
                      ref="#Brookes">Brookes</orgName>--<orgName ref="#Whites"
-                     >Whites</orgName>--<orgName ref="#Newberys">Newberrys</orgName> &amp; <orgName
+                     >Whites</orgName>--<orgName ref="#Newberys">Newberys</orgName> &amp; <orgName
                      ref="#Valpys">Valpys</orgName>--came <placeName ref="#Bertram_house"
                      >home</placeName> to dinner--a pleasant day--fed my <name ref="#robin"
                      >bobbie</name>s.</p>
@@ -4115,7 +4115,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      Harris</persName>'s, <orgName ref="#Rowdens">the Rowdens</orgName>, <orgName
                      ref="#Brookes">Brookes</orgName>, <orgName ref="#Marsh_family"
                      >Marshes</orgName>, <orgName ref="#Whites">Whites</orgName>, <orgName
-                     ref="#Newberys">Newberry's</orgName> &amp; <orgName ref="#Joliffes"
+                     ref="#Newberys">Newbery's</orgName> &amp; <orgName ref="#Joliffes"
                      >Jolyffe's</orgName><!-- LMW: note different spelling-->--came <placeName
                      ref="#Bertram_house">home</placeName> to dinner--a very pleasant morning.</p>
             </div>
@@ -4179,7 +4179,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   bridecake<!--LMW: ck. ancestry tree, which Hayward married this day?-->--went to
                      <placeName ref="#Reading_city">Reading</placeName> with <persName
                      ref="#Mitford_Geo">Drum</persName>--called on the <orgName ref="#Newberys"
-                     >Newberry's</orgName> &amp; <orgName ref="#Joliffes"
+                     >Newbery's</orgName> &amp; <orgName ref="#Joliffes"
                      >Joliffes</orgName>--<placeName ref="#Bertram_house">home</placeName> to
                   dinner--pleasant morning--read the <title ref="#EdinburghRev_per">Edinburgh
                      Review</title>.</p>
@@ -4396,7 +4396,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                      ref="#Mitford_Geo">Drum</persName> into <placeName ref="#Reading_city"
                      >Reading</placeName> to buy a new bombazine gown--bought a very nice one for
                   2s. 9d. a yard--called on the <orgName ref="#Brookes">Brookes</orgName>--<orgName
-                     ref="#Newberys">Newberrys</orgName>--<orgName ref="#Joliffes"
+                     ref="#Newberys">Newberys</orgName>--<orgName ref="#Joliffes"
                      >Joliffes</orgName>--the <orgName ref="#Reading_Inst">Institution</orgName>
                   &amp; <persName ref="#Havell_Mrs">Mrs. Havell</persName>'s--came <placeName
                      ref="#Bertram_house">home</placeName> to dinner--a very pleasant morning.</p>
@@ -4480,7 +4480,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                <head><date when="1820-02-10">Thursday 10th</date></head>
                <p>Went to <placeName ref="#Reading_city">Reading</placeName> with <persName
                      ref="#Mitford_Geo">Drum</persName>--called on the <orgName ref="#Brookes"
-                     >Brookes</orgName>, <orgName ref="#Newberys">Newberrys</orgName>, <persName
+                     >Brookes</orgName>, <orgName ref="#Newberys">Newberys</orgName>, <persName
                      ref="#Tuppen_Capt #Tuppen_Mrs">Tuppens</persName> &amp; <orgName ref="#Valpys"
                      >Valpys</orgName>--dined at the <orgName ref="#Joliffes"
                      >Jolliffes</orgName>--<persName ref="#Madison_Mrs">Mrs. Maddison</persName>,
@@ -4545,7 +4545,7 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                <p>Wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>--went into <placeName
                      ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo"
                      >Drum</persName>--called at the <orgName ref="#Joliffes"
-                     >Jolliffes</orgName>--<orgName ref="#Newberrys">Newberrys</orgName>--<orgName
+                     >Jolliffes</orgName>--<orgName ref="#Newberys">Newberys</orgName>--<orgName
                      ref="#Sherwoods">Sherwoods</orgName>--<orgName ref="#Whites"
                      >Whites</orgName>--<orgName ref="#Valpys">Valpys</orgName> (witnessed the dear
                      <persName ref="#Valpy_Richard">Drs.</persName>
@@ -5185,7 +5185,7 @@ Publisher:	London : [publisher not identified], 1786.
                   in the Cart--called on the <orgName ref="#Brookes">Brookes</orgName> (to condole
                   on <persName ref="#Brooke_Mr">Mr. Brooke</persName>'s death)--<orgName
                      ref="#Marsh_family">Marsh's</orgName>--<orgName ref="#Newberys"
-                     >Newberrys</orgName>--<persName ref="#Tuppen_Capt #Tuppen_Mrs"
+                     >Newberys</orgName>--<persName ref="#Tuppen_Capt #Tuppen_Mrs"
                      >Tuppens</persName> &amp; <orgName ref="#Valpys">the Valpy's</orgName>--came
                      <placeName ref="#ThreeMileCross">home</placeName> to dinner--read the <title
                      ref="#LondonMag">London Magazine</title>--<persName ref="#Dickinson_Charles"
@@ -5332,7 +5332,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>Went in the Cart to <placeName ref="#Reading_city">Reading</placeName> Fair with
                      <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Hill_Lucy"
                      >Lucy</persName>--called on the <orgName ref="#Brookes">Brooks</orgName>
-                  <orgName ref="#Newberys">Newberrys</orgName>, <orgName ref="#Whites"
+                  <orgName ref="#Newberys">Newberys</orgName>, <orgName ref="#Whites"
                      >Whites</orgName>, <orgName ref="#Anstruthers">Anstruthers</orgName>
                   &amp;c.--dined at <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s &amp; met
                   the <orgName ref="#Shuters">Shuters</orgName>, <persName ref="#Harris_Mr">Mr.
@@ -5491,7 +5491,7 @@ Publisher:	London : [publisher not identified], 1786.
                      Dickinson</persName> came--sat here three hours &amp; then we went to
                      <placeName ref="#Reading_city">Reading</placeName>--called at the <orgName
                      ref="#Valpys">Valpy's</orgName> &amp; the <orgName ref="#Newberys"
-                     >Newberrys</orgName>. Came <placeName ref="#ThreeMileCross">home</placeName> to
+                     >Newberys</orgName>. Came <placeName ref="#ThreeMileCross">home</placeName> to
                   dinner--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the
                   pets--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>.</p>
@@ -5533,7 +5533,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Raggett_Mrs"
                      >Mrs. Raggett</persName> called--went to <placeName ref="#Reading_city"
                      >Reading</placeName>--called at the <orgName ref="#Valpys"
-                  >Valpys</orgName>--dined at the <orgName ref="#Newberys">Newberrys</orgName>--went
+                  >Valpys</orgName>--dined at the <orgName ref="#Newberys">Newberys</orgName>--went
                   to <persName ref="#Macfarlane_Chas">Mr. MacFarlane</persName>'s lecture in the
                   Evening--tired &amp; pleased.</p>
             </div>
@@ -5617,7 +5617,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName
                      ref="#Mitford_Geo">Drum</persName> to <placeName ref="#Reading_city"
                      >Reading</placeName>--called on the <orgName ref="#Brookes">Brookes</orgName>,
-                     <orgName ref="#Newberrys">Newberrys</orgName>, <orgName ref="#Whites"
+                     <orgName ref="#Newberys">Newberys</orgName>, <orgName ref="#Whites"
                      >Whites</orgName>, &amp;c.--came <placeName ref="#ThreeMilesCross"
                      >home</placeName> to dinner--wrote to <persName ref="#Brooke_Miss">Miss
                      Brooke</persName>--dear <persName ref="#Mitford_Geo">Drum</persName> had a bad
@@ -5838,7 +5838,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M"
                      >Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName>--called at
                   the <orgName ref="#Brookes">Brookes</orgName>, <orgName>Tuppens</orgName>,
-                     <orgName ref="#Newberrys">Newberrys</orgName> &amp; <orgName ref="#Valpys"
+                     <orgName ref="#Newberys">Newberys</orgName> &amp; <orgName ref="#Valpys"
                      >Valpy's</orgName>--saw <persName>Mr. Edward Valpy</persName> &amp; his
                      <persName>Wife</persName>--very pleasant morning--came <placeName
                      ref="#ThreeMileCross">home</placeName> to dinner--wrote to <persName
@@ -5849,15 +5849,15 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-530">
                <head><date when="1820-06-24">Saturday 24th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at the <orgName
-                     ref="#Newberrys">Newberrys</orgName> to meet the book club &amp; <persName
+                     ref="#Newberys">Newberys</orgName> to meet the book club &amp; <persName
                      ref="#Palmer_CF">Mr. Palmer</persName> (a wager dinner which <persName
-                     ref="#Mitford_Geo">Drum</persName> won of <persName ref="#Newberry_J">Mr.
-                     Newberry</persName> about <persName ref="#Palmer_CF">Fyshe's</persName> voting
+                     ref="#Mitford_Geo">Drum</persName> won of <persName ref="#Newbery_J">Mr.
+                     Newbery</persName> about <persName ref="#Palmer_CF">Fyshe's</persName> voting
                   with [?]<!--looks like it may be "London Magasine"--> on <persName>Sir Francis Burdett</persName>'s motion)--a very pleasant
                   day--wrote to <persName>Miss Nooth</persName>--came home at night--<persName
                      ref="#Valpy_Richard">Dr. Valpy</persName> brought a <persName>Mr.
-                     Burgess</persName>, a great Grecian, to dine at the <orgName ref="#Newberrys"
-                     >Newberrys</orgName>--he was an odd man--not at all pleasant.</p>
+                     Burgess</persName>, a great Grecian, to dine at the <orgName ref="#Newberys"
+                     >Newberys</orgName>--he was an odd man--not at all pleasant.</p>
             </div>
             <!--TSA 2023-1-23 No Mr. Burgess, Miss Booth, or Sir Francis Burdett-->
             <div type="entry" xml:id="e-531">
@@ -5871,14 +5871,14 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went into <placeName
                      ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo"
                      >Drum</persName>--called on <persName ref="#Valpy_Mrs">Mrs. Anthony
-                     Valpy</persName> &amp; <persName ref="#Newberry_Mrs">Mrs.
-                  Newberry</persName>--came back to dinner--packed up my things to go to <placeName
+                     Valpy</persName> &amp; <persName ref="#Newbery_Mrs">Mrs.
+                  Newbery</persName>--came back to dinner--packed up my things to go to <placeName
                      ref="#London_city">London</placeName> tomorrow--wrote to <persName
                      ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName
                      ref="#Harris_Anna">Mrs. A. Valpy</persName>.</p>
             </div>
             <!--TSA 2023-04-13 Stopped here for now, adding tags to "flowers" references-->
-            <!--TSA 2023-1-23 Mrs. Valpy and Mrs. Newberry don't autofill-->
+            <!--TSA 2023-1-23 Mrs. Valpy and Mrs. Newbery don't autofill-->
             <div type="entry" xml:id="e-533">
                <head><date when="1820-06-27">Tuesday 27th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
@@ -5898,14 +5898,14 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-534">
                <head><date when="1820-06-28">Wednesday 28th</date></head>
                <p>In <placeName ref="#London_city">Town</placeName>--went with the <orgName
-                     ref="#Newberrys">Newberrys</orgName> to the <placeName>Insurance
+                     ref="#Newberys">Newberys</orgName> to the <placeName>Insurance
                      Office</placeName>--then with <persName ref="#Mitford_Geo">Drum</persName> to
                   the <placeName>Exhibition</placeName> (not good)--<placeName>Star
                      Office</placeName>--<placeName>Sun Office</placeName>--<placeName>Chronicle
                      Office</placeName>--[?]--<persName ref="#Haydon">Haydon</persName>'s Pictures,
                      famous--<placeName>British Gallery</placeName>,
-                  <placeName>capital</placeName>--dined at home with the <orgName ref="#Newberrys"
-                     >Newberrys</orgName> &amp; <persName>Miss Danny</persName> in <placeName>Great
+                  <placeName>capital</placeName>--dined at home with the <orgName ref="#Newberys"
+                     >Newberys</orgName> &amp; <persName>Miss Danny</persName> in <placeName>Great
                      Queen Street</placeName>--very hot day--<persName>Young Tanner</persName> came
                   in the evening--pleasant morning.</p>
             </div>
@@ -5916,7 +5916,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Mitford_Geo">Drum</persName> to call on the <orgName>Perrys</orgName>,
                      <persName ref="#Haydon">Haydon</persName> &amp; the
                   <orgName>Moncks</orgName>--saw the <placeName>Regent's Park</placeName>--went in
-                  the evening with the <orgName ref="#Newberrys">Newberrys</orgName> to see
+                  the evening with the <orgName ref="#Newberys">Newberys</orgName> to see
                      <persName>Miss Kelly</persName> at the <placeName>English Opera
                      House</placeName>--wrote to dear <persName ref="#Russell_M">Granny</persName>
                   &amp; <persName ref="#Haydon">Mr. Haydon.</persName></p>
@@ -6013,7 +6013,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Reading_city">Reading</placeName> in the cart with <persName
                      ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M"
                      >Granny</persName>--called on the <orgName ref="#Brookes">Brookes</orgName>,
-                     <orgName ref="#Newberys">Newberrys</orgName>, <persName>Mrs.
+                     <orgName ref="#Newberys">Newberys</orgName>, <persName>Mrs.
                      Palairet</persName> &amp;c.--very pleasant day--came back to dinner--took a
                   walk with <persName ref="#Mitford_Geo">Drum</persName>, &amp; read <persName
                      ref="#Hofland_B">Mrs. Hofland</persName>'s <title>Tales of the Priory</title>,
@@ -6170,7 +6170,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="entry" xml:id="e-562">
                <head><date when="1820-07-26">Wednesday 26th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName>Mr.
-                     Newberry</persName>'s &amp; met the <orgName>Westbrooks</orgName> &amp;
+                     Newbery</persName>'s &amp; met the <orgName>Westbrooks</orgName> &amp;
                      <persName>Mrs. &amp; Miss <unclear>Comyn</unclear></persName><note resp="ebb"
                         ><q>Comyn</q> is given in the typescript, but the manuscript could read
                      Comyse or something else?</note>--came <placeName ref="#ThreeMileCross"
@@ -6194,7 +6194,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-565">
                <head><date when="1820-07-29">Saturday 29th</date></head>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Brooke_Miss">Miss Brooke</persName>--wrote to <persName ref="#Nooth_C">Miss Nooth</persName>--dressed my <name ref="#flower">flowers</name>--worked--walked with <persName ref="#Mitford_Geo">Drum</persName>--<persName>Mr. May</persName> came with the indemnity to <persName>Mr. Newberry</persName> for <persName ref="#Russell_M">Mama</persName> &amp; me to sign in consequence of the infamous conduct of <persName ref="#Harness_Wm">Dr. Harness</persName>.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Brooke_Miss">Miss Brooke</persName>--wrote to <persName ref="#Nooth_C">Miss Nooth</persName>--dressed my <name ref="#flower">flowers</name>--worked--walked with <persName ref="#Mitford_Geo">Drum</persName>--<persName>Mr. May</persName> came with the indemnity to <persName>Mr. Newbery</persName> for <persName ref="#Russell_M">Mama</persName> &amp; me to sign in consequence of the infamous conduct of <persName ref="#Harness_Wm">Dr. Harness</persName>.</p>
             </div>
             <div type="entry" xml:id="e-566">
                <head><date when="1820-07-30">Sunday 30th</date></head>
@@ -6409,7 +6409,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Reading_city">Reading</placeName>--called on the <orgName ref="#Valpys"
                      >Valpys</orgName> (both), <persName>Mrs. Anstruther</persName>, <persName>Mrs.
                      Tuppen</persName>, <persName>Mrs. Marsh</persName>, &amp; c--dined at
-                     <persName>Mrs. Newberry</persName>'s--came <placeName ref="#ThreeMileCross"
+                     <persName>Mrs. Newbery</persName>'s--came <placeName ref="#ThreeMileCross"
                      >home</placeName> in the evening--<persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName> &amp; <persName ref="#Webb_Eliza">Miss Eliza
                      Webb</persName> called whilst I was out--wrote to <persName
@@ -6504,7 +6504,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-600">
                <head><date when="1820-09-02">Saturday 2nd</date></head>
-               <p>At home--went to Reading with dear Drum &amp; Molly--called on Mrs. A. Valpy, Dr. Valpy, Mrs. Monck, the Brookes &amp; Mrs. Newberry--spent a very pleasant morning--came home to dinner.</p>
+               <p>At home--went to Reading with dear Drum &amp; Molly--called on Mrs. A. Valpy, Dr. Valpy, Mrs. Monck, the Brookes &amp; Mrs. Newbery--spent a very pleasant morning--came home to dinner.</p>
             </div>
             <div type="entry" xml:id="e-601">
                <head><date when="1820-09-03">Sunday 3rd</date></head>
@@ -6685,27 +6685,16 @@ Publisher:	London : [publisher not identified], 1786.
                <!-- srr: I've added the last 3 orgs ^^^ -->
 
 
-               <!-- srr: From local SI *************************************************************
-                  <org xml:id="Newberys">
-                  <orgName>the Newbery family</orgName>
-                  <orgName><surname>Newbery</surname></orgName>
-                  <orgName><addName>Newberrys</addName></orgName>
-                  <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
-                        Newbery</persName>. Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName>.</note>
-               </org> -->
-
-               <org xml:id="Newberrys">
+               <org xml:id="Newberys">
                   <!-- srr: Not found in Published SI -->
-                  <!-- srr: A misspelling??? ^^^^ -->
                   <!--done-->
                   <orgName>the Newbery family</orgName>
                   <orgName>Newberys</orgName>
-                  <orgName><addName>Newberrys</addName></orgName>
+                  <orgName><addName>Newberys</addName></orgName>
                   <orgName><surname>Newbery</surname></orgName>
                   <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
-                        Newberry</persName>. Surname variously spelled <q>Newbery</q> and
-                        <q>Newberry</q>.</note>
+                        Newbery</persName>. Surname variously spelled <q>Newbery</q> and
+                        <q>Newbery</q>.</note>
                </org>
                <!-- srr: ******************************************************************* -->
 
@@ -8877,8 +8866,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
                   <publisher ref="#Constable_pub">Constable and co.</publisher>
                   <date when="1818">1818</date>
-                  <note resp="#lmw">Mitford records that she <quote>liked it very much</quote>; she
-                     also says that it <quote>made me laugh</quote>.<ref target="#e-80">In Journal
+                  <note resp="#lmw">Mitford records that she <quote>don't like it
+                     much--too dismal</quote>.<ref target="#e-80">In Journal
                            <date when="1819-03-27">Saturday 27 MARCH
                   1819.</date></ref></note><!-- srr: why is Mitford's review incorrect here?? -->
                </bibl>
