@@ -5763,7 +5763,6 @@ Publisher:	London : [publisher not identified], 1786.
                   pets--sent off little <persName ref="#Fly_pet">Fly</persName> (the brindled bitch)
                   to <persName>Mrs. Wilson</persName>.</p>
             </div>
-            <!-- srr: Review Marker -->
             <!--TSA 2023-04-04 Stopped here with tagging <name> elements on plants and animals. Going upwards.-->
             <div type="entry" xml:id="e-522">
                <head><date when="1820-06-16">Friday 16th</date></head>
@@ -5779,7 +5778,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName
                      ref="#Mitford_Geo">Drum</persName>--weeded the garden--walked with dear
                      <persName ref="#Russell_M">Granny</persName> &amp; the pets--read
-                     <persName>Dubois</persName>' <title>Account of India</title>--a curious
+                     <persName>Dubois</persName>' <title>account of India</title>--a curious
                   book.</p>
             </div>
             <!--TSA 2023-1-20 Dubois' Account of India doesn't have a ref. It is referenced in the previous and next entry.-->
@@ -5854,7 +5853,7 @@ Publisher:	London : [publisher not identified], 1786.
                      ref="#Mitford_Geo">Drum</persName> won of <persName ref="#Newbery_J">Mr.
                      Newbery</persName> about <persName ref="#Palmer_CF">Fyshe's</persName> voting
                   with [?]<!--looks like it may be "London Magasine"--> on <persName>Sir Francis Burdett</persName>'s motion)--a very pleasant
-                  day--wrote to <persName>Miss Nooth</persName>--came home at night--<persName
+                  day--wrote to <persName>Miss Nooth</persName>--came <placeName ref="#ThreeMileCross">home</placeName> at night--<persName
                      ref="#Valpy_Richard">Dr. Valpy</persName> brought a <persName>Mr.
                      Burgess</persName>, a great Grecian, to dine at the <orgName ref="#Newberys"
                      >Newberys</orgName>--he was an odd man--not at all pleasant.</p>
@@ -5961,7 +5960,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#Richmond">Richmond</placeName>--<persName ref="#Haydon">Mr.
                      Haydon</persName> came &amp; spent the day with us--read <persName
                      ref="#Hofland_B">Mrs. Hofland</persName>'s <title>Tales</title> &amp;
-                     <persName>Chalmers</persName>'s new sermons--happy day.</p>
+                     <persName>Chalmers</persName>'s new sermons--happy day.<!-- srr: Is Tales and Chalmers one or two titles? --></p>
             </div>
             <div type="entry" xml:id="e-539">
 
@@ -5969,7 +5968,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see
                      <placeName>Hampton Court</placeName>--delightful place--enchanting
                      Cartoons--<rs type="art">beautiful portrait of <persName ref="#Titian"
-                        >Titian</persName> by himself</rs>--returned at 6 to Dinner, &amp; heard
+                        >Titian</persName> by himself</rs>--returned at 6 to dinner, &amp; heard
                   from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming
                   day.</p>
             </div>
@@ -5978,8 +5977,8 @@ Publisher:	London : [publisher not identified], 1786.
 
                <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to
                      <placeName>Kew</placeName>--called on <persName ref="#Nooth_C">Mrs.
-                     Nooth</persName> &amp; went over the palace--most lovely little place with fine
-                  books &amp; pictures--left my dear friends there, &amp; went home to <placeName
+                     Nooth</persName> &amp; went over the <placeName>palace</placeName>--most lovely little place with fine
+                  books &amp; pictures--left my dear friends there, &amp; went home<!-- srr: should this 'home' be tagged? --> to <placeName
                      ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear
                      <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo"
                      >Drum</persName> met me there &amp; brought me letters from <persName
@@ -6010,7 +6009,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-07-07">Friday 7th</date></head>
 
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
-                     ref="#Reading_city">Reading</placeName> in the cart with <persName
+                     ref="#Reading_city">Reading</placeName> in the Cart with <persName
                      ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M"
                      >Granny</persName>--called on the <orgName ref="#Brookes">Brookes</orgName>,
                      <orgName ref="#Newberys">Newberys</orgName>, <persName>Mrs.
@@ -6211,6 +6210,7 @@ Publisher:	London : [publisher not identified], 1786.
 
             </div>
             </div>
+            <!-- srr: Review Marker -->
             <div type="month" xml:id="Aug-1820">
             <!--TSA 2023-02-21 Read through all of July's handwriting and compared to what we have in here. It all seems to be the same, although some new names, such as "Mrs. and Miss Comyn" don't quite look like these people to me. It might be worth checking the letters to see who's who.-->
             <div type="entry" xml:id="e-568">
@@ -6233,11 +6233,11 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-08-04">Friday 4th</date></head>
                <p>Went to <placeName ref="#Reading_city">Reading</placeName> with <persName
                      ref="#Mitford_Geo">Drum</persName>--called at <persName ref="#Valpy_Mrs">Mrs.
-                     Valpy</persName>'s &amp; c.--pleasant morning--came <placeName
+                     Valpy</persName>'s &amp;c.--pleasant morning--came <placeName
                      ref="#ThreeMileCross">home</placeName> to dinner--<persName
                      ref="#Dickinson_Charles">Mr. Dickinson</persName> drank tea here.</p>
             </div>
-               <!-- srr: Missing Aug 5th, and what is this <fw> below -->
+               
             <fw>August 1820</fw>
             <div type="entry" xml:id="e-572">
                <head><date when="1820-08-05">Saturday 6th</date></head>
@@ -6262,7 +6262,7 @@ Publisher:	London : [publisher not identified], 1786.
                      Hill</persName>, <persName>Mr. Goddard</persName> who gave her away, &amp;
                      <persName>Charles Sweetser</persName> her brother all dined at <placeName
                      ref="#ThreeMileCross">our house</placeName>, &amp; then went off to drink tea
-                  at her Mother's, &amp; so <placeName ref="#ThreeMileCross">home</placeName> at
+                  at her Mother's<!-- srr: Do we know where Lucy's Mother's house is at? -->, &amp; so <placeName ref="#ThreeMileCross">home</placeName> at
                   night to <placeName ref="#Silchester">Silchester</placeName>--God bless her, poor
                   dear thing! She lived with us twelve years--a most faithful, affectionate creature
                   as ever lived upon earth--we were all very fond of her, especially <persName
@@ -6397,7 +6397,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-08-21">Monday 21st</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--rained all day--could not
                   stir--did a great deal of work &amp; read <persName>Dr. Drake</persName>'s
-                     <title>Winter Nights</title>--good.</p>
+                     <title ref="#WinterNts_ND">Winter Nights</title>--good.</p>
             </div>
             <div type="entry" xml:id="e-589">
                <head><date when="1820-08-22">Tuesday 22nd</date></head>
@@ -6407,14 +6407,14 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-08-23">Wednesday 23rd</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
                      ref="#Reading_city">Reading</placeName>--called on the <orgName ref="#Valpys"
-                     >Valpys</orgName> (both), <persName>Mrs. Anstruther</persName>, <persName>Mrs.
-                     Tuppen</persName>, <persName>Mrs. Marsh</persName>, &amp; c--dined at
+                     >Valpys</orgName> (both), <persName ref="">Mrs. Anstruther</persName>, <persName>Mrs.
+                     Tuppen</persName>, <persName>Mrs. Marsh</persName>, &amp;c--dined at
                      <persName>Mrs. Newbery</persName>'s--came <placeName ref="#ThreeMileCross"
                      >home</placeName> in the evening--<persName ref="#Dickinson_Mrs">Mrs.
                      Dickinson</persName> &amp; <persName ref="#Webb_Eliza">Miss Eliza
                      Webb</persName> called whilst I was out--wrote to <persName
                      ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with a proof, &amp;
-                     <persName>Mrs. Jolliffe</persName>.</p>
+                     <persName>Mrs. Jolliffe</persName>.</p><!-- srr: For some reason there's no warnings for the persNames with no ref -->
             </div>
             <div type="entry" xml:id="e-591">
                <head><date when="1820-08-24">Thursday 24th</date></head>
@@ -6434,7 +6434,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-08-25">Friday 25th</date></head>
                <p>Waited at <placeName ref="#ThreeMileCross">home</placeName> for <persName
                      ref="#Palmer_Mad">Lady Madelina</persName>--<persName ref="#Body_Richard">Mr.
-                     Body</persName> called, <persName ref="#Palmer_Mad">Lady Mad.</persName> did
+                     Body</persName> called--<persName ref="#Palmer_Mad">Lady Mad.</persName> did
                   not--had a note from <persName>Mr. MacFarlane</persName> with his Poem of
                      <title>the Wanderer</title>--finished the work for my new gowns.</p>
             </div>
