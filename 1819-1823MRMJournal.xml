@@ -5665,7 +5665,7 @@ Publisher:	London : [publisher not identified], 1786.
                <!--TEAC: Possibly add a ref for the arcade. I believe this is the first time it has been mentioned in the entries-->
                <!--JDH: 2022-11-14 Would arcade need a ref attribute? I believe it is in reference to an area of her home-->
             </div>
-            
+               <fw>June 1820</fw>
             <div type="entry" xml:id="e-511">
                <head><date when="1820-06-05">Monday 5th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--gave little <persName
@@ -5702,6 +5702,7 @@ Publisher:	London : [publisher not identified], 1786.
                   Pets--read <title>London Magazine</title>--<persName ref="#Dickinson_Charles">Mr.
                      Dickinson</persName> drank tea with us.</p>
             </div>
+               <fw>June 1820</fw>
             <div type="entry" xml:id="e-515">
                <head><date when="1820-06-09">Friday 9th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
@@ -6497,7 +6498,7 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             </div>
             <!--TSA 2023-04-04 I'm beginning to go through names for plants and animals and I found that the hares have a prior ref using ref="#hare" but it does not autofill. I found the same with rabbit-->
-<div type="month" xml:id="Sep-1820"> 
+            <div type="month" xml:id="Sep-1820"> 
    <div type="entry" xml:id="e-599">
                <head><date when="1820-09-01">Friday 1st</date></head>
                <p>At home--heard from Mr.Haydon--worked at my frill--walked with Drum &amp; Granny--wrote to Mr. Haydon.</p>
