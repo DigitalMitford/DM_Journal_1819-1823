@@ -6572,23 +6572,23 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-617">
                <head><date when="1820-09-19">Tuesday 19th</date></head>
-               <p>At home--worked at my flounce--Mrs. Dickinson &amp; Miss Broughton called--walked with Drum &amp; the pets.</p>
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my flounce--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Broughton_Betsy">Miss Broughton</persName> called--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets.</p>
             </div>
    <div type="entry" xml:id="e-618">
       <head><date when="1820-09-20">Wednesday 20th</date></head>
-      <p>At home--went to Wokingham--met Mr. Vidal &amp; Mr. Morris--dined there &amp; came home in the evening.</p>
+      <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Wokingham_city">Wokingham</placeName>--met <persName>Mr. Vidal</persName> &amp; <persName>Mr. Morris</persName>--dined there &amp; came <placeName ref="#ThreeMileCross">home</placeName> in the evening.</p>
    </div>
    <div type="entry" xml:id="e-619">
       <head><date when="1820-09-21">Thursday 21st</date></head>
-      <p>At home--wrote to Mrs. Dickinson--went to the Fair--lunched at Miss Brooke's--dined at Dr. Valpy's--met the Matthews's, <unclear>[S]almons</unclear>, &amp;c.--a pleasant day--talked a good deal to young Procter, a clever boy in the school--came home at night--very wet day.</p>
+      <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--went to the <placeName>Fair</placeName>--lunched at <persName ref="#Brooke_Miss">Miss Brooke</persName>'s--dined at <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s--met the <orgName>Matthews</orgName>'s, <orgName><unclear>[S]almons</unclear></orgName>, &amp;c.--a pleasant day--talked a good deal to <persName>young Procter</persName>, a clever boy in the school--came <placeName ref="#ThreeMileCross">home</placeName> at night--very wet day.</p>
    </div>
    <div type="entry" xml:id="e-620">
       <head><date when="1820-09-22">Friday 22nd</date></head>
-      <p>At home--heard from Mr. Haydon--wrote to Miss Brooke &amp; Eliza Webb--worked at my flounce--walked with Drum &amp; the pets--read Madamemoiselle de Tournon [?].</p>
+      <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--worked at my flounce--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--read <title>Madamemoiselle de Tournon [?]</title>.</p>
    </div>
    <div type="entry" xml:id="e-621">
       <head><date when="1820-09-23">Saturday 23rd</date></head>
-      <p>At home--worked at my flounce in my Arbour--read Mademoiselle de Tournon [?], pretty enough but dismal--walked with Drum.</p>
+      <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my flounce in my <placeName>Arbour</placeName>--read <title>Mademoiselle de Tournon [?]</title>, pretty enough but dismal--walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
    </div>
    <div type="entry" xml:id="e-622">
    <head><date when="1820-09-24">Sunday 24th</date></head>
