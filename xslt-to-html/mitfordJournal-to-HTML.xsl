@@ -93,18 +93,25 @@
                                     <h3>Nature</h3>
                                     <xsl:for-each
                                         select="current()//name/@ref ! normalize-space() => distinct-values()">
-                                        <table>
-                                            <tr>
-                                                <td>
+                                      <div class="si">
+                                          
                                                   <ul>
-                                                  <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[1] ! string()">
+                                                      <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[not(self::note)] ! normalize-space()">
                                                       <li><xsl:value-of select="current()"/></li>
                                                   </xsl:for-each>
                                                   </ul>
-                                                </td>
-                                                <td/>
-                                            </tr>
-                                        </table>
+                                                    <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
+                                             
+                                       
+                                                    <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                        <iframe src="{($si//*[@xml:id = substring-after(current(), '#')]//ptr)[1]/@target}"/>  
+                                                        <ul>
+                                                            <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                                <li><a href="{@target}"><xsl:value-of select="@target"/></a></li>
+                                                        </xsl:for-each>
+                                                        </ul>
+                                                    </xsl:if>
+                                       </div>
 
 
                                     </xsl:for-each>
