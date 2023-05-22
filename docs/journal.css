@@ -19,7 +19,8 @@ h3{
     font-size:1em;
 }
 h2{
-    font-size:1.5em;
+    font-size:2em;
+    color: white;
    
 }
 body section{
@@ -49,7 +50,8 @@ th{
 }
 
 h1 {
-    font-size: 150%;
+    font-size: 200%;
+    color: white;
 }
 div#navblock {
 min-width: 1000px;
@@ -142,7 +144,7 @@ div#calendarDays {
     /*color:white;*/
     padding:.5vw;
     background-color:lavender;
-    
+    border-radius:10px;
 }
 div.calendarNum {
      font-size:calc(5px + 1vw);
@@ -155,6 +157,8 @@ div#content {
 }
 section#entries{
     flex:2;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
 }
 section#gloss{
     flex:1;
@@ -170,4 +174,15 @@ section#gloss{
 .name{color:green;}
 
 .title{color:purple;}
-
+section#toc{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    padding-right: 3.5em;
+    padding-left: 2em;
+}
+body{
+    background-color:darkseagreen;
+    padding-left: 10em;
+    padding-right: 10em;
+}
