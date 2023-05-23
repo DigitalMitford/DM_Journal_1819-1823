@@ -1,0 +1,154 @@
+html{
+    background-color: /*#FFFAE6*/ /*#FFF8DC*/ #F8F8FF; 
+; min-height:100%;
+   
+    color: /*#580000*/ #362819;
+    font-family: "Palatino Linotype", "Book Antiqua", Palantino, serif;
+}
+
+body{
+    text-align:left;
+    width:100%; 
+}
+div#images img{
+width:/*352px*/ 300px;
+/*display:inline-block*/
+}
+
+div#nav_wide {background-image: url("mrmBlur.jpg"); padding:0; width:100%; position:relative; top:-35px; }
+
+div#menu {width:100%; height:100%; display:flex; justify-content:space-around; align-items:center; flex-direction:row;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; padding:0;
+ }
+ 
+span.mainTitle {display:block; font-size:1.8em; font-weight:bold; letter-spacing:2px; color:#B16800; position:relative; top:15px; }
+span.subTitle{display:block; font-size: .88em; letter-spacing:1px;font-style:italic; font-weight:900; position:relative; top:25px;}
+
+ul#siteMenu {list-style-type:none; width:100%; display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row; height:100%;  background-color:/*#F8F8FF;*/#FFDB90;
+position:relative; bottom:-20px;
+;
+}
+ul#siteMenu li.title {flex:1; display:flex; justify-content:space-around; align-items:center; flex-direction:column; background-color:#FFDB90;   }
+/*ul#siteMenu li {/\*padding:8px;*\/ font-weight: bold;}*/
+
+ul#siteMenu li.mainMenu {flex:2.5; background-color:/*#FFDB90*/#F8F8FF;}
+
+ul.mainMenu {list-style-type:none; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; background-color: Grey; padding:0}
+
+ul.mainMenu li.section {/*font-weight:bold; font-size:1em;*/ display:flex; justify-content:space-around; align-items:center; flex-direction:column; padding-left:20px; padding-right:10px; height:150px; flex:1}
+
+li#Overview {background-color:Grey; color:#FFDB90;}
+li#Overview a{color:gold; text-decoration:none;}
+li#Overview a:hover{color:yellow; text-decoration:underline;}
+li#Editions{background-color:FireBrick; color:Lavender;}
+li#Editions a {color:Lavender; text-decoration:none;}
+li#Editions a:hover {color:white; text-decoration:underline;}
+li#Bib{background-color:DarkSeaGreen; color:maroon}
+li#Bib a {color:maroon; text-decoration:none;}
+li#Bib a:hover {color:white; text-decoration:underline;}
+
+li#Project{background-color:Lavender; }
+li#Outreach{background-color:RosyBrown; color:PapayaWhip;}
+li#Outreach a {color:PapayaWhip; text-decoration:none;}
+li#Outreach a:hover {color:gold; text-decoration:underline}
+
+ul.subSec {list-style-type:none; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:column; margin-left:-40px; padding-top:5px; margin-right:25px; /*background-color:LemonChiffon;*/
+}
+ul.subSec li {text-align:left; font-size:1em; font-weight:700; padding-top:2px; padding-bottom:3px }
+
+
+div#container{width:100%; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row;
+}
+
+div#images{flex:1;
+       
+}
+div#floatright{
+flex:2; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:column;
+/*margin-left: 75px;
+margin-right:auto;
+padding: 10px 5px 50px 20px;*/    
+  
+}
+div#welcome {width:100%;}
+p.boilerplate{width:100%;}
+div#contact {width:100%; display:flex;  justify-content:space-between; align-items:flex-start; flex-direction:row;}
+div#mail {flex:3;}
+div#twitter{flex:1;}
+span.iframe {margin:5%; }
+p.boilerplate span {text-indent:-1em;
+    margin-left:1em;
+    display:block;
+    font-size:smaller;
+    line-height:1.4em;
+   }
+   
+/* 2017-11-05 ebb: Not working to tuck these things beneath on shrink. Probably not necessary. 
+ * @media screen and (max-width:600px) {
+
+ ul#siteMenu  li {display:block; position:relative; margin-left: 0; padding-bottom:5px; text-align:left;}
+ li.section ul{font-size: .75em; position:relative; background-color:inherit; padding:2px}
+   div#images{display:block; width:100%;}
+    div#mail{display:block; width:100%;}
+    div#twitter{display:block; width:100%;}
+}*/
+   
+p {padding-right:40px; padding-left:10px;}
+
+h1 {
+color:/*#A04747*/ #1C373A;
+letter-spacing:3px;
+display:block;
+text-align:center;
+font-size:1.3em;}
+div#title h1 {background-color:#FFED90;}
+h2 {color:/*#00005C*/ maroon; font-size:2em; padding-right:40px; padding-left:10px; display:block; text-align:center; 
+}
+
+h3 {color:#00005C; display:block; /*text-indent:1.5em;*/ text-align:left; font-size:1.5em;
+}
+
+/*img{
+border-radius:10px;
+}*/
+
+
+a{
+color:/* #2929A3;*/ #B90F0F;
+text-decoration:none;}
+a:hover{
+text-decoration:underline;}
+
+
+span.anchor {
+color:blue;
+ text-decoration:underline;   
+}
+span.anchor span.note {
+ position:absolute;
+    color:black;
+    text-decoration:none;
+    
+    background:white;
+    border:solid blue 1px;
+    width:350px;
+   display:none;
+    }
+ 
+q {quotes:'“' '”' '‘' '’'; 
+}
+
+cite.sub {font-style:normal;}
+cite.sub::before {content:'“'; 
+}
+cite.sub::after {content:'”';
+}
+
+q cite.sub::before {content: '‘'}
+q cite.sub::after {content: '’'}
+cite.sub cite.sub::before {content: '‘'}
+cite.sub cite.sub::after {content: '’'}
+       
+/*span.anchor span.note:hover span, span.anchor span.note:active span {
+    display:inline;
+}*/

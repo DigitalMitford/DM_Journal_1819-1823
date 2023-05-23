@@ -1,6 +1,6 @@
 
 body {
-    background-color: darkseagreen;
+    background-color: /*darkseagreen;*/ #F8F8FF; 
 }
 
 body section {
@@ -40,7 +40,7 @@ h2 {
     margin: 0;
 }
 h3 {
-    font-size: 1em;
+    font-size: 1.2em;
     padding: 0;
     margin: 0;
 }
@@ -69,9 +69,9 @@ tr {
     font-size: 1.5em;
     border-radius: 20px;
 }
-li {
+/*li {
     background-color: #B2B3AD;
-}
+}*/
 th {
     text-align: center;
     border-radius: 20px;
@@ -84,21 +84,23 @@ tr ul {
 
 
 div#content {
+    
     display: flex;
 }
 section#entries {
-    flex: 50%;
-    background-color: #41372E;
+    flex: 1.5;
+    /*background-color: #41372E;*/
+    border-radius:20px;
 }
 section#gloss {
-    flex: 50%;
+    flex: 1;
     background-color: #B2B3AD;
     border-radius: 20px;
     padding: 10px;
     height: 100%;
 }
 div.entry {
-    background-color: #B2B3AD;
+    /*background-color: #B2B3AD;*/
     border-radius: 20px;
     padding: 10px;
 }
@@ -121,9 +123,16 @@ div.calendarNum {
 }
 
 
+/* Gloss styling */
 
+div.si {
+    background-color:lavender;
+    padding:10px;
+    border:black;
+    border-radius:20px;
+    border-width:10px;
 
-
+}
 
 
 
@@ -146,66 +155,54 @@ div.year {
     color: purple;
 }
 
+/* Digital Mitford Project Navigation Bar */
+div#nav_wide {background-image: url("mrmBlur.jpg"); padding:0; width:100%; position:relative; top:-35px; }
+
+div#menu {width:100%; height:100%; display:flex; justify-content:space-around; align-items:center; flex-direction:row;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; padding:0;
+ }
+ 
+span.mainTitle {display:block; font-size:1.8em; font-weight:bold; letter-spacing:2px; color:#B16800; position:relative; top:15px; }
+span.subTitle{display:block; font-size: .88em; letter-spacing:1px;font-style:italic; font-weight:900; position:relative; top:25px;}
+
+ul#siteMenu {list-style-type:none; width:100%; display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row; height:100%;  background-color:/*#F8F8FF;*/#FFDB90;
+position:relative; bottom:-20px;
+;
+}
+ul#siteMenu li.title {flex:1; display:flex; justify-content:space-around; align-items:center; flex-direction:column; background-color:#FFDB90;   }
+/*ul#siteMenu li {/\*padding:8px;*\/ font-weight: bold;}*/
+
+ul#siteMenu li.mainMenu {flex:2.5; background-color:/*#FFDB90*/#F8F8FF;}
+
+ul.mainMenu {list-style-type:none; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; background-color: Grey; padding:0}
+
+ul.mainMenu li.section {/*font-weight:bold; font-size:1em;*/ display:flex; justify-content:space-around; align-items:center; flex-direction:column; padding-left:20px; padding-right:10px; height:150px; flex:1}
+
+li#Overview {background-color:Grey; color:#FFDB90;}
+li#Overview a{color:gold; text-decoration:none;}
+li#Overview a:hover{color:yellow; text-decoration:underline;}
+li#Editions{background-color:FireBrick; color:Lavender;}
+li#Editions a {color:Lavender; text-decoration:none;}
+li#Editions a:hover {color:white; text-decoration:underline;}
+li#Bib{background-color:DarkSeaGreen; color:maroon}
+li#Bib a {color:maroon; text-decoration:none;}
+li#Bib a:hover {color:white; text-decoration:underline;}
+
+li#Project{background-color:Lavender; }
+li#Outreach{background-color:RosyBrown; color:PapayaWhip;}
+li#Outreach a {color:PapayaWhip; text-decoration:none;}
+li#Outreach a:hover {color:gold; text-decoration:underline}
+
+ul.subSec {list-style-type:none; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:column; margin-left:-40px; padding-top:5px; margin-right:25px; /*background-color:LemonChiffon;*/
+}
+ul.subSec li {text-align:left; font-size:1em; font-weight:700; padding-top:2px; padding-bottom:3px }
 
 
 
 
 
-div#navblock {
-    min-width: 1000px;
-    font-family: arial, helvetica, sans-serif;
-    vertical-align: central;
-    margin: -.6%;
-    padding: 0px 32px;
-    background-color: #400D01;
-}
-nav#nav {
-    color: #B1735A;
-    margin: 0;
-    background-color: #B2B3AD;
-}
-nav {
-    width: 100%;
-    margin: 0;
-}
-nav ul {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-footer {
-    background: #383B53;
-    color: #F4F2CD;
-    margin: -.6%;
-    width: 100%;
-    padding: 20px;
-}
-footer a {
-    color: #F4F2CD
-}
-div#navblock {
-    vertical-align: central;
-    margin: -.6%;
-    padding: 0px 32px;
-    background-color: #B2B3AD;
-}
-.indexbut {
-    background-color: #B2B3AD;
-    color: #41372E;
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 100%;
-    margin: 0px 0px 0px 0px;
-    cursor: pointer;
-    transition-duration: 0.4s;
-}
-.indexbut:hover {
-    background-color: #41372E;
-    color: #B2B3AD;
-}
+
+
+
 
 
