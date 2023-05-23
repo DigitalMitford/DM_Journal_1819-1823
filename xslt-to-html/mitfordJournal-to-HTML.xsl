@@ -3,21 +3,31 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0" xmlns="http://www.w3.org/1999/xhtml"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes"/>
+
+
+
+    <xsl:variable name="si" as="document-node()" select="doc('https://digitalmitford.org/si.xml')"/>
+
+    <xsl:variable name="siAdd" as="document-node()"
+        select="doc('https://raw.githubusercontent.com/DigitalMitford/DM_SiteIndex/master/si_Full_IP/si-local.xml')"/>
+
     <xsl:template match="/">
-        
-        <xsl:apply-templates select="descendant::div[@type='month']"/>
-        
+
+        <xsl:apply-templates select="descendant::div[@type = 'month']"/>
+
     </xsl:template>
-    
-    <xsl:template match="div[@type='month']">
+
+    <xsl:template match="div[@type = 'month']">
         <xsl:variable name="filename" as="xs:string" select="concat(@xml:id, '.html')"/>
         <xsl:variable name="currentMonth" as="xs:string" select="replace(@xml:id, '-', ' ')"/>
-     
-        <xsl:result-document method="xhtml" html-version="5" _omit-xml-declaration="yes" href="../docs/journal-view/{$filename}">
+
+        <xsl:result-document method="xhtml" html-version="5" _omit-xml-declaration="yes"
+            href="../docs/journal-view/{$filename}">
             <html>
                 <head>
                     <title>
-                        <xsl:apply-templates select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
+                        <xsl:apply-templates
+                            select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
                     </title>
                     <link rel="stylesheet" type="text/css" href="../journal.css"/>
                 </head>
@@ -38,7 +48,8 @@
                     </nav>
                 </div>-->
                     <h1>
-                        <xsl:value-of select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
+                        <xsl:value-of
+                            select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
                     </h1>
                     <div id="flex">
                         <section id="toc">
@@ -46,66 +57,106 @@
                             <table>
                                 <tr>
                                     <th>Year</th>
-                                    
+
                                 </tr>
-                                
-                                    <xsl:apply-templates select="ancestor::body//div[@type = 'year']" mode="toc"/>
+
+                                <xsl:apply-templates select="ancestor::body//div[@type = 'year']"
+                                    mode="toc"/>
                             </table>
                         </section>
-                        
+
                         <section id="rv">
-                            <h2><xsl:value-of select="$currentMonth"/></h2>
-                            
-                            <div id="calendarDays"> 
-                            <xsl:for-each select="child::div[@type='entry']">
-                                <div class="calendarNum"> 
-                                    <a href="#{@xml:id}"><xsl:value-of select="tokenize(./head/date/@when, '-')[last()]"/></a>
-                                </div>
-                                
-                                
-                            </xsl:for-each>
-                            
+                            <h2>
+                                <xsl:value-of select="$currentMonth"/>
+                            </h2>
+
+                            <div id="calendarDays">
+                                <xsl:for-each select="child::div[@type = 'entry']">
+                                    <div class="calendarNum">
+                                        <a href="#{@xml:id}">
+                                            <xsl:value-of
+                                                select="tokenize(./head/date/@when, '-')[last()]"/>
+                                        </a>
+                                    </div>
+
+
+                                </xsl:for-each>
+
                             </div>
-                            
+
                             <div id="content">
                                 <section id="entries">
-                                    <xsl:apply-templates select="descendant::div[@type='entry']"/>
+                                    <xsl:apply-templates select="descendant::div[@type = 'entry']"/>
                                 </section>
-                                <section id="gloss"> 
-                                    <h2>Gloss</h2>
-                                    <p>ADDING SOME TEXT HERE TO TAKE UP SPACE. ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.ADDING SOME TEXT HERE TO TAKE UP SPACE.</p>
+                                <section id="gloss">
+                                    <h2>Gloss of Names Mentioned</h2>
+                                    <h3>Nature</h3>
+                                    <xsl:for-each
+                                        select="current()//name/@ref ! normalize-space() => distinct-values()">
+                                      <div class="si">
+                                          
+                                                  <ul>
+                                                      <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[not(self::note)] ! normalize-space()">
+                                                      <li><xsl:value-of select="current()"/></li>
+                                                  </xsl:for-each>
+                                                  </ul>
+                                                    <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
+                                             
+                                       
+                                                    <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                        <iframe src="{($si//*[@xml:id = substring-after(current(), '#')]//ptr)[1]/@target}"/>  
+                                                        <ul>
+                                                            <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                                <li><a href="{@target}"><xsl:value-of select="@target"/></a></li>
+                                                        </xsl:for-each>
+                                                        </ul>
+                                                    </xsl:if>
+                                       </div>
+
+
+                                    </xsl:for-each>
+
+                                    <h3>Places</h3>
+
+                                    <h3>Publications</h3>
+
+                                    <h3>Persons, Personas, and Characters</h3>
+
+                                    <h3>Collectives</h3>
+
+
                                 </section>
                             </div>
-        
+
                         </section>
                     </div>
                 </body>
-                
-            </html>
-            
-            
-            
-        </xsl:result-document>
-        
-        
-        
-    </xsl:template>
-    
-    
-   
-    
-    <xsl:template match="div[@type = 'year']" mode="toc">
-       <tr> 
-           <td>
-            <h2>
-                <xsl:apply-templates select="head/date" mode="toc"/>
-            </h2>
-            <ul>
-                <xsl:apply-templates select="./div[@type = 'month']" mode="toc"/>
-            </ul>
 
-        </td>
-       </tr>
+            </html>
+
+
+
+        </xsl:result-document>
+
+
+
+    </xsl:template>
+
+
+
+
+    <xsl:template match="div[@type = 'year']" mode="toc">
+        <tr>
+            <td>
+                <h2>
+                    <xsl:apply-templates select="head/date" mode="toc"/>
+                </h2>
+                <ul>
+                    <xsl:apply-templates select="./div[@type = 'month']" mode="toc"/>
+                </ul>
+
+            </td>
+        </tr>
     </xsl:template>
 
     <xsl:template match="div[@type = 'month']" mode="toc">
@@ -126,12 +177,12 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="div[@type='entry']/head">
+    <xsl:template match="div[@type = 'entry']/head">
         <h2>
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
-<!--    <xsl:template match="div[@type = 'year']">
+    <!--    <xsl:template match="div[@type = 'year']">
         <div class="{@type}">
             <xsl:apply-templates/>
         </div>
