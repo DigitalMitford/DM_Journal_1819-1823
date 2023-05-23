@@ -32,25 +32,66 @@
                     <link rel="stylesheet" type="text/css" href="../journal.css"/>
                 </head>
                 <body>
-                    <!--  <div id="navblock">
-                    <h1 class="h1">Digital Mitford:</h1>
+                    <div id="nav_wide">   <!--<h1>Digital Mitford:
+            The Mary Russell Mitford Archive</h1>-->
+                        <div id="menu">       
+                            <!-- <h2><a href="index.html">Welcome</a> | <a href="about.html">About</a> | <a href="bibliogType.html">Published Works</a> | <a href="lettersData.html">Manuscript Locations</a> | <a href="letters.html">Letters</a> | <a href="visual.html">People, Places, and Networks</a> | <a href="staff.html">Staff</a> | <a href="workshop.html">Workshop Materials</a></h2>-->
+                            <ul id="siteMenu">
+                                <li class="title"><span class="mainTitle">Digital Mitford:</span><br/> <span class="subTitle"><xsl:value-of
+                                    select="ancestor::TEI//titleStmt/title"/></span>
+                                
+                           
+                                </li>
+                                <li class="mainMenu"><ul class="mainMenu"><li class="section" id="Overview"><!--Overview-->
+                                    <ul class="subSec"><li class="subMenu"><a href="index.html">Home</a></li>
+                                        <li class="subMenu"><a href="visual.html">Mitford’s Worlds</a></li>
+                                    </ul></li>
+                                    <li class="section" id="Bib"><!--Life Writing, Bibliography, Papers-->
+                                        <ul class="subSec">
+                                            <li class="subMenu"><a href="letters.html">Letters</a></li>
+                                            <li class="subMenu">Journal</li>
+                                            <li class="subMenu"><a href="bibliogType.html">Bibliography</a></li>
+                                            <li class="subMenu"><a href="lettersData.html">Manuscript Locations</a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                    <li class="section" id="Editions"><!--Editions-->
+                                        <ul class="subSec">
+                                            
+                                            <li class="subMenu">Plays</li>
+                                            <li class="subMenu">Poems</li>
+                                            <li class="subMenu">Fiction</li>
+                                        </ul>
+                                    </li>
+                                    
+                                    
+                                    
+                                    <li class="section" id="Project"><!--Project-->
+                                        <ul class="subSec">
+                                            <li class="subMenu"><a href="about.html">Methods &amp; Background</a></li>
+                                            <li class="subMenu"><a href="staff.html">Staff</a></li>
+                                            <li class="subMenu">Scholarship</li>
+                                        </ul>
+                                    </li>
+                                    <li class="section" id="Outreach"><!--Outreach-->
+                                        <ul class="subSec">
+                                            <li class="subMenu"><a href="workshop.html">Coding School</a></li>
+                                            <li class="subMenu"><a href="https://digitalmitford.wordpress.com/">Blog</a></li>
+                                            <li class="subMenu"><a href="applicationProcess.html">Become a Mitford Editor</a></li>
+                                        </ul>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>  
                     
-                    <nav id="nav">
-                        <ul>
-                            <li><a href="index.html" class="indexbut">Home</a></li>
-                            <li><a href="akam-mitford-html.html" class="indexbut">Journal</a></li>
-                            <li><a href="haywardOUT.html" class="indexbut">Haywards</a></li>
-                            <li><a href="plantsAnimals.html" class="indexbut">Plants &amp; Animals</a></li>
-                            <li><a href="about.html" class="indexbut">About</a></li>
-                            <li><a href="https://digitalmitford.org//index.html" class="indexbut">Main
-                                Page</a></li>
-                        </ul>
-                    </nav>
-                </div>-->
-                    <h1>
+                  <!--  <h1>
                         <xsl:value-of
                             select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
-                    </h1>
+                    </h1>-->
                     <div id="flex">
                         <section id="toc">
                             <h2>Contents</h2>
@@ -95,10 +136,15 @@
                                         select="current()//name/@ref ! normalize-space() => distinct-values()">
                                       <div class="si">
                                           
-                                                  <ul>
-                                                      <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[not(self::note)] ! normalize-space()">
-                                                      <li><xsl:value-of select="current()"/></li>
-                                                  </xsl:for-each>
+                                          <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
+                                          
+                                          
+                                                 <ul>
+                                                     <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() gt 1][not(self::note)]">
+    
+           
+                                                      <li><xsl:sequence select="current() ! normalize-space()"/></li>
+                                                     </xsl:for-each>    
                                                   </ul>
                                                     <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
                                              
@@ -121,6 +167,34 @@
                                     <h3>Publications</h3>
 
                                     <h3>Persons, Personas, and Characters</h3>
+                                    <xsl:for-each
+                                        select="current()//persName/@ref ! normalize-space() => distinct-values()">
+                                        <div class="si">
+                                            
+                                            <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
+                                            
+                                            
+                                            <ul>
+                                                <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() gt 1][not(self::note)]">
+                                                    
+                                                    
+                                                    <li><xsl:sequence select="current() ! normalize-space()"/></li>
+                                                </xsl:for-each>    
+                                            </ul>
+                                            <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
+                                            
+                                            
+                                            <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                <iframe src="{($si//*[@xml:id = substring-after(current(), '#')]//ptr)[1]/@target}"/>  
+                                                <ul>
+                                                    <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
+                                                        <li><a href="{@target}"><xsl:value-of select="@target"/></a></li>
+                                                    </xsl:for-each>
+                                                </ul>
+                                            </xsl:if>
+                                        </div>
+                                        
+                                    </xsl:for-each>
 
                                     <h3>Collectives</h3>
 
@@ -178,9 +252,9 @@
         </div>
     </xsl:template>
     <xsl:template match="div[@type = 'entry']/head">
-        <h2>
+        <h3>
             <xsl:apply-templates/>
-        </h2>
+        </h3>
     </xsl:template>
     <!--    <xsl:template match="div[@type = 'year']">
         <div class="{@type}">
