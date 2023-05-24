@@ -30,6 +30,7 @@
                             select="concat($currentMonth, ': ', ancestor::TEI//titleStmt/title)"/>
                     </title>
                     <link rel="stylesheet" type="text/css" href="../journal.css"/>
+                    <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" />
                 </head>
                 <body>
                     <div id="nav_wide">   <!--<h1>Digital Mitford:
@@ -94,12 +95,8 @@
                     </h1>-->
                     <div id="flex">
                         <section id="toc">
-                            <h2>Contents</h2>
                             <table>
-                                <tr>
-                                    <th>Year</th>
 
-                                </tr>
 
                                 <xsl:apply-templates select="ancestor::body//div[@type = 'year']"
                                     mode="toc"/>
@@ -107,9 +104,7 @@
                         </section>
 
                         <section id="rv">
-                            <h2>
-                                <xsl:value-of select="$currentMonth"/>
-                            </h2>
+                            
 
                             <div id="calendarDays">
                                 <xsl:for-each select="child::div[@type = 'entry']">
@@ -127,10 +122,14 @@
 
                             <div id="content">
                                 <section id="entries">
+                                    <h2>
+                                        <xsl:value-of select="$currentMonth"/>
+                                    </h2>
                                     <xsl:apply-templates select="descendant::div[@type = 'entry']"/>
                                 </section>
                                 <section id="gloss">
                                     <h2>Gloss of Names Mentioned</h2>
+                                    <br/>
                                     <h3>Nature</h3>
                                     <xsl:for-each
                                         select="current()//name/@ref ! normalize-space() => distinct-values()">
@@ -161,11 +160,11 @@
 
 
                                     </xsl:for-each>
-
+                                    <br/>
                                     <h3>Places</h3>
-
+                                    <br/>
                                     <h3>Publications</h3>
-
+                                    <br/>
                                     <h3>Persons, Personas, and Characters</h3>
                                     <xsl:for-each
                                         select="current()//persName/@ref ! normalize-space() => distinct-values()">
