@@ -6741,7 +6741,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName><surname>Newbery</surname></orgName>
                   <note resp="#lmw">The family of <persName ref="#Newbery_J">Jacob
                         Newbery</persName>. Surname variously spelled <q>Newbery</q> and
-                        <q>Newbery</q>.</note>
+                        <q>Newberry</q>.</note>
                </org>
                <!-- srr: ******************************************************************* -->
 
@@ -6971,7 +6971,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <occupation type="religious" subtype="priest"/>
                   <note resp="#lmw">Prolific and renowned Spanish writer of the Baroque period,
                      active from 1580 into the 17th century. Important playwright whose works were
-                     translated and adapted for English theater from 1660. He </note>
+                     translated and adapted for English theater from 1660.  </note>
                   <note><ptr target="http://viaf.org/viaf/89773778"/></note>
                </person>
 
@@ -7135,7 +7135,9 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Robinson_Mary" sex="f">
-                  <!-- srr: Not found in local SI or in Published SI, did find 'Robinson_MaryD' in local SI, might be the same person -->
+                  <!-- srr: Not found in local SI or in Published SI, did find 'Robinson_MaryD' in local SI, might be the same person
+   2023-05-24 ebb and lmw: We don't find evidence yet that MRM is directly discussing Mary Darby Robinson in the journal. We can check across the coded files thus far.              
+                  -->
                   <!-- DONE -->
                   <persName>Mary Robinson</persName>
                   <persName>
@@ -7819,11 +7821,15 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Brooke</surname>
                      <forename>Frances</forename>
                   </persName>
+                  <note resp="lmw ebb">Novelist and playwright. Not related to the Brooke family who were nonliterary local friends of MRM.</note>
                </person>
 
                <person xml:id="Brown_DrT" sex="m">
-                  <!-- srr: Found a 'Brown_Thos', maybe the same person-->
-                  <!-- stub -->
+                  <!-- srr: Found a 'Brown_Thos', maybe the same person
+      2023-05-24 ebb and lmw: Good question! We determine this is not the same person chronologically: Brown_Thos was dead by 1682, before the time that Dr. Thomas Brown here writes about. (He writes a book about the philosopher David Hume who lived in the 1700s.)              
+
+                  -->
+                  <!-- stub (needs birth and death dates) -->
                   <persName>Thomas Brown</persName>
                   <persName>
                      <surname>Brown</surname>
@@ -7881,7 +7887,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <forename>John</forename>
                      <forename>William</forename>
                   </persName>
-                  <note resp="#lmw">knew Byron, Vicar of Harrow</note>
+                  <note resp="#lmw">Vicar of Harrow, who knew Byron.</note>
                </person>
 
                <person xml:id="Disraeli_I" sex="m">
@@ -7935,7 +7941,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Porteous</surname>
                      <forename>John</forename>
                   </persName>
-                  <note/>
+                  <note resp="#lmw #scw">Captain of the city guard of Edinburgh, attacked and killed by a lynch mob for ordering guards should fire into an unruly crowd during a public execution. Associated with the Porteous riots, and written about by <bibl>Sir Walter Scott in <title level="m" ref="#Heart_of_Mid">The Heart of Midlothian</title></bibl>.</note>
                </person>
 
 
@@ -8043,6 +8049,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Meeke</surname>
                      <forename>Mary</forename>
                   </persName>
+                  <note resp="#lmw">Novelist.</note>
                </person>
 
                <person xml:id="Mill_Chas" sex="m">
@@ -8075,7 +8082,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <roleName>Laird of Boghall</roleName>
                   </persName>
                   <death when="1721"/>
-                  <note><!--mentioned in criminal trials volume with Porteous--></note>
+                  <note>Mentioned in criminal trials volume with <persName ref="#PorteousJ">Porteous</persName>.</note>
                </person>
 
                <person xml:id="Ormsby_James" sex="m">
@@ -8097,6 +8104,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Anne</surname>
                      <forename>Plumptre</forename>
                   </persName>
+                  <note resp="#lmw">Sister of <persName ref="#PlumptreAnnabella">Annabella Plumptre</persName>. The sisters translated German writings.</note>
                </person>
 
                <person xml:id="PlumptreAnnabella" sex="f">
@@ -8107,6 +8115,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Annabella</surname>
                      <forename>Plumptre</forename>
                   </persName>
+                  <note resp="#lmw">Sister of <persName ref="#PlumptreAnne">Anne Plumptre</persName>. The sisters translated German writings.</note>
                </person>
 
                <person xml:id="PocockeT" sex="m">
@@ -8194,7 +8203,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <surname>Wilson</surname>
                      <forename>Andrew</forename>
                   </persName>
-                  <note><!-- assocuated with Porteous trial --></note>
+                  <note>Associated with <persName ref="#PorteousJ">Porteous</persName> trial.</note>
                </person>
 
 
@@ -8231,7 +8240,7 @@ Publisher:	London : [publisher not identified], 1786.
                <person xml:id="Fly_pet" sex="f">
                   <!-- srr: Not found in local SI or in Published SI -->
                   <persName>Fly</persName>
-                  <note resp="#ebb">Female dog given as a gift to MRM bby Farmer Webb in February
+                  <note resp="#ebb">Female dog given as a gift to MRM by Farmer Webb in February
                      1819 and <q>married</q> to MRM's dog Mossy in May 1819. </note>
                </person>
 
@@ -8307,7 +8316,11 @@ Publisher:	London : [publisher not identified], 1786.
                </person>
 
                <person xml:id="Ogbourn_Miss" sex="f">
-                  <!-- srr: Do we need to keep? I did find a 'Ogbourn_Miss' in local SI not in Published SI-->
+                  <!-- srr: Do we need to keep? I did find a 'Ogbourn_Miss' in local SI not in Published SI
+                  2023-05-24 ebb lmw: Yes, keep due to questions in note. If she turns out to be Aunt Mary, we delete these and point Miss Ogbourn to "Aunt Mary Webb" entry. But we don't know for sure yet. 
+                  
+                  2023-05-24 TO HERE REVIEW BY EBB/LMW 
+                  -->
                   <!--done-->
                   <persName>Miss Ogbourn</persName>
                   <persName>
