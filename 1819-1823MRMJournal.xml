@@ -230,8 +230,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         ref="#Ugolino">Count Ugolino</persName>--</p>
 
                  <!--lmw: on opposite leaf-->
+                  <!-- 2023-05-25 ebb: TEI CODING PROBLEM AT TOP OF POEM NOT YET RESOLVED -->
                      <placeName ref="#ManchesterHouse">Manchester House</placeName><lb/>
-                     <placeName ref="#Exmouth">Exmouth.</placeName><lb/>
+                     <placeName ref="#Exmouth">Exmouth.</placeName><lb/></ab>
                      <title ref="#NewYearsDay_1827">Sonnet</title><lb/>
                     <title><placeName ref="#Farley_Hill">Farley Hill</placeName>
                      <date when="1819-01-01">Jan<hi rend="superscript">y</hi> 1<hi
