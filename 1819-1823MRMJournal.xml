@@ -229,27 +229,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         ref="#Dickinson_Charles">Mr. D</persName>'s reading--<persName
                         ref="#Ugolino">Count Ugolino</persName>--</p>
 
-                  <p><!--lmw: on opposite leaf-->
+                 <!--lmw: on opposite leaf-->
                      <placeName ref="#ManchesterHouse">Manchester House</placeName><lb/>
                      <placeName ref="#Exmouth">Exmouth.</placeName><lb/>
                      <title ref="#NewYearsDay_1827">Sonnet</title><lb/>
-                     <placeName ref="#Farley_Hill">Farley Hill</placeName>
+                    <title><placeName ref="#Farley_Hill">Farley Hill</placeName>
                      <date when="1819-01-01">Jan<hi rend="superscript">y</hi> 1<hi
-                           rend="superscript">st</hi> 1819. To Mrs. Dickinson</date><lb/> Banquet
-                     &amp; song &amp; dance &amp; revelry!<lb/>
-                     <!--indent-->Auspicious year born in so fair a light<lb/>
-                     <!--indent-->Of gaiety &amp; beauty! Happy night<lb/> Sacred to social
-                     pleasure--&amp; to Thee<lb/> Its dear dispenser--of festivity<lb/>
-                     <!--indent-->The festive Queen--the moving spirit bright<lb/>
-                     <!--indent-->Of music &amp; the dance--of all delight<lb/> The gentle Mistress
-                     bountiful &amp; free!<lb/>
-                     <!--indent-->Oh happy night! and oh suceeding day<lb/> Far happier when 'mid
-                     converse &amp; repose<lb/>
-                     <!--indent-->Handel's sweet strains came sweetened, &amp; the lay<lb/> Divine
-                     of that old Florentine arose<lb/>
-                     <!--indent-->Dante; &amp; Genius flung his torch-like ray<lb/> O'er the dark
-                     tale of Ugolino's woes.<lb/> M. R. M.<lb/>
-                  </p>
+                           rend="superscript">st</hi> 1819. To Mrs. Dickinson</date></title>
+                     <lg> 
+                        <l n="1">Banquet
+                     &amp; song &amp; dance &amp; revelry!</l>
+                        <l n="2" rend="indent(+2)">Auspicious year born in so fair a light</l>
+                        <l n="3" rend="indent(+2)">Of gaiety &amp; beauty! Happy night</l>
+                        <l n="4">Sacred to social pleasure--&amp; to Thee</l> 
+                        <l n="5">Its dear dispenser--of festivity</l>
+                        <l n="6" rend="indent(+2)">The festive Queen--the moving spirit bright</l>
+                        <l n="7" rend="indent(+2)">Of music &amp; the dance--of all delight</l>
+                        <l n="8">The gentle Mistress bountiful &amp; free!</l>
+                        <l n="9" rend="indent(+2)">Oh happy night! and oh suceeding day</l>
+                        <l n="10">Far happier when 'mid converse &amp; repose</l>
+                       <l n="11" rend="indent(+2)">Handel's sweet strains came sweetened, &amp; the lay</l>
+                        <l n="12">Divine of that old Florentine arose</l>
+                        <l n="13" rend="indent(+2)">Dante; &amp; Genius flung his torch-like ray</l>
+                        <l n="14">O'er the dark tale of Ugolino's woes.</l>
+                    </lg> 
+                     <closer><signed>M. R. M.</signed></closer>
+             
                </div>
                <div type="entry" xml:id="e-4">
                   <head>

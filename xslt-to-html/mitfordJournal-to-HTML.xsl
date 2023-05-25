@@ -142,10 +142,12 @@
                                                      <xsl:for-each select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() gt 1][not(self::note)]">
     
            
-                                                      <li><xsl:sequence select="current() ! normalize-space()"/></li>
+                                                      <li><xsl:choose><xsl:when test="@*"><xsl:for-each select="@*">
+                                                          <xsl:value-of select="name()"/>: <xsl:value-of select="current()"/><xsl:if test="not(position()[last()])"><xsl:text> </xsl:text></xsl:if>
+                                                      </xsl:for-each></xsl:when></xsl:choose></li>
                                                      </xsl:for-each>    
                                                   </ul>
-                                                    <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
+                                                    <p><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></p>
                                              
                                        
                                                     <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
@@ -180,7 +182,7 @@
                                                     <li><xsl:sequence select="current() ! normalize-space()"/></li>
                                                 </xsl:for-each>    
                                             </ul>
-                                            <p><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/note[1] ! normalize-space()"/></p>
+                                            <p><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></p>
                                             
                                             
                                             <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
@@ -287,6 +289,9 @@
         <span class="title">
             <xsl:apply-templates/>
         </span>
+    </xsl:template>
+    <xsl:template match="p">
+        <p><xsl:apply-templates/></p>
     </xsl:template>
 
 </xsl:stylesheet>
