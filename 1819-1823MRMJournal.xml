@@ -230,13 +230,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         ref="#Ugolino">Count Ugolino</persName>--</p>
 
                  <!--lmw: on opposite leaf-->
-                  <!-- 2023-05-25 ebb: TEI CODING PROBLEM AT TOP OF POEM NOT YET RESOLVED -->
-                     <placeName ref="#ManchesterHouse">Manchester House</placeName><lb/>
-                     <placeName ref="#Exmouth">Exmouth.</placeName><lb/></ab>
-                     <title ref="#NewYearsDay_1827">Sonnet</title><lb/>
-                    <title><placeName ref="#Farley_Hill">Farley Hill</placeName>
-                     <date when="1819-01-01">Jan<hi rend="superscript">y</hi> 1<hi
-                           rend="superscript">st</hi> 1819. To Mrs. Dickinson</date></title>
+                  <!-- 2023-05-25 ebb: Revised the encoding to match how we're handling other poems in the Mitford project. -->
+                    <div type="poem"> 
+                       <opener>
+                          <placeName ref="#ManchesterHouse">Manchester House</placeName>
+                          <lb/><placeName ref="#Exmouth">Exmouth.</placeName>
+                       </opener>
+                       <head type="title"><title ref="#NewYearsDay_1827">Sonnet</title></head>
+                       <head type="subtitle">
+                          <placeName ref="#Farley_Hill">Farley Hill</placeName>
+                        <date when="1819-01-01">Jan<hi rend="superscript">y</hi> 1<hi
+                           rend="superscript">st</hi> 1819. To Mrs. Dickinson</date>
+                       </head>
                      <lg> 
                         <l n="1">Banquet
                      &amp; song &amp; dance &amp; revelry!</l>
@@ -255,6 +260,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <l n="14">O'er the dark tale of Ugolino's woes.</l>
                     </lg> 
                      <closer><signed>M. R. M.</signed></closer>
+                    </div>
              
                </div>
                <div type="entry" xml:id="e-4">

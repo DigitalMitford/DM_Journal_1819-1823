@@ -262,6 +262,40 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>-->
+    
+    <xsl:template match="div[@type = 'poem']/head[@type='title']">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+    <xsl:template match="div[@type = 'poem']/head[@type='subtitle']">
+        <h5>
+            <xsl:apply-templates/>
+        </h5>
+    </xsl:template>
+    
+    <xsl:template match="lg">
+        <div class="lg">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    <xsl:template match="l">
+        <div class="line"> 
+            <xsl:choose>
+                <xsl:when test="@rend">
+                    <span class="line {@rend ! translate(., '+)', '') ! translate(., '(', '-')}" id="L{@n}">
+                        <xsl:apply-templates/></span>
+                    <span class="lineNumber"><xsl:value-of select="@n"/></span>
+                    
+                </xsl:when>
+                <xsl:otherwise>
+                    <span class="line" id="L{@n}">
+                        <xsl:apply-templates/></span>
+                    <span class="lineNumber"><xsl:value-of select="@n"/></span>
+                </xsl:otherwise>
+            </xsl:choose>
+        </div>
+    </xsl:template>
 
     <!-- classsifiyng the elements in the text-->
 
