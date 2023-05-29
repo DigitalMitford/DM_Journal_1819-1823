@@ -6512,9 +6512,10 @@ Publisher:	London : [publisher not identified], 1786.
             <!--TSA 2023-04-04 I'm beginning to go through names for plants and animals and I found that the hares have a prior ref using ref="#hare" but it does not autofill. I found the same with rabbit-->
             <div type="month" xml:id="Sep-1820"> 
    <div type="entry" xml:id="e-599">
-               <head><date when="1820-09-01">Friday 1st</date></head>
+               <head><date when="1820-09-01">Friday Sept. 1st</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr.Haydon</persName>--worked at my frill--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--wrote to <persName ref="#Haydon">Mr. Haydon</persName>.</p>
             </div>
+               <fw>Sept. 1820--Three Miles Cross</fw>
             <div type="entry" xml:id="e-600">
                <head><date when="1820-09-02">Saturday 2nd</date></head>
 
@@ -6552,6 +6553,7 @@ Publisher:	London : [publisher not identified], 1786.
                <head><date when="1820-09-10">Sunday 10th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName>St. Mary's Church</placeName> with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--called at the <orgName>Brookes</orgName>--dined at <placeName ref="#Coley_Berks">Coley</placeName>--pleasant day.</p>
             </div>
+               <fw>Sept. 1820--Three Miles Cross</fw>
             <div type="entry" xml:id="e-609">
                <head><date when="1820-09-11">Monday 11th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--read the <title ref="#Abbot_WS">Abbot</title>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName>--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets.</p>
@@ -6596,6 +6598,7 @@ Publisher:	London : [publisher not identified], 1786.
       <head><date when="1820-09-21">Thursday 21st</date></head>
       <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--went to the <placeName>Fair</placeName>--lunched at <persName ref="#Brooke_Miss">Miss Brooke</persName>'s--dined at <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s--met the <orgName>Matthews</orgName>'s, <orgName><unclear>[S]almons</unclear></orgName>, &amp;c.--a pleasant day--talked a good deal to <persName>young Procter</persName>, a clever boy in the school--came <placeName ref="#ThreeMileCross">home</placeName> at night--very wet day.</p>
    </div>
+               <fw>Sept. 1820--Three Miles Cross</fw>
    <div type="entry" xml:id="e-620">
       <head><date when="1820-09-22">Friday 22nd</date></head>
       <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--worked at my flounce--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--read <title>Madamemoiselle de Tournon [?]</title>.</p>
