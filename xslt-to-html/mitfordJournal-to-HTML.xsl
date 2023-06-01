@@ -132,8 +132,8 @@
                                     <br/>
                                     <h3>Nature</h3>
                                     <xsl:for-each
-                                        select="current()//name/@ref ! normalize-space() => distinct-values()">
-                                      <div class="si">
+                                        select="current()//name/@ref ! tokenize(., '\s+')  => distinct-values()">
+                                      <div class="si" id="{current() ! substring-after(., '#')}">
                                           
                                           <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
                                           
@@ -147,7 +147,7 @@
                                                       </xsl:for-each></xsl:when></xsl:choose></li>
                                                      </xsl:for-each>    
                                                   </ul>
-                                                    <p><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></p>
+                                                    <section class="glossNote"><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></section>
                                              
                                        
                                                     <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
@@ -169,8 +169,8 @@
                                     <br/>
                                     <h3>Persons, Personas, and Characters</h3>
                                     <xsl:for-each
-                                        select="current()//persName/@ref ! normalize-space() => distinct-values()">
-                                        <div class="si">
+                                        select="current()//persName/@ref ! tokenize(., '\s+')  => distinct-values()">
+                                        <div class="si" id="{current() ! substring-after(., '#')}">
                                             
                                             <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
                                             
@@ -182,7 +182,7 @@
                                                     <li><xsl:sequence select="current() ! normalize-space()"/></li>
                                                 </xsl:for-each>    
                                             </ul>
-                                            <p><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></p>
+                                            <section class="glossNote"><xsl:apply-templates select="$si//*[@xml:id = substring-after(current(), '#')]/note[1]"/></section>
                                             
                                             
                                             <xsl:if test="$si//*[@xml:id = substring-after(current(), '#')]//ptr">
@@ -304,25 +304,37 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="persName">
-        <span class="persName">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="placeName">
-        <span class="placeName">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="name">
-        <span class="name">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="body//title">
-        <span class="title">
-            <xsl:apply-templates/>
-        </span>
+    <xsl:template match="persName | placeName | name | body//title">
+       <xsl:choose> 
+           <xsl:when test="@ref">
+              <xsl:choose> 
+                  <xsl:when test="current()[parent::*[@ref or @corresp]]">
+                      <xsl:apply-templates/>
+                      
+                  </xsl:when>
+                  
+                  
+                  <xsl:otherwise><span class="{current() ! name()}" data-gloss="{@ref}"><a href="{@ref ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span></xsl:otherwise>
+              
+              
+              </xsl:choose>
+               
+               
+           </xsl:when>
+           <xsl:otherwise>
+               <span class="{name()}"><xsl:apply-templates/></span>
+           </xsl:otherwise>
+       </xsl:choose>
+    </xsl:template> 
+    <xsl:template match="body//bibl">
+        <xsl:choose> 
+            <xsl:when test="@corresp">
+                <span class="title" data-gloss="{@corresp}"><a href="{@corresp ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="title"><xsl:apply-templates/></span>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
