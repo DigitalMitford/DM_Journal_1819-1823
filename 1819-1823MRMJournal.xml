@@ -6641,65 +6641,66 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="month" xml:id="Oct-1820">
                <fw>October 1820 -- Three Mile Cross</fw>
                <div type="entry" xml:id="e-629">
-                  <head><date when="1820-10-1">Sunday October 1st</date></head>
-                  <p>At home--heard from Miss James--wrote to Mr. Haydon--had a charming walk with Drum &amp; Granny &amp; the Pets.</p>
+                  <head><date when="1820-10-01">Sunday October 1st</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#James_Miss">Miss James</persName>--wrote to <persName ref="#Haydon">Mr. Haydon</persName>--had a charming walk with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
                </div>
                <div type="entry" xml:id="e-630">
-                  <head><date when="1820-10-2">Monday October 2nd</date></head>
-                  <p>At home--went coursing with dear Drum &amp; the pets to Mortimer Common--very beautiful day--enjoyed the scenery very much, but had no sport.</p>
+                  <head><date when="1820-10-02">Monday October 2nd</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went coursing with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets to <placeName ref="#Mortimer_Comm">Mortimer Common</placeName>--very beautiful day--enjoyed the scenery very much, but had no sport.</p>
                </div>
                <div type="entry" xml:id="e-631">
-                  <head><date when="1820-10-3">Tuesday October 3rd</date></head>
-                  <p>At home--went to Reading with Drum &amp; Granny--heard from Miss James &amp; Miss Newman--called at Coley--at Mrs. Brooke's, Mrs. Newbery's &amp; the Valpy's--came home to dinner--a pleasant morning.</p>
+                  <head><date when="1820-10-03">Tuesday October 3rd</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>--heard from <persName ref="#James_Miss">Miss James</persName> &amp; <persName>Miss Newman</persName>--called at <placeName ref="#Coley_Berks">Coley</placeName>--at <persName ref="#Brooke_Miss">Mrs. Brooke</persName>'s, <persName>Mrs. Newbery</persName>'s &amp; the <orgName ref="#Valpys">Valpy's</orgName>--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--a pleasant morning.</p>
                </div>
                <div type="entry" xml:id="e-632">
-                  <head><date when="1820-10-4">Wednesday 4th</date></head>
-                  <p>At home--heard from Mrs. Dickinson--made dear Granny a turban--walked with dear Granny.</p>
+                  <head><date when="1820-10-04">Wednesday 4th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--made dear <persName ref="#Russell_M">Granny</persName> a turban--walked with dear <persName ref="#Russell_M">Granny</persName>.</p>
                </div>
                <div type="entry" xml:id="e-633">
-                  <head><date when="1820-10-5">Thursday 5th</date></head>
-                  <p>At home--went to dine with Mrs. Dickinson--met Mr. Bonviese [?], Mr. Howley, Miss Broughton &amp; young St. John--a very disagreeable day--saw a fine glow-worm as we came home at night.</p>
+                  <head><date when="1820-10-05">Thursday 5th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to dine with <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--met <persName>Mr. Bonviese</persName> [?], <persName>Mr. Howley</persName>, <persName ref="#Broughton_Betsy">Miss Broughton</persName> &amp; young <persName>St. John</persName>--a very disagreeable day--saw a fine <name ref="#glow_worm">glow-worm</name> as we came <placeName ref="#ThreeMileCross">home</placeName> at night.</p>
+                  <!--TSA 2023-06-06 I think that Mr. Howley is actually Mr. Hawley. Miss Broughton, who appears as Broughton_Betsy, references a Mr. Hawley in her SI. They are engaged, if this is the correct pair of individuals.-->
                </div>
                <div type="entry" xml:id="e-634">
-                  <head><date when="1820-10-6">Friday 6th</date></head>
-                  <p>At home--went to Coley to write &amp; dine--heard from Mrs. Hofland &amp; Miss James--wrote to Miss Brooke--came home at night after a pleasant day.</p>
+                  <head><date when="1820-10-06">Friday 6th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Coley_Berks">Coley</placeName> to write &amp; dine--heard from <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName>--came <placeName ref="#ThreeMileCross">home</placeName> at night after a pleasant day.</p>
                </div>
                <div type="entry" xml:id="e-635">
-                  <head><date when="1820-10-7">Saterday 7th</date></head>
-                  <p>At home--heard from Miss Nooth--wrote to Mrs. Hofland, Miss James &amp; Miss Newman--Mr. Philip Crowther called, &amp; Mr &amp; Mrs. Dickinson--walked with dear Granny &amp; my Molly, &amp; took dear Mr. Haydon's dogs--read Advice to Julia, a so so Poem.</p>
+                  <head><date when="1820-10-07">Saterday 7th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Nooth_C">Miss Nooth</persName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName>, <persName ref="#James_Miss">Miss James</persName> &amp; <persName>Miss Newman</persName>--<persName ref="#Crowther_Mr">Mr. Philip Crowther</persName> called, &amp; <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr &amp; Mrs. Dickinson</persName>--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; my <persName ref="#Molly_pet">Molly</persName>, &amp; took dear <persName ref="#Haydon">Mr. Haydon</persName>'s dogs--read <title>Advice to Julia</title>, a so so Poem.</p>
                </div>
                <div type="entry" xml:id="e-636">
-                  <head><date when="1820-10-8">Sunday 8th</date></head>
-                  <p>At home--went to Wokingham-dined there--came back at night--a very pleasant day.</p>
+                  <head><date when="1820-10-08">Sunday 8th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Wokingham_city">Wokingham</placeName>-dined there--came back at night--a very pleasant day.</p>
                </div>
                <div type="entry" xml:id="e-637">
-                  <head><date when="1820-10-9">Monday 9th</date></head>
-                  <p>At home--dear Granny &amp; Drum went to Winchester--I staid at home--walked with the pets--wrote to Miss Nooth.</p>
+                  <head><date when="1820-10-09">Monday 9th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Mitford_Geo">Drum</persName> went to <placeName ref="#Winchester_city">Winchester</placeName>--I staid at <placeName ref="#ThreeMileCross">home</placeName>--walked with the pets--wrote to <persName ref="#Nooth_C">Miss Nooth</persName>.</p>
                </div>
                <fw>October 1820 Three Mile Cross</fw>
                <div type="entry" xml:id="e-638">
                   <head><date when="1820-10-10">Tuesday 10th</date></head>
-                  <p>At home--Drum &amp; Granny at Winchester--heard from Drum &amp; Mr. Haydon--wrote to Drum &amp; Mr. Haydon--walked with the Pets.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> at <placeName ref="#Winchester_city">Winchester</placeName>--heard from <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--wrote to <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--walked with the Pets.</p>
                </div>
                <div type="entry" xml:id="e-639">
                   <head><date when="1820-10-11">Wednesday 11th</date></head>
-                  <p>At home--Drum &amp; Granny still at Winchester--had a presant of pears from Mr. Dickinson--wrote to Mrs. Dickinson--heard from Miss Emily James &amp; Miss Brooke--the Dickinsons called--wrote to Miss Emily James, Miss Brooke &amp; Granny--read the Edinburgh Review.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> still at <placeName ref="#Winchester_city">Winchester</placeName>--had a presant of <name ref="#pear">pears</name> from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--heard from <persName ref="#James_Emily">Miss Emily James</persName> &amp; <persName ref="#Brooke_Miss">Miss Brooke</persName>--the <orgName>Dickinsons</orgName> called--wrote to <persName ref="#James_Emily">Miss Emily James</persName>, <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; <persName ref="#Russell_M">Granny</persName>--read the <title ref="#EdinburghRev_per">Edinburgh Review</title>.</p>
                </div>
                <div type="entry" xml:id="e-640">
                   <head><date when="1820-10-12">Thursday 12th</date></head>
-                  <p>At home--heard from dear Drum &amp; Granny &amp; Mrs. Jolliffe--wrote to dear Granny--dear Drum came home--read the Quarterly Review.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from dear <persName ref="#Mitford_Geo">Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName> &amp; <persName>Mrs. Jolliffe</persName>--wrote to dear <persName ref="#Russell_M">Granny</persName>--dear <persName ref="#Mitford_Geo">Drum</persName> came <placeName ref="#ThreeMileCross">home</placeName>--read the <title ref="#QuarterlyRev_per">Quarterly Review</title>.</p>
                </div>
                <div type="entry" xml:id="e-641">
                   <head><date when="1820-10-13">Friday 13th</date></head>
-                  <p>At home--walked with dear Drum &amp; all the pets--saw a hornet's nest--Dr. Valpy &amp; Mr. Jolliffe called--wrote to dear Granny.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; all the pets--saw a <name ref="#hornet">hornet</name>'s nest--<persName ref="#Valpy_Richard">Dr. Valpy</persName> &amp; <persName>Mr. Jolliffe</persName> called--wrote to dear <persName ref="#Russell_M">Granny</persName>.</p>
                </div>
                <div type="entry" xml:id="e-642">
                   <head><date when="1820-10-14">Saterday 14th</date></head>
-                  <p>At home--went to Reading--went with Miss Brooke to Coley--dined at Mrs. Newbery's--came home after tea &amp; found dear, dear Luce who had come to see us--God bless her, dear love.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName>--went with <persName ref="#Brooke_Miss">Miss Brooke</persName> to <placeName ref="#Coley_Berks">Coley</placeName>--dined at <persName>Mrs. Newbery</persName>'s--came <placeName ref="#ThreeMileCross">home</placeName> after tea &amp; found dear, dear <persName ref="#Hill_Lucy">Luce</persName> who had come to see us--God bless her, dear love.</p>
                </div>
                <div type="entry" xml:id="e-643">
                   <head><date when="1820-10-15">Sunday 15th</date></head>
-                  <p>At home--Luce breakfasted &amp; dined with us--went away in the Evening--took a walk with Drum--wrote to Mrs. Monck.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Hill_Lucy">Luce</persName> breakfasted &amp; dined with us--went away in the Evening--took a walk with <persName ref="#Mitford_Geo">Drum</persName>--wrote to <persName ref="#Monck_Mrs">Mrs. Monck</persName>.</p>
                </div>
                
             </div>
