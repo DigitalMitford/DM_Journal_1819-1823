@@ -31,6 +31,7 @@
                     </title>
                     <link rel="stylesheet" type="text/css" href="../journal.css"/>
                     <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" />
+                    <script type="text/javascript" src="../journal.js"></script>
                 </head>
                 <body>
                     <div id="nav_wide">   <!--<h1>Digital Mitford:
@@ -314,7 +315,7 @@
                   </xsl:when>
                   
                   
-                  <xsl:otherwise><span class="{current() ! name()}" data-gloss="{@ref}"><a href="{@ref ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span></xsl:otherwise>
+                  <xsl:otherwise><span class="{current() ! name()} gloss" data-gloss="{@ref}"><a href="{@ref ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span></xsl:otherwise>
               
               
               </xsl:choose>
@@ -329,7 +330,7 @@
     <xsl:template match="body//bibl">
         <xsl:choose> 
             <xsl:when test="@corresp">
-                <span class="title" data-gloss="{@corresp}"><a href="{@corresp ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span>
+                <span class="title gloss" data-gloss="{@corresp}"><a href="{@corresp ! tokenize(., '\s+')[1]}"><xsl:apply-templates/></a></span>
             </xsl:when>
             <xsl:otherwise>
                 <span class="title"><xsl:apply-templates/></span>
