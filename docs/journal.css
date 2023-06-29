@@ -161,14 +161,17 @@ div a:hover {
 /* Gloss styling */
 
 div.si {
+    display:none;
+ 
+
+}
+div.si.on {  
+    display: block;
     background-color: #F8F8FF;
     padding: 10px;
     border: black;
     border-radius: 20px;
-    border-width: 10px;
-
-}
-
+    border-width: 10px;}
 
 
 span.date {

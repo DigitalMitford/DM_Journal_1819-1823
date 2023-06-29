@@ -17,6 +17,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <title>Mary Russell Mitford's Notebook of 1819 to 1823</title>
             <author ref="#MRM">Mary Russell Mitford</author>
             <editor ref="#rjp">Rebecca J. Parker</editor>
+            <editor ref="#srr">Savannah Ricks</editor>
+            <editor ref="#tsa">Tyler Akam</editor>
             <editor ref="#ebb">Elisa Beshero-Bondar</editor>
             <editor ref="#lmw">Lisa M. Wilson</editor>
             <!-- LMW where to credit Coles? -->
@@ -28,6 +30,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <respStmt>
                <resp>Transcription and coding by</resp>
                <persName ref="#rjp">Rebecca J. Parker</persName>
+               <persName ref="#srr">Savannah Ricks</persName>
+               <persName ref="#tsa">Tyler Akam</persName>
                <persName ref="#ebb">Elisa Beshero-Bondar</persName>
                <persName ref="#lmw">Lisa M. Wilson</persName>
             </respStmt>
@@ -51,11 +55,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
             </availability>
-
+            
          </publicationStmt>
          <sourceDesc>
-
-
+            
+            
             <msDesc>
                <msIdentifier>
                   <repository ref="#ReadingCL">Reading Central Library</repository>
@@ -68,7 +72,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      transcript of which this is a copy is in the possession of the Public Library,
                      Reading, Berks, England. A photostat copy of the MS is also available at that
                      library.</q> Copyright presumably rests with the British Museum. <date
-                     when="1955-07">July 1955</date>.
+                        when="1955-07">July 1955</date>.
                   <!--ebb: Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
             </msDesc>
          </sourceDesc>
@@ -111,6 +115,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                spelling and the regular international standard of Oxford English spelling, following
                the first listed spelling in the Oxford English Dictionary. The long s and ligatured
                forms are not encoded.</p>
+            <p>In this journal, after 1819 (when she no longer has print indications of the date
+               from the published journal), Mitford usually indicates the month and year at the top
+               of her pages. Mitford began adding the location where she wrote her entries around
+               October 1820 to the top of each page near the date. When she had no room towrite the
+               place name after the date, e.g. <q>Three Mile Cross</q>, she the split the place name
+               so part of it appears before the date, and part after the date, for example: <q>Three
+                  Mile October 1820 Cross</q>. We have decided to represent these form headings in
+               meaningful order, so as to clearly distinguish the place from the date. Because they
+               were added afterwards, we chose to position these place names after the date
+               information.</p>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
