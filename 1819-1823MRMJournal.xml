@@ -6943,11 +6943,11 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-699">
                   <head><date when="1820-12-10">Sunday 10th</date></head>
-                  <p>Came home--found dear Granny &amp; the pets well--had a charming letter from Haydon.</p>
+                  <p>Came <placeName ref="#ThreeMileCross">home</placeName>--found dear <persName ref="#Russell_M">Granny</persName> &amp; the pets well--had a charming letter from <persName ref="#Haydon">Haydon</persName>.</p>
                </div>
                <div type="entry" xml:id="e-700">
                   <head><date when="1820-12-11">Monday 11th</date></head>
-                  <p>At home--walked with dear Granny--Miss Clark called--read the History of New York--a clever piece of fun.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName>--<persName>Miss Clark</persName> called--read the <title>History of New York</title>--a clever piece of fun.</p>
                </div>
                <div type="entry" xml:id="e-701">
                   <head><date when="1820-12-12">Tuesday 12th</date></head>
