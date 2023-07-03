@@ -6637,7 +6637,6 @@ Publisher:	London : [publisher not identified], 1786.
       <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName>, <persName ref="#Webb_Eliza">Miss Webb</persName> &amp; <persName ref="#Valpy_Miss">Miss Valpy</persName>--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName>--walked to our <placeName ref="#Bertram_house">old Place</placeName>--read <title>Keat's Poems</title>, very fine--sate out of doors all the morning.</p>
    </div>
 </div>
-            
             <div type="month" xml:id="Oct-1820">
                <fw>October 1820 -- Three Mile Cross</fw>
                <div type="entry" xml:id="e-629">
@@ -6771,6 +6770,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-10-31">Tuesday 31st</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--read <persName ref="#Opie_Amelia">Mrs. Opie</persName>'s <title>Tales of the Heart</title>--middling.</p>
                </div>
+            </div>
+            <div type="month" xml:id="Nov-1820">
+               
+               
+            
                <div type="entry" xml:id="e-660">
                   <head><date when="1820-11-01">Wednesday Nov. 1st</date></head>
                   <p>Wrote to <persName ref="#James_Miss">Miss James</persName> with her frill &amp; letters--walked with deart <persName ref="#Russell_M">Granny</persName>.</p>
@@ -6781,7 +6785,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr. &amp; Mrs. Dickinson</persName> took me by appointment to dine at <persName ref="#Monck_Mrs">Mrs. Monck</persName>'s--met the <persName>R.Valpys</persName>, <persName>H. Symonds's</persName>, <persName>[?]ckers</persName> &amp; <persName>Monsieur Simon</persName>--came <placeName ref="#ThreeMileCross">home</placeName> at night--a very pleasant day--sent away my frill &amp; collars to dear <persName ref="#James_Miss">Miss James</persName>.</p>
                </div>
                <!--TSA 2023-06-12 I'm not sure how to represent a "R. Valpys" are they considered a person or are they the orgName?-->
-               <fw>Three Mile/November 1820/Cross</fw>
+               <fw>November 1820--Three Mile Cross</fw> <!-- srr: The start to the mixed up headings of the handwritten journal -->
                <div type="entry" xml:id="e-662">
                   <head><date when="1820-11-03">Friday 3rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName ref="#Russell_M">Granny</persName> &amp; <persName>Mary</persName> to <persName>Mrs. Davies</persName>'s--read the <title>Reviews</title>.</p>
@@ -6826,7 +6830,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-11-12">Sunday 12th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Webb_Eliza">Eliza Webb</persName>--walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets to <persName ref="#Davie_William">Farmer Davies</persName>'s--read <title>[?]ellingford</title>--a tolerable novel.<note resp="#ebb">Although the journal entry is not clear on the first capital letter, it could be a <q>P</q> and the second letter appears to be a lower-case <q>e</q>. Possibly Mitford is reading <bibl>Sarah Green’s <title level="m">Percival Ellingford: or the Reformist. A Novel. In Two Volumes.</title> By Mrs. Green, Author of Good Men of Modern Date, Deception, Festival of St. Jago, &amp;c., first published 1810 with a second edition in 1816.</bibl>. Check to see if this is mentioned in her letters?</note></p>
                </div>
-               <fw>Three November 1820 Mile Cross</fw>
+               <fw>November 1820--Three Mile Cross</fw>
                <div type="entry" xml:id="e-672">
                   <head><date when="1820-11-13">Monday 13th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--began working <persName ref="#Russell_M">Mama</persName>'s frill--<persName ref="#Mitford_Geo">Drum</persName> went out coursing &amp; took little <persName ref="#Molly_pet">Molly</persName>, who caught a <name ref="#pheasant">pheasant</name> by the tail &amp; was lifted off the ground by it. She kept hold, but the feathers came out of its tail &amp; it escaped.</p>
@@ -6847,7 +6851,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-11-17">Friday 17th</date></head>
                   <p><persName ref="#Body_Richard">Mr. Body</persName> called--in the Evening <placeName ref="#ThreeMileCross">Three Mile Cross</placeName> was illuminated in honour of the <persName>Queen</persName> (a sad [?] ), as <placeName ref="#Reading_city">Reading</placeName> had been the night before--we were very gay, so were <persName ref="#Body_Richard">Body</persName>, <persName>Lowten</persName> &amp; <persName>Wheatley</persName>--the <placeName ref="#ThreeMileCross">Cross</placeName> looked very pretty--the <orgName>Bodys</orgName> called in the evening--all was quiet.</p>
                </div>
-               <fw>Three / November 1820 / Mile Cross</fw>
+               <fw>November 1820--Three Mile Cross</fw>
                <div type="entry" xml:id="e-677">
                   <head><date when="1820-11-18">Saturday 18th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName> with dear <persName ref="#Mitford_Geo">Drum</persName>--called at <persName ref="#Brooke_Miss">Mrs. Brooke</persName>'s, <persName ref="#Monck_Mrs">Mrs. Monck</persName>'s, <persName ref="#Green_Mr">Mr. Green</persName>'s, &amp;c.--dined at <persName>Mrs. Newbery</persName>'s &amp; met <persName>John Bulley</persName>--came <placeName ref="#ThreeMileCross">home</placeName> at night--a very pleasant day.</p>
@@ -6902,7 +6906,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-11-30">Thursday 30th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName>--read <persName>Horatia Perry</persName>'s <title>Marriage to a Mr. Crawford in the Bengal Service</title>.</p>
                </div>
-               <div type="entry" xml:id="e-690">
+            </div>
+            <div type="month" xml:id="Dec-1820">
+                  
+               
+            <div type="entry" xml:id="e-690">
                   <head><date when="1820-12-01">Friday Dec. 1st</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Molly</persName>--wrote to <persName>Miss Bentley</persName>.</p>
                </div>
@@ -6926,7 +6934,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-12-06">Wednesday 6th</date></head>
                   <p>In <placeName ref="#London_city">London</placeName>--went to the <placeName>Insurance office</placeName> at <placeName>Black friar's bridge</placeName>--wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; <persName>Mrs. Newbery</persName>--went to the Play--<title>Convent Garden</title>--<title>Wallace &amp; the Warlock</title>, both by young <persName>Walker</persName>--liked <persName ref="#Macready_Wm">MacCready</persName>'s acting very much.</p>
                </div>
-               <fw>Three / December 1820--Mile Cross</fw>
+               <fw>December 1820--Three Mile Cross</fw>
                <div type="entry" xml:id="e-696">
                   <head><date when="1820-12-07">Thursday 7th</date></head>
                   <p>In <placeName ref="#London_city">London</placeName>--<persName>Talfourd</persName> breakfested with us &amp; was very agreeable--walked to the <orgName>Perry</orgName>'s &amp; to <persName ref="#Haydon">Haydon</persName>'s, where I saw his beautiful new picture &amp; a very sweet young woman copying it--wrote to <persName ref="#Russell_M">Granny</persName>--went to the play--<placeName ref="#Drury_Lane_Theatre">Drury Lane</placeName>--saw <title ref="#Julius_Caesar_play">Julius Caesar</title> &amp; <title>the Spoilt Child</title>--liked Booth very well.</p>
@@ -6965,7 +6973,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-12-15">Friday 15th</date></head>
                   <p>At home--we all went to Reading--heard from Miss James &amp; Mrs. Jolliffe--called on the Brookes, Greenes &amp; Anstruthers--dined at Mr. Newbery's &amp; signed the Annuity deeds--came home at night--met Mr. Plowden &amp; Mrs. Newton, who was very pleasant--wrote to Mrs. Jolliffe.</p>
                </div>
-               <fw>Three Dec. 1820 Mile Cross</fw>
+               <fw>Dec. 1820--Three Mile Cross</fw>
                <div type="entry" xml:id="e-705">
                   <head><date when="1820-12-16">Saterday 16th</date></head>
                   <p>At home--my birthday--heard from Mrs. Dickinson, Eliza Webb &amp; Mrs. Blackall Symonds--wrote to Mr. Symonds--wrote to Mr. Dickinson, Mrs. B. Symonds, Miss Brooke &amp; Miss James.</p>
@@ -7022,7 +7030,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-12-29">Friday 29th</date></head>
                   <p>At home--Walked with dear Granny--wrote to Eliza Webb &amp; Miss Brooke--dear Luce came to see us, dined &amp; slept, &amp; brought a beautiful bottle of elder wine, dear lamb--heard from Miss Brooke &amp; wrote her another note.</p>
                </div>
-               <fw>January 1821 Three Mile Cross--December 1820</fw>
+               <fw>Three Mile Cross--December 1820--January 1821</fw>
                <div type="entry" xml:id="e-719">
                   <head><date when="1820-12-30">Saterday 30th</date></head>
                   <p>At home--dear Luce breakfasted &amp; went away--Mr. Dickinson called--we called on Mr. &amp; Mrs. Richard Body--worked at Fiesco.</p>
@@ -7031,7 +7039,147 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-12-31">Sunday 31st</date></head>
                   <p>At home--heard from Mrs. Rowden with her little books--read the Quarterly--walked with Drum &amp; the pets--worked at Fiesco.</p>
                </div>
+               </div>
+            
+         </div>
+         <div type="year">
+            <head>
+               <date when="1821">1821</date>
+            </head>
+            <div type="month" xml:id="Jan-1821">
+            <div type="entry" xml:id="e-721">
+               <head><date when="1821-01-01">Monday Jan 1st 1821</date></head>
+               <p>Wrote to Mrs. Rowden &amp; Mary Webb--walke with dear Granny--worked at Fiesco.</p>
             </div>
+            <div type="entry" xml:id="e-722">
+               <head><date when="1821-01-02">Tuesday 2nd</date></head>
+               <p>At home--walked with dear DRum &amp; the Pets--read the Reviews--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-723">
+               <head><date when="1821-01-03">Wednesday 3rd</date></head>
+               <p>At home--heard from Eliza Webb--walked with Drum &amp; the pets--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-724">
+               <head><date when="1821-01-04">Thursday 4th</date></head>
+               <p>At home--walked with the pets--poor dear old Whim lost by Mr. May--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-725">
+               <head><date when="1821-01-05">Friday 5th</date></head>
+               <p>At home--kept at home by the snow--wrote to Eliza Webb--worked a little at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-726">
+               <head><date when="1821-01-06">Saterday 6th</date></head>
+               <p>At home--kept in by the snow--heard from Miss Johnson--wrote to Miss James &amp; Miss Johnson--read London Magazine--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-727">
+               <head><date when="1821-01-07">Sunday 7th</date></head>
+               <p>At home--still snowy--Mr. Dickinson called--wrote to Mr. Haydon--found Whim--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-728">
+               <head><date when="1821-01-08">Monday 8th</date></head>
+               <p>At home--walked with Molly &amp; May--Drum went to Reading Sessions &amp;c.--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-729">
+               <head><date when="1821-01-09">Tuesday 9th</date></head>
+               <p>At home--heard from Eliza Webb &amp; Miss Nooth--walked with Molly--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-730">
+               <head><date when="1821-01-10">Wednesday 10th</date></head>
+               <p>At home--heard from Drum--walked with Molly--got wet through--Drum came back--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-731">
+               <head><date when="1821-01-11">Thursday 11th</date></head>
+               <p>At home--Harry Marsh called--too wet to talk--finished the rough sketch of Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-732">
+               <head><date when="1821-01-12">Friday 12th</date></head>
+               <p>At home--walked with Molly--got wet through--sad weather--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-733">
+               <head><date when="1821-01-13">Saterday 13th</date></head>
+               <p>At home--went to Reading with dear Drum--called at Coley, the Brookes, Newberys &amp;c.--Mrs. Brooke gave me a handsome presant of books--saw Will--paid Mrs. Havell her subscription up to next April--came home to dinner--Mr. Crowther had called--worked at Fiesco.</p><!-- srr: It seems that the segment with Will in it is not complete by the typescript compared to the handwritten journal, needs investigating -->
+            </div>
+            <div type="entry" xml:id="e-734">
+               <head><date when="1821-01-14">Sunday 14th</date></head>
+               <p>Heard from Mr. Haydon &amp; Eliza Webb--walked with dear Drum--Dr. Bailey called--read in [?] London--bad--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-735">
+               <head><date when="1821-01-15">Monday 15th</date></head>
+               <p>At home all day--worked at Fiesco--Moses married Farmer Davis's rough bitch--wrote to Miss Brooke.</p>
+            </div>
+            <fw>Jan. 1821--Three Mile Cross</fw>
+            <div type="entry" xml:id="e-736">
+               <head><date when="1821-01-16">Tuesday 16th</date></head>
+               <p>At home--walked with dear Granny &amp; Molly--wrote to Mrs. Brooke--Mr. Dickinson called--heard from Mrs. Hofland--worked a little at Fiesco--but not much.</p>
+            </div>
+            <div type="entry" xml:id="e-737">
+               <head><date when="1821-01-17">Wednesday 17th</date></head>
+               <p>At home--walked with dear Granny--Drum's dog killed 3 hares &amp; nine rabbits at Mortimer--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-738">
+               <head><date when="1821-01-18">Thursday 18th</date></head>
+               <p>At home--went with Drum into Reading--heard from Miss Brooke &amp; Miss James--came back to dinner--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-739">
+               <head><date when="1821-01-19">Friday 19th</date></head>
+               <p>At home--walked with Drum--wrote to Miss James--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-740">
+               <head><date when="1821-01-20">Saterday 20th</date></head>
+               <p>Heard from Mr. Dickinson--wrote ro Mr. Dickinson--Mrs. Dickinson called--walked with Granny &amp; the pets--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-741">
+               <head><date when="1821-01-21">Sunday 21st</date></head>
+               <p>Went to Wokingham to keep Eliza Webb's birthday--met the Miss Wheelers--came home at night--wrote to Miss Brooke.</p>
+            </div>
+            <div type="entry" xml:id="e-742">
+               <head><date when="1821-01-22">Monday 22nd</date></head>
+               <p>At home--not very well--heard from Mrs. Dickinson--wrote to Mrs. Dickinson--walked with Granny &amp; Molly--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-743">
+               <head><date when="1821-01-23">Tuesday 23rd</date></head>
+               <p>Heard from Miss Brooke--quite well--walked with Granny &amp; Molly--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-744">
+               <head><date when="1821-01-24">Wednesday 24th</date></head>
+               <p>At home--walked with dear Drum &amp; the pets--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-745">
+               <head><date when="1821-01-25">Thursday 25th</date></head>
+               <p>At home--wrote to Mrs. Dickinson--heard from Mrs. Dickinson--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-746">
+               <head><date when="1821-01-26">Friday 26th</date></head>
+               <p>Mrs. Raggett &amp; Miss Tweddell [?] called--wrote to Mr. Talfourd--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-747">
+               <head><date when="1821-01-27">Saterday 27th</date></head>
+               <p>Wrote to Miss Brooke--heard from Miss Brooke--walked to our old Place--worked at Fiesco.</p>
+            </div>
+            <div type="entry" xml:id="e-748">
+               <head><date when="1821-01-28">Sunday 28th</date></head>
+               <p>At home--heard from Miss James--worked at Fiesco--Mr. Hill called--wrote to Mrs. Hill &amp; Mr. Monck.</p>
+            </div>
+            <div type="entry" xml:id="e-749">
+               <head><date when="1821-01-29">Monday 29th</date></head>
+               <p>At home--heard from Mr. Monck--wrote to Mr. Talfourd, Miss James &amp; Miss Webb.</p>
+            </div>
+            <div type="entry" xml:id="e-750">
+               <head><date when="1821-01-30">Tuesday 30th</date></head>
+               <p>At home--sent Fiesco to Mr. Talfourd--walked with Granny--read Melmoth--very shocking but finely &amp; powerfully written.</p>
+            </div>
+            <div type="entry" xml:id="e-751">
+               <head><date when="1821-01-31">Wednesday 31st</date></head>
+               <p>At home--poor little Eliza's birthday, she 3 years old--walked with Drum &amp; found a great many primroses in my dear old lane--read Melmoth &amp; Kenilworth, which seems good.</p>
+            </div>
+            </div>
+            <div type="month" xml:id="Feb-1821">
+               <fw>Feb. 1821--Three Mile Cross</fw>
+               
+            </div>
+            
+            
+            
          </div>
 
 
