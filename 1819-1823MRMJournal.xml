@@ -6965,32 +6965,32 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-701">
                   <head><date when="1820-12-12">Tuesday 12th</date></head>
-                  <p>At home--heard from Sir William Elford--went to Reading with Drum--called on the Newberys &amp; Brookes--had a long conversation with Mr. Milman--don't like him--came home to dinner with Drum--wrote to Sir W. Elford.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir William Elford</persName>--went to <placeName ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName>--called on the <orgName ref="#Newberys">Newberys</orgName> &amp; <orgName ref="#Brookes">Brookes</orgName>--had a long conversation with <persName ref="#Milman_HH">Mr. Milman</persName>--don't like him--came <placeName ref="#ThreeMileCross">home</placeName> to dinner with <persName ref="#Mitford_Geo">Drum</persName>--wrote to <persName ref="#Elford_SirWm">Sir W. Elford</persName>.</p>
                </div>
                <div type="entry" xml:id="e-702">
                   <head><date when="1820-12-13">Wednesday 13th</date></head>
-                  <p>At home--heard from Mrs. Dickinson--wrote to Mrs. Dickinson &amp; Miss Booth--walked with Drum--read Blackwood's Magazine.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--wrote to <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> &amp; <persName ref="#Nooth_C">Miss Nooth</persName>--walked with <persName ref="#Mitford_Geo">Drum</persName>--read <title ref="#Blackwoods">Blackwood's Magazine</title>.</p>
                </div>
                <div type="entry" xml:id="e-703">
                   <head><date when="1820-12-14">Thursday 14th</date></head>
-                  <p>At home--heard from Mr. Dickinson--Dr. Bailey called--walked with dear Granny &amp; Daphne--wrote to Mr. Haydon &amp; Mr. Dickinson.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>--<persName ref="#Bailley_Dr">Dr. Bailey</persName> called--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Daphne_pet">Daphne</persName>--wrote to <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>.</p>
                </div>
                <div type="entry" xml:id="e-704">
                   <head><date when="1820-12-15">Friday 15th</date></head>
-                  <p>At home--we all went to Reading--heard from Miss James &amp; Mrs. Jolliffe--called on the Brookes, Greenes &amp; Anstruthers--dined at Mr. Newbery's &amp; signed the Annuity deeds--came home at night--met Mr. Plowden &amp; Mrs. Newton, who was very pleasant--wrote to Mrs. Jolliffe.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--we all went to <placeName ref="#Reading_city">Reading</placeName>--heard from <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>--called on the <orgName ref="#Brookes">Brookes</orgName>, <orgName>Greenes</orgName> &amp; <orgName ref="#Anstruthers">Anstruthers</orgName>--dined at <persName ref="#Newbery_J">Mr. Newbery</persName>'s &amp; signed the Annuity deeds--came <placeName ref="#ThreeMileCross">home</placeName> at night--met <persName>Mr. Plowden</persName> &amp; <persName>Mrs. Newton</persName>, who was very pleasant--wrote to <persName ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>.</p>
                </div>
                <fw>Three Dec. 1820 Mile Cross</fw>
                <div type="entry" xml:id="e-705">
-                  <head><date when="1820-12-16">Saterday 16th</date></head>
-                  <p>At home--my birthday--heard from Mrs. Dickinson, Eliza Webb &amp; Mrs. Blackall Symonds--wrote to Mr. Symonds--wrote to Mr. Dickinson, Mrs. B. Symonds, Miss Brooke &amp; Miss James.</p>
+                  <head><date when="1820-12-16">Saturday 16th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--my birthday--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>, <persName ref="#Webb_Eliza">Eliza Webb</persName> &amp; <persName>Mrs. Blackall Symonds</persName>--wrote to <persName>Mr. Symonds</persName>--wrote to <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>, <persName>Mrs. B. Symonds</persName>, <persName ref="#Brooke_Miss">Miss Brooke</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
                </div>
                <div type="entry" xml:id="e-706">
                   <head><date when="1820-12-17">Sunday 17th</date></head>
-                  <p>At home--Mr. Dickinson called--went to dine at Wokingham--came back at night--very pleasant day.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called--went to dine at <placeName ref="#Wokingham_city">Wokingham</placeName>--came back at night--very pleasant day.</p>
                </div>
                <div type="entry" xml:id="e-707">
                   <head><date when="1820-12-18">Monday 18th</date></head>
-                  <p>At home--wrote to Mrs. Rowden--walked with dear Granny &amp; Moll--read Fraser's account of the Himala Mountains--tol lol.</p><!-- srr: I guess that's what the handwritten journal says -->
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Rowden_Fr">Mrs. Rowden</persName>--walked with dear <persName ref="#Russell_M">Granny</persName> &amp; <persName ref="#Molly_pet">Moll</persName>--read <persName>Fraser</persName>'s <title>account of the Himala Mountains</title>--tol lol.</p><!-- srr: I guess that's what the handwritten journal says -->
                </div>
                <div type="entry" xml:id="e-708">
                   <head><date when="1820-12-19">Tuesday 19th</date></head>
