@@ -169,8 +169,13 @@
                                     <h3>Publications</h3>
                                     <xsl:variable name="pubs" select="(current()//bibl/@corresp ! tokenize(., '\s+') ! normalize-space() => distinct-values(), 
                                         current()//title/@ref ! tokenize(., '\s+') ! normalize-space() => distinct-values())"/>
-                                    
+                                   
                                     <xsl:for-each select="$pubs">
+                                        <!-- 2023-07-04 ebb: THIS IS NOT YET DIFFERENTIATING TITLE TYPES. 
+                                            It is just grabbing the very first title and outputting it with no quotes or italics. 
+                                            UPDATE THIS.
+                                        -->
+                                        <div class="si" id="{current() ! substring-after(., '#')}">
                                         <xsl:variable name="pubMatch" as="element()?" select="$si//*[@xml:id = substring-after(current(), '#')]"/>
                                         <h3><xsl:value-of select="$pubMatch/*[position() eq 1]"/></h3>
                                         <!-- 2023-07-04 ebb with srr and tsa: ONLY MINIMAL OUTPUT FOR THE MOMENT -->
@@ -230,7 +235,8 @@
                                             
                                             </li>
                                         </ul>
-                                        
+                                        </div>
+                            
                                     </xsl:for-each>
                                     <br/>
                                     <h3>Persons, Personas, and Characters</h3>
