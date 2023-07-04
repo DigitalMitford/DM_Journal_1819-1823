@@ -40,6 +40,7 @@ toggleOff()
     var idVal = this.getAttribute("data-gloss").split("#")[1];
      /* test whether the id matches THIS substring after # */
     var entry = document.getElementById(idVal)
+    /* I think we're getting errors in the console when JS fails to locate a matching entry element. */
     entry.classList.toggle("on");
 }
     
