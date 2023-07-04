@@ -25,7 +25,7 @@ const entries = document.getElementsByClassName("si");
 function init() {
     for (var i = 0; i < highlights.length; i++) {
         highlights[i].addEventListener('mouseover', toggle, false);
-       /* highlights[i].addEventListener('mouseleave', toggleOff, false);*/
+        highlights[i].addEventListener('mouseleave', toggleOff, false);
         highlights[i].addEventListener('click', toggle, false);
         highlights[i].addEventListener('touchenter', toggle, false);
     }
@@ -33,8 +33,9 @@ function init() {
 }
 
 function toggle() {
-/*toggleOff()*/
-/* Show the gloss entry associated with "this", which is literally the highlighted element
+/* First, we'll fire the toggleOff which removes the "on" class from any displaying entries to clean off the page. */
+toggleOff()
+/* Then we show the gloss entry associated with "this", which is literally the highlighted element
  *  the user clicked on or visited  */
     var idVal = this.getAttribute("data-gloss").split("#")[1];
      /* test whether the id matches THIS substring after # */
@@ -42,6 +43,13 @@ function toggle() {
     entry.classList.toggle("on");
 }
     
+function toggleOff()
+/* Test each one to see if it has a class of "on". If it does, shut it off. */
+{let displays = document.getElementsByClassName("on")
+for (var i = 0; i < displays.length; i++) {
+    displays[i].classList.remove("on");
+    }
+}
 
    
    

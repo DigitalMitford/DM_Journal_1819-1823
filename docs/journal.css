@@ -165,6 +165,7 @@ div.si {
  
 
 }
+/*<div class="si on">   vs. <div class="si">*/
 div.si.on {  
     display: block;
     background-color: #F8F8FF;

@@ -133,7 +133,7 @@
                                     <br/>
                                     <h3>Nature</h3>
                                     <xsl:for-each
-                                        select="current()//name/@ref ! tokenize(., '\s+')  => distinct-values()">
+                                        select="current()//name/@ref ! tokenize(., '\s+') ! normalize-space() => distinct-values()">
                                       <div class="si" id="{current() ! substring-after(., '#')}">
                                           
                                           <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
@@ -167,10 +167,75 @@
                                     <h3>Places</h3>
                                     <br/>
                                     <h3>Publications</h3>
+                                    <xsl:variable name="pubs" select="(current()//bibl/@corresp ! tokenize(., '\s+') ! normalize-space() => distinct-values(), 
+                                        current()//title/@ref ! tokenize(., '\s+') ! normalize-space() => distinct-values())"/>
+                                    
+                                    <xsl:for-each select="$pubs">
+                                        <xsl:variable name="pubMatch" as="element()?" select="$si//*[@xml:id = substring-after(current(), '#')]"/>
+                                        <h3><xsl:value-of select="$pubMatch/*[position() eq 1]"/></h3>
+                                        <!-- 2023-07-04 ebb with srr and tsa: ONLY MINIMAL OUTPUT FOR THE MOMENT -->
+                                        
+                                        <ul>
+                                            <li>Author: <xsl:choose>
+                                                <xsl:when test="$pubMatch//author[text()[matches(., '\S+')]]"><xsl:value-of select="$pubMatch//author"/></xsl:when>
+                                                <xsl:otherwise>
+                                                    <xsl:choose>
+                                                        <xsl:when test="$pubMatch//author"><xsl:value-of select="$pubMatch//author/@ref"/>
+                                                          <!-- 2023-07-04 ebb: THIS IS LAZY. 
+                                                              WE SHOULD CHANGE THE ABOVE LINE TO GO PULL THE ACTUAL ENTRY FOR THIS AUTHOR TO GET HIS NAME> -->
+                                                        </xsl:when>
+                                                        <xsl:otherwise><span class="null"><xsl:value-of select="'No author listed.'"/></span>
+                                                        </xsl:otherwise>
+                     
+                                                    </xsl:choose>
+                                                
+                                                </xsl:otherwise>
+                                            
+                                            </xsl:choose></li>
+                                            <li>Date: 
+                                            <xsl:choose>
+                                                <xsl:when test="$pubMatch//date">
+                                                    <xsl:choose>
+                                                        <xsl:when test="$pubMatch//date[text()[matches(., '\S+')]]">
+                                                        <xsl:value-of select="$pubMatch//date"/>
+                                                    </xsl:when>
+                                                        <xsl:when test="$pubMatch/date//text()[not(matches(., '\S+'))]">
+                                                            <xsl:choose>
+                                                                <xsl:when test="$pubMatch/date/@when">
+                                                                    <xsl:value-of select="$pubMatch/date/@when"/>
+                                                                </xsl:when>
+                                                                <xsl:when test="$pubMatch/date/@from">
+                                                                    From <xsl:value-of select="$pubMatch/date/@from"/>, to 
+                                                                    <xsl:value-of select="$pubMatch/date/@to"/>.
+  
+                                                                </xsl:when>
+                                                            </xsl:choose>
+
+                                                        </xsl:when>
+                                                        
+                                                    </xsl:choose>
+                                                    
+                                                    
+                                                </xsl:when>
+                                                
+                                                <xsl:otherwise>
+                                                    <span class="null"><xsl:value-of select="'No date listed.'"/></span>
+                                                </xsl:otherwise>
+                                                
+                                            </xsl:choose>
+                                                
+                                               <xsl:if test="$pubMatch//note"> 
+                                                   <section class="glossNote"><xsl:apply-templates select="$pubMatch/note[1]"/></section>
+                                               </xsl:if>
+                                            
+                                            </li>
+                                        </ul>
+                                        
+                                    </xsl:for-each>
                                     <br/>
                                     <h3>Persons, Personas, and Characters</h3>
                                     <xsl:for-each
-                                        select="current()//persName/@ref ! tokenize(., '\s+')  => distinct-values()">
+                                        select="current()//persName/@ref ! tokenize(., '\s+') ! normalize-space()  => distinct-values()">
                                         <div class="si" id="{current() ! substring-after(., '#')}">
                                             
                                             <h3><xsl:value-of select="$si//*[@xml:id = substring-after(current(), '#')]/*[position() eq 1]"/></h3>
