@@ -128,7 +128,7 @@
                                     </h2>
                                     <xsl:apply-templates select="descendant::div[@type = 'entry']"/>
                                 </section>
-                                <section id="gloss">
+                                <section id="gloss" class="ex1">
                                     <h2>Gloss of Names Mentioned</h2>
                                     <br/>
                                     <h3>Nature</h3>

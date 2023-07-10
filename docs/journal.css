@@ -6,7 +6,7 @@ body {
 }
 
 body section {
-    background-color: white;
+    background-color: #F8F8FF;
 }
 
 div#flex {
@@ -44,7 +44,6 @@ h2 {
     color: black;
     padding: 0;
     margin: 0;
-    height: 100%
 }
 h3 {
     font-size: 23px;
@@ -119,12 +118,20 @@ section#entries h2 {
     padding: 10px 10px 0 10px;
 }
 section#gloss {
+    position: sticky;
+    top: 0;
     flex: 1;
     background-color: #cdceca;
     border-radius: 20px;
     padding: 10px;
-    height: 100%;
+    max-height:90vh;
+    overflow:auto;
 }
+div.ex1 {
+  background-color: lightblue;
+  width: auto;
+}
+
 div.entry {
     /*background-color: #B2B3AD;*/
     border-radius: 20px;
@@ -153,8 +160,8 @@ div.calendarNum a {
     text-decoration: none;
 }
 div a:hover {
-    color: white;
-    text-decoration: underline white;
+    color: purple;
+    text-decoration: underline purple;
 }
 
 
