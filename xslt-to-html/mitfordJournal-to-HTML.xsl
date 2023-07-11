@@ -319,8 +319,7 @@
               
               
               </xsl:choose>
-               
-               
+  
            </xsl:when>
            <xsl:otherwise>
                <span class="{name()}"><xsl:apply-templates/></span>
@@ -339,6 +338,22 @@
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="note">
+        <!-- 2023-07-11 ebb with srr: Adding this to ensure that there are always 
+            HTML p elements where we output gloss notes from the SI. -->
+        <xsl:choose>
+            <xsl:when test="not(p)">
+           <p>
+              <xsl:apply-templates/> 
+           </p>      
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:apply-templates/>
+        </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
 
 </xsl:stylesheet>
