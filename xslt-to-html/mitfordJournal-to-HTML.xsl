@@ -144,7 +144,7 @@
     
            
                                                       <li><xsl:choose><xsl:when test="@*"><xsl:for-each select="@*">
-                                                          <xsl:value-of select="name()"/>: <xsl:value-of select="current()"/><xsl:if test="not(position()[last()])"><xsl:text> </xsl:text></xsl:if>
+                                                          <xsl:value-of select="current()"/>: <xsl:apply-templates select="parent::*"/><xsl:if test="not(position()[last()])"><xsl:text> </xsl:text></xsl:if>
                                                       </xsl:for-each></xsl:when></xsl:choose></li>
                                                      </xsl:for-each>    
                                                   </ul>
