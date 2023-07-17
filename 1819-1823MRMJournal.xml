@@ -6237,7 +6237,6 @@ Publisher:	London : [publisher not identified], 1786.
 
             </div>
             </div>
-            <!-- srr: Review Marker -->
             <div type="month" xml:id="Aug-1820">
             <!--TSA 2023-02-21 Read through all of July's handwriting and compared to what we have in here. It all seems to be the same, although some new names, such as "Mrs. and Miss Comyn" don't quite look like these people to me. It might be worth checking the letters to see who's who.-->
             <div type="entry" xml:id="e-568">
@@ -6786,9 +6785,6 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
             </div>
             <div type="month" xml:id="Nov-1820">
-               
-               
-            
                <div type="entry" xml:id="e-660">
                   <head><date when="1820-11-01">Wednesday Nov. 1st</date></head>
                   <p>Wrote to <persName ref="#James_Miss">Miss James</persName> with her frill &amp; letters--walked with deart <persName ref="#Russell_M">Granny</persName>.</p>
@@ -7181,7 +7177,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Monck_JB">Mr. Monck</persName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>, <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Webb_Eliza">Miss Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-750">
-               <head><date when="1821-01-30">Tuesday 30th</date></head>
+               <head><date when="1821-01-30">Tuesday</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--sent <title ref="#Fiesco_MRMplay">Fiesco</title> to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--walked with <persName ref="#Russell_M">Granny</persName>--read <title ref="#Melmoth_CM">Melmoth</title>--very shocking but finely &amp; powerfully written.</p>
             </div>
             <div type="entry" xml:id="e-751">
@@ -7191,7 +7187,145 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="month" xml:id="Feb-1821">
                <fw>Feb. 1821--Three Mile Cross</fw>
-               
+               <div type="entry" xml:id="e-752">
+                  <head><date when="1821-02-01">Thurday 1st</date></head>
+                  <p>Walked with Granny--read Kenilworth--good but too tragical an end.</p>
+               </div>
+               <div type="entry" xml:id="e-753">
+                  <head><date when="1821-02-02">Friday 2nd</date></head>
+                  <p>At home--walked out with Granny--lost dear Molly on Spenser's wood--Mary found her again in about an hour, poor dear love.</p>
+               </div>
+               <div type="entry" xml:id="e-754">
+                  <head><date when="1821-02-03">Saterday 3rd</date></head>
+                  <p>At home--heard from Miss James--wrote to Mrs. Hofland--read Young Arthur, a stupid enough poem, &amp; the dear London Magazin--called at Mr. Body's with Granny &amp; Molly.</p>
+               </div>
+               <div type="entry" xml:id="e-755">
+                  <head><date when="1821-02-04">Sunday 4th</date></head>
+                  <p>Walked with Drum--heard from Eliza Webb--wrote to Miss Nooth.</p>
+               </div>
+               <div type="entry" xml:id="e-756">
+                  <head><date when="1821-02-05">Monday 5th</date></head>
+                  <p>At home--Mr. Simon--heard from Mrs. Raggett--read the Excursion.</p>
+               </div>
+               <div type="entry" xml:id="e-757">
+                  <head><date when="1821-02-06">Tuesday 6th</date></head>
+                  <p>At home--went flowering with dear Drum &amp; the pets--found one whitw violet in the lane beyond Davis's--wrote to Mrs. Dickinson.</p>
+               </div>
+               <div type="entry" xml:id="e-758">
+                  <head><date when="1821-02-07">Wednesday 7th</date></head>
+                  <p>At home--heard from Sir W. Elford--Mrs. Dickinson called--walked with dear Granny--read the Excursion.</p>
+               </div>
+               <div type="entry" xml:id="e-759">
+                  <head><date when="1821-02-08">Thursday 8th</date></head>
+                  <p>At home--heard from Mrs. Jolliffe--wrote to Mrs. Jolliffe &amp; Sir W. Elford--expected Mrs. Raggett, who did not come--walked with Granny--read the Edinburgh Review.</p>
+               </div>
+               <div type="entry" xml:id="e-760">
+                  <head><date when="1821-02-09">Friday 9th</date></head>
+                  <p>At home--heard from Mr. Talfourd--saw a beautiful course in walking with Drum. Wrote to Mr. Talfourd, Mr. Haydon, Miss James &amp; Mrs. Dickinson--expected Mrs. Raggett, who did not come.</p>
+               </div>
+               <div type="entry" xml:id="e-761">
+                  <head><date when="1821-02-10">Saterday 10th</date></head>
+                  <p>At home--went with Drum to Reading--called at Mr. Green's, Mr. Newbery's, Captain Tuppen's, Doctor Valpy's &amp; the Brooke's--dined at Coley--came home at night--read Mirandola--heard from Mrs. Dickinson--a pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-762">
+                  <head><date when="1821-02-11">Sunday 11th</date></head>
+                  <p>Went primrosing to Bertram House--got a few--worked at Fiesco.</p>
+               </div>
+               <div type="entry" xml:id="e-763">
+                  <head><date when="1821-02-12">Monday 12th</date></head>
+                  <p>At home--Mrs. Raggett called--we called upon Mrs. Body--got periwinkles--worked at Fiesco.<!-- srr: For some reason in the typescript, the last paraphrase's text is much darker than the rest --></p>
+               </div>
+               <div type="entry" xml:id="e-764">
+                  <head><date when="1821-02-13">Tuesday 13th</date></head>
+                  <p>At home--Mrs. Raggett called--read Mrs. Delany's letters--worked at Fiesco--wrote to Mr. Talfourd &amp; Mr. Monck.</p>
+               </div>
+               <div type="entry" xml:id="e-765">
+                  <head><date when="1821-02-14">Wednesday 14th</date></head>
+                  <p>At home--walked with dear Granny--she read to me in the evening The Lord of the Isles whilest I worked at her manchettes--sent off Fiesco.</p>
+               </div>
+               <div type="entry" xml:id="e-766">
+                  <head><date when="1821-02-15">Thursday 15th</date></head>
+                  <p>At home--walked with Drum &amp; the pets--read an account of the Cossacks--heard from Miss Nooth &amp; Miss James--wrote to Miss James.</p>
+               </div>
+               <div type="entry" xml:id="e-767">
+                  <head><date when="1821-02-16">Friday 16th</date></head>
+                  <p>At home--went to Reading with Drum &amp; Granny--made many calls--came home to dinner--wrote to Mrs. Raggett.</p>
+               </div>
+               <div type="entry" xml:id="e-768">
+                  <head><date when="1821-02-17">Saterday 17th</date></head>
+                  <p>At home--walked with Granny--read Calthorpe--did tatting.</p>
+               </div>
+               <div type="entry" xml:id="e-769">
+                  <head><date when="1821-02-18">Sunday 18th</date></head>
+                  <p>At home--went primrosing with Drum--poor Tom White died--read Calthorpe--dismal.</p>
+               </div>
+               <div type="entry" xml:id="e-770">
+                  <head><date when="1821-02-19">Monday 19th</date></head>
+                  <p>At home--Drum went coursing with the party at the Warren House, best them all with Moses, Marmion &amp; Mayflower--I went to Reading with Mrs. Dickinson, came home to dinner, &amp; Granny went to stay at Farley Hill.</p>
+               </div>
+               <div type="entry" xml:id="e-771">
+                  <head><date when="1821-02-20">Tuesday 20th</date></head>
+                  <p>At home--dear Granny still at Farley Hill--Drum &amp; I walked there to dinner--got a great many primroses by the way--came back at night--a pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-772">
+                  <head><date when="1821-02-21">Wednesday 21st</date></head>
+                  <p>At home--dear Granny came home--took a Ride with Mrs. Dickinson.</p>
+               </div>
+               <div type="entry" xml:id="e-773">
+                  <head><date when="1821-02-22">Thursday 22nd</date></head>
+                  <p>At home--walked with Granny &amp; Molly--met Mr. Dearesly.</p>
+               </div>
+               <div type="entry" xml:id="e-774">
+                  <head><date when="1821-02-23">Friday 23rd</date></head>
+                  <p>Went with Drum to see dear Luce--went likewise to see Mr. Benyon's pond at Mortimer Westead with a thousand wild ducks sailing about on the water--Came home to dinner--delightful day.</p>
+               </div>
+               <div type="entry" xml:id="e-775">
+                  <head><date when="1821-02-24">Saterday 24th</date></head>
+                  <p>At home--heard from Mrs. Raggett &amp; Mrs. Hofland--wrote to Mrs. Raggett--walked with Granny.</p>
+               </div>
+               <div type="entry" xml:id="e-776">
+                  <head><date when="1821-02-25">Sunday 25th</date></head>
+                  <p>At home--went primrosing with Drum--wrote to Miss James &amp; Mrs. Hofland.</p>
+               </div>
+               <div type="entry" xml:id="e-777">
+                  <head><date when="1821-02-26">Monday 26th</date></head>
+                  <p>At home--tatted &amp; read &amp; walked.</p>
+               </div>
+               <div type="entry" xml:id="e-778">
+                  <head><date when="1821-02-27">Tuesday 27th</date></head>
+                  <p>At home--head from Haydon.</p>
+               </div>
+               <div type="entry" xml:id="e-779">
+                  <head><date when="1821-02-28">Wednesday 28th</date></head>
+                  <p>At home--read Life of Poussin.</p>
+               </div>
+            </div>
+            <div type="month" xml:id="Mar-1821">
+               <div type="entry" xml:id="e-780">
+                  <head><date when="1821-03-01">Thursday March 1st</date></head>
+                  <p>At home--read &amp; tatted.</p>
+               </div>
+               <div type="entry" xml:id="e-781">
+                  <head><date when="1821-03-02">Friday March 2nd</date></head>
+                  <p>At home--Wrote to Miss Nooth.</p>
+               </div>
+               <div type="entry" xml:id="e-782">
+                  <head><date when="1821-03-03">Saterday</date></head>
+                  <p>Heard from Miss James &amp; Miss Webb.</p>
+               </div>
+               <!-- srr: Note to self, March 4th 1821 in the handwritten journal is found on the left side of page 183-->
+               <div type="entry" xml:id="e-783">
+                  <head><date when="1821-03-04">Sunday March 4th</date></head>
+                  <p>Finished my letters to Miss James &amp; Miss Nooth--heard through Mr. Talfourd that my play was in the hands of Mr. Macready.</p>
+               </div>
+               <div type="entry" xml:id="e-784">
+                  <head><date when="1821-03-05">Monday March 5th</date></head>
+                  <p>Went to Reading with drum to the assizes-went with Mrs. Culpepper to the Town Hall--heard many cases tried before Mr. Justice Park--was much amused--dined &amp; slept at Dr. Valpy's--a Mr. Buskhead &amp; Mr. Predergrass [sic] there.</p><!-- srr: why does the typescript have the "[sic]" in it -->
+               </div>
+               <div type="entry" xml:id="e-785">
+                  <head><date when="1821-03-06">Tuesday March 6th</date></head>
+                  <p>At Dr. Valpy's--went to the Town Hall--was much amused--delighted with Mr. Talfourd's speaking--Dined again at the Doctor's--Mr. Willan spent the evening there--a pleasant man--&amp; Talfourd called.</p>
+               </div>
             </div>
             
             
