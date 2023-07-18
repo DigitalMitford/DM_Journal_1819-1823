@@ -23,7 +23,7 @@
 
         <xsl:result-document method="xhtml" html-version="5" _omit-xml-declaration="yes"
             href="../docs/journal-view/{$filename}">
-            <html>
+            <html lang="en">
                 <head>
                     <title>
                         <xsl:apply-templates
@@ -128,7 +128,7 @@
                                     </h2>
                                     <xsl:apply-templates select="descendant::div[@type = 'entry']"/>
                                 </section>
-                                <section id="gloss">
+                                <section id="gloss" class="ex1">
                                     <h2>Gloss of Names Mentioned</h2>
                                     <br/>
                                     <h3>Nature</h3>
@@ -144,7 +144,7 @@
     
            
                                                       <li><xsl:choose><xsl:when test="@*"><xsl:for-each select="@*">
-                                                          <xsl:value-of select="name()"/>: <xsl:value-of select="current()"/><xsl:if test="not(position()[last()])"><xsl:text> </xsl:text></xsl:if>
+                                                          <xsl:value-of select="current()"/>: <xsl:apply-templates select="parent::*"/><xsl:if test="not(position()[last()])"><xsl:text> </xsl:text></xsl:if>
                                                       </xsl:for-each></xsl:when></xsl:choose></li>
                                                      </xsl:for-each>    
                                                   </ul>
@@ -390,8 +390,7 @@
               
               
               </xsl:choose>
-               
-               
+  
            </xsl:when>
            <xsl:otherwise>
                <span class="{name()}"><xsl:apply-templates/></span>
@@ -410,6 +409,22 @@
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="note">
+        <!-- 2023-07-11 ebb with srr: Adding this to ensure that there are always 
+            HTML p elements where we output gloss notes from the SI. -->
+        <xsl:choose>
+            <xsl:when test="not(p)">
+           <p>
+              <xsl:apply-templates/> 
+           </p>      
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:apply-templates/>
+        </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
 
 </xsl:stylesheet>
