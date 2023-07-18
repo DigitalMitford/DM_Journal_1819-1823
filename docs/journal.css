@@ -52,7 +52,7 @@ h3 {
     text-transform: capitalize;
 }
 p {
-    font-size: calc(3px + 100%);
+    font-size: calc(.2vw + 100%);
 
 }
 
@@ -136,7 +136,7 @@ div.entry {
     /*background-color: #B2B3AD;*/
     border-radius: 20px;
     padding: 10px;
-    font-size: calc(3px + 100%);
+    font-size: calc(.2vw + 100%);
 }
 
 
@@ -155,7 +155,7 @@ div#calendarDays {
     margin: 0 10px 0 0;
 }
 div.calendarNum a {
-    font-size: calc(3px + 100%);
+    font-size: calc(.2vw + 100%);
     color: black;
     text-decoration: none;
 }

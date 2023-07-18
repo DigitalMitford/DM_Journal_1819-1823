@@ -22,14 +22,33 @@
 const highlights = document.getElementsByClassName("gloss");
 const entries = document.getElementsByClassName("si");
 
+
+
 function init() {
+const showButton = document.getElementById("showAll")
+    showButton.addEventListener('click', showAll, false);
+    /* The line above triggers an event listener on click of the button. 
+     * On a second click the function automatically toggles off, a feature of the classList toggle in JS.  */
     for (var i = 0; i < highlights.length; i++) {
         highlights[i].addEventListener('mouseover', toggle, false);
-        highlights[i].addEventListener('mouseleave', toggleOff, false);
+        /*highlights[i].addEventListener('mouseleave', toggleOff, false);*/
         highlights[i].addEventListener('click', toggle, false);
         highlights[i].addEventListener('touchenter', toggle, false);
     }
    
+}
+
+function showAll() {
+    /* Look for everything that's a gloss entry and display them all. 
+     * Maybe we want to say on a second click of this button, shut this off. */
+     /* Look at the options in w3schools on how to change the font-size with JS: 
+      * https://www.w3schools.com/jsref/prop_style_fontsize.asp  */
+     for (var i = 0; i < entries.length; i++) {
+     entries[i].style.fontSize = 'smaller';
+     /* Maybe we don't need to change the size with JS. Just change it to be smaller across the site in CSS. */
+     entries[i].classList.toggle("on");
+    }
+         
 }
 
 function toggle() {
