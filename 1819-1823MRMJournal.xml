@@ -6815,7 +6815,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-666">
                   <head><date when="1820-11-07">Tuesday 7th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName>--<persName ref="#Body_Richard">Mr. Body</persName> called--read the <title ref="#LondonMag">London Magazine</title>--Caplital--<title>Tentamen</title>, good--Essays by a Gentleman who has left his logings--so so.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear <persName ref="#Russell_M">Granny</persName>--<persName ref="#Body_Richard">Mr. Body</persName> called--read the <title ref="#LondonMag">London Magazine</title>--Capital--<title ref="#Tentamen">Tentamen</title>, good--Essays by a Gentleman who has left his lodgings--so so.</p>
                   <!--TSA 2023-06-12 Unsure on if these are typos on Mitford's original entries, also awkward wording at the end, not sure if the title is actually the title...-->
                </div>
                <div type="entry" xml:id="e-667">
@@ -6829,7 +6829,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-669">
                   <head><date when="1820-11-10">Friday 10th</date></head>
 
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--went coursing with <persName ref="#Mitford_Geo">Drum</persName> to <placeName>Aldermaston</placeName> &amp; <placeName>Tadley</placeName>--sent a <name>hare</name> to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#Hayward_Abraham">Mrs. Hayward</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--went coursing with <persName ref="#Mitford_Geo">Drum</persName> to <placeName>Aldermaston</placeName> &amp; <placeName>Tadley</placeName>--sent a <name ref="#hare">hare</name> to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--wrote to <persName ref="#Webb_Eliza">Eliza Webb</persName>, <persName ref="#Hayward_Abraham">Mrs. Hayward</persName> &amp; <persName ref="#James_Miss">Miss James</persName>.</p>
 
                </div>
                <div type="entry" xml:id="e-670">
@@ -9450,6 +9450,29 @@ Publisher:	London : [publisher not identified], 1786.
                      /></note>
                   <!-- https://www.nationaltrust.org.uk/chilterns-countryside/features/a-brief-history-of-watlington-hill -->
                </place>
+               
+               <place xml:id="Aldermaston">
+                  <placeName>Aldermaston</placeName>
+                  <district type="county">Berkshire</district>
+                  <region>South East</region><!-- We may want to be more systematic about how we reference counties vs. regions in England in the SI. -->
+                  <country>England</country>
+                  <location>
+                     <geo>51.383 -1.150<!-- latitude followed by long separated only by a space--> </geo>
+                  </location>
+                  <note>Village that Mitford mentions visiting with her father and the dogs in the Journal, 10 November 1820. They continued on that day to the village of <placeName>Tadley</placeName>.</note>
+                  
+               </place>
+               
+               <place xml:id="Tadley">
+                  <placeName>Tadley</placeName>
+                  <district type="county">Hampshire</district>
+                  <region>South East</region>
+                  <country>England</country>
+                  <location>
+                     <geo>51.3506 -1.1376</geo>
+                  </location>
+                  <note>Village that Mitford travels to with her father and the dogs while coursing on 10 November 1820. They visit here after stopping in Aldermaston.</note>
+               </place>
             </listPlace>
          </div>
 
@@ -12046,6 +12069,13 @@ Publisher:	London : E. Cox and Son, 1815
                   <note resp="#lmw">Full title: <title level="m">The History of Jenny Spinner, the
                         Hertfordshire Ghost. Written by herself.</title> Reprinted in Pall Mall
                      magazine.</note>
+               </bibl>
+               
+               <bibl xml:id="Tentamen">
+                  <title level="m">Tentamen : or, An essay towards the history of Whittington, some time Lord Mayor of London.</title>
+                  <author>Theodore Edward Hook</author>
+                  <publisher>William Wright, 46, Fleet Street London</publisher>
+                  <date>1820</date>
                </bibl>
             </listBibl>
 
