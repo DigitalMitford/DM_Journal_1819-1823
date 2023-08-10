@@ -8978,7 +8978,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                </person>
 
-               <person xml:id="MeekeM" sex="f">
+               <person xml:id="MeekeMrs" sex="f">
                   <!-- srr: Not found in local SI or in Published SI -->
                   <!-- stub -->
                   <persName>Mary Meeke</persName>
@@ -11197,7 +11197,7 @@ Publisher:	London : E. Cox and Son, 1815
                <bibl xml:id="MysteriousWife">
                   <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Mysterious Wife: a novel</title>
-                  <author ref="#MeekeM"/>
+                  <author ref="#MeekeMrs"/>
                   <publisher>William Lane</publisher>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <date when="1797"/>
@@ -11345,7 +11345,7 @@ Publisher:	London : E. Cox and Son, 1815
                <bibl xml:id="Sicilian_MM">
                   <!-- srr: Not found in local SI or Published SI -->
                   <title level="m">The Sicilian</title>
-                  <author ref="#MeekeM"/>
+                  <author ref="#MeekeMrs"/>
                   <pubPlace>
                      <placeName>London</placeName>
                   </pubPlace>
