@@ -1,4 +1,4 @@
-
+/* NOTE TO SELF: use EM on font sizing */
 body {
     background-color: /*darkseagreen;*/ #F8F8FF;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -15,7 +15,6 @@ div#flex {
 
 section#toc {
     position: inherit;
-    background-color: #F8F8FF;
     margin-left: auto;
     margin-right: auto;
     padding: 0 0px 10px 0px;
@@ -24,7 +23,6 @@ section#toc {
 }
 
 section#rv {
-    background-color: #F8F8FF;
     border-radius: 20px;
     max-width: 100%;
     height: 100%;
@@ -32,7 +30,7 @@ section#rv {
 
 
 h1 {
-    font-size: 200%;
+    font-size: 2em;
     color: black;
     margin: 0%;
     padding: 0;
@@ -40,13 +38,13 @@ h1 {
 }
 h2 {
     width: 100%;
-    font-size: 30px;
+    font-size: 1.87em;
     color: black;
     padding: 0;
     margin: 0;
 }
 h3 {
-    font-size: 23px;
+    font-size: 1.2em;
     padding: 0;
     margin: 0;
     text-transform: capitalize;
@@ -68,14 +66,13 @@ table {
     margin-right: auto;
 }
 td {
-    background-color: #cdceca;
     border: black;
     border: 1.5em;
     text-align: center;
     padding: 0 10px 10px 10px;
 }
 tr {
-    background-color: #cdceca;
+    background-color: #EEE3CB;
 }
 /*li {
     background-color: #B2B3AD;
@@ -115,13 +112,21 @@ section#entries {
     padding: 10px;
 }
 section#entries h2 {
-    padding: 10px 10px 0 10px;
+    padding: 10px 0px 10px 10px;
+    border-bottom-style: solid;
+    border-color: #cdceca;
+    background-color: #F8F8FF;
+    position: sticky;
+    top: 0;
+}
+section#entries p {
+    margin: 0 0 22px 0;
 }
 section#gloss {
     position: sticky;
     top: 0;
     flex: 1;
-    background-color: #cdceca;
+    background-color: #EEE3CB;
     border-radius: 20px;
     padding: 10px;
     max-height:90vh;
@@ -150,7 +155,7 @@ div#calendarDays {
     width: 20px;
     /*color:white;*/
     padding: 0 6px 6px 6px;
-    background-color: #cdceca;
+    background-color: #EEE3CB;
     height: auto;
     margin: 0 10px 0 0;
 }
@@ -183,7 +188,7 @@ div.si.on {
 
 
 span.date {
-    color: #B1735A;
+    color: black;
 }
 div.year {
     margin: 3em;
@@ -201,7 +206,7 @@ div.year {
     color: purple;
 }
 
-/* Digital Mitford Project Navigation Bar */
+/***** Digital Mitford Project Navigation Bar *****/
 div#nav_wide {
     background-image: url("mrmBlur.jpg");
     padding: 0;
@@ -251,7 +256,6 @@ ul#siteMenu {
     background-color: /*#F8F8FF;*/ #FFDB90;
     position: relative;
     bottom: -20px;
-    ;
 }
 ul#siteMenu li.title {
     flex: 1;
@@ -360,7 +364,7 @@ ul.subSec li {
     padding-bottom: 3px
 }
 
-
+/* ***** End of Digital Mitford Site Navigation Bar**** */
 
 
 
