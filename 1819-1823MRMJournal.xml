@@ -7326,31 +7326,33 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-785">
                   <head><date when="1821-03-06">Tuesday March 6th</date></head>
-                  <p>At <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s--went to the Town Hall--was much amused--delighted with <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>'s speaking--Dined again at the <persName ref="#Valpy_Richard">Doctor</persName>'s--<persName>Mr. Willan</persName> spent the evening there--a pleasant man--&amp; <persName ref="#Talfourd_Thos">Talfourd</persName> called.</p>
+                  <p>At <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s--went to the <placeName>Town Hall</placeName>--was much amused--delighted with <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>'s speaking--Dined again at the <persName ref="#Valpy_Richard">Doctor</persName>'s--<persName>Mr. Willan</persName> spent the evening there--a pleasant man--&amp; <persName ref="#Talfourd_Thos">Talfourd</persName> called.</p>
                </div>
                <div type="entry" xml:id="e-786">
                   <head><date when="1821-03-07">Wednesday March 7th</date></head>
-                  <p>At Dr. Valpey's--Talfourd breakfasted with us--Mr. Willan called, &amp; Pet. Ekya--made many calls--came home to dinner.</p>
+                  <p>At <persName ref="#Valpy_Richard">Dr. Valpey</persName>'s--<persName ref="#Talfourd_Thos">Talfourd</persName> breakfasted with us--<persName>Mr. Willan</persName> called, &amp; Pet. Ekya--made many calls--came <placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
                </div>
+               <!--TSA 2023-08-14 Is Dr. Valpy spelled that way in the journal? Unsure on what is happening with "Pet. Ekya"-->
                <div type="entry" xml:id="e-787">
                   <head><date when="1821-03-08">Thursday</date></head><!-- srr: Everyday in March, except here, she lists the month and day -->
-                  <p>At home--wrote out some sonnets--read Hazlitt's political essays--good.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote out some sonnets--read <persName ref="#Hazlitt_Wm">Hazlitt</persName>'s political essays--good.</p>
                </div>
                <div type="entry" xml:id="e-788">
                   <head><date when="1821-03-09">Friday March 9th</date></head>
-                  <p>At home--wrote out Weston Grove to send to Talfourd--wrote a sonnet to him, &amp; a letter to him with all these things.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote out <title ref="#WestonGrove_1827">Weston Grove</title> to send to <persName ref="#Talfourd_Thos">Talfourd</persName>--wrote a sonnet to him, &amp; a letter to him with all these things.</p>
                </div>
                <div type="entry" xml:id="e-789">
-                  <head><date when="1821-03-10">Saterday March 10th</date></head>
-                  <p>At home--heard from Mr. Haydon &amp; Miss James--went violetting--tried to write on wild flowers for the Magazine.</p>
+                  <head><date when="1821-03-10">Saturday March 10th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--went <name ref="#violet">violetting</name>--tried to write on wild <name ref="#flower">flowers</name> for the <title>Magazine</title>.</p>
                </div>
+               <!--TSA 2023-08-14 Is this the London Magazine?-->
                <div type="entry" xml:id="e-790">
                   <head><date when="1821-03-11">Sunday March 11th</date></head>
-                  <p>At home--heard from Miss Webb poor Mr. Webb very ill--wrote to Miss Webb--called home to dinner.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Webb_Eliza">Miss Webb</persName> poor <persName ref="#Webb_James">Mr. Webb</persName> very ill--wrote to <persName ref="#Webb_Eliza">Miss Webb</persName>--called <placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
                </div>
                <div type="entry" xml:id="e-791">
                   <head><date when="1821-03-12">Monday March 12th</date></head>
-                  <p>At home--heard from Mr. Ogbourne--sent off my letter to Miss James, enclosed in one to Mr. Monck--Mr. Crowther called.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName>Mr. Ogbourne</persName>--sent off my letter to <persName ref="#James_Miss">Miss James</persName>, enclosed in one to <persName ref="#Monck_JB">Mr. Monck</persName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> called.</p>
                </div>
                <div type="entry" xml:id="e-792">
                   <head><date when="1821-03-13">Tuesday March 13th</date></head>
