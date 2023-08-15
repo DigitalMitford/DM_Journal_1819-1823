@@ -408,23 +408,14 @@
         </xsl:choose>
     </xsl:template>
     <xsl:template match="p">
-        <p><xsl:apply-templates/></p>
+        <div class="p"><xsl:apply-templates/></div>
     </xsl:template>
     
     <xsl:template match="note">
-        <!-- 2023-07-11 ebb with srr: Adding this to ensure that there are always 
-            HTML p elements where we output gloss notes from the SI. -->
-        <xsl:choose>
-            <xsl:when test="not(p)">
-           <p>
-              <xsl:apply-templates/> 
-           </p>      
-        </xsl:when>
-        <xsl:otherwise>
+        <!-- 2023-08-15 ebb with srr and tsa: Altering HTML structure to allow nested divs to host paragraphs and internal notes. -->
+        <div class="note">
             <xsl:apply-templates/>
-        </xsl:otherwise>
-        </xsl:choose>
-        
+        </div>
     </xsl:template>
 
 </xsl:stylesheet>
