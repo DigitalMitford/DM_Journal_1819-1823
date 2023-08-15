@@ -25,8 +25,10 @@ const entries = document.getElementsByClassName("si");
 
 
 function init() {
-const showButton = document.getElementById("showAll")
-    showButton.addEventListener('click', showAll, false);
+/*const showButton = document.getElementById("showAll")*/
+/* 2023-08-15 ebb with srr and tsa: We seem to be missing a button with id="showAll" at this point. 
+ * In the HTML this would be <button id="showAll"/>  */
+   /* showButton.addEventListener('click', showAll, false);*/
     /* The line above triggers an event listener on click of the button. 
      * On a second click the function automatically toggles off, a feature of the classList toggle in JS.  */
     for (var i = 0; i < highlights.length; i++) {
@@ -38,6 +40,7 @@ const showButton = document.getElementById("showAll")
    
 }
 
+/* ebb" Currently this is not firing because there's no button. It shouldn't cause problems to be here though.  */
 function showAll() {
     /* Look for everything that's a gloss entry and display them all. 
      * Maybe we want to say on a second click of this button, shut this off. */
