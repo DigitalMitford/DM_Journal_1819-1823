@@ -7468,7 +7468,8 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-818">
                   <head><date when="1821-04-08">Sunday 8th</date></head>
-                  <p>At home--Mr. Hill &amp; Lucy dined here--went with them to see the old horse-worked at Richmond--read No. 48 of Blackwood's Magazine.</p>
+
+                  <p>At home--Mr. Hill &amp; Lucy dined here--went with them to see the old <unclear resp="#srr">house</unclear><!-- srr ebb: The typescript incorrectly says "horse" instead of "house" -->--worked at Richmond--read No. 48 of Blackwood's Magazine.</p>
                </div>
                <div type="entry" xml:id="e-819">
                   <head><date when="1821-04-09">Monday 9th</date></head>
