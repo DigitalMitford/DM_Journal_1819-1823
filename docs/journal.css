@@ -49,11 +49,14 @@ h3 {
     margin: 0;
     text-transform: capitalize;
 }
-p {
+div.p {
     font-size: calc(.2vw + 100%);
-
 }
-
+div.note { 
+    border-style: dotted;
+    background-color:#EEE3CB;
+    font-size: smaller;
+}
 
 
 
@@ -115,7 +118,8 @@ section#entries h2 {
     padding: 10px 0px 10px 10px;
     border-bottom-style: solid;
     border-color: #cdceca;
-    background-color: #F8F8FF;
+    /*background-color: #F8F8FF;*/
+    background-color:#EEE3CB;
     position: sticky;
     top: 0;
 }
