@@ -7331,9 +7331,8 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-786">
                   <head><date when="1821-03-07">Wednesday March 7th</date></head>
-                  <p>At <persName ref="#Valpy_Richard">Dr. Valpey</persName>'s--<persName ref="#Talfourd_Thos">Talfourd</persName> breakfasted with us--<persName>Mr. Willan</persName> called, &amp; Pet. Ekya--made many calls--came <placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
+                  <p>At <persName ref="#Valpy_Richard">Dr. Valpy</persName>'s--<persName ref="#Talfourd_Thos">Talfourd</persName> breakfasted with us-- &amp; <persName> Willan</persName> called, &amp; <unclear reason="illegible">Pitt Ekyse</unclear><note resp="#TSA #srr #ebb">This appears to be a proper name but is unreadable to us. It is represented as  "Pet. Ekya" without comment in the Coles typescript.</note>--made many calls--came <placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
                </div>
-               <!--TSA 2023-08-14 Is Dr. Valpy spelled that way in the journal? Unsure on what is happening with "Pet. Ekya"-->
                <div type="entry" xml:id="e-787">
                   <head><date when="1821-03-08">Thursday</date></head><!-- srr: Everyday in March, except here, she lists the month and day -->
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote out some sonnets--read <persName ref="#Hazlitt_Wm">Hazlitt</persName>'s political essays--good.</p>
@@ -7406,20 +7405,20 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-804">
                   <head><date when="1821-03-25">Sunday March 25th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name> with dear <persName ref="#Mitford_Geo">Drum</persName>--read <title>Life of Anne Bollen</title>. [sic]</p><!-- srr: WHYYYY does Mitford have 3 different spellings for the article she's reading in the 25th, 26th, and 27th. Also, I donno why [sic] is in the transcript -->
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name> with dear <persName ref="#Mitford_Geo">Drum</persName>--read <title ref="#Mems_AnneBoleyn">Life of Anne Bollen</title>.</p><!-- srr: WHYYYY does Mitford have 3 different spellings for the article she's reading in the 25th, 26th, and 27th. -->
                </div>
                <div type="entry" xml:id="e-805">
                   <head><date when="1821-03-26">Monday March 26th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name>--read <persName ref="#Benger_ElizO">Miss Benger</persName>'s <title>Life of Anne Bullen</title>.</p>
-                  <!--TSA 2023-08-21 My best guess is that this is the Miss Benger mentioned here. Further research needed into the book and how the name is actually spelled. I find that weird, especially if it's a book where there may be a title page or an appropriate spelling in the actual contents of the book.-->
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name>--read <persName ref="#Benger_ElizO">Miss Benger</persName>'s <title ref="#Mems_AnneBoleyn">Life of Anne Bullen</title>.</p>
+            
                </div>
                <div type="entry" xml:id="e-806">
                   <head><date when="1821-03-27">Tuesday March 27th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name>--read <persName ref="#Benger_ElizO">Miss Benger</persName>'s <title>Life of Anne Boleyn</title>--worked at my sketch.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet">violetting</name>--read <persName ref="#Benger_ElizO">Miss Benger</persName>'s <title ref="#Mems_AnneBoleyn" >Life of Anne Boleyn</title>--worked at my sketch.</p>
                </div>
                <div type="entry" xml:id="e-807">
                   <head><date when="1821-03-28">Wednesday March 28th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName ref="#Mitford_Geo">Drum</persName>--worked at my Dramatic sketch.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName ref="#Mitford_Geo">Drum</persName>--worked at my Dramatic sketch.<note resp="#ebb">This could be either <title ref="#Emily_DS">Emily</title> or <title ref="#Claudias_Dr">Claudia’s Dream</title>, both of which MRM mentions in her entries of late March 1821.</note></p>
                </div>
                <div type="entry" xml:id="e-808">
                   <head><date when="1821-03-29">Thursday March 29th</date></head>
@@ -7469,7 +7468,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-818">
                   <head><date when="1821-04-08">Sunday 8th</date></head>
-                  <p>At home--Mr. Hill &amp; Lucy dined here--went with them to see the old horse<!-- srr: There is a weird error correction in the transcription, take a look? -->--worked at Richmond--read No. 48 of Blackwood's Magazine.</p>
+                  <p>At home--Mr. Hill &amp; Lucy dined here--went with them to see the old horse-worked at Richmond--read No. 48 of Blackwood's Magazine.</p>
                </div>
                <div type="entry" xml:id="e-819">
                   <head><date when="1821-04-09">Monday 9th</date></head>
@@ -7773,9 +7772,18 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="publications">
 
-            <listBibl sortKey="serial_MRM">
-
-              
+            <listBibl sortKey="work_MRM">
+               <bibl xml:id="Mems_AnneBoleyn">
+                  <title level="m">Memoirs of the Life of Anne Boleyn, Queen of Henry VIII. By Miss Benger.</title>
+                  <author>
+                     <persName ref="#Benger_ElizO">Elizabeth Ogilvy Benger</persName>
+                  </author>
+                  <pubPlace ref="#London_city">London</pubPlace>
+                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <date when="1818">1821</date>
+                  <note resp="#lmw">2 vols. Mitford mentions reading this book in her journal entries of March 25, 26, and 27, 1821.</note>
+               </bibl>            
+            
             </listBibl>
 
          </div>
