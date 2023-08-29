@@ -4391,7 +4391,6 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                      eye--<persName ref="#Marmy_pet">Marmion</persName> very amiable poor dear love
                   pitied<!-- ck. ms. -->me &amp; loved me very much. <persName ref="#GeoIII">The
                      King</persName> died this evening.</p>
-               <!--tsa 2023-03-14 I removed an extra "t" in pitied. It did not reflect what was in the journal.-->
             </div>
             <pb n="34"/>
             <div type="entry" xml:id="e-385">
@@ -4416,7 +4415,8 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
             <!--TSA 2023-03-14 The beginning of this entry has some scribbled out text-->
             <fw>Feby 1820</fw>
             <div type="entry" xml:id="e-387">
-               <head><date when="1820-02-01">Tuesday 1st</date></head>
+               <head><date when="1820-02-01"><del rend="squiggles">Monday</del> Tuesday 1st <note resp="ebb">Mitford first wrote and crossed out "Monday" on this entry.</note></date></head>
+             
                <p>At <placeName ref="#Bertram_house">home</placeName>--Heard from <persName
                      ref="#Webb_Mary_younger">Miss Webb</persName>--went with dear <persName
                      ref="#Mitford_Geo">Drum</persName> into <placeName ref="#Reading_city"
