@@ -4412,7 +4412,6 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
             </div>
             </div>
             <div type="month" xml:id="Feb-1820">
-            <!--TSA 2023-03-14 The beginning of this entry has some scribbled out text-->
             <fw>Feby 1820</fw>
             <div type="entry" xml:id="e-387">
                <head><date when="1820-02-01"><del rend="squiggles">Monday</del> Tuesday 1st <note resp="ebb">Mitford first wrote and crossed out "Monday" on this entry.</note></date></head>
@@ -4626,7 +4625,6 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
             </div>
             <pb n="36"/>
             <fw>Feby 1820</fw>
-            <!--TSA 2023-03-14 It looks as if Mitford shortens February to Feby on occasion-->
             <div type="entry" xml:id="e-408">
                <head><date when="1820-02-23">Wednesday 23rd</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--heard from dear <persName
@@ -4856,7 +4854,7 @@ Publisher:	London : [publisher not identified], 1786.
                   thousand people--all quiet &amp; rejoicing.</p>
             </div>
             <fw>March
-               1820<!--TSA 2023-03-13: Mitford writes at home before the date, but scribbles it out--></fw>
+               1820</fw>
             <div type="entry" xml:id="e-430">
                <head><del rend="squiggles">At home</del>
                   <date when="1820-03-16">Thursday 16th</date></head>
@@ -4953,7 +4951,7 @@ Publisher:	London : [publisher not identified], 1786.
                      of New South Wales</title>--not good.</p>
             </div>
             <fw>March
-               1820<!--TSA 2023-03-13: There's extra text here I can't quite read. It looks as if it says "God Bless Him" but I don't believe that's true--></fw>
+               1820</fw>
             <div type="entry" xml:id="e-439">
                <head><date when="1820-03-25">Saturday 25th</date></head>
                <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#violet"
