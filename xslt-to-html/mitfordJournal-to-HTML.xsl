@@ -417,5 +417,8 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
+    <xsl:template match="del">
+        <span class="del"><xsl:apply-templates/></span>
+    </xsl:template>
 
 </xsl:stylesheet>

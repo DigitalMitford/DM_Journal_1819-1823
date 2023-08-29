@@ -209,6 +209,7 @@ div.year {
 .title {
     color: purple;
 }
+.del {text-decoration: line-through red;}
 
 /***** Digital Mitford Project Navigation Bar *****/
 div#nav_wide {
