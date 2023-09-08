@@ -7694,8 +7694,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At home--went to Reading--saw Mr. Bowles the poet at Dr. Valpy's--liked him very much--came home to dinner--worked at my prose.</p>
                </div>
             </div>
-            <!-- srr: End of month is middle of left page (192-196) -->
+            <!-- srr: End of May is middle of left page (192-196) -->
             <div type="month" xml:id="Jun-1821">
+               
                <div type="entry" xml:id="e-872">
                   <head><date when="1821-06-01">Friday June First</date></head>
                   <p>Called at the Dickinson's.</p>
@@ -7706,121 +7707,254 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-874">
                   <head><date when="1821-06-03">Sunday 3rd</date></head>
-                  <p></p>
+                  <p>At home--went with Drum to some Cricket playing--worked at my article.</p>
                </div>
                <div type="entry" xml:id="e-875">
                   <head><date when="1821-06-04">Monday 4th</date></head>
-                  <p></p>
+                  <p>At home--worked at my article.</p>
                </div>
                <div type="entry" xml:id="e-876">
                   <head><date when="1821-06-05">Tuesday 5th</date></head>
-                  <p></p>
+                  <p>Finished my article--planted a great many flowers indeed in the garden.</p>
                </div>
                <div type="entry" xml:id="e-877">
                   <head><date when="1821-06-06">Wednesday 6th</date></head>
-                  <p></p>
+                  <p>Heard from Miss Johnson--wrote to Miss Johnson &amp; sent a Copy of the Catalogue to Mr. Clarke--Mr. Dickinson called.</p>
                </div>
                <div type="entry" xml:id="e-878">
-                  <head><date when="1821-06-07">Thursday 7th</date></head>
-                  <p></p>
+                  <head><date when="1821-06-07">Thursday 7th</date></head><!-- srr: Transcription says Tuesday for some reason, can't tell in handwritten -->
+                  <p>At home--heard from Mr. Haydon--wrote to Miss James &amp; Mr. Haydon--Mrs. Dickinson called--had my own sweet dear Molly washed--looked like a snow ball, sweet lamb.</p>
                </div><!-- srr: Transition from bottom left to top right (192-196) -->
                <div type="entry" xml:id="e-879">
                   <head><date when="1821-06-08">Friday 8th</date></head>
-                  <p></p>
+                  <p>At home--heard from Miss James, Mrs. Hofland &amp; Eliza Webb--wrote to Eliza Webb, Mrs. Hofland, Miss James &amp; Talfourd.</p>
                </div>
                <div type="entry" xml:id="e-880">
                   <head><date when="1821-06-09">Saturday 9th</date></head>
-                  <p></p>
+                  <p>At home--heard from Charles Kuyvett.</p>
                </div>
                <div type="entry" xml:id="e-881">
                   <head><date when="1821-06-10">Sunday 10th</date></head>
-                  <p></p>
+                  <p>At home--read Mrs. Baillie's Legends &amp; Bowles' sham [?] &amp; walked.</p>
                </div>
                <div type="entry" xml:id="e-882">
                   <head><date when="1821-06-11">Monday 11th</date></head>
-                  <p></p>
+                  <p>At home--heard from Miss Johnson--walked with dear Granny--wrote to Miss Johnson.</p>
                </div>
                <div type="entry" xml:id="e-883">
                   <head><date when="1821-06-12">Tuesday 12th</date></head>
-                  <p></p>
+                  <p>Made another catalogue for Miss Johnson, &amp; sengt to her with the frill, &amp; wrote to her.</p>
                </div>
                <div type="entry" xml:id="e-884">
                   <head><date when="1821-06-13">Wednesday 13th</date></head>
-                  <p></p>
+                  <p>Walked with Granny--heard from Miss Johnson--did a deal of tatting.</p>
                </div>
                <div type="entry" xml:id="e-885">
                   <head><date when="1821-06-14">Thursday 14th</date></head>
-                  <p></p>
+                  <p>At home--heard from Mrs. Dickinson--worked in my garden--walked.</p>
                </div>
                <div type="entry" xml:id="e-886">
                   <head><date when="1821-06-15">Friday 15th</date></head>
-                  <p></p>
+                  <p>Dear Granny's birthday--called at Farley Hill--Mrs. Dickinson drank tea here--Mrs. Raggett called--Heard from Miss James.</p>
                </div>
                <div type="entry" xml:id="e-887">
                   <head><date when="1821-06-16">Saturday 16th</date></head>
-                  <p></p>
+                  <p>At home--heard from Mrs. Hofland.</p>
                </div>
                <div type="entry" xml:id="e-888">
                   <head><date when="1821-06-17">Sunday 17th</date></head>
-                  <p></p>
+                  <p>At home--wrote to Miss James.</p>
                </div>
                <div type="entry" xml:id="e-889">
                   <head><date when="1821-06-18">Monday 18th</date></head>
-                  <p></p>
+                  <p>At home--went to Reading ith Drum--called at the Valpy's &amp;c.--home to dinner--heard from Mrs. Dickinson with a present of a pretty Frill--wrote to Mrs. D.</p>
                </div>
                <div type="entry" xml:id="e-890">
                   <head><date when="1821-06-19">Tuesday 19th</date></head>
-                  <p></p>
+                  <p>At home--walked with Drum.</p>
                </div>
                <div type="entry" xml:id="e-891">
                   <head><date when="1821-06-20">Wednesday 20th</date></head>
-                  <p></p>
+                  <p>At home--heard from Mr. Talfourd--wrote to Dr. Valpy--began Foscari.</p>
                </div>
                <div type="entry" xml:id="e-892">
                   <head><date when="1821-06-21">Thursday 21st</date></head>
-                  <p></p>
+                  <p>At home--heard from Miss Johnson--wrote to Mr. Talfourd--walked out</p>
                </div>
                <div type="entry" xml:id="e-893">
                   <head><date when="1821-06-22">Friday 22nd</date></head>
-                  <p></p>
+                  <p>At home--heard from Mr. Talfourd--wrote to Mr. Talfourd, Miss James, Mrs. Hofland &amp; Miss Johnson.</p>
                </div>
                <div type="entry" xml:id="e-894">
                   <head><date when="1821-06-23">Saturday 23rd</date></head>
-                  <p></p>
+                  <p>At home--poor dear Flora bit by an adder--afarid she'll die.</p>
                </div>
                <div type="entry" xml:id="e-895">
                   <head><date when="1821-06-24">Sunday 24th</date></head>
-                  <p></p>
+                  <p>Poor dear Flora died--I think of a bite from a great dog--God bless her, poor dear. </p>
                </div>
                <div type="entry" xml:id="e-896">
                   <head><date when="1821-06-25">Monday 25th</date></head>
-                  <p></p>
+                  <p>At home--worked at Foscari.</p>
                </div>
                <div type="entry" xml:id="e-897">
                   <head><date when="1821-06-26">Tuesday 26th</date></head>
-                  <p></p>
+                  <p>At home--Mrs. Crowther called with some fine strawberries--worked at Foscari.</p>
                </div>
                <div type="entry" xml:id="e-898">
                   <head><date when="1821-06-27">Wednesday 27th</date></head>
-                  <p></p>
+                  <p>At home-- worked at Foscari.</p>
                </div>
                <div type="entry" xml:id="e-899">
                   <head><date when="1821-06-28">Thursday 28th</date></head>
-                  <p></p>
+                  <p>At home--wrote to Miss Johnson--worked at Foscari.</p>
                </div>
                <div type="entry" xml:id="e-900">
                   <head><date when="1821-06-29">Friday 29th</date></head>
-                  <p></p>
+                  <p>At home--worked a little at Foscari.</p>
                </div>
                <div type="entry" xml:id="e-901">
                   <head><date when="1821-06-30">Saturday 30th</date></head>
-                  <p></p>
+                  <p>At home--worked a little at Foscari.</p>
                </div>
                
                
                
                
             </div>
+            <!-- srr: End of June is bottom of right page (192-196) -->
+            <div type="month" xml:id="Jul-1821">
+               <div type="entry" xml:id="e-903">
+                  <head><date when="1821-07-01">Sunday July 1nd</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-904">
+                  <head><date when="1821-07-02">Monday July 2rd</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-905">
+                  <head><date when="1821-07-03">Tuesday July 3th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-906">
+                  <head><date when="1821-07-04">Wednesday July 4th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-907">
+                  <head><date when="1821-07-05">Thursday July 5th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-908">
+                  <head><date when="1821-07-06">Friday July 6th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-909">
+                  <head><date when="1821-07-07">Saturday July 7th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-910">
+                  <head><date when="1821-07-08">Sunday July 8th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-911">
+                  <head><date when="1821-07-09">Monday 9th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-912">
+                  <head><date when="1821-07-10">Tuesday</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-913">
+                  <head><date when="1821-07-11">Wednesday</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-914">
+                  <head><date when="1821-07-12">Thursday 12th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-915">
+                  <head><date when="1821-07-13">Friday 13th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-916">
+                  <head><date when="1821-07-14">Saturday 14th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-917">
+                  <head><date when="1821-07-15">Sunday 15th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-918">
+                  <head><date when="1821-07-16">Monday 16th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-919">
+                  <head><date when="1821-07-17">Tuesday 17</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-920">
+                  <head><date when="1821-07-18">Wednesday 18th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-921">
+                  <head><date when="1821-07-19">Thursday 19th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-922">
+                  <head><date when="1821-07-20">Friday 20th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-923">
+                  <head><date when="1821-07-21">Saturday 21st</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-924">
+                  <head><date when="1821-07-22">Sunday 22nd</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-925">
+                  <head><date when="1821-07-23">Monday 23rd</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-926">
+                  <head><date when="1821-07-24">Tuesday 24th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-927">
+                  <head><date when="1821-07-25">Wednesday 25th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-928">
+                  <head><date when="1821-07-26">Thursday 26th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-929">
+                  <head><date when="1821-07-27">Friday 27th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-930">
+                  <head><date when="1821-07-28">Saturday 28th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-931">
+                  <head><date when="1821-07-29">Sunday 29th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-932">
+                  <head><date when="1821-07-30">Monday 30th</date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-933">
+                  <head><date when="1821-07-31">Tuesday 31st</date></head>
+                  <p></p>
+               </div>
+               
+               
+               
+               
+               
+            </div>
+            
             
          </div>
 
