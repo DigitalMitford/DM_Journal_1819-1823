@@ -5823,7 +5823,9 @@ Publisher:	London : [publisher not identified], 1786.
                      Valpy</persName> &amp; <persName ref="#Dickinson_Charles #Dickinson_Mrs">Mr.
                      &amp; Mrs. Dickinson</persName> called on us.</p>
             </div>
-            <!--TSA 2023-1-20 Mrs. Richard Body may not have a SI entry. I found Richard Body, but was unable to find a Mrs. Body, or anything similar. The Dickinsons are mentioned here, do I use a group or do each individual person?-->
+            <!--TSA 2023-1-20 Mrs. Richard Body may not have a SI entry. I found Richard Body, but was unable to find a Mrs. Body, or anything similar. The Dickinsons are mentioned here, do I use a group or do each individual person?
+            2023-09-14: Mrs. Body *could* be Ann Body in our SI, but we're investigating...) 
+            -->
             <div type="entry" xml:id="e-526">
                <head><date when="1820-06-20">Tuesday 20th</date></head>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from dear <persName
@@ -6112,8 +6114,8 @@ Publisher:	London : [publisher not identified], 1786.
                   flowers)--dressed my flowers--walked with <persName ref="#Russell_M"
                      >Granny</persName> &amp; the Pets in <placeName ref="#WoodcockLn">Woodcock
                      Lane</placeName> &amp; saw a most brilliant <name ref="#glow_worm"
-                     >glow-worm</name> high in the bank opposite to <persName ref="#Body_Richard"
-                     >Mr. Body</persName>'s--the first I have seen this year.</p>
+                        >glow-worm</name> high in the bank opposite to <placeName ref="#field_Body"
+                     >Mr. Body</placeName>'s--the first I have seen this year.</p>
             </div>
             <div type="entry" xml:id="e-552">
                <head><date when="1820-07-16">Sunday 16th</date></head>
@@ -7029,7 +7031,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-716">
                   <head><date when="1820-12-27">Wednesday 27th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Body_Richard #Body_Ann">Mr. &amp; Mrs. Richard Body</persName> called--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called in her way to <persName>Mr. Simonds</persName>'s Ball--worked at <title ref="#Fiesco_MRMplay">Fiesco</title>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Body_Richard #Body_Ann">Mr. &amp; Mrs. Richard Body</persName><note resp="#ebb #tsa">We are uncertain whether Mrs. Body referenced here is the Ann Body identified in our site index, but we are investigating.</note> called--walked with <persName ref="#Mitford_Geo">Drum</persName> &amp; the Pets--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called in her way to <persName>Mr. Simonds</persName>'s Ball--worked at <title ref="#Fiesco_MRMplay">Fiesco</title>.</p>
                </div>
                <div type="entry" xml:id="e-717">
                   <head><date when="1820-12-28">Thursday 28th</date></head>
@@ -7704,9 +7706,8 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-873">
                   <head><date when="1821-06-02">Saturday 2nd</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Johnson_Miss">Miss Johnson</persName>--called </p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Johnson_Miss">Miss Johnson</persName>--called <persName ref="#Body_Ann">Mrs Body</persName>--worked at my article</p>
                </div>
-               <!--TSA 2023-09-13 Is the recent entry finished?-->
                <div type="entry" xml:id="e-874">
                   <head><date when="1821-06-03">Sunday 3rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went with <persName ref="#Mitford_Geo">Drum</persName> to some Cricket playing--worked at my article.</p>
@@ -7988,6 +7989,10 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
 
             <listPerson sortKey="histPersons">
+               
+               <!-- 2023-07-16 ebb: We may need a new entry for Mrs. Richard Body. She may not be the same as the Ann Body in our current SI. 
+               See https://github.com/DigitalMitford/DM_Journal_1819-1823/issues/70 
+               -->
 
             
 
@@ -7996,6 +8001,16 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="places">
             <listPlace sortKey="histPlaces">
+               <place xml:id="field_Body"><!-- 2023-09-14 ebb tsa: We're just correcting a typo in this entry (ichard Body to Richard Body)-->
+                  <placeName>Mr. Body's fields</placeName>
+                  <district>Shinfield parish</district>
+                  <region>Berkshire</region>
+                  <country>England</country>
+                  <note resp="#lmw">Fields belonging to the <placeName ref="#Body_Richard">Richard
+                     Body</placeName>. One location where <persName ref="#MRM">Mitford</persName>
+                     goes <name ref="#violet">violet</name>ting in <date when="1819-03">March
+                        1819</date>.</note>
+               </place>
 
                <place xml:id="Aldermaston">
                   <placeName>Aldermaston</placeName>
