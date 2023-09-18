@@ -7767,59 +7767,60 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-888">
                   <head><date when="1821-06-17">Sunday 17th</date></head>
-                  <p>At home--wrote to Miss James.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#James_Miss">Miss James</persName>.</p>
                </div>
                <div type="entry" xml:id="e-889">
                   <head><date when="1821-06-18">Monday 18th</date></head>
-                  <p>At home--went to Reading ith Drum--called at the Valpy's &amp;c.--home to dinner--heard from Mrs. Dickinson with a present of a pretty Frill--wrote to Mrs. D.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName ref="#Reading_city">Reading</placeName> with <persName ref="#Mitford_Geo">Drum</persName>--called at the <orgName ref="#Valpys">Valpys</orgName> &amp;c.--<placeName ref="#ThreeMileCross">home</placeName> to dinner--heard from <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> with a present of a pretty Frill--wrote to <persName ref="#Dickinson_Mrs">Mrs. D</persName>.</p>
                </div>
                <div type="entry" xml:id="e-890">
                   <head><date when="1821-06-19">Tuesday 19th</date></head>
-                  <p>At home--walked with Drum.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName ref="#Mitford_Geo">Drum</persName>.</p>
                </div>
                <div type="entry" xml:id="e-891">
                   <head><date when="1821-06-20">Wednesday 20th</date></head>
-                  <p>At home--heard from Mr. Talfourd--wrote to Dr. Valpy--began Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--wrote to <persName ref="#Valpy_Richard">Dr. Valpy</persName>--began <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-892">
                   <head><date when="1821-06-21">Thursday 21st</date></head>
-                  <p>At home--heard from Miss Johnson--wrote to Mr. Talfourd--walked out</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Johnson_Miss">Miss Johnson</persName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--walked out</p>
                </div>
+               <!--TSA 2023-09-18 Is the above entry finished?-->
                <div type="entry" xml:id="e-893">
                   <head><date when="1821-06-22">Friday 22nd</date></head>
-                  <p>At home--heard from Mr. Talfourd--wrote to Mr. Talfourd, Miss James, Mrs. Hofland &amp; Miss Johnson.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>, <persName ref="#James_Miss">Miss James</persName>, <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#Johnson_Miss">Miss Johnson</persName>.</p>
                </div>
                <div type="entry" xml:id="e-894">
                   <head><date when="1821-06-23">Saturday 23rd</date></head>
-                  <p>At home--poor dear Flora bit by an adder--afarid she'll die.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--poor dear <persName>Flora</persName> bit by an <name ref="#adder">adder</name>--afraid she'll die.</p>
                </div>
                <div type="entry" xml:id="e-895">
                   <head><date when="1821-06-24">Sunday 24th</date></head>
-                  <p>Poor dear Flora died--I think of a bite from a great dog--God bless her, poor dear. </p>
+                  <p>Poor dear <persName>Flora</persName> died--I think of a bite from a great <name ref="#dog">dog</name>--God bless her, poor dear. </p>
                </div>
                <div type="entry" xml:id="e-896">
                   <head><date when="1821-06-25">Monday 25th</date></head>
-                  <p>At home--worked at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-897">
                   <head><date when="1821-06-26">Tuesday 26th</date></head>
-                  <p>At home--Mrs. Crowther called with some fine strawberries--worked at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Crowther_Mrs">Mrs. Crowther</persName> called with some fine <name ref="#strawberry">strawberries</name>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-898">
                   <head><date when="1821-06-27">Wednesday 27th</date></head>
-                  <p>At home-- worked at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-899">
                   <head><date when="1821-06-28">Thursday 28th</date></head>
-                  <p>At home--wrote to Miss Johnson--worked at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Johnson_Miss">Miss Johnson</persName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-900">
                   <head><date when="1821-06-29">Friday 29th</date></head>
-                  <p>At home--worked a little at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked a little at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <div type="entry" xml:id="e-901">
                   <head><date when="1821-06-30">Saturday 30th</date></head>
-                  <p>At home--worked a little at Foscari.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked a little at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                
                
@@ -7829,7 +7830,7 @@ Publisher:	London : [publisher not identified], 1786.
             <!-- srr: End of June is bottom of right page (192-196) -->
             <div type="month" xml:id="Jul-1821">
                <div type="entry" xml:id="e-903">
-                  <head><date when="1821-07-01">Sunday July 1nd</date></head>
+                  <head><date when="1821-07-01">Sunday July 1st</date></head>
                   <p></p>
                </div>
                <div type="entry" xml:id="e-904">
