@@ -7684,8 +7684,12 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-868">
                   <head><date when="1821-05-28">Monday 28th</date></head>
-                  <p><persName ref="#Roworth_Mary">Mrs. Rowarth</persName> &amp; <persName ref="#Valpy_Richard">Dr. &amp; Mrs. J. Valpy</persName> called--worked at my article. </p>
-                  <!--TSA 2023-09-13 Need to check if Rowarth is spelled correctly, and who Mrs. J Valpy is-->
+                  <p><persName ref="#Roworth_Mary">Mrs. Rowarth</persName> &amp; <orgName ref="#Valpys">Dr. &amp; Mrs. J. Valpy</orgName> called--worked at my article. </p>
+                  <!--TSA 2023-09-13 Need to check if Rowarth is spelled correctly, and who Mrs. J Valpy is
+                  2023-09-26 ebb: We determined that the Rowarth spelling is used by MRM and some genealogy sites like https://www.geni.com/people/Mary-Rowarth/6000000052226773893 .
+                  But we also found her husband's gravestone of 1842 (listing Mary Ann Catherine Valpy as spouse, and the spelling carved on the stone is definitely Roworth: 
+                  https://www.findagrave.com/memorial/237191669/thomas-roworth
+                  -->
                </div>
                <div type="entry" xml:id="e-869">
                   <head><date when="1821-05-29">Tuesday 29th</date></head>
@@ -7996,6 +8000,46 @@ Publisher:	London : [publisher not identified], 1786.
                <!-- 2023-07-16 ebb: We may need a new entry for Mrs. Richard Body. She may not be the same as the Ann Body in our current SI. 
                See https://github.com/DigitalMitford/DM_Journal_1819-1823/issues/70 
                -->
+              
+               <person xml:id="Roworth_Mary" sex="f">
+                  <persName>Mary Valpy Roworth</persName>
+                  <persName>
+                     <surname type="paternal">Valpy</surname>
+                  <surname type="married">Roworth</surname>
+                     <surname type="married">Rowarth</surname>
+                     <forename>Mary</forename>
+                     <forename>Ann</forename>
+                     <forename>Catherine</forename>
+                  </persName>
+                  <persName>
+                     <addName>Miss Valpy</addName>
+                  </persName>
+                  <persName><!-- ebb: Alternate spelling of the surname -->
+                     <surname type="married">Rowarth</surname>
+                  </persName>
+                  <birth notAfter="1786">
+                     <placeName>Reading, Berkshire, England</placeName>
+                  </birth>
+                  <death when="1854-01">
+                     <placeName>Bath, Somerset, England</placeName>
+                  </death>
+                  <note resp="#ebb #lmw #mco">Eldest of the daughters of <persName ref="#Valpy_Richard">Dr. Richard Valpy</persName> and his second wife,
+                     <persName>Mary Benwell</persName>, likely born about 1786. <rs type="event">Mary Ann Catherine Valpy married <persName>Thomas Roworth, Esq. </persName>
+                        of Blagdon, Somerset on <date when="1810-11-24">24 November 1810</date>
+                     </rs> at St. Lawrence, Reading, Berkshire. They lived in Blagdon, Somerset, and
+                     died without issue. Mary Valpy Roworth died in <date when="1854-01">January 1854</date> at Bath, Somerset.
+                     <!-- 2023-09-26 added by ebb -->
+                  Mitford in her journal spells the married surname as "Rowarth" as do some genealogy sources. However, the name is spelled Roworth on Thomas’s gravestone of 1842 in St. Andrew Churchyard, as shown at 
+                     <ref target="https://www.findagrave.com/memorial/237191669/thomas-roworth">findagrave.come</ref>.
+                   <!--  2023-09-26 ebb: We determined that the Rowarth spelling is used by MRM and some genealogy sites like https://www.geni.com/people/Mary-Rowarth/6000000052226773893 .
+                     But we also found her husband's gravestone of 1842 (listing Mary Ann Catherine Valpy as spouse, and the spelling carved on the stone is definitely Roworth: 
+                     https://www.findagrave.com/memorial/237191669/thomas-roworth-->
+                  </note>
+               </person>
+               
+               
+               
+            
 
             
 
