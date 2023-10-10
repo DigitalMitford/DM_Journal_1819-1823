@@ -97,17 +97,13 @@
                     <div id="flex">
                         <section id="toc">
                             <table>
-
-
                                 <xsl:apply-templates select="ancestor::body//div[@type = 'year']"
                                     mode="toc"/>
                             </table>
-                        </section>
-
-                        <section id="rv">
                             
-
-                            <div id="calendarDays">
+                            
+                        </section>
+                        <div id="calendarDays">
                                 <xsl:for-each select="child::div[@type = 'entry']">
                                     <div class="calendarNum">
                                         <a href="#{@xml:id}">
@@ -115,12 +111,12 @@
                                                 select="tokenize(./head/date/@when, '-')[last()]"/>
                                         </a>
                                     </div>
-
-
+                                    
                                 </xsl:for-each>
-
-                            </div>
-
+                                
+                        </div>
+                        <section id="rv">
+                            
                             <div id="content">
                                 <section id="entries">
                                     <h2>
@@ -274,7 +270,6 @@
 
                                 </section>
                             </div>
-
                         </section>
                     </div>
                 </body>
