@@ -31,7 +31,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <resp>Transcription and coding by</resp>
                <persName ref="#rjp">Rebecca J. Parker</persName>
                <persName ref="#srr">Savannah Ricks</persName>
-               <persName ref="#tsa">Tyler Akam</persName>
+               <persName ref="#TSA">Tyler Akam</persName>
                <persName ref="#ebb">Elisa Beshero-Bondar</persName>
                <persName ref="#lmw">Lisa M. Wilson</persName>
             </respStmt>
@@ -7732,7 +7732,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>Heard from <persName ref="#Johnson_Miss">Miss Johnson</persName>--wrote to <persName ref="#Johnson_Miss">Miss Johnson</persName> &amp; sent a Copy of the Catalogue to <persName ref="#Clarke_ED">Mr. Clarke</persName>--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called.</p>
                </div>
                <div type="entry" xml:id="e-878">
-                  <head><date when="1821-06-07">Thursday 7th</date></head><!-- srr: Transcription says Tuesday for some reason, can't tell in handwritten -->
+                  <head><date when="1821-06-07">Thursday 7th</date></head><!-- srr: Transcription says Tuesday for some reason, can't tell in handwritten. ebb: I think it's Thursday in the handwritten.-->
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Haydon">Mr. Haydon</persName>--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Haydon">Mr. Haydon</persName>--<persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called--had my own sweet dear <persName ref="#Molly_pet">Molly</persName> washed--looked like a snow ball, sweet lamb.</p>
                </div><!-- srr: Transition from bottom left to top right (192-196) -->
                <div type="entry" xml:id="e-879">
@@ -7745,7 +7745,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-881">
                   <head><date when="1821-06-10">Sunday 10th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <persName ref="#Baillie_Joanna">Mrs. Baillie</persName>'s <title>Legends</title> &amp; <persName ref="#Bowles_Wm">Bowles</persName>' <title>sham [?]</title> &amp; walked.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <persName ref="#Baillie_Joanna">Mrs. Baillie</persName>'s <title>Legends</title> &amp; <persName ref="#Bowles_Wm">Bowles</persName>'s <title>Pamphlets</title> &amp; walked.<note resp="#ebb">Mitford met Bowles while visiting the Valpy's, as recorded in her journal on 31 May, and as she mentions in a letter to Sir William Elford of 1 July 1821, she had not yet read his latest response in the pamphlet war with Lord Byron over Pope’s poems. She seems to be catching on the reading by June 10. This could be a reference to Bowles's <title level="m" ref="#InvariablePrin_WLB">The Invariable Principles of Poetry</title> of 1819 or the most recent pamphlet of 1820, <title level="m" ref="#BowlesPamphletWar_1820">A reply to the charges brought by the reviewer of Spence's Anecdotes in the Quarterly review for October 1820 against the last editor of Pope's works</title>.</note></p>
                </div>
                <div type="entry" xml:id="e-882">
                   <head><date when="1821-06-11">Monday 11th</date></head>
@@ -7981,16 +7981,15 @@ Publisher:	London : [publisher not identified], 1786.
               Example: 
               <note resp="#srr">Savannah's note inside a new SI entry.</note>
                -->
-            
+            <person/>
 
             </listPerson>
-
          </div>
 
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
-              
+              <org/>
 
 
             </listOrg>
@@ -8036,11 +8035,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </person>
                
-               
-               
-            
-
-            
+         
 
             </listPerson>
          </div>
@@ -8113,7 +8108,15 @@ Publisher:	London : [publisher not identified], 1786.
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
                   <date when="1818">1821</date>
                   <note resp="#lmw">2 vols. Mitford mentions reading this book in her journal entries of March 25, 26, and 27, 1821.</note>
-               </bibl>            
+               </bibl>    
+               
+               <bibl xml:id="BowlesPamphletWar_1820">
+                  <title level="m">A reply to the charges brought by the reviewer of Spence's Anecdotes in the Quarterly review for October 1820 against the last editor of Pope's works, and author of A letter to Mr. Campbell on <q>The invariable principles of poetry</q></title>
+                  <author ref="#Bowles_Wm">William Lisle Bowles</author>
+                  <pubPlace>London</pubPlace>
+                  <date when="1820">1820</date>
+                  <note resp="ebb">Bowles' riposte of 1820 in the midst of a pamphlet war over Alexander Pope’s writings, following his first entry, <bibl corresp="#InvariablePrin_WLB"><title level="m">The Invariable Principles of Poetry</title> (1819)</bibl>.</note>
+               </bibl>
             
             </listBibl>
 
