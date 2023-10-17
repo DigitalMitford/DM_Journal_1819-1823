@@ -55,7 +55,16 @@ div.note {
     font-size: smaller;
 }
 
-
+img.facs {
+    width:80%;
+    max-width:2000px;
+}
+figcaption {
+   font-style: italic; 
+}
+blockquote {
+    font-size: .9em;
+}
 
 table {
     position: relative;
