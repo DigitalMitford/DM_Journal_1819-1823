@@ -7955,12 +7955,15 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-932">
                   <head><date when="1821-07-30">Monday 30th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title> wrote to <persName>Mr. <unclear>[?]</unclear><note resp="#tsa">I believe this is Mr. Talfourd, as there is a letter corresponding to the play on the following day sent to Mr. Talfourd. The Journal also appears to include the letters "tal" before it reaches the binding of the book.</note></persName>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title> wrote to <persName>Mr. <unclear>[?]</unclear>
+                     <note resp="#tsa">I believe this is <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>, as there is a letter corresponding to the play on the following day sent to Mr. Talfourd. The Journal also appears to include the letters "tal" before it reaches the binding of the book.</note></persName>.</p>
                </div>
                <div type="entry" xml:id="e-933">
                   <head><date when="1821-07-31">Tuesday 31st</date></head>
                   <p>Went to <placeName ref="#Reading_city">Reading</placeName> &amp; <placeName ref="#Coley_Berks">Coley</placeName>--called on the <orgName ref="#Brookes">Brookes</orgName> &amp;c.--sent off the two first acts of <title ref="#Foscari_MRMplay">Foscari</title>--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
+               <!-- 2023-10-20 ham STARTS HERE-->
+              
                
                
                
@@ -7983,7 +7986,34 @@ Publisher:	London : [publisher not identified], 1786.
               Example: 
               <note resp="#srr">Savannah's note inside a new SI entry.</note>
                -->
+               
+               <person xml:id="TSA"><!-- EXAMPLE. EACH OF YOU ADDS YOURS HERE. -->
+                  <persName>
+                     <surname>Akam</surname>
+                     <forename>Tyler</forename>
+                     <forename>S.</forename>
+                     <roleName>Research Assistant</roleName>
+                  </persName>
+                  <note resp="#ebb">Tyler Akam is a student filmmmaker and coding research assistant
+                     who started in October 2022 working on Mitford’s Journal of 1819-1823 on
+                     transcription, proof-checking between the typescript and photofacsimile, and
+                     researching Site Index entries to contribute to the project. He is also
+                     contributing ideas for the interface design for the project. He is working on a
+                     B.A. in Digital Media, Arts, and Technology at Penn State Behrend.</note>
+               </person>
             <person/>
+               
+               <!-- 2023-10-20 ebb:
+                  DECIDED that you will have these xml:ids:
+                  
+                  Hadleigh: hjb
+                  Nate: ham
+                  Josiah: jr
+                  
+                  
+               -->
+               
+               
 
             </listPerson>
          </div>
