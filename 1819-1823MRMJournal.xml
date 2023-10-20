@@ -7909,11 +7909,13 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-921">
                   <head><date when="1821-07-19">Thursday 19th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--the <persName>King</persName>'s coronation--a very fine hot sunny day, but a little lightning at night--heard from <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Hill_Lucy">Luce</persName>--poor <persName ref="#Hill_Lucy">Luce</persName> with some [?]--wrote to <persName ref="#Hill_Lucy">Luce</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--the <persName>King</persName>'s coronation--a very fine hot sunny day, but a little lightning at night--heard from <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Hill_Lucy">Luce</persName>--poor <persName ref="#Hill_Lucy">Luce</persName> with some <unclear>issue</unclear>--wrote to <persName ref="#Hill_Lucy">Luce</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+                  <!--TSA 2023-10-18 It looks like it says "poor Luce with some issue." The first letter looks like an i or g and the following letters repeat.-->
                </div>
                <div type="entry" xml:id="e-922">
                   <head><date when="1821-07-20">Friday 20th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>--my <name ref="#flower">flowers</name> most beautiful, especially the [?].</p>
+                  <!--TSA 2023-10-18 Unsure on what the journal says, but it's possible. I'll look at other flowers she references and try to find similar script.-->
                </div>
                <div type="entry" xml:id="e-923">
                   <head><date when="1821-07-21">Saturday 21st</date></head>
