@@ -13,3 +13,14 @@ Useful XPATH:
 May 1820 Sharepoint page 97
 
 Sharepoint page 181 is a pivot point between 1819, the first several January 1820 entries, and a starting point for 1821 immediately after.
+
+Current Rotation:
+- ham:
+    - Fri-Mon
+    - Typescript
+- hjb: 
+    - Mon-Wed
+    - Handwriting
+- jar: 
+    - Wed-Fri
+    - Tags
