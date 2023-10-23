@@ -7971,8 +7971,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1921-08-02">Thursday 2nd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Body_Richard">Mr. Body</persName> called -- <persName>Mrs. Raggnett</persName> &amp; <persName>Mrs. James G</persName> <unclear>[?]</unclear> drank tea with us.</p>
                </div>
-               
-               
+               <div type="entry" xml:id="e-936">
+                  <head><date when="1921-08-03">Friday 3rd</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--called at the Bodys -- dear <persName ref="#Mitford_Geo">Drum</persName> returned out of <district type="county">Hampshire</district> -- <persName ref="#Crowther_Mr">Mr. Crowther</persName> called -- worked at <title ref="#Foscari_MRMplay">Foscari</title></p>
+               </div>
+               <div type="entry" xml:id="e-937">
+                  <head><date when="1921-08-03">Saturday 4th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>-- <persName ref="#Body_Richard">Mr. Body</persName> &amp; <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called -- heared from Mr. Talfourd &amp; <persName ref="#Webb_Mary_younger">Miss Webb</persName> -- <title ref="#Foscari_MRMplay">Foscari</title></p>
+               </div>
                
             </div>
             
