@@ -7963,12 +7963,37 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>Went to <placeName ref="#Reading_city">Reading</placeName> &amp; <placeName ref="#Coley_Berks">Coley</placeName>--called on the <orgName ref="#Brookes">Brookes</orgName> &amp;c.--sent off the two first acts of <title ref="#Foscari_MRMplay">Foscari</title>--came <placeName ref="#ThreeMileCross">home</placeName> to dinner--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                </div>
                <!-- 2023-10-20 ham STARTS HERE-->
-              
-               
-               
-               
-               
-               
+               <!-- 2023-10-24 hjb STARTS HERE -->
+               <div type="entry" xml:id="e-934">
+                  <head><date when="1821-08-01">Wednesday 1st</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Mitford_Geo">Drum</persName> went into Hampshire--worked Foscari--<unclear>21</unclear> blossoms out upon my great Dahlia</p>
+                  <!-- 2023-10-25 hjb: I think it's a 21 in the unclear. Mitford may have counted the blossoms, plus it looks identical to her 21 in other journal entries -->
+               </div>
+               <div type="entry" xml:id="e-935">
+                  <head><date when="1821-08-02">Thursday 2nd</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Body_Richard">Mr. Body</persName> called -- <persName>Mrs. Raggnett</persName> &amp; <unclear><persName>Mrs. James G</persName> [?]</unclear> drank tea with us.</p>
+                  <!-- 2023-10-24 hjb: To me, it does not look like she wrote James G. The closest I can deciper is the G part possibly saying "Gatberii" or "Gaiberi," but I could be way off -->
+               </div>
+               <div type="entry" xml:id="e-936">
+                  <head><date when="1821-08-03">Friday 3rd</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--called at <orgName ref="#Bodys">the Bodys</orgName>--dear <persName ref="#Mitford_Geo">Drum</persName> returned out of <district type="county">Hampshire</district>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> called--worked at <title ref="#Foscari_MRMplay">Foscari</title></p>
+               </div>
+               <div type="entry" xml:id="e-937">
+                  <head><date when="1821-08-04">Saturday 4th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Body_Richard">Mr. Body</persName> &amp; <persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called--heard from Mr. Talfourd &amp; <persName ref="#Webb_Mary_younger">Miss Webb</persName>--<title ref="#Foscari_MRMplay">Foscari</title></p>
+               </div>
+               <div type="entry" xml:id="e-938">
+                  <head><date when="1821-08-05">Sunday 5th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+               </div>
+               <div type="entry" xml:id="e-939">
+                  <head><date when="1821-08-06">Monday 6th</date></head>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+               </div>
+               <div type="entry" xml:id="e-940">
+                  <head><date when="1821-08-07">Tuesday 7th</date></head>
+                  <p>Wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName> with <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+               </div>
             </div>
             
             
@@ -7986,7 +8011,18 @@ Publisher:	London : [publisher not identified], 1786.
               Example: 
               <note resp="#srr">Savannah's note inside a new SI entry.</note>
                -->
-               
+               <person xml:id="hjb">
+                  <persName>
+                     <surname>Bills</surname>
+                     <forename>Hadleigh</forename>
+                     <forename>Jae</forename>
+                     <roleName>Research Assistant</roleName>
+                  </persName>
+                  <note resp="#ebb">Hadleigh Jae Bills is a student at Penn State Behrend.
+                     Started working on the Mitford Jornal in October 2023 on
+                     transcription and proof-checking between the typescript and photofacsimile. 
+                     She is working towards a B.A. in Digital Media, Arts, and Technology.</note>
+               </person>
                <person xml:id="TSA"><!-- EXAMPLE. EACH OF YOU ADDS YOURS HERE. -->
                   <persName>
                      <surname>Akam</surname>
@@ -8021,14 +8057,19 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
-              <org/>
-
-
+              <org xml:id="Bodys">
+                 <orgName>the Body family</orgName>
+                 <orgName>the Bodys</orgName>
+                 <orgName><surname>Body</surname></orgName>
+                 <note resp="#TSA #ebb">Mitford mentions the Bodys as a family in her Journal of 1819 - 1823. She visits <q>the Bodys</q> and mentions <q>Mrs. Body</q>. We know that 
+                    one member of the Body family is <persName ref="#Body_Richard">Richard Body</persName>, but it is unclear the identity of the other members. The Digital Mitford project is uncertain whether there is a relationship between the <persName ref="#Body_Ann">Ann Body</persName> we identified from 1840s and 50s records and the Bodys that Mitford knew in the 1820s.
+                 </note>
+              </org>
+             
             </listOrg>
 
             <listPerson sortKey="histPersons">
-               
-               <!-- 2023-07-16 ebb: We may need a new entry for Mrs. Richard Body. She may not be the same as the Ann Body in our current SI. 
+                            <!-- 2023-07-16 ebb: We may need a new entry for Mrs. Richard Body. She may not be the same as the Ann Body in our current SI. 
                See https://github.com/DigitalMitford/DM_Journal_1819-1823/issues/70 
                -->
               
