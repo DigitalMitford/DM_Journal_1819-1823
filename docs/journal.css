@@ -375,36 +375,80 @@ ul.subSec li {
     padding-bottom: 3px
 }
 
-/* ********************************** End of Digital Mitford Site Navigation Bar**** */
+/* ****End of Digital Mitford Site Navigation Bar**** **********************/
 
-/* ******************************Start of landing page */
+/* ****Start of landing page ********************************************/
 
 body#landing {background-color:#EEE3CB;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+display: flex;
+flex-direction: column;
 }
 
+#landCont {height: 100%;
+position: relative;
+display: flex;
+flex-direction: column;
+margin: 0px 20px 0px 20px;
+
+}
+
+
 section#landTitle {
-height: 70vh;
 background-color:#EEE3CB;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+
+
 section#landTitle h1 {
     font-size: 3em;
     color: black;
     margin: 0%;
     padding: 0;
     margin: 0;
-    background-color: #EEE3CB;
 }
 
+
 #landVert {display: flex;
-    flex-direction: column;
-    height: 100%;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;}
+    align-items: center;
+    padding: 0 0px 0 10vw;
+    max-width: 600px;
+    }
+
+#landVert div p {
+    font-size: calc(.2vw + 100%);
+}
+
+.button {
+padding: 10px;
+
+border: black;
+transition-duration: 0.4s;
+}
+.button a {text-decoration: none;
+font-size: calc(.2vw + 100%);
+transition-duration: 0.4s;}
+
+.button:hover{background-color: grey;}
+.button a:hover{text-decoration: none;
+color: gold;}
+
+footer {
+background-color: grey;
+height: 150px;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: calc(.2vw + 100%);
+padding: 0 30px 0 30px;
+
+
+}
 
 
 
