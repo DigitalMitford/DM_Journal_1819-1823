@@ -55,10 +55,7 @@ div.note {
     font-size: smaller;
 }
 
-img.facs {
-    width:80%;
-    max-width:2000px;
-}
+
 figcaption {
    font-style: italic; 
 }
@@ -412,21 +409,31 @@ section#landTitle h1 {
 }
 
 
-#landVert {display: flex;
-    flex-direction: row;
+#vert {display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 0 0px 0 10vw;
-    max-width: 600px;
+    
     }
+    #r1, #r2 {margin: 20px 0 0 0;
+    display: flex;
+    flex-direction: row;}
 
-#landVert div p {
+#r1, #r2 p {
     font-size: calc(.2vw + 100%);
+    text-align: justify;
 }
+#r2 p{max-width: 50%;}
+
+
+blockquote {text-align: justify;
+border-style: dotted;
+padding: 3px;
+height: 100%;
+margin: 20px  0px 20px 20px;}
 
 .button {
 padding: 10px;
-
 border: black;
 transition-duration: 0.4s;
 }
@@ -448,6 +455,17 @@ font-size: calc(.2vw + 100%);
 padding: 0 30px 0 30px;
 
 
+}
+.noMarg {margin: 20px 0 20px 20px;
+height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+img.facs {
+
+    width:90%;
+    max-width:2000px;
 }
 
 
