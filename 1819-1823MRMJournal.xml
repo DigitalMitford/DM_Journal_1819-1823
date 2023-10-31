@@ -9361,17 +9361,18 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-935">
                   <head><date when="1821-08-02">Thursday 2nd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
-                        ref="#Body_Richard">Mr. Body</persName> called -- <persName>Mrs.
-                        Raggnett</persName> &amp; <unclear><persName>Mrs. James G</persName>
-                        [?]</unclear> drank tea with us.</p>
-                  <!-- 2023-10-24 hjb: To me, it does not look like she wrote James G. The closest I can deciper is the G part possibly saying "Gatberii" or "Gaiberi," but I could be way off -->
+                        ref="#Body_Richard">Mr. Body</persName> called--<persName ref="#Raggett_Mrs">Mrs.
+                           Raggett</persName> &amp; <persName>Mrs. J<unclear unit="char" quantity="4"><gap reason="illegible"></gap></unclear> G<unclear unit="char" quantity="6"><gap reason="illegible"></gap></unclear></persName>
+                        [?] drank tea with us.</p>
+                  <!-- 2023-10-24 hjb: To me, it does not look like she wrote James G. The closest I can deciper is the G part possibly saying "Gatberii" or "Gaiberi," but I could be way off
+       
+                  --><!--2023-10-31 ebb and tsa: We agree, the typescript isn't representing what's here, but we can't it either! So here's how tag such passages.-->
                </div>
                <div type="entry" xml:id="e-936">
                   <head><date when="1821-08-03">Friday 3rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--called at <orgName
                         ref="#Bodys">the Bodys</orgName>--dear <persName ref="#Mitford_Geo"
-                        >Drum</persName> returned out of <district type="county"
-                        >Hampshire</district>--<persName ref="#Crowther_Mr">Mr. Crowther</persName>
+                        >Drum</persName> returned out of <placeName ref="#Hampshire_county">Hampshire</placeName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName>
                      called--worked at <title ref="#Foscari_MRMplay">Foscari</title></p>
                </div>
                <div type="entry" xml:id="e-937">
@@ -9507,27 +9508,33 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-966">
                   <head><date when="1821-09-02">Sunday 2nd</date></head>
-                  <p>At home -- Mr. Crowther called -- Heard from Mrs. Jolliffe -- wrote to Miss
+                  <p>At home--Mr. Crowther called--Heard from Mrs. Jolliffe--wrote to Miss
                      James.</p>
                </div>
                <div type="entry" xml:id="e-967">
                   <head><date when="1821-09-03">Monday 3rd</date></head>
-                  <p>At home -- worked at a prose article.</p>
+                  <p>At home--worked at a prose article.</p>
                </div>
                <div type="entry" xml:id="e-968">
                   <head><date when="1821-09-04">Tuesday 4th</date></head>
-                  <p>Went to Reading -- called at the Valpys &amp;c. -- pleasant morning -- home to
+                  <p>Went to Reading--called at the Valpys &amp;c.--pleasant morning--home to
                      dinner.</p>
                </div>
                <div type="entry" xml:id="e-969">
                   <head><date when="1821-09-05">Wednesday 5th</date></head>
-                  <p>At home -- Mr. Crowther &amp; Miss Jephsojn called while we were out -- wrote
-                     to Mr. Crowther.</p>
+                  <p>At home--Mr. Crowther &amp; <persName>Miss Jephson</persName> called while we were out -- wrote
+                     to Mr. Crowther.<!--2023-10-31 ebb: We're not sure, but I think this could be the Emily Jephson in our site index. The only 
+                     issue is that we didn't know they knew each other until records of their writing letters to each other starting in 1829.--></p>
                </div>
                <!-- nlh 2023-10-30:  the next 5 entries have [sic] next to their dates. what does it mean? -->
+               <!-- 2023-10-31 ebb and tsa: We checked a perpetual calendar online and saw that she mistook the days of the week. So 
+               either she's writing on a Wed. 9/5 or a Thursday 9/6, but we can't be sure. Sometimes later on, MRM will comment that she's been 
+               in a "mistake" about the days of the week. I think it's appropriate to tag these with the ISO dates based on the number rather than weekday for now, 
+               until we learn otherwise. -->
                <div type="entry" xml:id="e-970">
                   <head><date when="1821-09-06">Wednesday 6th</date></head>
-                  <p>At home -- heard from Mr. Crowther -- dear Granny went to Odiam for a few days
+                  <p>At home -- heard from Mr. Crowther -- dear Granny went to <placeName>Odiam</placeName><!-- 2023-10-31 ebb tsa: We think this is probably Odiham in Hamsphire (and
+                     MRM is spelling it based on pronunciation. but we need to write a new SI entry for this (not mentioned in our SI yet). --> for a few days
                      -- Miss Jephson spent the morning here, a very charming young woman from Mr.
                      Crowther's.</p>
                </div>
