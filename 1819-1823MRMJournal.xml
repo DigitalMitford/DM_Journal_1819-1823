@@ -160,15 +160,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </p>
          </div>
          <div type="title">
-            <head>MARY RUSSELL MITFORD<lb/> Transcript of notebook of Mary Russell Mitford<lb/>
+            <head><persName >MARY RUSSELL MITFORD</persName><lb/> Transcript of notebook of <persName>Mary Russell Mitford</persName><lb/>
                contained in the British Museum (P 24834 : C.60.b.7.)</head>
             <p>The note-book has a printed title page <q>The Literary Pocket-Book; or, Companion for
                   the lover of Nature &amp; Art, 1819</q>. The size of the notebook is 13 x 8
                cm.</p>
-            <p>Miss Mitford's notes begin on 1 January 1819 and end 11 March 1823.</p>
+            <p><persName>Miss Mitford's</persName> notes begin on 1 January 1819 and end 11 March 1823.</p>
             <p>The transcript of which this is a copy is in the possession of the Public Library,
-               Reading, Berks, England. A photostat copy of the MS is also available at that
-               library. Copyright presumably rests with the British Museum.</p>
+               <placeName>Reading, Berks, England</placeName>. A photostat copy of the MS is also available at that
+               library. Copyright presumably rests with the <placeName>British Museum</placeName>.</p>
             <p><emph rend="underline">July 1955</emph>.</p>
 
             <pb n="iv"/>
