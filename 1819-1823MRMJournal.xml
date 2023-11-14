@@ -5423,7 +5423,7 @@ Publisher:	London : [publisher not identified], 1786.
                         >Drum</persName>, <persName ref="#Hill_Lucy">Lucy</persName> &amp; the
                      pets--went likewise to <placeName ref="#BurghfieldBr">Burghfield</placeName>
                      &amp; got some <name ref="#tulip">field Tulip</name>s--met <persName
-                        ref="#Liebensrood_Mr">Mr. Liebenrood</persName> &amp; <persName
+                        ref="#Liebensrood">Mr. Liebenrood</persName> &amp; <persName
                         ref="#Liebensrood_son">his son</persName>--<persName ref="#Body_Richard">Mr.
                         Body</persName> called--heard from <persName ref="#Haydon">Mr.
                         Haydon</persName>--wrote to <persName ref="#Webb_Eliza">Eliza
@@ -9401,7 +9401,7 @@ Publisher:	London : [publisher not identified], 1786.
                <!-- ham: i started here on october 27, 2023; this time i am NOT doing the tagging-->
                <div type="entry" xml:id="e-941">
                   <head><date when="1821-08-08">Wednesday 8th</date></head>
-                  <p>Heard of the Queen's death.</p>
+                  <p>Heard of the <persName ref="#Queen_Caroline">Queen</persName>'s death.</p>
                </div>
                <div type="entry" xml:id="e-942">
                   <head><date when="1821-08-09">Thursday 9th</date></head>
@@ -9409,11 +9409,11 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-943">
                   <head><date when="1821-08-10">Friday 10th</date></head>
-                  <p>At home--Mr. Body called--wrote prose.</p>
+                  <p>At home--<persName ref="#Body_Richard">Mr. Body</persName> called--wrote prose.</p>
                </div>
                <div type="entry" xml:id="e-944">
                   <head><date when="1821-08-11">Saturday 11th</date></head>
-                  <p>At home--heard from Mr. Dickinson.</p>
+                  <p>At home--heard from <persName ref="#Dickinson_Charles">Mr. Dickinson</persName>.</p>
                </div>
                <div type="entry" xml:id="e-945">
                   <head><date when="1821-08-12">Sunday 12th</date></head>
@@ -9421,12 +9421,12 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-946">
                   <head><date when="1821-08-13">Monday 13th</date></head>
-                  <p>At home--took out oor Molly's <unclear/> great deal of her pretty coat, poor
+                  <p>At home--took out oor <persName ref="#Molly_pet">Molly</persName>'s <unclear/> great deal of her pretty coat, poor
                      dear lamb.</p>
                </div>
                <div type="entry" xml:id="e-947">
                   <head><date when="1821-08-14">Tuesday 14th</date></head>
-                  <p>Wrote to Miss James.</p>
+                  <p>Wrote to <persName ref="#James_Miss">Miss James</persName>.</p>
                   <!--  2023-11-01 hjb: Is this possibly the Miss James originally referenced in e-935 August 2nd?-->
                </div>
                <div type="entry" xml:id="e-948">
@@ -9444,7 +9444,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-951">
                   <head><date when="1821-08-18">Saturday 18th</date></head>
-                  <p>At home--read Valerius--worked at prose.</p>
+                  <p>At home--read <title ref="#Valerius_novel">Valerius</title>--worked at prose.</p>
                </div>
                <div type="entry" xml:id="e-952">
                   <head><date when="1821-08-19">Sunday 19th</date></head>
@@ -9460,7 +9460,9 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-955">
                   <head><date when="1821-08-22">Wednesay 22nd</date></head>
-                  <p>At home--rode out with dear Drum to Thomas Ayres's--charming ride.</p>
+                  <p>At home--rode out with dear Drum to <persName>Thomas Ayres</persName>'s--charming ride.</p>
+                  <!-- 2023-11-14 ebb: He seems to be new, not mentioned in the SI. We can try starting a new SI entry and see if we can 
+                  find out who he might be by checking with Dr. Wilson. -->
                </div>
                <div type="entry" xml:id="e-956">
                   <head><date when="1821-08-23">Thursday 23rd</date></head>
@@ -9524,7 +9526,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-969">
                   <head><date when="1821-09-05">Wednesday 5th</date></head>
-                  <p>At home--Mr. Crowther &amp; <persName>Miss Jephson</persName> called while we were out--wrote
+                  <p>At home--Mr. Crowther &amp; <persName ref="#Jephson_Em" cert="low">Miss Jephson</persName> called while we were out--wrote
                      to Mr. Crowther.<!--2023-10-31 ebb: We're not sure, but I think this could be the Emily Jephson in our site index. The only 
                      issue is that we didn't know they knew each other until records of their writing letters to each other starting in 1829.--></p>
                </div>
@@ -9758,6 +9760,26 @@ Publisher:	London : [publisher not identified], 1786.
                      <!--  2023-09-26 ebb: We determined that the Rowarth spelling is used by MRM and some genealogy sites like https://www.geni.com/people/Mary-Rowarth/6000000052226773893 .
                      But we also found her husband's gravestone of 1842 (listing Mary Ann Catherine Valpy as spouse, and the spelling carved on the stone is definitely Roworth: 
                      https://www.findagrave.com/memorial/237191669/thomas-roworth-->
+                  </note>
+               </person>
+               
+               <person xml:id="Jephson_Em" sex="f">
+                  <persName>Emily Jephson</persName>
+                  <persName>
+                     <surname>Jephson</surname>
+                     <forename>Emily</forename>
+                     <forename>Esther</forename>
+                  </persName>
+                  <birth notAfter="1802">
+                     <placeName>Ireland</placeName>
+                  </birth>
+                  <death when="1861-12-05">
+                     <placeName>Castlemartyr, Cork, Ireland</placeName>
+                  </death>
+                  <note resp="#lmw">A friend and correspondent of <persName ref="#MRM">Mary Russell Mitford</persName>
+                     <date from="1829" to="1855">between 1829 and 1855</date>. Mitford wrote to her at Castle Martyr, Ireland, and at No. 1 Charles Street, <placeName ref="#Twickenham">Twickenham</placeName>. Grandniece of playwright Robert Jephson.  
+                     <!-- 2023-11-14 ebb with tsa and srr: We're thinking this is PROBABLY the same Miss Jephson mentioned repeatedly in 
+                     this journal starting in 1821, but we're not sure! If it is, we should add to this entry and alter the date of the beginning of their friendship from 1829to 1821!-->
                   </note>
                </person>
 
