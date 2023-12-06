@@ -29,17 +29,16 @@
         <html>
             <head>
                 <title>Exploring Mitford's Journal and Site Index</title>
+                <link rel="stylesheet" type="text/css" href="style.css"/> 
                 <!-- add a <link> to pull in some CSS here. for example:
                  <link rel="stylesheet" type="text/css" href="../journal.css"/>
                 -->
             </head>
             <body>
+                
                 <h1>Exploring Mitford's Journal mentions with the Project Site Index</h1>
-                
-                <!-- ebb: Let's try exploring place names, just in the <body> element of the hournal that 
-                    stores all the entries. Let's grab the @ref attributes from these entries.
-                because the back portion will encoding them in new SI entries-->
-                
+
+                <div class="journalIndex">                
                 <table>
                     <tr>
                         <th>Places coded with @ref</th>
@@ -74,7 +73,10 @@
                    
                </xsl:for-each>
                 </table>
+            </div>                
+            <div class="journalViewer">
                 
+            </div>
             </body> 
         </html>
 
