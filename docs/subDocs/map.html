@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Mitford Map</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+        <style>
+        #map {
+            height: 500px;
+        }
+    </style>
+    </head>
+    <body>
+        
+        <div id="map"></div>
+        
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        
+        <script>
+    var map = L.map('map').setView([51.509865, -0.118092], 5); // Centered at London, England
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&amp;copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Use an AJAX request to load the GeoJSON file
+    fetch('mapData.geojson')
+        .then(response => response.json())
+        .then(geoJsonData => {
+            console.log('GeoJSON Data:', geoJsonData); // Log GeoJSON data for debugging
+
+            // Iterate through features and create circles using L.circle
+            geoJsonData.features.forEach(feature => {
+                var coordinates = feature.geometry.coordinates; 
+                var count = feature.properties.count;
+
+                // Create a circle with radius based on the "count" value
+                var circle = L.circleMarker(coordinates, {
+                    radius: count * 2, // Adjust the multiplier based on the desired scale
+                    color: 'blue', // Circle color
+                    fillOpacity: 0.5 // Opacity of the fill
+                }).addTo(map);
+
+                // Add a popup with information
+                circle.bindPopup(`Place: ${feature.properties.placeName}<br/>Count: ${count}`);
+            });
+        });
+</script>
+        
+        
+    </body>
+</html>
