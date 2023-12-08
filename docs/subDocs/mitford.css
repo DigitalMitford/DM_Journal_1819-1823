@@ -1,0 +1,173 @@
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Title Box */
+
+.title {
+ 	max-width: 100%;
+  	padding: 10px;
+  	justify-content: center;
+  	align-items: center;
+  	text-align: center;
+    border-style: solid;
+}
+
+.title h1 {
+	font-size: 55px;
+    padding: 5px;
+}
+
+.title h2 {
+	font-size: 30px;
+    padding: 5px;
+}
+
+.title h3 {
+	font-size: 25px;
+    padding: 5px;
+}
+
+/* Navigation */
+
+nav {
+	display: block;
+    background-color: indigo;
+    width: 100%;
+    font-size: 16px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: indigo;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+  background-color: black;
+}
+
+.active {
+  background-color: black;
+}
+
+.siteTitle {
+    display: block;
+    border: 2px solid black;
+    max-width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.notebook {
+	padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.yearSection {
+	padding: 5px;
+    margin: 5px;
+    border: 1px solid blue;
+}
+
+.yearSection h1 {
+	font-size: 35px;
+    text-align: center;
+}
+
+.month {
+	font-size: 30px;
+    border: 1px solid green;
+}
+
+.month h1 {
+	font-size: 25px;
+}
+
+.entry {
+	padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+	border: 1px solid purple;
+}
+
+.entry h1 {
+	font-size: 20px;
+    text-align: left;
+}
+
+.entry p {
+	font-size: 15px;
+}
+
+.placeName {
+	color: green;
+}
+
+.persName {
+	color: blue
+}
+
+.title {
+	font-style: italic;
+}
+
+.orgName {
+	color: purple;
+}
+
+.unclear {
+	color: red;
+}
+
+table { 
+	margin-top: 5px;
+	border-collapse: collapse; 
+   	width: 100%;
+	border: 2px solid black;
+}
+
+tr {
+	border-collapse: collapse; 
+    border: 0
+}
+
+th {
+	border-collapse: collapse;
+	border: 1px solid  #000066;
+	background-color: #bad7e6 /*#7E967E*/;
+	padding: 1px;
+	vertical-align:top;
+}
+
+td { 
+	border-collapse: collapse;
+	border: 1px solid #000066;
+	padding: 7px;
+	vertical-align:top;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-position: inside;
+}
