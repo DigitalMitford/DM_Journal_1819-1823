@@ -52,14 +52,12 @@
                 <div class="journalViewer">
                     <div id="map" style="width: 100%; height: 100%;"></div>
                     <script>
-                        
-                        const map = L.map('map').setView([51.505, -0.09], 13);
+                        var map = L.map('map').setView([51.505, -0.09], 13);
                         
                         const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        
                     </script>
                 </div>
             </body> 
