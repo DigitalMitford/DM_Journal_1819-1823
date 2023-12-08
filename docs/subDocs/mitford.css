@@ -6,7 +6,7 @@
 
 /* Title Box */
 
-.title {
+.webtitle {
  	max-width: 100%;
   	padding: 10px;
   	justify-content: center;
@@ -15,17 +15,17 @@
     border-style: solid;
 }
 
-.title h1 {
+.webtitle h1 {
 	font-size: 55px;
     padding: 5px;
 }
 
-.title h2 {
+.webtitle h2 {
 	font-size: 30px;
     padding: 5px;
 }
 
-.title h3 {
+.webtitle h3 {
 	font-size: 25px;
     padding: 5px;
 }
