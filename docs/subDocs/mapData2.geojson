@@ -1,0 +1,3081 @@
+
+        {
+        "type": "FeatureCollection",
+        "features": [
+        
+        
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.67078,-1.2879528999999366]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Abingdon",
+                "placeName": "Abingdon, Berkshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [43,15]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Adriatic_Sea",
+                "placeName": "Adriatic Sea",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.0856236,-1.1655574999999772]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Alresford_Hamps",
+                "placeName": "New Alresford, Hampshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.217778,4.400278]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Antwerp_city",
+                "placeName": "Antwerp, Belgium",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [52.01970499999999,0.22404600000004393]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Audley_End",
+                "placeName": "Audley End, Essex, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [47.333333,13.333333]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Austria",
+                "placeName": "Austria",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [39.283333,-76.616667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Baltimore",
+                "placeName": "Baltimore, Maryland, USA",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.519167,-0.093889]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Barbican",
+                "placeName": "",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4976695,-0.12778800000000956]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Barton_street",
+                "placeName": "Barton Street, Westminster, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.2667,-1.0876]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Basingstoke",
+                "placeName": "Basingstoke, Hampshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3191,-1.09]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Beaurepaire",
+                "placeName": "Beaurepaire House South East",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4669939,-1.185367700000029]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Berkshire",
+                "placeName": "Berkshire, England",
+                
+                "count": 18
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [52.516667,13.383333]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Berlin",
+                "placeName": "Berlin, Germany",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                []
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Bertram_house",
+                "placeName": "Bertram House, Berkshire, England",
+                
+                "count": 40
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.163534,-3.506621999999993]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Bickham_village",
+                "placeName": "Bickham, Somerset, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4438638,-0.8182454000000234]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "BillingbearPk",
+                "placeName": "Billingbear Park, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [1.5126,-0.1448]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Bond_Street",
+                "placeName": "Bond Street",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [42.3600825,-71.05888010000001]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Boston",
+                "placeName": "Boston, Massachusetts, USA",
+                
+                "count": 8
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [-1.0613,51.329]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Bramley_vil",
+                "placeName": "Bramley, Hampshire, England",
+                
+                "count": 5
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [45.541667,10.216667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Brescia",
+                "placeName": "Brescia, Lombardy, Italy",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.82253000000001,-0.13716299999998682]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Brighton",
+                "placeName": "Brighton, East Sussex, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.85,4.35]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Brussels",
+                "placeName": "Brussels, Belgium",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.429997,-1.023278]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "BurghfieldBr",
+                "placeName": "Burghfield Bridge",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [52.642393,-0.452585]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Burghley_House",
+                "placeName": "Burghley House, Cambridgeshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [52.205337,0.12181699999996454]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Cambridge_city",
+                "placeName": "Cambridge, Cambridgeshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5073,-0.12755000000004202]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Charing_Cross",
+                "placeName": "Charing Cross, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [41.836944,-87.684722]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Chicago",
+                "placeName": "Chicago, Illinois, USA",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [39.1031182,-84.51201960000003]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Cincinnati",
+                "placeName": "Cincinnati, Ohio, USA",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5129211,-0.12219759999993585]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Covent_Garden_Theatre",
+                "placeName": "Theatre Royal, Covent Garden, London, England",
+                
+                "count": 54
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.7155591,-3.5308750000000373]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Devonshire",
+                "placeName": "Devonshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.716667,-3.716667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Devonshire_county",
+                "placeName": "Devonshire",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5128536,-0.12037150000003294]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Drury_Lane_Theatre",
+                "placeName": "Theatre Royal, Drury Lane, London, England",
+                
+                "count": 56
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [53.3498053,-6.260309699999993]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Dublin",
+                "placeName": "Dublin, Leinster, Ireland",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [55.953252,-3.188266999999996]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Edinburgh",
+                "placeName": "Edinburgh, Lothian, Scotland",
+                
+                "count": 46
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.507166523558354,-0.1427873969078064]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "EgyptianHall",
+                "placeName": "Egyptian Hall, Piccadilly, London, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.51292076052162,-0.11087179183959961]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Elm_Court",
+                "placeName": "Elm Court, Temple, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [52.3555177,-1.1743197000000691]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "England",
+                "placeName": "England",
+                
+                "count": 25
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.7659078,0.667366500000071]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Essex_county",
+                "placeName": "Essex, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.51347939975846,-0.0857698857025396]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Exchange_Alley",
+                "placeName": "Exchange Alley, London, London, England",
+                
+                "count": 5
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.37339900000001,-0.9209210000000212]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Farley_Hill",
+                "placeName": "Farley Hill, Berkshire, England",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.363928,-0.840805]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "FinchamsteadRidges",
+                "placeName": "Finchamstead Ridges, Berkshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.25,5.666667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Forest_of_Ardennes",
+                "placeName": "Forest of Ardennes",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [46.227638,2.213749000000007]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "France",
+                "placeName": "France",
+                
+                "count": 9
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                []
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Gallows_piece",
+                "placeName": "Gallows Piece, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.165691,10.451526000000058]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Germany",
+                "placeName": "Germany",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [55.864237,-4.251805999999988]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Glasgow",
+                "placeName": "Glasgow, Lanarkshire, Scotland",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.39478010000001,-0.9979935000000069]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Grazeley_village",
+                "placeName": "Grazeley, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [39,22]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Greece",
+                "placeName": "Greece",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.515819,-0.09198200000002998]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Guildhall_London",
+                "placeName": "Guildhall, City of London, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.05769480000001,-1.3080628999999817]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Hampshire_county",
+                "placeName": "Hampshire, England",
+                
+                "count": 7
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5556461,-0.17617489999997815]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Hampstead",
+                "placeName": "Hampstead, Camden, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [53.168791,-1.3087262000000237]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Hardwick_Hall",
+                "placeName": "Hardwick Hall, Derbyshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.50850639999999,-0.13155540000002475]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Haymarket_Theatre",
+                "placeName": "Theatre Royal Haymarket, Westminster, London, England",
+                
+                "count": 11
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.80978229999999,-0.2376744000000599]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Hertfordshire_county",
+                "placeName": "Hertfordshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5172619,-0.11847569999997631]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Holborn",
+                "placeName": "Holborn, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5027175,-0.20237580000002708]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "HollandHouse",
+                "placeName": "Holland House, Kensington, London, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [20.593684,78.96288000000004]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "India",
+                "placeName": "India",
+                
+                "count": 6
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [53.1423672,-7.692053600000008]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Ireland",
+                "placeName": "Ireland",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.69384789999999,-1.3047340000000531]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Isle_of_Wight",
+                "placeName": "Isle of Wight, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [41.87194,12.567379999999957]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Italy",
+                "placeName": "Italy",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5010095,-0.1932793999999376]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Kensington",
+                "placeName": "Kensington, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [37.8393332,-84.27001789999997]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Kentucky",
+                "placeName": "Kentucky, USA",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5247788,-0.16831469999999626]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Lisson_Grove",
+                "placeName": "Lisson Grove, Westminster, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.50169,-0.880001]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Loddon",
+                "placeName": "River Loddon",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.51347939975846,-0.0857698857025396]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "London_Stock_Exchange",
+                "placeName": "London Stock Exchange, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5073509,-0.12775829999998223]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "London_city",
+                "placeName": "London, England",
+                
+                "count": 736
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.7522849,-1.2470926999999392]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Magdalen_Coll",
+                "placeName": "Magdalen College, Oxford University, Oxford, Oxfordshire,England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5719443,-0.7769422000000077]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Marlow",
+                "placeName": "Marlow, Buckinghamshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [23.634501,-102.55278399999997]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Mexico",
+                "placeName": "Mexico",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [45.466944,9.19]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Milan",
+                "placeName": "Milan, Lombardy, Italy",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3770005,-1.0629936999999927]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Mortimer_Comm",
+                "placeName": "Mortimer Common, Berkshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                []
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Mortimer_village",
+                "placeName": "Mortimer, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [40.8517746,14.268124400000033]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Naples",
+                "placeName": "Naples, Italy",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [40.7127837,-74.00594130000002]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "New_York_city",
+                "placeName": "New York City, New York, USA",
+                
+                "count": 35
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.7566341,-1.2547036999999364]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Oxford_Univ",
+                "placeName": "University of Oxford, Oxford, Oxfordshire, England",
+                
+                "count": 5
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.7520209,-1.2577263000000585]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Oxford_city",
+                "placeName": "Oxford, Oxfordshire, England",
+                
+                "count": 6
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [1.346552,-1.116927]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Pamber_forest",
+                "placeName": "Pamber Forest, Hampshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [48.85661400000001,2.3522219000000177]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Paris",
+                "placeName": "Paris, France",
+                
+                "count": 5
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [39.9525839,-75.16522150000003]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Philadelphia",
+                "placeName": "Philadelphia, Pennsylvania, USA",
+                
+                "count": 10
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.3754565,-4.14265649999993]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Plymouth_city",
+                "placeName": "Plymouth, Devonshire, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4486089,-0.9542480999999725]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Reading_School",
+                "placeName": "Reading School, Reading, Berkshire, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4542645,-0.9781302999999753]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Reading_city",
+                "placeName": "Reading, Berkshire, England",
+                
+                "count": 90
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5312705,-0.15696939999997994]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Regents_Park",
+                "placeName": "Regent’s Park, London, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [41.9027835,12.496365500000024]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Rome",
+                "placeName": "Rome, Italy",
+                
+                "count": 10
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                []
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "S_city_OV",
+                "placeName": "",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [44.3425496,8.42938909999998]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Savona",
+                "placeName": "Savona, Italy",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [55.85,,-4.266667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Scotland",
+                "placeName": "Scotland",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [49.433889,0.206667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Seine_river",
+                "placeName": "Seine River, France",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.505278,-0.169444]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Serpentine",
+                "placeName": "The Serpentine",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.58117069999999,-0.7832693999999947]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "SeymourCt",
+                "placeName": "Seymour Court, Buckinghamshire, England",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [53.3843613,-1.4639856000000009]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Sheffield_Castle",
+                "placeName": "Sheffield Castle and Manor Lodge",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4083203,-0.9478325999999697]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Shinfield",
+                "placeName": "Shinfield, Berkshire, England",
+                
+                "count": 14
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.408,-0.947]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Shinfield_parish",
+                "placeName": "Shinfield parish",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3538459,-1.1005384999999706]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Silchester",
+                "placeName": "Silchester, Hampshire, England",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.357222,-1.0825]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "SilchesterAmphitheatre",
+                "placeName": "Silchester Amphitheatre, Silchester, Hampshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.511059,-0.11714800000004288]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Somerset_House",
+                "placeName": "Somerset House, Strand, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [40,-4]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Spain",
+                "placeName": "Spain",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3944,-0.9722]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Spencers_Wood",
+                "placeName": "Spencers Wood, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [-3.15,129.383333]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Spice_Islands",
+                "placeName": "Spice Islands, Indonesia",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.497205,-0.16063770000005206]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "StQuintin_School",
+                "placeName": "St. Quintin School, 22 Hans Place, Chelsea, London,England",
+                
+                "count": 5
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3259,-1.0759]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "St_James_Church_Bram",
+                "placeName": "Church of St. James, Bramley, Hampshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.3259,-1.0759]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "St_JohnsWood",
+                "placeName": "St. John's Wood, Westminster, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4563856,-0.9693580000000566]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "St_Lawrence_Church",
+                "placeName": "St. Lawrence Church, Reading, Berkshire, England",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.348916,-0.995947000000001]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Stratfield_Saye",
+                "placeName": "Stratfield Saye, Hampshire, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.383781,-0.948717]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Swallowfield_Park",
+                "placeName": "Swallowfield Park",
+                
+                "count": 7
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.378,-0.959]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Swallowfield_village",
+                "placeName": "Swallowfield, Berkshire, England",
+                
+                "count": 8
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [46.95,,7.45]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Switzerland",
+                "placeName": "Switzerland",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5123032,-0.1110459000000219]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Temple",
+                "placeName": "Temple, London, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5855735,-0.6160753000000341]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Thames",
+                "placeName": "River Thames, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4047211,-0.9734518999999864]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "ThreeMileCross",
+                "placeName": "Three Mile Cross, Berkshire, England",
+                
+                "count": 28
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.50811239999999,-0.07594930000004751]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Tower_of_London",
+                "placeName": "Tower of London, London, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.44458100000001,-0.3352459999999837]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Twickenham",
+                "placeName": "Twickenham, Richmond upon Thames, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [37.09024,-95.71289100000001]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "USA",
+                "placeName": "United States of America",
+                
+                "count": 7
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [46.670556,-1.426667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Vendee",
+                "placeName": "Vendee",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [45.4375,12.335833]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Venice",
+                "placeName": "Venice, Italy",
+                
+                "count": 9
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5022,-0.1096]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Vict_Theatre",
+                "placeName": "Royal Victoria Theatre, London, England",
+                
+                "count": 29
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.483333,-3.183333]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Wales",
+                "placeName": "Wales",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [50.71469,4.399099999999976]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Waterloo_Belgium",
+                "placeName": "Waterloo, Walloon Brabant, Belgium",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.584,-1.388]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Watlington",
+                "placeName": "Watlington",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4992921,-0.12730970000006891]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Westminster_Abbey",
+                "placeName": "Westminster Abbey, Westminster, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4994794,-0.12480919999995876]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Westmnst_Palace",
+                "placeName": "Palace of Westminster, Westminster, London, England",
+                
+                "count": 3
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5001754,-0.1332326000000421]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Westmnstr",
+                "placeName": "City of Westminster, London, England",
+                
+                "count": 4
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.5045858,-0.12600050000003193]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Whitehall_Palace",
+                "placeName": "Whitehall Palace, Westminster, London, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.440426,-0.9427994999999783]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Whiteknights",
+                "placeName": "Whiteknights, Berkshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.333333,-1.916667]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Wiltshire_county",
+                "placeName": "Wiltshire, England",
+                
+                "count": 1
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.4817279,-0.6135759999999664]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Windsor_city",
+                "placeName": "Windsor, Berkshire, England",
+                
+                "count": 2
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                []
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Wokefield_Park",
+                "placeName": "Wokefield Park",
+                
+                "count": 6
+                }
+                }
+                
+                ,
+                {
+                "type": "Feature",
+                "geometry": {
+                "type": "Point",
+                
+                "coordinates": 
+                
+                
+                [51.410457,-0.8338610000000699]
+                
+                
+                
+                 
+                },
+                "properties": {
+                
+                "xml-id": "Wokingham_city",
+                "placeName": "Wokingham, Berkshire, England",
+                
+                "count": 15
+                }
+                }
+                
+        
+        ]
+        }
+    
