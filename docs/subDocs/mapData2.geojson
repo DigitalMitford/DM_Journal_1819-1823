@@ -695,7 +695,7 @@
                 {
                 "id": "Scotland",
                 "properties": {
-                    "coordinates": [55.85,,-4.266667],
+                    "coordinates": [55.85,-4.266667],
                     "placeName": "Scotland",
                     "count": 2
                     }
@@ -855,7 +855,7 @@
                 {
                 "id": "Switzerland",
                 "properties": {
-                    "coordinates": [46.95,,7.45],
+                    "coordinates": [46.95,7.45],
                     "placeName": "Switzerland",
                     "count": 1
                     }
