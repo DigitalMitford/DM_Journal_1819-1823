@@ -96,6 +96,38 @@
 background-color: black;
 }
 
+footer {
+  display: flex;
+  width: 100%;
+  padding: 3px;
+  bottom: 0;
+  background-color: indigo;
+  color: BurlyWood;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+	color: red;
+}
+
+.footer-column {
+  float: left;
+  padding: 10px;
+}
+
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .footer-column.side, .footer-column.middle {
+    width: 100%;
+  }
+}
+
 .siteTitle {
     display: block;
     border: 2px solid black;
