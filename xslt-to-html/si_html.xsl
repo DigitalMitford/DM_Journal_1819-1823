@@ -21,7 +21,6 @@
                 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
                     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                     crossorigin=""></script>
-                <script src="script.js"></script>
             </head>
             <body>
                 <h1>Exploring Mitford's Journal mentions with the Project Site Index</h1>
@@ -51,18 +50,10 @@
                 </div>
                 <div class="journalViewer">
                     <div id="map" style="width: 100%; height: 100%;"></div>
-                    <script>
-                        var map = L.map('map').setView([51.505, -0.09], 13);
-                        
-                        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                        maxZoom: 19,
-                        attribution: '<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-                        }).addTo(map);
-                    </script>
+                    <script src="script.js"></script>
                 </div>
             </body> 
         </html>
-
     </xsl:template>
     
     
