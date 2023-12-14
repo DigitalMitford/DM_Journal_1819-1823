@@ -16,9 +16,10 @@
     
     
     <xsl:template match="/">
-        <xsl:variable name="places" as="xs:string+" select="//placeName/@ref ! substring-after(., '#') ! normalize-space() => distinct-values() => sort()"/>
-        
         <xsl:variable name="journal" as="document-node()" select="."/>
+        <xsl:variable name="places" as="xs:string+" select=".//placeName/@ref ! substring-after(., '#') ! normalize-space() => distinct-values() => sort()"/>
+        
+        
         {
         "type": "FeatureCollection",
         "features": [
@@ -29,11 +30,11 @@
                 {
                 "id": "<xsl:value-of select="$treeWalker/@xml:id"/>",
                 "properties": {
-                    "coordinates": [<xsl:value-of select="$treeWalker//geo ! normalize-space() ! tokenize(., '\s+') => string-join(',')"/>],
+                    "coordinates": [<xsl:value-of select="$treeWalker//geo ! normalize-space() ! tokenize(., '[, ]+') => string-join(',')"/>],
                     "placeName": "<xsl:value-of select="$treeWalker/placeName[1] ! normalize-space()"/>",
                     "count": <xsl:value-of select="$journal//*[@ref ! substring-after(., '#') ! normalize-space() = current()] => count()"/>
                     }
-                }<xsl:if test="current() ! position() != last()">,</xsl:if>
+                }<xsl:if test="position() ne last()">,</xsl:if>
             </xsl:if>
         </xsl:for-each>
         
