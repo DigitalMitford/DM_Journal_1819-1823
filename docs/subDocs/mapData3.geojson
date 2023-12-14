@@ -1,860 +1,371 @@
 
+        
+        
         {
         "type": "FeatureCollection",
         "features": [
         
         
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.0856236,-1.1655574999999772]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "New Alresford, Hampshire, England",
-            
-            "count": 5
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4562,-0.967]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Assize Hall, Reading, Berkshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4532774,-0.9733182]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "The Bear Inn, Reading, Berkshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4669939,-1.185367700000029]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Berkshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                []
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Bertram House, Berkshire, England",
-            
-            "count": 499
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4438638,-0.8182454000000234]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Billingbear Park, Berkshire, England",
-            
-            "count": 2
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.429997,-1.023278]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Burghfield Bridge",
-            
-            "count": 2
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4432268,-0.9902848000000404]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Coley Park, Berkshire, England",
-            
-            "count": 9
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.5128536,-0.12037150000003294]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Theatre Royal, Drury Lane, London, England",
-            
-            "count": 2
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [52.3555177,-1.1743197000000691]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [50.62,-3.413]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Exmouth, Devon, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.37339900000001,-0.9209210000000212]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Farley Hill, Berkshire, England",
-            
-            "count": 31
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.05769480000001,-1.3080628999999817]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Hampshire, England",
-            
-            "count": 7
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [50.69384789999999,-1.3047340000000531]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Isle of Wight, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.584,-1.388]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Lockinge",
-            
-            "count": 3
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.5073509,-0.12775829999998223]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "London, England",
-            
-            "count": 35
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.5719443,-0.7769422000000077]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Marlow, Buckinghamshire, England",
-            
-            "count": 4
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.3770005,-1.0629936999999927]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Mortimer Common, Berkshire, England",
-            
-            "count": 4
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.2439,-1.2615]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Overton",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.424640,-1.006622]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Pinge Wood",
-            
-            "count": 11
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.45695,-0.97005]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Reading Town Hall",
-            
-            "count": 2
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4542645,-0.9781302999999753]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Reading, Berkshire, England",
-            
-            "count": 92
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.46131099999999,-0.3037420000000566]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Richmond, London, England",
-            
-            "count": 5
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.58117069999999,-0.7832693999999947]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Seymour Court, Buckinghamshire, England",
-            
-            "count": 14
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.3538459,-1.1005384999999706]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Silchester, Hampshire, England",
-            
-            "count": 4
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [50.90970040000001,-1.404350900000054]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Southhampton, Hampshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.3944,-0.9722]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Spencers Wood, Berkshire, England",
-            
-            "count": 2
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.348916,-0.995947000000001]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Stratfield Saye, Hampshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [52.19173,-1.7082980000000134]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Stratford-upon-Avon, Warwickshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.5855735,-0.6160753000000341]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "River Thames, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.4047211,-0.9734518999999864]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Three Mile Cross, Berkshire, England",
-            
-            "count": 485
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.44458100000001,-0.3352459999999837]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Twickenham, Richmond upon Thames, London, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.584,-1.388]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Watlington",
-            
-            "count": 3
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.440426,-0.9427994999999783]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Whiteknights, Berkshire, England",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.41632,-0.96171]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Whitley Wood",
-            
-            "count": 1
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.059771,-1.3101420000000417]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Winchester, Hampshire, England",
-            
-            "count": 8
-            }
-            }
-            
-            ,
-            {
-            "type": "Feature",
-            "geometry": {
-            "type": "Point",
-            
-            "coordinates": 
-            
-            
-                [51.410457,-0.8338610000000699]
-            
-            
-            
-             
-            },
-            "properties": {
-            
-            "placeName": "Wokingham, Berkshire, England",
-            
-            "count": 41
-            }
-            }
-            
-            
+                {
+                "id": "Alresford_Hamps",
+                "properties": {
+                    "coordinates": [51.0856236,-1.1655574999999772],
+                    "placeName": "New Alresford, Hampshire, England",
+                    "notes": "Birthplace of Mary Russell Mitford, who lived at 27 Broad Street until about the age of four; the family moved to Reading in 1791. During Mitford’s time and earlier, inhabitants made a distinction between Old Alresford and New Alresford. In the parish records for their marriage, George Mitford and Mary Russell indicated their current place of residence as Old Alresford and their future residence as New Alresford.",
+                    "count": 5
+                  
+                    }
+                },
+                {
+                "id": "AssizeHall_Reading",
+                "properties": {
+                    "coordinates": [51.4562,-0.967],
+                    "placeName": "Assize Hall, Reading, Berkshire, England",
+                    "notes": "Assize Court building in central Reading. The current Reading Crown Court Building was not built until 1861, after Mitford's death.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Bear_Inn",
+                "properties": {
+                    "coordinates": [51.4532774,-0.9733182],
+                    "placeName": "The Bear Inn, Reading, Berkshire, England",
+                    "notes": "Located at 22 Bridge Street in Reading. Building no longer standing.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Berkshire",
+                "properties": {
+                    "coordinates": [51.4669939,-1.185367700000029],
+                    "placeName": "Berkshire, England",
+                    "notes": "The county of Berkshire, England, abbreviated Berks.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "BillingbearPk",
+                "properties": {
+                    "coordinates": [51.4438638,-0.8182454000000234],
+                    "placeName": "Billingbear Park, Berkshire, England",
+                    "notes": "During Mitford’s life, the Berkshire estate of Richard Griffin, second Baron Braybrooke. Billingbear House was destroyed by fire in 1924 and no longer stands.",
+                    "count": 2
+                  
+                    }
+                },
+                {
+                "id": "BurghfieldBr",
+                "properties": {
+                    "coordinates": [51.429997,-1.023278],
+                    "placeName": "Burghfield Bridge",
+                    "notes": "Hamlet near Reading named after a bridge crossing the River Kennett. The existing bridge was constructed in 1812 and is a Grade II listed building.",
+                    "count": 2
+                  
+                    }
+                },
+                {
+                "id": "Coley_Berks",
+                "properties": {
+                    "coordinates": [51.4432268,-0.9902848000000404],
+                    "placeName": "Coley Park, Berkshire, England",
+                    "notes": "An estate just south west of Reading. The Moncks owned Coley Park from 1810 and Mitford occasionally posted franked letters from there when J. B Monck was a Member of Parliament. Also referred to as Coley, although this name also refers to a nearby district of Reading proper.",
+                    "count": 9
+                  
+                    }
+                },
+                {
+                "id": "Drury_Lane_Theatre",
+                "properties": {
+                    "coordinates": [51.5128536,-0.12037150000003294],
+                    "placeName": "Theatre Royal, Drury Lane, London, England",
+                    "notes": "A West End theater located in Covent Garden in the London borough of Westminster. One of the royal patent theatres. Between 1674 and 1791, a building designed by Christopher Wren and commissioned by manager Thomas Killgrew. The Wren building was torn down by R. B. Sheridan and rebuilt. It reopened in 1791 and was destroyed by fire in 1809. The theater reopened in 1812 and still stands today.",
+                    "count": 2
+                  
+                    }
+                },
+                {
+                "id": "England",
+                "properties": {
+                    "coordinates": [52.3555177,-1.1743197000000691],
+                    "placeName": "England",
+                    "notes": "Country in the British Isles. Borders Scotland and Wales. London is the capital city, and is situated on the River Thames.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Exmouth",
+                "properties": {
+                    "coordinates": [50.62,-3.413],
+                    "placeName": "Exmouth, Devon, England",
+                    "notes": "",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Farley_Hill",
+                "properties": {
+                    "coordinates": [51.37339900000001,-0.9209210000000212],
+                    "placeName": "Farley Hill, Berkshire, England",
+                    "notes": "Village in Berkshire, in the parish of Swallowfield. The Dickinsons lived there.",
+                    "count": 31
+                  
+                    }
+                },
+                {
+                "id": "Hampshire_county",
+                "properties": {
+                    "coordinates": [51.05769480000001,-1.3080628999999817],
+                    "placeName": "Hampshire, England",
+                    "notes": "County on the southern coast of England, known historically as the County of Southampton. The county town is Winchester. Abbreviated Hants.",
+                    "count": 7
+                  
+                    }
+                },
+                {
+                "id": "Isle_of_Wight",
+                "properties": {
+                    "coordinates": [50.69384789999999,-1.3047340000000531],
+                    "placeName": "Isle of Wight, England",
+                    "notes": "An island in the English Channel off the coast of Hampshire. Was earlier owned by a Norman family and a kingdom in its own right until 1293. Until 1890, it was part of the county of Hampshire, and it shared a Lord Lieutenant with that county until 1974. Until 1995, the island, like Jersey and Guernsey, also had a governor. The Island is now considered its own administrative county.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Lockinge",
+                "properties": {
+                    "coordinates": [51.584,-1.388],
+                    "placeName": "Lockinge",
+                    "notes": "Small parish that runs from Ilsley Downs to the Vale of White Horse district; historically part of Berkshire and now in Oxfordshire.",
+                    "count": 3
+                  
+                    }
+                },
+                {
+                "id": "London_city",
+                "properties": {
+                    "coordinates": [51.5073509,-0.12775829999998223],
+                    "placeName": "London, England",
+                    "notes": "Capital city of England and the United Kingdom; one the oldest cities in Western Europe. Major seaport and global trading center at the mouth of the Thames. From 1831 to 1925, the largest city in the world.",
+                    "count": 35
+                  
+                    }
+                },
+                {
+                "id": "Marlow",
+                "properties": {
+                    "coordinates": [51.5719443,-0.7769422000000077],
+                    "placeName": "Marlow, Buckinghamshire, England",
+                    "notes": "Town in Buckinghamshire on the Thames. Mitford’s friends Mr. Johnson and Miss Johnson resided near here.",
+                    "count": 4
+                  
+                    }
+                },
+                {
+                "id": "Mortimer_Comm",
+                "properties": {
+                    "coordinates": [51.3770005,-1.0629936999999927],
+                    "placeName": "Mortimer Common, Berkshire, England",
+                    "notes": "Village east of Swallowfield. George Mitford and his friends go coursing there.",
+                    "count": 4
+                  
+                    }
+                },
+                {
+                "id": "Overton",
+                "properties": {
+                    "coordinates": [51.2439,-1.2615],
+                    "placeName": "Overton",
+                    "notes": "Large parish. In 1831, the Hundred of Overton contained Ashe, Bradley, Deane, Laverstoke, Overton, Tadley, and North Waltham. Overton Mill has produced banknote paper since the eighteenth century. Richard Russell lived here as vicar of Overton and rector of Ashe and Deane.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Pingewood",
+                "properties": {
+                    "coordinates": [51.424640,-1.006622],
+                    "placeName": "Pinge Wood",
+                    "notes": "",
+                    "count": 11
+                  
+                    }
+                },
+                {
+                "id": "ReadingTownHall",
+                "properties": {
+                    "coordinates": [51.45695,-0.97005],
+                    "placeName": "Reading Town Hall",
+                    "notes": "",
+                    "count": 2
+                  
+                    }
+                },
+                {
+                "id": "Reading_city",
+                "properties": {
+                    "coordinates": [51.4542645,-0.9781302999999753],
+                    "placeName": "Reading, Berkshire, England",
+                    "notes": "County town in Berkshire, in the Thames valley at the confluence of the Thames and the River Kennet. The town developed as a river port and in Mitford’s time served as a staging point on the Bath Road and was developing into a center of manufacturing. Mitford lived here with her parents from 1791 to 1795, on Coley Avenue in the parish of St. Mary’s and attended the Abbey School. The family returned to Reading from 1797 to about 1804, after which they relocated to Bertram House. They frequently visited Reading thereafter from their homes at nearby Bertram House, Three Mile Cross and Swallowfield. Mitford later used scenes from Reading as the basis for Belford Regis; or Sketches of a Country Town.",
+                    "count": 92
+                  
+                    }
+                },
+                {
+                "id": "Richmond",
+                "properties": {
+                    "coordinates": [51.46131099999999,-0.3037420000000566],
+                    "placeName": "Richmond, London, England",
+                    "notes": "Richmond upon Thames, now a borough of London, formerly part of Surrey. The Hoflands lived there and Thomas Hofland painted views of the area.",
+                    "count": 5
+                  
+                    }
+                },
+                {
+                "id": "SeymourCt",
+                "properties": {
+                    "coordinates": [51.58117069999999,-0.7832693999999947],
+                    "placeName": "Seymour Court, Buckinghamshire, England",
+                    "notes": "Home of Mr. Johnsonand Miss Johnson, until Mr. Johnson’s death in 1821. Near Great Marlow in Buckinghamshire.",
+                    "count": 14
+                  
+                    }
+                },
+                {
+                "id": "Silchester",
+                "properties": {
+                    "coordinates": [51.3538459,-1.1005384999999706],
+                    "placeName": "Silchester, Hampshire, England",
+                    "notes": "Village in Hampshire, approximately nine miles from Reading, on the Berkshire county border, known for its Roman ruins. It is featured in several stories in Our Village, sometimes by name, sometimes through the abbreviation S.",
+                    "count": 4
+                  
+                    }
+                },
+                {
+                "id": "Southhampton_city",
+                "properties": {
+                    "coordinates": [50.90970040000001,-1.404350900000054],
+                    "placeName": "Southhampton, Hampshire, England",
+                    "notes": "Southampton is a major port city in the county of Hampshire on the south coast of England, near the New Forest.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Spencers_Wood",
+                "properties": {
+                    "coordinates": [51.3944,-0.9722],
+                    "placeName": "Spencers Wood, Berkshire, England",
+                    "notes": "Village south of Reading that adjoins Three Mile Cross to the north and lying east of Grazeley. Until 1844, within Hampshire. In Mitford's time, the location, not of a wood, but an open common, which was entirely enclosed by 1864.",
+                    "count": 2
+                  
+                    }
+                },
+                {
+                "id": "Stratfield_Saye",
+                "properties": {
+                    "coordinates": [51.348916,-0.995947000000001],
+                    "placeName": "Stratfield Saye, Hampshire, England",
+                    "notes": "Village in Hampshire, England. Alternative spellings are: Strathfieldsaye, Stratford Saye, and Stratford Sea. In Mitford’s time, the Duke of Wellington moved there.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Stratford_upon_Avon_city",
+                "properties": {
+                    "coordinates": [52.19173,-1.7082980000000134],
+                    "placeName": "Stratford-upon-Avon, Warwickshire, England",
+                    "notes": "A market town in Warwickshire, England, on the River Avon, best known as the birthplace of Shakespeare.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Thames",
+                "properties": {
+                    "coordinates": [51.5855735,-0.6160753000000341],
+                    "placeName": "River Thames, England",
+                    "notes": "The longest river in England, the Thames has its source in Gloucestershire and flows through Reading, Oxford, Windsor, and London into the Thames Estuary to the North Sea.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "ThreeMileCross",
+                "properties": {
+                    "coordinates": [51.4047211,-0.9734518999999864],
+                    "placeName": "Three Mile Cross, Berkshire, England",
+                    "notes": "Village in the parish of Shinfield in Berkshire, where Mary Russell Mitford moved with her parents in 1820. They lived in a cottage there until 1851.",
+                    "count": 485
+                  
+                    }
+                },
+                {
+                "id": "Twickenham",
+                "properties": {
+                    "coordinates": [51.44458100000001,-0.3352459999999837],
+                    "placeName": "Twickenham, Richmond upon Thames, London, England",
+                    "notes": "Twickenham, a town on the Thames, now part of Greater London. In the eighteenth century, the home of Alexander Pope and Horace Walpole, who built a neo-Gothic mansion at Strawberry Hill.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Watlington",
+                "properties": {
+                    "coordinates": [51.584,-1.388],
+                    "placeName": "Watlington",
+                    "notes": "Small market town on the edge of the Chiltern Hills. By the late eighteenth century, it had six inns, all owned by the Hayward brewing family. Watlington Town Hall, built in 1665, is a Grade II listed building.",
+                    "count": 3
+                  
+                    }
+                },
+                {
+                "id": "Whiteknights",
+                "properties": {
+                    "coordinates": [51.440426,-0.9427994999999783],
+                    "placeName": "Whiteknights, Berkshire, England",
+                    "notes": "Berkshire estate of George Spencer-Churchill, the sixth Duke of Marlborough. Purchased by him in 1798 and extensively renovated at great expense until the Duke’s bankruptcy in 1819, when the estate and contents were sold at auction. Subject of an 1818 publication by the Hoflands. Formerly the manor of Earley Whiteknights; now Whiteknights Park, part of the campus of the University of Reading.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "WhitleyWood",
+                "properties": {
+                    "coordinates": [51.41632,-0.96171],
+                    "placeName": "Whitley Wood",
+                    "notes": "Hamlet near Reading.",
+                    "count": 1
+                  
+                    }
+                },
+                {
+                "id": "Winchester_city",
+                "properties": {
+                    "coordinates": [51.059771,-1.3101420000000417],
+                    "placeName": "Winchester, Hampshire, England",
+                    "notes": "City and county town of Hampshire. Site of Winchester Cathedral and Winchester College, one of the oldest public grammar schools. Jane Austen died here and is buried in the Cathedral. John Keats wrote several of his best-known poems while on a visit to the city.",
+                    "count": 8
+                  
+                    }
+                },
+                {
+                "id": "Wokingham_city",
+                "properties": {
+                    "coordinates": [51.410457,-0.8338610000000699],
+                    "placeName": "Wokingham, Berkshire, England",
+                    "notes": "A market town in south east England in Berkshire, near Reading. The Mitfords sometimes travelled to Wokingham on their way to London, or to visit the home of their friends, the Webbs.",
+                    "count": 41
+                  
+                    }
+                }
         
         ]
         }
