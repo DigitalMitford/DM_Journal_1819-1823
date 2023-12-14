@@ -26,15 +26,16 @@
         
         <xsl:for-each select="$places">
             <xsl:variable name="treeWalker" select="$si//place[@xml:id ! normalize-space() = current()]"/>
-            <xsl:if test="$treeWalker//geo">
+            <xsl:if test="$treeWalker//geo and $treeWalker//geo[matches(., '^\d+')]">
                 {
                 "id": "<xsl:value-of select="$treeWalker/@xml:id"/>",
                 "properties": {
                     "coordinates": [<xsl:value-of select="$treeWalker//geo ! normalize-space() ! tokenize(., '[, ]+') => string-join(',')"/>],
                     "placeName": "<xsl:value-of select="$treeWalker/placeName[1] ! normalize-space()"/>",
                     "count": <xsl:value-of select="$journal//*[@ref ! substring-after(., '#') ! normalize-space() = current()] => count()"/>
+                  <!--  "position": <xsl:value-of select="position()"/>, <xsl:value-of select="last()"/>-->
                     }
-                }<xsl:if test="position() ne last()">,</xsl:if>
+                }<xsl:if test="not(position() = 54)">,</xsl:if>
             </xsl:if>
         </xsl:for-each>
         
