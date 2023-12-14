@@ -1,21 +1,22 @@
-body {
-	background-color: grey;
-	background-repeat: repeat;
+body{
+    margin: 0px;
 }
+
 #map {
-            height: 500px;
+    height: 500px;
 }
 
 div.main{
+    margin: auto;
     display: flex;
+    justify-content: center;
 }
 
 div.journalIndex {
     background-color: white;
-    position: static;
+    position: relative;
     float: left;
-    height: 80vh;
-    border: 4px black solid;
+    height: 100vh;
     overflow-y: scroll;
     overflow-x: hidden;
 }
@@ -23,10 +24,15 @@ div.journalIndex {
 div.journalViewer {
     float: right;
     background-color: white;
-    position: static;
+    position: absolute;
     width: 50vw;
-    height: 80vh;
-    border: 4px black solid;
+    height: 100vh;
+    display: block;
+    visibility: hidden;
+}
+
+table{
+    width: 25vw;
 }
 
 table, th, td {
@@ -37,12 +43,9 @@ table, th, td {
 
 h2 {
     text-align: center;
+    bottom: 0;
 }
 
-iframe{
-    border: none;
-    width: 100%;
-    height: 100%;
+p.locationInfo{
+    text-align: center;
 }
-
-#map { height: 180px; }

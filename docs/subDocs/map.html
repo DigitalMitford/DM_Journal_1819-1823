@@ -23,7 +23,7 @@
         <div class="navbar">
             <a href="about.html">About</a>
             <a href="texts.html">Texts</a>
-            <a class="active" href="map.html">Analysis</a>
+            <a class="active" href="map.html">Map</a>
             <div class="dropdown">
                 <button class="dropbtn">Files
                     <i class="fa fa-caret-down"></i>
@@ -38,55 +38,21 @@
             </div>
             <a href="index.html" style="float:right;">Home</a>
         </div>
-        
-        <div id="map"></div>
-        
-  <!--      <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>-->
-        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-        
-        <script>
-    var map = L.map('map').setView([51.509865, -0.118092], 5); // Centered at London, England
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&amp;copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    // Use an AJAX request to load the GeoJSON file
-    fetch('mapData.geojson')
-        .then(response => response.json())
-        .then(geoJsonData => {
-            console.log('GeoJSON Data:', geoJsonData); // Log GeoJSON data for debugging
-
-            // Iterate through features and create circles using L.circle
-            geoJsonData.features.forEach(feature => {
-                var coordinates = feature.geometry.coordinates; 
-                var count = feature.properties.count;
-
-                // Create a circle with radius based on the "count" value
-                var circle = L.circleMarker(coordinates, {
-                    radius: count * 2, // Adjust the multiplier based on the desired scale
-                    color: 'blue', // Circle color
-                    fillOpacity: 0.5 // Opacity of the fill
-                }).addTo(map);
-
-                // Add a popup with information
-                circle.bindPopup(`Place: ${feature.properties.placeName}<br/>Count: ${count}`);
-            });
-        });
-</script>
-        
-        <footer>
-            <div class="footer-column">
-                <p>We are at <a class="footer" href="https://behrend.psu.edu/">Penn State Erie, The Behrend College</a>.</p>
-                <!--ebb: The <a> element above is showing how to make an *absolute* file association with a literal, full website address. 
-            Only do this for pointing OUTSIDE your own repo. -->
-            </div>
-            <div class="footer-column">
-                
-                <p>Mitford Project Fall 2023 by Hadleigh Jae Bills, Nate Hammer, Josiah Ruiz is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0 </a></p>
-                
-            </div>
-        </footer>
+        <iframe src="website.html"></iframe>
+        <div class="bottom">
+            <footer>
+                <div class="footer-column">
+                    <p>We are at <a class="footer" href="https://behrend.psu.edu/">Penn State Erie, The Behrend College</a>.</p>
+                    <!--ebb: The <a> element above is showing how to make an *absolute* file association with a literal, full website address. 
+                Only do this for pointing OUTSIDE your own repo. -->
+                </div>
+                <div class="footer-column">
+                    
+                    <p>Mitford Project Fall 2023 by Hadleigh Jae Bills, Nate Hammer, Josiah Ruiz is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0 </a></p>
+                    
+                </div>
+            </footer>
+        </div>
         
     </body>
 </html>

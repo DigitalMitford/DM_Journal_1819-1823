@@ -23,49 +23,52 @@
                     crossorigin=""></script>
             </head>
             <body>
-                <h1>Exploring Mitford's Journal mentions with the Project Site Index</h1>
                 <xsl:variable name="placeRefs" as="item()+" select="$journal//placeName/@ref ! substring-after(., '#') ! normalize-space() => distinct-values() => sort()"/>
-                <div class="journalIndex">
-                <table>
-                    <tr>
-                        <th> Locations </th>
-                        <th> Mentioned entries </th>
-                    </tr>
-                    <xsl:for-each select="$placeRefs">
-                      <xsl:variable name="SI-lookup" as="item()?" select="$si//place[@xml:id ! normalize-space() = current()]"/>
-                      
+                <div class="main">                
+                    <div class="journalIndex">
+                    <table>
                         <tr>
-                            <td>
-                                <!-- 2023-12-13 ebb: Check if place has geocoordinates or not. If it does not, don't output a map button. -->
-                               <xsl:choose> 
-                                   
-                                  <xsl:when test="$SI-lookup and $SI-lookup//geo[matches(., '^\d+')]"> 
-                                      <button id="{current()}"><xsl:apply-templates select="$SI-lookup/placeName[1] ! normalize-space()  => string-join(', ') "/></button>
-                                  </xsl:when>
-                                   <xsl:when test="$SI-lookup and not($SI-lookup//geo[matches(., '^\d+')])"> 
-                                       <xsl:apply-templates select="$SI-lookup/placeName[1] ! normalize-space() => string-join(', ') "/>
-                                   </xsl:when>
-                                   
-                                   <xsl:otherwise>
-                                       <xsl:apply-templates select="current()"/>
-                                   </xsl:otherwise>
-                               
-                               </xsl:choose>
-                            </td>
-                            <td>
-                                <ul>
-                                <xsl:for-each select="$journal//div[@type ='entry'][.//placeName[@ref = concat('#', current())]]">
-                                    <li><a href="texts.html#{current()/@xml:id}"><xsl:apply-templates select="current()//head/date/@when"/></a></li>
-                                </xsl:for-each>
-                                </ul>
-                            </td>
+                            <th> Locations </th>
+                            <th> Mentioned entries </th>
                         </tr>
-                    </xsl:for-each>
-                </table>
-                </div>
-                <div class="journalViewer">
-                    <div id="map" style="width: 100%; height: 100%;"></div>
-                    <script src="script.js"></script>
+                        <xsl:for-each select="$placeRefs">
+                          <xsl:variable name="SI-lookup" as="item()?" select="$si//place[@xml:id ! normalize-space() = current()]"/>
+                          
+                            <tr>
+                                <td>
+                                    <!-- 2023-12-13 ebb: Check if place has geocoordinates or not. If it does not, don't output a map button. -->
+                                   <xsl:choose> 
+                                       
+                                      <xsl:when test="$SI-lookup and $SI-lookup//geo[matches(., '^\d+')]"> 
+                                          <button id="{current()}"><xsl:apply-templates select="$SI-lookup/placeName[1] ! normalize-space()  => string-join(', ') "/></button>
+                                      </xsl:when>
+                                       <xsl:when test="$SI-lookup and not($SI-lookup//geo[matches(., '^\d+')])"> 
+                                           <xsl:apply-templates select="$SI-lookup/placeName[1] ! normalize-space() => string-join(', ') "/>
+                                       </xsl:when>
+                                       
+                                       <xsl:otherwise>
+                                           <xsl:apply-templates select="current()"/>
+                                       </xsl:otherwise>
+                                   
+                                   </xsl:choose>
+                                </td>
+                                <td>
+                                    <ul>
+                                    <xsl:for-each select="$journal//div[@type ='entry'][.//placeName[@ref = concat('#', current())]]">
+                                        <li><a href="texts.html#{current()/@xml:id}"><xsl:apply-templates select="current()//head/date/@when"/></a></li>
+                                    </xsl:for-each>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </xsl:for-each>
+                    </table>
+                    </div>
+                    <div class="journalViewer">
+                        <div id="map" style="width: 100%; height: 65%"></div>
+                        <script src="script.js"></script>
+                        <h2 class="locationName"></h2>
+                        <p class="locationInfo"></p>
+                    </div>
                 </div>
             </body> 
         </html>
