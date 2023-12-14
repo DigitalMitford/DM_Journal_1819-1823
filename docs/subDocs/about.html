@@ -9,22 +9,74 @@
     </head>
     <body>
         <div class="title">
-            <h1>Future About Page</h1>
-            <h2>Under Construction</h2>
+            <h1>Digital Mitford Project</h1>
+            <h2>About</h2>
             <h3>Fall 2023</h3>
         </div>
-        <nav>
-            <ul>
-                <li><a class="active" href="about.html">About</a></li>
-                <li><a href="texts.html">Texts</a></li>
-                <li><a href="analysis.html">Analysis</a></li>
-                <li><a target="_blank" href="https://hadleighjae.github.io/stu2023_DM_Journal/mitfordODD.html">ODD</a></li>
-                <li style="float:right"><a href="index.html">Home</a></li>
-            </ul>
-        </nav>
-        <img src="images/pennStateLogo.png" alt="Penn State University Logo"/>
-        <!--ebb: When pointing to images in your own repo, always use *relative* file associations: Here we are pointing to an images directory that's in the same
-        folder as this HTML file we're editing. And we're going into the images folder to deliver the newt-mosaic4.png file inside. -->
+        <div class="navbar">
+            <a class="active" href="about.html">About</a>
+            <a href="texts.html">Texts</a>
+            <a href="map.html">Analysis</a>
+            <div class="dropdown">
+                <button class="dropbtn">Files
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal">GitHub</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/1819-1823MRMJournal.xml">XML</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/tree/master/xslt-to-html">XSL</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/docs/subDocs/webstyle.css">CSS</a>
+                    <a target="_blank" href="https://hadleighjae.github.io/stu2023_DM_Journal/mitfordODD.html">ODD</a>
+                </div>
+            </div>
+            <a href="index.html" style="float:right;">Home</a>
+        </div>
+        <div class="reading">
+            <img src="images/maryMitford.jpg" style="float: left;width: 100px; padding: 10px;" alt="Mary Mitford Portrait"/>
+            <p>Mary Russel Mitford was an English dramatist and poet who was born December 16, 1787 and died January 10, 1855. Some of her most notable works include <i>Christina, the Maid of the South Seas</i> (1811), <i>Watlington Hill</i> (1812), <i>Foscari: A Tragedy</i> (1826), and <i>Dramatic Scenes, Sonnets, and Other Poems</i> (1827).</p>
+            <p>For the Digital Mitford Project, students Nathan Hammer, Hadleigh Jae Bills, and Josiah Ruiz analyzed Mitford's journal entries through handwriting analysis, transcription, and TEI tagging.</p>
+            <p>Below are examples of what our team worked on this semester.</p>
+        </div>
+        
+        <div class="responsive">
+            <div class="gallery">
+                <a target="_blank" href="https://raw.githubusercontent.com/HadleighJae/portfolio/1b1c21f4f3f270a49a931b75b0dfd43e1b388d81/docs/images/handwriting_e-934.jpg">
+                    <img src="images/handwriting_e-934.jpg" alt="Notebook scan of entry 934"/>
+                </a>
+                <div class="desc">Scan of Mitford Notebook</div>
+            </div>
+        </div>
+        
+        
+        <div class="responsive">
+            <div class="gallery">
+                <a target="_blank" href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/MitfordJournalPart3-rs.pdf">
+                    <img src="images/transcript_e-934.jpg" alt="Transcript of entry 934"/>
+                </a>
+                <div class="desc">Transcript of Notebook in British Museum</div>
+            </div>
+        </div>
+        
+        <div class="responsive">
+            <div class="gallery">
+                <a target="_blank" href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/1819-1823MRMJournal.xml">
+                    <img src="images/tags_e-934.jpg" alt="XML tagging of entry 934"/>
+                </a>
+                <div class="desc">Tagging in XML</div>
+            </div>
+        </div>
+        
+        <div class="responsive">
+            <div class="gallery">
+                <a target="_blank" href="texts.html">
+                    <img src="images/html_e-934.jpg" alt="HTML output of entry 934"/>
+                </a>
+                <div class="desc">HTML Output</div>
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        
         <footer>
             <div class="footer-column">
                 <p>We are at <a class="footer" href="https://behrend.psu.edu/">Penn State Erie, The Behrend College</a>.</p>
@@ -32,9 +84,9 @@
             Only do this for pointing OUTSIDE your own repo. -->
             </div>
             <div class="footer-column">
-                <a href="https://github.com/HadleighJae/portfolio">
-                    <img src="https://cdn.iconscout.com/icon/free/png-128/github-3770680-3147283.png" alt="github logo" style="filter: invert(100%); width: 30px;"/>
-                </a>
+                
+                <p>Mitford Project Fall 2023 by Hadleigh Jae Bills, Nate Hammer, Josiah Ruiz is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0 </a></p>
+                
             </div>
         </footer>
     </body>

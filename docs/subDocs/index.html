@@ -14,19 +14,27 @@
             <h2>Mary Russell Mitford's Notebook</h2>
             <h3>Fall 2023</h3>
         </div>
-        <nav>
-            <ul>
-                <li><a href="about.html">About</a></li>
-                <li><a href="texts.html">Texts</a></li>
-                <li><a href="analysis.html">Analysis</a></li>
-                <li><a target="_blank" href="https://hadleighjae.github.io/stu2023_DM_Journal/mitfordODD.html">ODD</a></li>
-                <li style="float:right"><a class="active" href="index.html">Home</a></li>
-            </ul>
-        </nav>
-        <img src="images/pennStateLogo.png" alt="Penn State University Logo"/>
-        <!--ebb: When pointing to images in your own repo, always use *relative* file associations: Here we are pointing to an images directory that's in the same
-        folder as this HTML file we're editing. And we're going into the images folder to deliver the newt-mosaic4.png file inside. -->
-        <div class="card">
+        <div class="navbar">
+            <a href="about.html">About</a>
+            <a href="texts.html">Texts</a>
+            <a href="map.html">Analysis</a>
+            <div class="dropdown">
+                <button class="dropbtn">Files
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal">GitHub</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/1819-1823MRMJournal.xml">XML</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/tree/master/xslt-to-html">XSL</a>
+                    <a href="https://github.com/DigitalMitford/stu2023_Journal/blob/master/docs/subDocs/webstyle.css">CSS</a>
+                    <a target="_blank" href="https://hadleighjae.github.io/stu2023_DM_Journal/mitfordODD.html">ODD</a>
+                </div>
+            </div>
+            <a class="active" href="index.html" style="float:right;">Home</a>
+        </div>
+        
+        <div class="reading">
+            <img src="https://www.berkshirehistory.com/bios/images/mrmitford.gif" style="float:right; padding: 10px;" alt="Mary Mitford Portrait"/>
             <h1>Members:</h1>
             <ul>
                 <li>Hadleigh Jae Bills</li>
@@ -41,9 +49,9 @@
             Only do this for pointing OUTSIDE your own repo. -->
             </div>
             <div class="footer-column">
-                <a href="https://github.com/HadleighJae/portfolio">
-                    <img src="https://cdn.iconscout.com/icon/free/png-128/github-3770680-3147283.png" alt="github logo" style="filter: invert(100%); width: 30px;"/>
-                </a>
+                
+                <p>Mitford Project Fall 2023 by Hadleigh Jae Bills, Nate Hammer, Josiah Ruiz is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0 </a></p>
+                
             </div>
         </footer>
     </body>
