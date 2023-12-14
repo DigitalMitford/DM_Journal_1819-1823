@@ -19,7 +19,7 @@ console.log('Where did I click? ' + this.id)
 map.remove()
     var location = this.id;
    /* var theData = 0*/
-    var jsonData = fetch("mapData2.geojson")
+    var jsonData = fetch("https://raw.githubusercontent.com/DigitalMitford/stu2023_Journal/mapInterface/docs/subDocs/mapData2.geojson")
     .then(function (response) {
         return response.json();
     })
