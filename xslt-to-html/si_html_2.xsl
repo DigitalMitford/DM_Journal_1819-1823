@@ -24,7 +24,7 @@
             </head>
             <body>
                 <h1>Exploring Mitford's Journal mentions with the Project Site Index</h1>
-                <xsl:variable name="places" as="item()+" select="$journal//placeName/@ref ! substring-after(.,'#') ! normalize-space() => distinct-values()"/>
+                <xsl:variable name="places" as="item()+" select="$si//place[.//geo]"/>
                 <div class="journalIndex">
                 <table>
                     <tr>
@@ -32,7 +32,7 @@
                         <th> Mentioned entries </th>
                     </tr>
                     <xsl:for-each select="$places">
-                        <xsl:variable name="placeID" as="item()" select="current()"/>
+                        <xsl:variable name="placeID" as="item()" select="current()/@xml:id"/>
                         <tr>
                             <td>
                                 <button id="{$placeID}"><xsl:value-of select="$placeID"/></button>
@@ -40,7 +40,7 @@
                             <td>
                                 <ul>
                                 <xsl:for-each select="$journal//div[@type ='entry'][.//placeName[@ref = concat('#', $placeID)]]">
-                                    <li><a href="texts.html#{current()/@xml:id}"><xsl:value-of select="current()/@xml:id"/></a></li>
+                                    <li><xsl:value-of select="current()/@xml:id"/></li>
                                 </xsl:for-each>
                                 </ul>
                             </td>
