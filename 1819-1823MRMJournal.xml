@@ -9582,6 +9582,8 @@ Publisher:	London : [publisher not identified], 1786.
                until we learn otherwise. -->
                <div type="entry" xml:id="e-970">
                   <head><date when="1821-09-06">Wednesday 6th</date></head>
+                  <note resp="#ebb">Mitford has repeated the day of the week here and introduces a discrepancy. 
+                     The date number is correct here but on consulting a perpetual calendar, the day of the week should be Thursday.</note>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName> -- heard from <persName
                         ref="#Crowther_Mr">Mr. Crowther</persName>--dear <persName ref="#Russell_M"
                         >Granny</persName> went to <placeName>Odiam</placeName><!-- 2023-10-31 ebb tsa: We think this is probably Odiham in Hamsphire (and
@@ -9592,6 +9594,8 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-971">
                   <head><date when="1821-09-07">Thursday 7th</date></head>
+                  <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                     The date number is correct here but on consulting a perpetual calendar, the day of the week should be Friday.</note>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from dear <persName
                         ref="#James_Miss">Miss James</persName>--wrote to <persName
                         ref="#Brooke_Miss">Miss Brooke</persName>--<persName ref="#Russell_M"
@@ -9599,18 +9603,24 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-972">
                   <head><date when="1821-09-08">Friday 8th</date></head>
+                  <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                     The date number is correct here but on consulting a perpetual calendar, the day of the week should be Saturday.</note>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--dear granny still away--
                      wrote to dear <persName ref="#Russell_M">Granny</persName> &amp; <persName
                         ref="#Crowther_Mrs">Mrs. Crowther</persName>.</p>
                </div>
                <div type="entry" xml:id="e-973">
                   <head><date when="1821-09-09">Saturday 9th</date></head>
+                  <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                     The date number is correct here but on consulting a perpetual calendar, the day of the week should be Sunday.</note>
                   <p><persName ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
                         ref="#Crowther_Mr">Mr. Crowther</persName> spent the morning here--not well
                      at night--<persName ref="#Russell_M">Granny</persName> away</p>
                </div>
                <div type="entry" xml:id="e-974">
                   <head><date when="1821-09-10">Sunday 10th</date></head>
+                  <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                     The date number is correct here but on consulting a perpetual calendar, the day of the week should be Monday.</note>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--had a bad sore throat--
                      dear <persName ref="#Russell_M">Granny</persName> out--heard from <persName
                         ref="#Webb_Eliza">Elizabeth Webb</persName> &amp; <persName
@@ -9620,17 +9630,23 @@ Publisher:	London : [publisher not identified], 1786.
                <!-- nlh 2023-10-30: end of Part 4 type script! onto part 5 B) -->
             <div type="entry" xml:id="e-975">
                <head><date when="1821-09-11">Monday 11th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Tuesday.</note>
                <p>A good deal better--dear <persName ref="#Russell_M">Granny</persName> came
                      <placeName ref="#ThreeMileCross">home</placeName>.</p>
             </div>
             <div type="entry" xml:id="e-976">
                <head><date when="1821-09-12">Tuesday 12th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, we presume the day of the week should be Wednesday?</note>
                <p><persName>Mr. Mock</persName> called--wrote to <persName ref="#Talfourd_Thos"
                      >Mr. Talfourd</persName>.</p>
             </div>
             <!-- 2024-01-25 hjb: Seems like a new person. Never seen him before, can't find him in the other entries -->
             <div type="entry" xml:id="e-977">
                <head><date when="1821-09-13">Wednesday 13th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Thursday.</note>
                <p>Better--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName
                      ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
                      ref="#Dickinson_Mrs">Mrs Dickinson</persName> called--wrote to <persName
@@ -9638,25 +9654,33 @@ Publisher:	London : [publisher not identified], 1786.
             </div>
             <div type="entry" xml:id="e-978">
                <head><date when="1821-09-14">Thursday 14th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Friday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName
                      ref="#Haydon">Mr. Haydon</persName>--wrote to <persName ref="#Haydon">Mr.
                      Haydon</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
             </div>
             <div type="entry" xml:id="e-979">
                <head><date when="1821-09-15">Friday 15th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Saturday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName
                      ref="#Nooth_C">Miss Nooth</persName>.</p>
             </div>
-            <div type="entry" xml:id="e-981">
+            <div type="entry" xml:id="e-980">
                <head><date when="1821-09-16">Saturday 16th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Sunday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName 
                      ref="#Nooth_C">Miss Nooth</persName> &amp; to <persName ref="#Talfourd_Thos"
                      >Mr. Talfourd</persName>--worked at <title ref="#Foscari_MRMplay"
                      >Foscari</title>--<persName ref="#Jephson_Em" cert="low">Miss
                      Jephson</persName> called.</p>
             </div>
-            <div type="entry" xml:id="e-982">
+            <div type="entry" xml:id="e-981">
                <head><date when="1821-09-17">Sunday 17th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Monday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
                      ref="#Dickinson_Mrs">Mrs. Dickinson</persName> called--heard from dear
                      <persName ref="#Hill_Lucy">Luce</persName>--wrote to dear <persName
@@ -9664,23 +9688,28 @@ Publisher:	London : [publisher not identified], 1786.
                      >Foscari</title>--dear <persName ref="#Mitford_Geo">Drum</persName> went to
                      <placeName ref="#London_city">London</placeName></p>
             </div>
-            <div type="entry" xml:id="e-983">
+            <div type="entry" xml:id="e-982">
                <head><date when="1821-09-18">Monday 18th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Tuesday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Em"
                      cert="low">Miss Jephson</persName>, dear sweet girl, called to take leave &amp;
                      gave me a pretty ring of her own making--worked a little at <title
                      ref="#Foscari_MRMplay">Foscari</title>.</p>
             </div>
-            <div type="entry" xml:id="e-984">
+            <div type="entry" xml:id="e-983">
                <head><date when="1821-09-19">Tuesday 19th</date></head>
+               <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and introduces a discrepancy. 
+                  The date number is correct here but on consulting a perpetual calendar, the day of the week should be Wednesday.</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from dear <persName
                      ref="#Mitford_Geo">Drum</persName>--dear <persName ref="#Mitford_Geo"
                      >Drum</persName> came <placeName ref="#ThreeMileCross">home</placeName>--worked
                   a litle at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
             </div>
             <!--jar - Repeating dates-->
-            <div type="entry" xml:id="e-985">
+            <div type="entry" xml:id="e-984">
                <head><date when="1821-09-19">Wednesday 19th</date></head>
+               <note resp="#ebb">Mitford has presumably now finally corrected the discrepancy in her journal entry dates</note>
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName
                      ref="#Webb_Eliza">Eliza Webb</persName>.</p>
             </div>
