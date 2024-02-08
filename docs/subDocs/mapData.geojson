@@ -1,0 +1,861 @@
+
+        {
+        "type": "FeatureCollection",
+        "features": [
+        
+        
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.0856236,-1.1655574999999772]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "New Alresford, Hampshire, England",
+            
+            "count": 5
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4562,-0.967]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Assize Hall, Reading, Berkshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4532774,-0.9733182]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "The Bear Inn, Reading, Berkshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4669939,-1.185367700000029]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Berkshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                []
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Bertram House, Berkshire, England",
+            
+            "count": 499
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4438638,-0.8182454000000234]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Billingbear Park, Berkshire, England",
+            
+            "count": 2
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.429997,-1.023278]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Burghfield Bridge",
+            
+            "count": 2
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4432268,-0.9902848000000404]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Coley Park, Berkshire, England",
+            
+            "count": 9
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.5128536,-0.12037150000003294]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Theatre Royal, Drury Lane, London, England",
+            
+            "count": 2
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [52.3555177,-1.1743197000000691]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [50.62,-3.413]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Exmouth, Devon, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.37339900000001,-0.9209210000000212]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Farley Hill, Berkshire, England",
+            
+            "count": 31
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.05769480000001,-1.3080628999999817]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Hampshire, England",
+            
+            "count": 7
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [50.69384789999999,-1.3047340000000531]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Isle of Wight, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.584,-1.388]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Lockinge",
+            
+            "count": 3
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.5073509,-0.12775829999998223]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "London, England",
+            
+            "count": 35
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.5719443,-0.7769422000000077]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Marlow, Buckinghamshire, England",
+            
+            "count": 4
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.3770005,-1.0629936999999927]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Mortimer Common, Berkshire, England",
+            
+            "count": 4
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.2439,-1.2615]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Overton",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.424640,-1.006622]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Pinge Wood",
+            
+            "count": 11
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.45695,-0.97005]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Reading Town Hall",
+            
+            "count": 2
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4542645,-0.9781302999999753]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Reading, Berkshire, England",
+            
+            "count": 92
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.46131099999999,-0.3037420000000566]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Richmond, London, England",
+            
+            "count": 5
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.58117069999999,-0.7832693999999947]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Seymour Court, Buckinghamshire, England",
+            
+            "count": 14
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.3538459,-1.1005384999999706]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Silchester, Hampshire, England",
+            
+            "count": 4
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [50.90970040000001,-1.404350900000054]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Southhampton, Hampshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.3944,-0.9722]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Spencers Wood, Berkshire, England",
+            
+            "count": 2
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.348916,-0.995947000000001]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Stratfield Saye, Hampshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [52.19173,-1.7082980000000134]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Stratford-upon-Avon, Warwickshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.5855735,-0.6160753000000341]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "River Thames, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.4047211,-0.9734518999999864]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Three Mile Cross, Berkshire, England",
+            
+            "count": 484
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.44458100000001,-0.3352459999999837]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Twickenham, Richmond upon Thames, London, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.584,-1.388]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Watlington",
+            
+            "count": 3
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.440426,-0.9427994999999783]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Whiteknights, Berkshire, England",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.41632,-0.96171]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Whitley Wood",
+            
+            "count": 1
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.059771,-1.3101420000000417]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Winchester, Hampshire, England",
+            
+            "count": 8
+            }
+            }
+            
+            ,
+            {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            
+            "coordinates": 
+            
+            
+                [51.410457,-0.8338610000000699]
+            
+            
+            
+             
+            },
+            "properties": {
+            
+            "placeName": "Wokingham, Berkshire, England",
+            
+            "count": 41
+            }
+            }
+            
+            
+        
+        ]
+        }
+    

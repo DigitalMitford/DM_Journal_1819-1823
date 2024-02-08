@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+}
+
+#map {
+    height: 500px;
+}
+
+div.main{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+div.journalIndex {
+    background-color: white;
+    position: relative;
+    float: left;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+div.journalViewer {
+    float: right;
+    background-color: white;
+    position: absolute;
+    width: 50vw;
+    height: 100vh;
+    display: block;
+    visibility: hidden;
+}
+
+table{
+    width: 25vw;
+}
+
+table, th, td {
+    border: 1px black solid;
+    border-radius: 2px;
+    border-collapse: collapse;
+}
+
+h2 {
+    text-align: center;
+    bottom: 0;
+}
+
+p.locationInfo{
+    text-align: center;
+}

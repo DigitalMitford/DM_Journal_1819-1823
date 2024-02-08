@@ -1,0 +1,234 @@
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Title Box */
+
+.webtitle {
+ 	max-width: 100%;
+  	padding: 10px;
+  	justify-content: center;
+  	align-items: center;
+  	text-align: center;
+    border-style: solid;
+}
+
+.webtitle h1 {
+	font-size: 55px;
+    padding: 5px;
+}
+
+.webtitle h2 {
+	font-size: 30px;
+    padding: 5px;
+}
+
+.webtitle h3 {
+	font-size: 25px;
+    padding: 5px;
+}
+
+/* Navigation */
+
+.navbar {
+  overflow: hidden;
+  background-color: indigo;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.active {
+background-color: black;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+  padding: 3px;
+  bottom: 0;
+  background-color: indigo;
+  color: BurlyWood;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+	color: red;
+}
+
+.footer-column {
+  float: left;
+  padding: 10px;
+}
+
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .footer-column.side, .footer-column.middle {
+    width: 100%;
+  }
+}
+
+.siteTitle {
+    display: block;
+    border: 2px solid black;
+    max-width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.notebook {
+	padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.yearSection {
+	padding: 5px;
+    margin: 5px;
+    border: 1px solid blue;
+}
+
+.yearSection h1 {
+	font-size: 35px;
+    text-align: center;
+}
+
+.month {
+	font-size: 30px;
+    border: 1px solid green;
+}
+
+.month h1 {
+	font-size: 25px;
+}
+
+.entry {
+	padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+	border: 1px solid purple;
+}
+
+.entry h1 {
+	font-size: 20px;
+    text-align: left;
+}
+
+.entry p {
+	font-size: 15px;
+}
+
+.placeName {
+	color: green;
+}
+
+.persName {
+	color: blue
+}
+
+.title {
+	font-style: italic;
+}
+
+.orgName {
+	color: purple;
+}
+
+.unclear {
+	color: red;
+}
+
+table { 
+	margin-top: 5px;
+	border-collapse: collapse; 
+   	width: 100%;
+	border: 2px solid black;
+}
+
+tr {
+	border-collapse: collapse; 
+    border: 0
+}
+
+th {
+	border-collapse: collapse;
+	border: 1px solid  #000066;
+	background-color: #bad7e6 /*#7E967E*/;
+	padding: 1px;
+	vertical-align:top;
+}
+
+td { 
+	border-collapse: collapse;
+	border: 1px solid #000066;
+	padding: 7px;
+	vertical-align:top;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-position: inside;
+}
