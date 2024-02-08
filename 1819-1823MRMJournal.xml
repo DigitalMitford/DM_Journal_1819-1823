@@ -9570,10 +9570,8 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-968">
                   <head><date when="1821-09-05">Wednesday 5th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
-                        ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Em"
-                        cert="low">Miss Jephson</persName> called while we were out--wrote to 
-                        <persName ref="#Crowther_Mr">Mr. Crowther</persName>.<!--2023-10-31 ebb: We're not sure, but I think this could be the Emily Jephson in our site index. The only 
-                     issue is that we didn't know they knew each other until records of their writing letters to each other starting in 1829.--></p>
+                        ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName> called while we were out--wrote to 
+                        <persName ref="#Crowther_Mr">Mr. Crowther</persName>.</p>
                </div>
                <!-- nlh 2023-10-30:  the next 5 entries have [sic] next to their dates. what does it mean? -->
                <!-- 2023-10-31 ebb and tsa: We checked a perpetual calendar online and saw that she mistook the days of the week. So 
@@ -9589,7 +9587,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Crowther_Mr">Mr. Crowther</persName>--dear <persName ref="#Russell_M"
                         >Granny</persName> went to <placeName>Odiam</placeName><!-- 2023-10-31 ebb tsa: We think this is probably Odiham in Hamsphire (and
                      MRM is spelling it based on pronunciation. but we need to write a new SI entry for this (not mentioned in our SI yet). -->
-                     for a few days--<persName ref="#Jephson_Em" cert="low">Miss Jephson</persName>
+                     for a few days--<persName ref="#Jephson_Miss">Miss Jephson</persName>
                      spent the morning here--a very charming young woman from <persName 
                         ref="#Crowther_Mr">Mr. Crowther</persName>'s.</p>
                </div>
@@ -9618,7 +9616,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th,
                      and introduces a discrepancy. The date number is correct here but on consulting
                      a perpetual calendar, the day of the week should be Sunday.</note>
-                  <p><persName ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
+                  <p><persName ref="#Jephson_Miss" cert="low">Miss Jephson</persName> &amp; <persName
                         ref="#Crowther_Mr">Mr. Crowther</persName> spent the morning here--not well
                      at night--<persName ref="#Russell_M">Granny</persName> away</p>
                </div>
@@ -9647,7 +9645,7 @@ Publisher:	London : [publisher not identified], 1786.
                <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and
                   introduces a discrepancy. The date number is correct here but on consulting a
                   perpetual calendar, we presume the day of the week should be Wednesday?</note>
-               <p><persName ref="#Mock_Mr">Mr. Mock</persName> called--wrote to <persName
+               <p><persName ref="#Monck_JB">Mr. Monck</persName> called--wrote to <persName
                   ref="#Talfourd_Thos">Mr. Talfourd</persName>.</p>
             </div>
             <!-- 2024-01-25 hjb: Seems like a new person. Never seen him before, can't find him in the other entries -->
@@ -9657,7 +9655,7 @@ Publisher:	London : [publisher not identified], 1786.
                   introduces a discrepancy. The date number is correct here but on consulting a
                   perpetual calendar, the day of the week should be Thursday.</note>
                <p>Better--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName
-                     ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
+                     ref="#Jephson_Miss" cert="low">Miss Jephson</persName> &amp; <persName
                      ref="#Dickinson_Mrs">Mrs Dickinson</persName> called--wrote to <persName
                      ref="#James_Miss">Miss James</persName>.</p>
             </div>
@@ -9686,7 +9684,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName 
                      ref="#Nooth_C">Miss Nooth</persName> &amp; to <persName ref="#Talfourd_Thos"
                      >Mr. Talfourd</persName>--worked at <title ref="#Foscari_MRMplay"
-                     >Foscari</title>--<persName ref="#Jephson_Em" cert="low">Miss
+                     >Foscari</title>--<persName ref="#Jephson_Miss" cert="low">Miss
                      Jephson</persName> called.</p>
             </div>
             <div type="entry" xml:id="e-980">
@@ -9706,8 +9704,7 @@ Publisher:	London : [publisher not identified], 1786.
                <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and
                   introduces a discrepancy. The date number is correct here but on consulting a
                   perpetual calendar, the day of the week should be Tuesday.</note>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Em"
-                     cert="low">Miss Jephson</persName>, dear sweet girl, called to take leave &amp;
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Miss">Miss Jephson</persName>, dear sweet girl, called to take leave &amp;
                      gave me a pretty ring of her own making--worked a little at <title
                      ref="#Foscari_MRMplay">Foscari</title>.</p>
             </div>
@@ -9911,10 +9908,26 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                </person>
                
+               <person xml:id="Jephson_Miss" sex="f">
+                  <persName>Miss Jephson</persName>
+                  <note resp="#ebb #hjb">Probably not the same person as <persName ref="#Jephson_Em">Emily Jephson</persName>, 
+                     who was from Ireland and a correspondent of Mitford’s from 1829 onward.
+                    Mitford mentions Miss Jephson in her Journal beginning on <date when="1821-09-05">5 September 1821</date> (she called while Mitford was out) and it seems she was visiting the
+                     area through <date when="1821-09-18">18 September</date>. 
+                    Mitford records meeting Miss Jephson on <date when="1821-09-06">6 September 1821</date>, on which day she writes, 
+                     <q>Miss Jephson spent the morning here--a very charming young woman from <persName 
+                        ref="#Crowther_Mr">Mr. Crowther</persName>'s.</q> From the last entry mentioning her, 18 September 1821, Miss Jephson appears to be ending her visit:
+                     <q>Miss Jephson, dear sweet girl, called to take leave &amp;
+                           gave me a pretty ring of her own making.</q> This Miss Jephson seems to have been visiting the Crowthers mentioned in Mitford’s Journal at this time.
+                  If this is the same person as <persName ref="Jephson_Em">Emily Jephson</persName>, it would mean their friendship may begin in 1821, rather than 1829. 
+                     This Miss Jephson also provides some context on the Mr. Crowther mentioned in Mitford’s Journal.
+                  </note>
+               </person>
+               
                <person xml:id="Jephson_Em" sex="f">
                   <persName>Emily Jephson</persName>
                   <persName>
-                     <surname>Jephson</surname>
+                     <surname>Jephson</surname>"
                      <forename>Emily</forename>
                      <forename>Esther</forename>
                   </persName>
@@ -9929,22 +9942,11 @@ Publisher:	London : [publisher not identified], 1786.
                   Mitford wrote to her at Castle Martyr, Ireland, and at No. 1 Charles Street,
                      <placeName ref="#Twickenham">Twickenham</placeName>. Grandniece of playwright
                      Robert Jephson.  
-                     <!-- 2023-11-14 ebb with tsa and srr: We're thinking this is PROBABLY the same Miss Jephson mentioned repeatedly in 
-                     this journal starting in 1821, but we're not sure! If it is, we should add to this entry and alter the date of the beginning of their friendship from 1829to 1821!-->
+                     <!-- 2023-11-14 ebb with tsa and srr: We are NOT SURE whether this is the Miss Jephson mentioned repeatedly in 
+                     this journal starting in 1821. IF THEY TURN OUT TO BE THE SAME PERSON, we should add to this entry and alter the date of the beginning of their friendship from 1829 to 1821!-->
                   </note>
                </person>
-               
-               <person xml:id="Mock_Mr" sex="m">
-                  <persName>Mr. Mock</persName>
-                  <persName>
-                     <surname>Mock</surname>
-                  </persName>
-                  <note resp="#hjb">Called <persName ref="#MRM">Mitford</persName> in <date
-                     when="1821">1821</date>.
-                     <!-- 2023-02-02 hjb: Need more info on this person. -->
-                  </note>
-               </person>
-               
+                 
                <person xml:id="Hawkins_L" sex="f">
                   <persName>Laetitia Matilda Hawkins</persName>
                   <persName>
@@ -9959,7 +9961,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName ref="#Twickenham">Twickenham</placeName>
                   </death>
                   <occupation type="literary" subtype="novelist"/>
-                  <note resp="#hjb">Author of Heraline; or, Opposite Proceedings.</note>
+                  <note resp="#hjb">Author of <title ref="#Heraline_LMH">Heraline; or, Opposite Proceedings</title>.</note>
                   <note>
                      <ref target="https://orlando.cambridge.org/profiles/hawkla"/>
                   </note>
@@ -9970,8 +9972,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <persName>
                      <surname>Tweddell</surname>
                   </persName>
-                  <note resp="#hjb">A friend of <persName ref="#MRM">Mitford</persName>. Called
-                     <persName ref="#MRM">Mitford</persName> on January 26, 1821.</note>
+                  <note resp="#hjb">A friend of <persName ref="#MRM">Mitford</persName>. Visited
+                     <persName ref="#MRM">Mitford</persName> on <date when="1821-01-26">January 26, 1821</date>.</note>
                </person>
 
 
@@ -10004,7 +10006,7 @@ Publisher:	London : [publisher not identified], 1786.
                      </geo>
                   </location>
                   <note>Village that Mitford mentions visiting with her father and the dogs in the
-                     Journal, 10 November 1820. They continued on that day to the village of
+                     Journal, <date when="1820-11-10">10 November 1820</date>. They continued on that day to the village of
                         <placeName ref="#Tadley">Tadley</placeName>.</note>
 
                </place>
@@ -10018,7 +10020,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <geo>51.3506 -1.1376</geo>
                   </location>
                   <note>Village that Mitford travels to with her father and the dogs while coursing
-                     on 10 November 1820. They visit here after stopping in Aldermaston.</note>
+                     on <date when="1820-11-10">10 November 1820</date>. They visit here after stopping in Aldermaston.</note>
                </place>
             </listPlace>
          </div>
@@ -10054,7 +10056,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <publisher>Francis, Charles and John Rivington</publisher>
                   <date when="1821">1821</date>
                   <note resp="#hjb">4 vols. Mitford mentions reading this book in her journal
-                     entry of August 9, 1821.</note>
+                     entry of <date when="1821-08-09">August 9, 1821</date>.</note>
                </bibl>
                
                <bibl xml:id="Mems_AnneBoleyn">
@@ -10067,7 +10069,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
                   <date when="1818">1821</date>
                   <note resp="#lmw">2 vols. Mitford mentions reading this book in her journal
-                     entries of March 25, 26, and 27, 1821.</note>
+                     entries of <date from="1821-03-25" to="1821-03-27">March 25, 26, and 27, 1821</date>.</note>
                </bibl>
 
                <bibl xml:id="BowlesPamphletWar_1820">
