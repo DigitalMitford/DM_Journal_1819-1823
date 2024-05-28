@@ -600,36 +600,36 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
                <!-- 2024-05-27 hjb: Adding missing entries -->
                <div type="entry" xml:id="e-36">
-                  <head><date>Wednesday 3</date></head>
+                  <head><date when="1819-02-03">Wednesday 3</date></head>
                   <p>Had a letter from <persName ref="#Holland_Mrs">Mrs Holland</persName> <unclear/> from <persName ref="#James_Mrs"><unclear>Mrs Susan</unclear> James</persName>--Wrote to <persName ref="#Holland_Mrs">Mrs Holland</persName>--had a <unclear/> walk with dear <persName ref="#Mitford_Geo">Drum</persName> and all the <unclear/></p>
                </div>
                <div type="entry" xml:id="e-37">
-                  <head><date>Thursday 4</date></head>
+                  <head><date when="1819-02-04">Thursday 4</date></head>
                   <p>Had a letter from Mrs Clarke--Went <unclear>firtopp</unclear>ing with the <unclear/>--Read letters from the <unclear/> and <persName ref="#Aubrey_John">Aubrey</persName>'s <title
                      ref="#Letters_Hearne_Aubrey">Lives</title></p>
                </div>
                <div type="entry" xml:id="e-38">
-                  <head><date>Friday 5</date></head>
+                  <head><date when="1819-02-05">Friday 5</date></head>
                   <p>Had Mossy--Mossy very amiable--Read Aubrey's Lives very amusing indeed--at home all day.</p>
                </div>
                <div type="entry" xml:id="e-39">
-                  <head><date>Saturday 6</date></head>
+                  <head><date when="1819-02-06">Saturday 6</date></head>
                   <p>Went <unclear>firtopp</unclear>ing--Wrote to Eliza Webb--Read <unclear/>--at home all day. Mossy &amp; <unclear/> very amiable <unclear/> dear loves.</p>
                </div>
                <div type="entry" xml:id="e-40">
-                  <head><date>Sunday 7</date></head>
+                  <head><date when="1819-02-07">Sunday 7</date></head>
                   <p>Wrote to <unclear/>--Went to <placeName ref="#Wokingham_city">Wokingham</placeName>--Met a <unclear/> of a <unclear/> there--&amp; <persName ref="#Williams_Mr">Mr. Williams</persName> liked <persName ref="#Williams_Miss">Mrs Williams</persName> very <unclear/></p>
                </div>
                <div type="entry" xml:id="e-41">
-                  <head><date>Monday 8</date></head>
+                  <head><date when="1819-02-08">Monday 8</date></head>
                   <p>At home add day--<persName ref="#Dickinson_Mrs">Mrs Dickinson</persName> came to <unclear/>--Read the Fast of <unclear/>. <persName ref="#Mitford_Geo">Drum</persName> went to Reading to <unclear/>.</p>
                </div>
                <div type="entry" xml:id="e-42">
-                  <head><date>Tuesday 9</date></head>
+                  <head><date when="1819-02-09">Tuesday 9</date></head>
                   <p>Heard from <persName ref="#Holland_Mrs">Mrs Holland</persName>--write to her and <persName ref="#Dickinson_Mrs">Mrs Dickinson</persName>--Read the Fast of <unclear/>/ Heard from <unclear/>. Wrote to <persName ref="#Mitford_Geo">Drum</persName>.</p>
                </div>
                <div type="entry" xml:id="e-43">
-                  <head><date>Wednesday 10</date></head>
+                  <head><date when="1819-02-10">Wednesday 10</date></head>
                   <p><persName ref="#Dickinson_Mrs">Mrs Dickinson</persName> came and took <unclear/> Reading where we <unclear/>ed Mrs <unclear/> and took her to <placeName ref="#Farley_Hill">Farley Hill</placeName> <unclear/> there--<unclear/> dinner and a dance--<unclear/> the Rigbys--<unclear/></p>
                </div>
                <div type="entry" xml:id="e-44">
