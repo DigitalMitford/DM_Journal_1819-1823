@@ -18,7 +18,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <author ref="#MRM">Mary Russell Mitford</author>
             <editor ref="#rjp">Rebecca J. Parker</editor>
             <editor ref="#srr">Savannah Ricks</editor>
-            <editor ref="#tsa">Tyler Akam</editor>
+            <editor ref="#TSA">Tyler Akam</editor>
             <editor ref="#ebb">Elisa Beshero-Bondar</editor>
             <editor ref="#lmw">Lisa M. Wilson</editor>
             <!-- LMW where to credit Coles? -->
@@ -67,7 +67,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <idno>qB/TU/MIT #1361549 REF. STRONGROOM. Barcode number:
                      34126003337949<!--ebb:is the last digit a g? I think it's a 9, but check at Reading Central Library.--></idno>
                </msIdentifier>
-               <p>Our source text is marked as an <q>original carbon copy</q> of a typed transcript
+               <p>This helpful source text is marked as an <q>original carbon copy</q> of a typed transcript
                   of Mary Russell Mitford's notebook. From the title page of the source text: <q>The
                      transcript of which this is a copy is in the possession of the Public Library,
                      Reading, Berks, England. A photostat copy of the MS is also available at that
@@ -201,7 +201,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                the xml:id like this one.
                -->
                <div type="entry" xml:id="e-1">
-                  <head><date when="1819-01-01"> the 1<hi rend="superscript">st</hi></date> we were
+                  <p><date when="1819-01-01"> the 1<hi rend="superscript">st</hi></date> we were
                      living at <placeName ref="#Bertram_house">Bertram House</placeName>--dear
                         <persName ref="#Russell_M">Granny</persName>, dear <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; I--Our servants poor <persName
@@ -219,8 +219,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         >Selim</persName> our Persian <name ref="#cat">Cat</name>, <persName
                         ref="#Poll_pet">Poll</persName> a <name ref="#cat">tabby</name> do--&amp; 22
                         <name ref="#chicken">Bantam</name>s The 3 old ones given me by poor
-                        <persName ref="#Cliff_Jesse">Jesse Cliff</persName>.</head>
-
+                        <persName ref="#Cliff_Jesse">Jesse Cliff</persName>.
+</p>
                </div>
                <div type="entry" xml:id="e-2">
                   <head>
@@ -266,7 +266,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <l n="7" rend="indent(+2)">Of music &amp; the dance--of all delight</l>
                         <l n="8">The gentle Mistress bountiful &amp; free!</l>
                         <l n="9" rend="indent(+2)">Oh happy night! and oh suceeding day</l>
-                        <l n="10">Far happier when 'mid converse &amp; repose</l>
+                        <l n="10">Far happier when ’mid converse &amp; repose</l>
                         <l n="11" rend="indent(+2)">Handel's sweet strains came sweetened, &amp; the
                            lay</l>
                         <l n="12">Divine of that old Florentine arose</l>
@@ -601,36 +601,35 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <!-- 2024-05-27 hjb: Adding missing entries -->
                <div type="entry" xml:id="e-36">
                   <head><date when="1819-02-03">Wednesday 3</date></head>
-                  <p>Had a letter from <persName ref="#Holland_Mrs">Mrs Holland</persName> <unclear/> from <persName ref="#James_Mrs"><unclear>Mrs Susan</unclear> James</persName>--Wrote to <persName ref="#Holland_Mrs">Mrs Holland</persName>--had a <unclear/> walk with dear <persName ref="#Mitford_Geo">Drum</persName> and all the <unclear/></p>
+                  <p>Had a letter from <persName ref="#Hofland_B">Mrs Hofland</persName> <unclear/> from <persName ref="#James_Mrs"><unclear>Mrs Susan</unclear> James</persName>--Wrote to <persName ref="#Hofland_B">Mrs Hofland</persName>--had a <unclear/> walk with dear <persName ref="#Mitford_Geo">Drum</persName> and all the <unclear/></p>
                </div>
                <div type="entry" xml:id="e-37">
                   <head><date when="1819-02-04">Thursday 4</date></head>
-                  <p>Had a letter from Mrs Clarke--Went <unclear>firtopp</unclear>ing with the <unclear/>--Read letters from the <unclear/> and <persName ref="#Aubrey_John">Aubrey</persName>'s <title
-                     ref="#Letters_Hearne_Aubrey">Lives</title></p>
+                  <p>Had a letter from Mrs Clarke--Went firtopping with the pets--Read <bibl corresp="#Letters_Hearne_Aubrey"><title><q>Letters from the Bodleian Library</q></title> and <persName ref="#Aubrey_John">Aubrey</persName>'s <title>Lives</title></bibl> <note resp="hjb ebb">Mitford's letter of 1819-02-03 to Barbara Hofland (published in Chorley’s Friendships) comments extensively with effusive praise on this particular reading and of Aubrey as a life writer.</note></p>
                </div>
                <div type="entry" xml:id="e-38">
                   <head><date when="1819-02-05">Friday 5</date></head>
-                  <p>Had Mossy--Mossy very amiable--Read Aubrey's Lives very amusing indeed--at home all day.</p>
+                  <p>Had Mossy--Mossy very amiable--Read <bibl corresp="#Letters_Hearne_Aubrey">Aubrey’s <title>Lives</title></bibl> very amusing indeed--at home all day.</p>
                </div>
                <div type="entry" xml:id="e-39">
                   <head><date when="1819-02-06">Saturday 6</date></head>
-                  <p>Went <unclear>firtopp</unclear>ing--Wrote to Eliza Webb--Read <unclear/>--at home all day. Mossy &amp; <unclear/> very amiable <unclear/> dear loves.</p>
+                  <p>Went <unclear>firtopp</unclear>ing--Wrote to Eliza Webb--Read <persName ref="#Burke_E">Burke</persName>--at home all day.<note resp="hjb ebb">In her letter of 1819-02-03 to Barbara Hofland, Mitford wrote, <q>Then I have been travelling through twelve volumes of Burke’s works. What poetry that man wrote and called it prose! Who but Burke could make old party politics, pamphlets, and speeches of fifty years ago, as fresh as yesterday?</q>. This suggests she is reading a collection of Edmund Burke’s writings in February 1819.<!--2024-05-28 ebb: Can we see if there's a volume of Burke's collected writings she might be reading? FOUND: The Works of the Right Honourable Edmund Burke (write a new entry): NOTE: In the 1819-02-12 entry lmw identifies a later edition, published 1823. We may want to update that entry and/or make a new one, and update the note. The current bibl entry could include more of MRM’s praise of Burke's writing that we are reading in these entries! --></note> <persName ref="#Mossy_pet">Mossy</persName> &amp; <persName ref="#Miranda_pet">Miranda</persName> very amiable poor dear loves.</p>
                </div>
                <div type="entry" xml:id="e-40">
                   <head><date when="1819-02-07">Sunday 7</date></head>
-                  <p>Wrote to <unclear/>--Went to <placeName ref="#Wokingham_city">Wokingham</placeName>--Met a <unclear/> of a <unclear/> there--&amp; <persName ref="#Williams_Mr">Mr. Williams</persName> liked <persName ref="#Williams_Miss">Mrs Williams</persName> very <unclear/></p>
+                  <p>Wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName>--Went to <placeName ref="#Wokingham_city">Wokingham</placeName>--Met a prig of a parson <persName>Tom Smith</persName> there--&amp; <persName ref="#Williams_Mr">Mr. Williams</persName> liked <persName>Mr Williams</persName> very much.</p>
                </div>
                <div type="entry" xml:id="e-41">
                   <head><date when="1819-02-08">Monday 8</date></head>
-                  <p>At home add day--<persName ref="#Dickinson_Mrs">Mrs Dickinson</persName> came to <unclear/>--Read the Fast of <unclear/>. <persName ref="#Mitford_Geo">Drum</persName> went to Reading to <unclear/>.</p>
+                  <p>At home all day--<persName ref="#Dickinson_Mrs">Mrs Dickinson</persName> came to see me--Read <title>the Fast of St. Magdalen</title> <!-- 2024-05-28 ebb to hjb: Here's the book by Anna Maria Porter, published 1818: https://archive.org/details/fastofstmagdalen01port/page/210/mode/2up  Please make a new SI entry for it -->. <persName ref="#Mitford_Geo">Drum</persName> went to Reading to dine &amp; sleep.</p>
                </div>
                <div type="entry" xml:id="e-42">
                   <head><date when="1819-02-09">Tuesday 9</date></head>
-                  <p>Heard from <persName ref="#Holland_Mrs">Mrs Holland</persName>--write to her and <persName ref="#Dickinson_Mrs">Mrs Dickinson</persName>--Read the Fast of <unclear/>/ Heard from <unclear/>. Wrote to <persName ref="#Mitford_Geo">Drum</persName>.</p>
+                  <p>Heard from <persName ref="#Hofland_B">Mrs Hofland</persName>--wrote to her and <persName ref="#Dickinson_Mrs">Mrs Dickinson</persName>--Read <title>the Fast of St. Magdalen</title> Heard from <persName ref="#Ogbourn_Miss">Miss Ogbourn</persName>. Wrote to <persName ref="#Mitford_Geo">Drum</persName>.</p>
                </div>
                <div type="entry" xml:id="e-43">
                   <head><date when="1819-02-10">Wednesday 10</date></head>
-                  <p><persName ref="#Dickinson_Mrs">Mrs Dickinson</persName> came and took <unclear/> Reading where we <unclear/>ed Mrs <unclear/> and took her to <placeName ref="#Farley_Hill">Farley Hill</placeName> <unclear/> there--<unclear/> dinner and a dance--<unclear/> the Rigbys--<unclear/></p>
+                  <p><persName ref="#Dickinson_Charles">Mr Dickinson</persName> came and took me to Reading where we fetched Mrs Hofland and took her to <placeName ref="#Farley_Hill">Farley Hill</placeName> dined &amp; slept there--<unclear quantity="2" unit="char"><supplied resp="#ebb">by</supplied></unclear> dinner and a dance--met the Rigbys--<unclear><supplied resp="#ebb">Parfetts</supplied></unclear>--Miss Broughton &amp; Dr. <unclear><supplied>B</supplied></unclear>.</p>
                </div>
                <div type="entry" xml:id="e-44">
                   <head>
@@ -9306,8 +9305,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-933">
                   <head><date when="1821-07-20">Friday 20th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <title 
-                        ref="#Foscari_MRMplay">Foscari</title>--my <name ref="#flower"
-                        >flowers</name> most beautiful, especially the [?].</p>
+                        ref="#Foscari_MRMplay">Foscari</title>--my flowers most beautiful, especially the [?].</p>
                   <!--TSA 2023-10-18 Unsure on what the journal says, but it's possible. I'll look at other flowers she references and try to find similar script.-->
                </div>
                <div type="entry" xml:id="e-934">
@@ -9587,7 +9585,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1821-09-02">Sunday 2nd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
                         ref="#Crowther_Mr">Mr. Crowther</persName> called--Heard from <persName
-                        ref="Jolliffe_Mrs">Mrs. Jolliffe</persName>--wrote to <persName
+                        ref="#Jolliffe_Mrs">Mrs. Jolliffe</persName>--wrote to <persName
                         ref="#James_Miss">Miss James</persName>.</p>
                </div>
                <div type="entry" xml:id="e-978">
@@ -9898,6 +9896,32 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
 
             <listPerson sortKey="histPersons">
+               
+               <person xml:id="Hofland_B" sex="f"><!-- 2024-05-28 UPDATE (small correction: ebb) -->
+                  <persName>Barbara Wreaks Hofland</persName>
+                  <persName>
+                     <surname type="married">Hofland</surname>
+                     <surname type="paternal">Wreaks</surname>
+                     <forename>Barbara</forename>
+                  </persName>
+                  <birth notAfter="1770">
+                     <placeName>Yorkshire, England</placeName>
+                  </birth>
+                  <death when="1844-11-04">
+                     <placeName>Richmond-on-Thames</placeName>
+                  </death>
+                  <occupation type="literary"/>
+                  <note resp="#ebb">Novelist and writer of children’s books popular in England and
+                     America, Barbara Hofland was a native of <placeName>Sheffield,
+                        Yorkshire</placeName>, where she published poems from July 1794 in the local
+                     newspaper, <title ref="#Sheffield_Iris">The Sheffield Iris</title>. Her first
+                     marriage to <persName>Thomas Bradshawe Hoole</persName> left her widowed and in
+                     poverty, raising a son, Frederic, on her own, and she supported herself by
+                     publishing poems and children’s books, and by running a girl’s school in
+                     <placeName>Harrogate</placeName>. Her second marriage was to the artist
+                     <persName ref="#Hofland_TC">Thomas Christopher Hofland</persName>. (Source:
+                     ODNB)</note>
+               </person>
                <!-- 2023-07-16 ebb: We may need a new entry for Mrs. Richard Body. She may not be the same as the Ann Body in our current SI. 
                See https://github.com/DigitalMitford/DM_Journal_1819-1823/issues/70 
                -->
@@ -9953,7 +9977,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Crowther_Mr">Mr. Crowther</persName>'s.</q> From the last entry mentioning her, 18 September 1821, Miss Jephson appears to be ending her visit:
                      <q>Miss Jephson, dear sweet girl, called to take leave &amp;
                            gave me a pretty ring of her own making.</q> This Miss Jephson seems to have been visiting the Crowthers mentioned in Mitford’s Journal at this time.
-                  If this is the same person as <persName ref="Jephson_Em">Emily Jephson</persName>, it would mean their friendship may begin in 1821, rather than 1829. 
+                  If this is the same person as <persName ref="#Jephson_Em">Emily Jephson</persName>, it would mean their friendship may begin in 1821, rather than 1829. 
                      This Miss Jephson also provides some context on the Mr. Crowther mentioned in Mitford’s Journal.
                   </note>
                </person>
@@ -10080,6 +10104,21 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="publications">
 
             <listBibl sortKey="work_MRM">
+               <bibl xml:id="BurkeWks_Rivington"><!-- 2024-05-28 ebb to hjb: Let's UPDATE this entry! -->
+                  <title level="m">The Works of the Rt. Hon. Edmund Burke</title>
+                  <author ref="#Burke_E">Edmund Burke</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>F. C. and J. Rivington</orgName>
+                  </publisher>
+                  <date from="1801" to="1823"/>
+                  <note resp="#lmw">The Rivingtons published a comprehensive edition of Burke's
+                     works and correspondence, including his unpublished manuscripts, between 1801
+                     and 1823, based, in part, on an earlier 3-volume edition by Dodsley. Mitford
+                     calls Burke a <quote>sad turncoat</quote>. Source: Journal.</note>
+               </bibl>
                
                <bibl xml:id="Heraline_LMH">
                   <title level="m">Heraline; or, Opposite Proceedings</title>
