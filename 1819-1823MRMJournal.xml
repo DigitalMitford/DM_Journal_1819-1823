@@ -6096,7 +6096,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Newman</persName> to <persName>Lord Dysart</persName>'s--a very pleasant
                      day.</p>
                </div>
-               <!--TSA 2023-1-24 No James Family ref, no Miss Emily, Miss Newman, and Lord Dysart. When Drum goes home, is that back to wherever they're staying, or ThreeMileCross?-->
+               <!--TSA 2023-1-24 No Miss Newman or Lord Dysart. When Drum goes home, is that back to wherever they're staying, or ThreeMileCross?-->
                <!--TSA 2023-1-18 End of new entries added. They need to be passed over with original handwriting and then the names need tagged-->
                <!--TSA 2023-02-06 New entries being added below-->
             </div>
@@ -6225,7 +6225,11 @@ Publisher:	London : [publisher not identified], 1786.
                <!--TSA 2023-02-13 Maria could be multiple people previously referenced in the doc. might need more context
             2023-02-28 ebb: Note that she's from Arborfield near lime trees.
             -->
-               <!-- 2024-07-01 hjb: Maria Graham (then Mrs. Callcott) mentioned in 1827. Could this be a dog? -->
+               <!-- 2024-07-01 hjb: Could this be a dog? -->
+               <!-- 2024-07-03 ebb: Could be, or just someone local to her named Maria, and possibly a servant or former servant since she does not give a last name.
+               RESOURCE possibly: BERKSHIRE RECORDS: https://www.royalberkshirearchives.org.uk/parochial-register?parishname=Abingdon   
+              
+               -->
                <div type="entry" xml:id="e-560">
                   <head><date when="1820-07-12">Wednesday 12th</date></head>
 
@@ -10754,24 +10758,6 @@ Publisher:	London : [publisher not identified], 1786.
                     </note>
                     <note resp="#hjb">Scottish writer. Often gave lectures that <persName ref="#MRM"
                             >Mitford</persName> attended.</note>
-                </person>
-                <person xml:id="Mozart_WA" sex="m">
-                    <persName>Wolfgang Amadeus Mozart</persName>
-                    <persName>
-                        <surname>Mozart</surname>
-                        <forename>Wolfgang</forename>
-                        <forename>Amadeus</forename>
-                    </persName>
-                    <birth when="1756-01-27">
-                        <placeName>Salzburg</placeName>
-                    </birth>
-                    <death when="1791-12-05">
-                        <placeName>Vienna</placeName>
-                    </death>
-                   <occupation type="artist"/>
-                    <note>
-                        <ref target="https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"/>
-                    </note>
                 </person>
                 <person xml:id="Newell_Mr">
                     <persName>Mr. Newell</persName>
