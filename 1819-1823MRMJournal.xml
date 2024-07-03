@@ -6473,7 +6473,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-08-09">Wednesday 10th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--Heard from <persName
                         ref="#Haydon">Mr. Haydon</persName> &amp; <persName ref="#Rowden_Fr">Mrs.
-                           Rowden</persName>--worked at my black gown for the poor <persName ref="#Charolette_Duchess">Duchess of
+                           Rowden</persName>--worked at my black gown for the poor <persName ref="#Charlotte_Duchess">Duchess of
                         York</persName>'s death--poor dear <persName ref="#Molly_pet"
                         >Molly</persName> was spayed--she never said a word, poor love--walked with
                         <persName ref="#Mitford_Geo">Drum</persName>.</p>
@@ -10254,7 +10254,7 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
-               <org xml:id="Anstruthers">
+               <org xml:id="Anstruthers"><!-- 2024-07-03 ebb hjb UPDATING entry -->
                   <orgName>the Anstruther family</orgName>
                   <orgName>
                      <surname>Anstruther</surname>
@@ -10262,12 +10262,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>
                      <addName>Anstruthers</addName>
                   </orgName>
-                  <note resp="#lmw">The family of <persName ref="#Anstruther_Col">Col.
+                  <note resp="#lmw #hjb">The family of <persName ref="#Anstruther_Col">Col.
                      Anstruther</persName>. Associated with <placeName ref="#Reading_city"
-                        >Reading</placeName>.</note>
-                  <note resp="#hjb">Contains <persName ref="#Anstruther_Col">Colonel
-                     Anstruther</persName>
-                     <persName ref="#Anstruther_Mrs">Mrs. Anstruther</persName> and <persName
+                        >Reading</placeName>. Includes <persName ref="#Anstruther_Col">Colonel
+                     Anstruther</persName>, <persName ref="#Anstruther_Mrs">Mrs. Anstruther</persName>, and <persName
                         ref="#Anstruther_Miss">Miss Anstruther</persName></note>
                </org>
                <org xml:id="Bodys">
@@ -10297,6 +10295,18 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#hjb">Contains <persName ref="#Dickinson_Charles">Charles
                      Dickinson</persName> and <persName ref="#Dickinson_Mrs">Mrs.
                         Dickinson</persName>.</note>
+               </org>
+               <org xml:id="Haywards"> <!-- 2024-07-03 UPDATING THIS ENTRY -->
+                  <orgName>the Hayward family </orgName>
+                  <orgName>
+                     <surname>Hayward</surname>
+                  </orgName>
+                  <orgName>
+                     <addName>Haywards</addName>
+                  </orgName>
+                  <note resp="#ebb #lmw #srr #hjb">Likely includes <persName ref="#Hayward_Wm_father">Mr. William Hayward</persName> the elder
+                     &amp; his spouse <persName ref="#Hayward_MrsW">Mrs. W. Hayward</persName>, a brewing family connected with inns in
+                     <placeName ref="#Watlington">Watlington</placeName>. Their son <persName ref="#Hayward_Wm_son">William Hayward</persName> the younger, eventually married <persName ref="#Webb_Jane">Jane Webb</persName>. Mitford mentions their son, Henry Hayward in her Journal as marrying <persName ref="#Dodd_Anne">Anne Dodd</persName> on 27 December 1819.</note>
                </org>
                <org xml:id="James_Fam">
                   <orgName>the James Family</orgName>
@@ -10333,13 +10343,11 @@ Publisher:	London : [publisher not identified], 1786.
                   <surname>Westbrook</surname>
                   <note resp="#hjb">Met <persName ref="#MRM">Mitford</persName> on <date when="1820-07-26">July 26 1820</date>,
                      and dined with them on <date when="1820-08-18">August 18 1820</date>.</note>
-               </org>
-               
+               </org>            
             </listOrg>
-            
-
+        
             <listPerson sortKey="histPersons">
-               <person xml:id="Anstruther_Col" sex="m">
+               <person xml:id="Anstruther_Col" sex="m"> <!-- 2024-07-03 hjb and ebb: UPDATING to include info from his death record on ancestry.com  -->
                     <persName>Colonel Anstruther</persName>
                     <persName>
                         <surname>Anstruther</surname>
@@ -10362,7 +10370,7 @@ Publisher:	London : [publisher not identified], 1786.
                             ref="#Anstruther_Miss">Miss Anstruther</persName>, in <placeName
                             ref="#Reading_city">Reading</placeName>. </note>
                 </person>
-                <person xml:id="Anstruther_Miss" sex="f">
+                <person xml:id="Anstruther_Miss" sex="f"><!-- 2024-07-03 ASK LMW re this: We have questions. Maybe we can update this entry? -->
                     <persName>Miss Anstruther</persName>
                     <persName>
                         <surname type="paternal">Anstruther</surname>
@@ -10374,7 +10382,7 @@ Publisher:	London : [publisher not identified], 1786.
                         unknown. Dates unknown.</note>
                     <!-- 2024-06-28 hjb: I am almost 100% certain that this is Mary Anstruther because Mary is the daughter that married Henry Mitford... which would explain why <persName ref="#MRM">Mary Mitford</persName> would know of the Anstruthers. He could be a distant cousin. They are in the same family tree but I am struggling to find out exactly how the two are related. https://www.ancestry.com/family-tree/person/tree/79120268/person/340183901819/facts -->
                 </person>
-                <person xml:id="Anstruther_Mrs" sex="f">
+                <person xml:id="Anstruther_Mrs" sex="f"> <!-- THIS WILL BE A NEW ENTRY IN THE SI -->
                     <persName>Mary Donaldson</persName>
                     <persName>
                         <surname type="paternal">Donaldson</surname>
@@ -10393,7 +10401,8 @@ Publisher:	London : [publisher not identified], 1786.
                             Anstruther</persName>. Mother of <persName ref="#Anstruther_Miss">Miss
                             Anstruther</persName>.</note>
                 </person>
-                <person xml:id="Belzoni_Gio" sex="m">
+                <person xml:id="Belzoni_Gio" sex="m"><!-- NEW ENTRY for SI -->
+                   <!-- TO HJB: WE NEED TO ADD A NEW BIBL ENTRY FOR BELZONI'S NARRATIVE. -->
                     <persName>Giovanni Battista Belzoni</persName>
                     <persName>
                         <surname>Belzoni</surname>
@@ -10406,29 +10415,39 @@ Publisher:	London : [publisher not identified], 1786.
                     <death when="1823-12-03">
                         <placeName>Gwato, Benin</placeName>
                     </death>
-                    <note resp="#hjb">An Italian explorer and archaeologist. Wrote Narrative of the
+                    <note resp="#hjb">An Italian explorer and archaeologist. Wrote <title level="m">Narrative of the
                         Operations and Recent Discoveries within the Pyramids, Temples, Tombs, and
-                        Excavations, in Egypt and Nucia.</note>
+                        Excavations, in Egypt and Nucia</title>. Mitford mentions reading Belzoni’s Narrative in her Journal on 29 September 1821.</note>
                 </person>
-                <person xml:id="Brumoy_P">
-                    <persName>Pierre Brumoy</persName>
-                    <persName>
-                        <surname>Brumoy</surname>
-                        <forename>Pierre</forename>
-                    </persName>
-                    <birth when="1688-08-26">
-                        <placeName>Rouen</placeName>
-                    </birth>
-                    <death when="1742-04-16">
-                        <placeName>Paris</placeName>
-                    </death>
-                    <note resp="#hjb">
-                        <ref target="https://en.wikipedia.org/wiki/Pierre_Brumoy"/>
-                    </note>
-                    <note resp="#hjb">French Jesuit. Author of <title ref="#Theatre_Grecs">Le
-                            Théâtre des Grecs</title>.</note>
-                </person>
-               <person xml:id="Charolette_Duchess">
+               <person xml:id="Brumoy_Pierre" sex="m"> <!-- 2024-07-04: ebb with hjb: UPDATING EXISTING ENTRY, adding Wikipedia page. 
+               DO WE NEED TO ADD A REFERENCE TO A BOOK? 
+               -->
+                  <persName>Pierre Brumoy</persName>
+                  <persName>
+                     <surname>Brumoy</surname>
+                     <forename>Pierre</forename>
+                     <roleName>Father</roleName>
+                  </persName>
+                  <birth when="1688">
+                     <placeName>Rouen, France</placeName>
+                  </birth>
+                  <death when="1742">
+                     <placeName>Paris, France</placeName>
+                  </death>
+                  <occupation type="religious" subtype="clergy"/>
+                  <occupation type="literary"/>
+                  <note resp="#lmw">French author and Jesuit priest, called le pere Brumoy or Father Brumoy, author of
+                     <title ref="#Th_d_Gr">Theatre des Greces</title>, later translated into English by
+                     <persName>Charlotte Lennox</persName> as <title level="m">The Greek Theatre of Father
+                        Brumoy</title>(2 vols., 1759). According to her letters, <persName ref="#MRM">Mitford</persName> read this work in the original French.</note>
+                  <note>
+                     <ref target="http://viaf.org/viaf/24624020"/>
+                  </note>
+                  <note resp="#hjb">
+                     <ref target="https://en.wikipedia.org/wiki/Pierre_Brumoy"/>
+                  </note>
+               </person> 
+               <person xml:id="Charlotte_Duchess"> <!-- NEW ENTRY -->
                   <persName>Friederike Charlotte Ulrike Katharina, Duchess of York and Albany</persName>
                   <persName>
                      <roleName>Duchess of York and Albany</roleName>
@@ -10439,8 +10458,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <death when="1820-08-06">
                      <placeName>Oatlands Park, Surrey, England</placeName>
                   </death>
+                  <note resp="#ebb #hjb">Mitford mentions that she was working on a black gown for the death of the Duchess in her Journal on August 9, 1820.</note>
+                  <note><ref target="https://en.wikipedia.org/wiki/Princess_Frederica_Charlotte_of_Prussia"/></note>
                </person>
-                <person xml:id="Crawfurd_J">
+                <person xml:id="Crawfurd_J"> <!-- NEW ENTRY -->
                     <persName>John Crawfurd</persName>
                     <persName>
                         <surname>Crawfurd</surname>
@@ -10460,7 +10481,8 @@ Publisher:	London : [publisher not identified], 1786.
                         which was read by <persName ref="#MRM">Mitford</persName> on <date when="1820-11-30">30 November
                         1820</date>.</note>
                 </person>
-                <person xml:id="Dodd_Anne">
+                <person xml:id="Dodd_Anne"><!-- NEW ENTRY -->
+                   <!-- ebb: Is she any relation to DoddCE (Charles Dodd) in our SI? -->
                     <persName>Anne Dodd</persName>
                     <persName>
                         <surname type="married">Hayward</surname>
@@ -10475,7 +10497,7 @@ Publisher:	London : [publisher not identified], 1786.
                        <persName ref="#MRM"> Mitford</persName> in her journal on <date when="1820-01-06">6 January
                         1820</date>.</note>
                 </person>
-                <person xml:id="Dubois_JA" sex="m">
+                <person xml:id="Dubois_JA" sex="m"> <!-- NEW ENTRY -->
                     <persName>Jean-Antoine Dubois</persName>
                     <persName>Abbé J. A. Dubois</persName>
                     <persName>
@@ -10489,7 +10511,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Etrangères de Paris. <title ref="#AccountOfIndia">Wrote Hindu manners,
                             customs and ceremonies</title>.</note>
                 </person>
-                <person xml:id="Filleul_A">
+                <person xml:id="Filleul_A"> <!-- NEW ENTRY -->
                     <persName>Adélaïde-Émilie Filleul, Marquise de Souza-Botelho</persName>
                     <persName>
                         <surname>Filleul</surname>
@@ -10498,11 +10520,11 @@ Publisher:	London : [publisher not identified], 1786.
                     </persName>
                     <birth when="1761-05-14"/>
                     <death when="1836-04-19"/>
-                    <note resp="#hjb">
+                   <note resp="#hjb">Author of <title level="m" ref="#Mademoiselle_Tournon">Mademoiselle de Tournon</title> which Mitford mentions reading in her Journal on September 22 and 23, 1820.
                         <ref target="https://www.wikiwand.com/en/Adelaide_Filleul,_Marquise_de_Souza-Botelho"/>
                     </note>
                 </person>
-                <person xml:id="Foscolo_Ugo" sex="m">
+                <person xml:id="Foscolo_Ugo" sex="m"> <!-- NEW ENTRY -->
                     <persName>Ugo Foscolo</persName>
                     <persName>
                         <surname>Foscolo</surname>
@@ -10526,7 +10548,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <ref target="https://en.wikipedia.org/wiki/Ugo_Foscolo"/>
                     </note>
                 </person>
-                <person xml:id="Goddard_Mr" sex="m">
+                <person xml:id="Goddard_Mr" sex="m"> <!-- NEW ENTRY. For LMW: Do you know anything more? -->
                     <persName>Mr. Goddard</persName>
                     <persName>
                         <surname>Goddard</surname>
@@ -10535,7 +10557,7 @@ Publisher:	London : [publisher not identified], 1786.
                     <note resp="#hjb">Gave <persName ref="#Hill_Lucy">Lucy Hill</persName> away at
                         wedding.</note>
                 </person>
-                <person xml:id="Hawkins_L" sex="f">
+                <person xml:id="Hawkins_L" sex="f"> <!-- NEW ENTRY -->
                     <persName>Laetitia Matilda Hawkins</persName>
                     <persName>
                         <surname>Hawkins</surname>
@@ -10932,26 +10954,30 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                   <note resp="#hjb">Most likely Farmer Smith based on Ancestry records. Likely neighbor of <persName ref="#MRM">Mitford</persName> at <placeName ref="#ThreeMileCross">her home</placeName>.</note>
                </person>
-                <person xml:id="Southey_R" sex="m">
-                    <persName>Robert Southey</persName>
-                    <persName>
-                        <surname>Southey</surname>
-                        <forename>Robert</forename>
-                    </persName>
-                    <birth when="1774-08-12">
-                        <placeName>Bristol</placeName>
-                    </birth>
-                    <death when="1843-03-21">
-                        <placeName>Kirkby</placeName>
-                    </death>
-                    <occupation type="literary" subtype="poet"/>
-                    <note resp="#hjb">Poet Laureate of the United Kingdom from 1813 until his death
-                        in 1843.</note>
-                    <note>
-                        <ref target="https://en.wikipedia.org/wiki/Robert_Southey"/>
-                    </note>
-                </person>
-                <person xml:id="Ude_L" sex="m">
+               
+               <person xml:id="Southey_R" sex="m"> <!-- 2024-07-03 ebb with hjb updating this entry with Journal refs. -->
+                  <persName>Robert Southey</persName>
+                  <persName>
+                     <forename>Robert</forename>
+                     <surname>Southey</surname>
+                  </persName>
+                  <birth when="1774-08-12">
+                     <placeName>Bristol, England</placeName>
+                  </birth>
+                  <death when="1843-03-21">
+                     <placeName ref="#London_city">London, England</placeName>
+                  </death>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="scholar"/>
+                  <occupation type="literary" subtype="biographer"/>
+                  <occupation type="literary" subtype="essayist"/>
+                  <note resp="#lmw">English poet, historian, essayist, and biographer. Early friend of <persName ref="#Coleridge_ST">Coleridge</persName>. He was Poet Laureate of England from 1813 to 1843. Mitford mentions reading Southey’s <title level="m">Life of Wesley</title> in her Journal on April 27, 28, and May 9 1820.</note>
+                  <note>
+                     <ref target="http://viaf.org/viaf/61576896"/>
+                  </note>
+               </person>
+                <person xml:id="Ude_L" sex="m"> <!-- 2024-07-03 ebb with hjb: We cannot determine why we added this entry, 
+                   but are searching for where we may have found reference to this interesting person!  -->
                     <persName>Louis Eustache Ude</persName>
                     <persName>
                         <surname>Ude</surname>
@@ -10965,26 +10991,25 @@ Publisher:	London : [publisher not identified], 1786.
                         Author of a highly successful cookbook, <title ref="#FrenchCooking">The
                             French Cook</title>.</note>
                 </person>
-                <person xml:id="Wordsworth_W" sex="m">
-                    <persName>William Wordsworth</persName>
-                    <persName>
-                        <surname>Wordsworth</surname>
-                        <forename>William</forename>
-                    </persName>
-                    <birth when="1770-04-07">
-                        <placeName>Cockermouth</placeName>
-                    </birth>
-                    <death when="1850-04-23">
-                        <placeName>Rydal Mount</placeName>
-                    </death>
-                    <occupation type="literary" subtype="poet"/>
-                    <note resp="#hjb">Poet Laureate of the United Kingdom from 1843 until his death
-                        in 1850.</note>
-                    <note>
-                        <ref target="https://en.wikipedia.org/wiki/William_Wordsworth"/>
-                    </note>
-                </person>
-
+               <person xml:id="Wordsworth_Wm" sex="m"><!-- 2024-07-03 ebb with hjb: Correcting and updating this entry slightly. -->
+                  <persName>William Wordsworth</persName>
+                  <persName>
+                     <surname>Wordsworth</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <birth when="1770-04-07">
+                     <placeName>Cockermouth, Cumberland, England</placeName>
+                  </birth>
+                  <death when="1850-04-23">
+                     <placeName>Rydal Mount, near Ambleside, Cumberland, England</placeName>
+                  </death>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="government"/>
+                  <note resp="#lmw #rnes">First-generation poet of the Romantic era, <soCalled>Lake Poet</soCalled> and friend of fellow poet <persName ref="#Coleridge_ST">Coleridge</persName>, who co-authored <title level="m">Lyrical Ballads</title> with him and to whom his major poem <title level="m">The Prelude</title> was originally addressed. Poet Laureate from 1843-1850, succeeding his sometime friend and fellow Lake Poet <persName ref="#Southey_R">Robert Southey</persName> in that role. Mitford mentions reading and copying Wordsworth's poems in her Journal in September 1819.</note>
+                  <note>
+                     <ref target="http://viaf.org/viaf/35723133"/>
+                  </note>
+               </person>
             </listPerson>
          </div>
 
@@ -11029,7 +11054,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <location>
                      <geo>51.403333 -0.3375</geo>
                   </location>
-                  <note resp="#hjb">A Grade I palace owned by the royal family. Originally built for Cardinal Thomas Wolsey, who acted as the chief minister of Henry VIII. Wolsey then gave the palace to Henry VIII. The palace is in two architectural styles, domestic Tudor and Baroque. The last monarch to live in the palace was George II.</note>
+                  <note resp="#hjb">A Grade I palace owned by the royal family. Originally built for Cardinal Thomas Wolsey, who acted as the chief minister of Henry VIII. Wolsey then gave the palace to Henry VIII. The palace is in two architectural styles, domestic Tudor and Baroque. The last monarch to live in the palace was George II. Mitford mentions visiting Hampton Court in her Journal on 3 July 1820, describing it as an <q>delightful place</q> with <q>enchanting Cartoons</q>, which included an impressive self-portrait of Titian.</note>
                </place>
                <place xml:id="Egham">
                   <placeName>Egham</placeName>
@@ -11173,7 +11198,7 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="publications">
 
-            <listBibl sortKey="work_MRM">
+            <listBibl sortKey="work_MRM"> <!-- NEW ENTRY -->
                <bibl xml:id="AccountOfIndia">
                   <title type="main">Description of the character, manners, and customs of the
                      people of India : and of their institutions, religious and civils</title>
