@@ -6770,6 +6770,7 @@ Publisher:	London : [publisher not identified], 1786.
                         >London Magazine</title>--famous!--wrote to <persName ref="#Johnson_Mr">Mr.
                         Johnson</persName> and <persName ref="#Webb_Eliza">Eliza
                      Webb</persName>.</p>
+                  <!-- 2024-07-03 hjb: Are we tagging hares? If so, how? -->
                </div>
                <div type="entry" xml:id="e-619">
                   <head><date when="1820-09-09">Saturday 9th</date></head>
@@ -7463,7 +7464,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-694">
                   <head><date when="1820-11-23">Thursday 23rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName
-                        ref="#James_Miss">Miss James</persName>--knotted <persName>Mrs.
+                     ref="#James_Miss">Miss James</persName>--knotted <persName ref="#Newbery_Mrs">Mrs.
                         Newbery</persName>'s shirt--finished <persName>Maria</persName>'s
                      collar--walked with dear <persName ref="#Mitford_Geo">Drum</persName> &amp; the
                         Pets--<persName ref="#Mitford_Geo">Drum</persName> dined at
@@ -7612,7 +7613,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-710">
                   <head><date when="1820-12-09">Saturday 9th</date></head>
                   <p>In <placeName ref="#London_city">London</placeName>--wrote to <persName
-                        ref="#Russell_M">Granny</persName> &amp; <persName>Mrs.
+                     ref="#Russell_M">Granny</persName> &amp; <persName ref="#Newbery_Mrs">Mrs.
                         Newbery</persName>--(<persName>Miss Bently</persName> has called
                      yesterday)--Bought dear <persName ref="#Russell_M">Granny</persName> a
                      Cloak--called on <persName>Mr. Wright</persName> &amp; <persName>Miss
