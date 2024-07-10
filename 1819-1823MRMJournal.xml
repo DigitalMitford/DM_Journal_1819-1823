@@ -6043,7 +6043,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
                         ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo"
                         >Drum</persName> in <persName>Mr. Eastaff</persName>'s gig &amp; with
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s mare--drove by <placeName
+                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#mare">mare</name>--drove by <placeName
                         ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted--then by
                      <placeName ref="#Egham">Egham</placeName> through <placeName ref="#Park_Windsor">Windsor Park</placeName> (a
                      most beautiful drive), &amp; drank tea at <placeName ref="#Richmond"
@@ -6740,7 +6740,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName ref="#Tadley">Tadley</placeName>--went to see the <placeName>old
                         wells</placeName>--dined &amp; drank tea with <persName ref="#Hill_Lucy"
                         >Lucy</persName>--nearly upset on our way home by that restive beast
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name>mare</name>.</p>
+                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#mare">mare</name>.</p>
                </div>
                <div type="entry" xml:id="e-615">
                   <head><date when="1820-09-05">Tuesday 5th</date></head>
@@ -7127,7 +7127,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--dear <persName
                         ref="#Russell_M">Granny</persName> still at <placeName
                         ref="#Winchester_city">Winchester</placeName>--<persName ref="#Mitford_Geo"
-                        >Drum</persName> at the <placeName>Quarter Sessions</placeName>--heard from
+                           >Drum</persName> at the <rs type="event" ref="#QuarterSessions_Berks"
+                              >Quarter Sessions</rs>--heard from
                         <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName>--wrote to <persName
                         ref="#Dickinson_Mrs">Mrs. Dickinson</persName>.</p>
                </div>
@@ -7137,7 +7138,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--dear <persName
                         ref="#Russell_M">Granny</persName> still at <placeName
                         ref="#Winchester_city">Winchester</placeName>--<persName ref="#Mitford_Geo"
-                        >Drum</persName> at the <placeName>Quarter Sessions</placeName>--read the
+                           >Drum</persName> at the <rs type="event" ref="#QuarterSessions_Berks"
+                              >Quarter Sessions</rs>--read the
                      <title ref="#OldManor_CS">Old Manor House</title>--heard from <persName ref="#Russell_M"
                         >Granny</persName>.</p>
                </div>
@@ -8572,6 +8574,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Johnson_Miss">Miss Johnson</persName>--went <name>Pengewooding</name>
                      [sic]--got a great many.</p>
                </div>
+               <!-- 2024-07-10 hjb: What is Pengewooding? -->
                <div type="entry" xml:id="e-829">
                   <head><date when="1821-04-07">Saturday 7th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went <name ref="#violet"
@@ -11094,7 +11097,10 @@ Publisher:	London : [publisher not identified], 1786.
             </list>
 
             <list sortKey="animals">
-
+               <item xml:id="mare"> <!-- NEW ENTRY -->
+                  <name>Mare</name>
+                  <note resp="#hjb"><persName ref="#Smith_Farm">Farmer Smith</persName> owns one that Mitford borrows on <date when="1820-06-27">June 27 1820</date>, and <date when="1820-09-04">September 4 1820</date>.</note>
+               </item>
                <item xml:id="butterfly"/>
                <!-- srr: Not found in local SI or in Published SI -->
 
