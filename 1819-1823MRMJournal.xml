@@ -6043,7 +6043,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
                         ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo"
                         >Drum</persName> in <persName>Mr. Eastaff</persName>'s gig &amp; with
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#mare">mare</name>--drove by <placeName
+                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>--drove by <placeName
                         ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted--then by
                      <placeName ref="#Egham">Egham</placeName> through <placeName ref="#Park_Windsor">Windsor Park</placeName> (a
                      most beautiful drive), &amp; drank tea at <placeName ref="#Richmond"
@@ -6076,13 +6076,13 @@ Publisher:	London : [publisher not identified], 1786.
                         <persName ref="#Haydon">Haydon</persName> &amp; the
                      <orgName ref="#Monck_family">Moncks</orgName>--saw the <placeName ref="#Regents_Park">Regent's
                      Park</placeName>--went in the evening with the <orgName ref="#Newberys"
-                        >Newberys</orgName> to see <persName>Miss Kelly</persName> at the
-                     <placeName ref="#Thea_Lyceum">English Opera House</placeName>--wrote to dear <persName
+                        >Newberys</orgName> to see <persName ref="#Kelly_FH">Miss Kelly</persName> at the
+                     <placeName ref="#Opera_House">English Opera House</placeName>--wrote to dear <persName
                         ref="#Russell_M">Granny</persName> &amp; <persName ref="#Haydon">Mr.
                         Haydon.</persName></p>
                </div>
-               <!--TSA 2023-1-18 The Monks referenced in this one, and on 1820-06-22 (Mr. Monck) are spelled differently. Are they the same family? -->
-               <!--TSA 2023-1-24 The Monks in this spelling don't have a ref. Miss Kelly, The Perrys, Regent's Park, and English Opera House don't have refs-->
+             
+               <!--TSA 2023-1-24 The Perrys, Regent's Park don't have refs-->
                <fw>June 1820. &amp; July <note resp="ebb">This is positioned in the middle of the
                      previous entry in a page turn.</note></fw>
                <!--TSA 2023-02-28 This might go inside the previous entry, depending on if we want to break it up. The entry from the last page continues into this page, with "June 1820" written at the top.-->
@@ -6740,7 +6740,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName ref="#Tadley">Tadley</placeName>--went to see the <placeName>old
                         wells</placeName>--dined &amp; drank tea with <persName ref="#Hill_Lucy"
                         >Lucy</persName>--nearly upset on our way home by that restive beast
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#mare">mare</name>.</p>
+                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>.</p>
                </div>
                <div type="entry" xml:id="e-615">
                   <head><date when="1820-09-05">Tuesday 5th</date></head>
@@ -7574,7 +7574,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-12-05">Tuesday 5th</date></head>
                   <p>Went with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName
                         ref="#London_city">London</placeName>(<persName ref="#Newberry_J">Mr.
-                           Newbery</persName>'s, <placeName ref="#St_Queen33">33 Great Queen Street</placeName>, which we
+                           Newbery</persName>'s, <placeName ref="#Newbery_house_St_Queen33">33 Great Queen Street</placeName>, which we
                      had all to ourselves)--heard from <persName ref="#Nooth_C">Miss
                         Nooth</persName>--saw <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
                </div>
@@ -10319,7 +10319,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <orgName>
                      <surname>Holden</surname>
                   </orgName>
-                  <note resp="#hjb">Potentially containing  <persName ref="#Holden_Misses">Miss. Holden</persName>, <persName ref="#Holden_John">John Holden</persName>, and <persName ref="Holden_Henry">Henry Holden</persName>. Mentioned by Mitford on <date when="1819-07-02">July 2 1819</date>.</note>
+                  <note resp="#hjb">Potentially containing  <persName ref="#Holden_Misses">Miss. Holden</persName>, <persName ref="#Holden_John">John Holden</persName>, and <persName ref="#Holden_Henry">Henry Holden</persName>. Mentioned by Mitford on <date when="1819-07-02">July 2 1819</date>.</note>
                </org>
                <org xml:id="James_Fam"> <!-- NEW ENTRY -->
                   <orgName>the James Family</orgName>
@@ -10607,7 +10607,7 @@ Publisher:	London : [publisher not identified], 1786.
                         of <persName ref="#Hayward_Wm_father">William Hayward</persName> and
                             <persName ref="#Hayward_MrsW">Mrs. Hayward</persName>.</note>
                 </person>
-                <person xml:id="Hayward_MrsW" sex="f"> <!-- Adding son to note and rewording -->
+                <person xml:id="Hayward_MrsW" sex="f"> <!-- UPDATING Adding son to note and rewording -->
                     <persName>Mary Ann Hayward</persName>
                     <persName>
                         <surname type="married">Hayward</surname>
@@ -10625,7 +10625,7 @@ Publisher:	London : [publisher not identified], 1786.
                             ref="#Hayward_H">Henry Hayward</persName> and <persName
                             ref="#Hayward_Wm_son">William Hayward</persName> the younger. </note>
                 </person>
-                <person xml:id="Hayward_Wm_father" sex="m"> <!-- Adding Son to note -->
+                <person xml:id="Hayward_Wm_father" sex="m"> <!-- UPDATING Adding Son to note -->
                     <persName>William Hayward</persName>
                     <persName>
                         <surname>Hayward</surname>
@@ -10640,7 +10640,7 @@ Publisher:	London : [publisher not identified], 1786.
                             ref="#Hayward_Wm_son">William Hayward</persName> and <persName
                             ref="#Hayward_H">Henry Hayward</persName>.</note>
                 </person>
-                <person xml:id="Hayward_Wm_son" sex="m"> <!-- Adding persName element to father. -->
+                <person xml:id="Hayward_Wm_son" sex="m"> <!-- UPDATING Adding persName element to father. -->
                     <persName>William Hayward</persName>
                     <persName>
                         <surname>Hayward</surname>
@@ -10655,7 +10655,7 @@ Publisher:	London : [publisher not identified], 1786.
                             Webb</persName>. They had two children, Susan Jane (1815-1898) and
                         William Webb (1818-1899).</note>
                 </person>
-                <person xml:id="Hofland_B" sex="f"> <!-- Seems exactly the same as the SI entry. Check with Dr. B -->
+                <person xml:id="Hofland_B" sex="f"> <!-- SMALL UPDATE.-->
                     <persName>Barbara Wreaks Hofland</persName>
                     <persName>
                         <surname type="married">Hofland</surname>
@@ -10669,7 +10669,8 @@ Publisher:	London : [publisher not identified], 1786.
                         <placeName>Richmond-on-Thames</placeName>
                     </death>
                     <occupation type="literary"/>
-                    <note resp="#ebb">Novelist and writer of children’s books popular in England and
+                    <note resp="#ebb">Frequent correspondent of Mitford's, mentioned frequently in her Journal of 1819-1823.
+                       Novelist and writer of children’s books popular in England and
                         America, Barbara Hofland was a native of <placeName>Sheffield,
                             Yorkshire</placeName>, where she published poems from July 1794 in the
                         local newspaper, <title ref="#Sheffield_Iris">The Sheffield Iris</title>.
@@ -10740,6 +10741,26 @@ Publisher:	London : [publisher not identified], 1786.
                         <ref target="https://en.wikipedia.org/wiki/Elizabeth_Inchbald"/>
                     </note>
                 </person>
+               <person xml:id="Kelly_FH">
+                  <persName>Miss Kelly</persName>
+                  <persName>
+                     <surname>Kelly</surname>
+                     <forename>Frances</forename>
+                     <forename>Harriet</forename>
+                  </persName>
+                  <birth when="1805-06-30"><!-- hjb and ebb: as listed on ancestry.com --><placeName>Chelsea, Middlesex, England</placeName></birth>
+                  <death when="1887-03-19"><placeName>Middlesex, England</placeName></death>
+                  <occupation type="theater" subtype="actor"/>
+                  <note resp="#ebb hjb"><persName ref="#MRM">Mitford</persName> mentions traveling to London to see Miss Kelly perform in her Journal on <date when="1820-06-29">June 29, 1820</date>.
+                     It seems possible Mitford might have been going to see her perform in the comic opera, <title level="m">The Promissory Note</title>, 
+                     which opened in the <placeName ref="#Opera_House">Theatre Royal</placeName> on June 29 and continued into July 1820.                
+                  </note>
+                  <note resp="#hjb"><ref target="https://www.ancestry.com/family-tree/person/tree/2219734/person/6115460906/facts">ancestry.com</ref></note>
+                  <!-- 2024-07-10 ebb: SHOULD WE JUST SIMPLIFY ALL ANCESTRY REFS TO JUST THE EXTERNAL SITE SINCE THEY REQUIRE ACCOUNTS?  -->
+                  <note resp="#ebb">
+                     <ref target="https://d1m87s0l7jnwya.cloudfront.net/melodrama/lyceum_1820-07-10_britishlibrary_lsidyv4332b851_1809-1821_lyceum_english_opera_0434/">Romantic Melodrama</ref>
+                  </note>
+               </person>
                 <person xml:id="Macfarlane_Chas"> <!-- NEW ENTRY -->
                     <persName>Charles Macfarlane</persName>
                     <persName>
@@ -10793,7 +10814,8 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName>Reading, Berkshire, England</placeName>
                   </birth>
                   <death when="1874"/>
-                  <note resp="#hjb">Potentially the H. Symonds mentioned on <date when="1820-11-02">November 2 1820</date>. Son of <persName ref="#Simonds_MrsB">Elizabeth Blackall Simonds</persName> and <persName ref="#Simonds_MrB">William Blackall Simonds</persName>.</note>
+                  <note resp="#hjb">Potentially the H. Symonds mentioned on <date when="1820-11-02">November 2 1820</date>. 
+                     Son of <persName ref="#Simonds_MrsB">Elizabeth Blackall Simonds</persName> and <persName ref="#Simonds_MrB">William Blackall Simonds</persName>.</note>
                </person>
                <person xml:id="Simonds_MrB"> <!-- NEW ENTRY -->
                   <persName>William Blackall Simonds</persName>
@@ -10805,7 +10827,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <death when="1843">
                      <placeName>London</placeName>
                   </death>
-                  <note resp="#hjb">Potentially the Monsieur Simon mentioned on <date when="1820-11-02">November 2 1820</date>. Husband of <persName ref="#Simonds_MrsB">Elizabeth Blackall Simonds</persName> and father of <persName ref="#Simonds_MrB">William Blackall Simonds</persName>.</note>
+                  <note resp="#hjb">Potentially the Monsieur Simon mentioned on <date when="1820-11-02">November 2 1820</date>. 
+                     Husband of <persName ref="#Simonds_MrsB">Elizabeth Blackall Simonds</persName> and father of <persName ref="#Simonds_MrB">William Blackall Simonds</persName>.</note>
                </person>
                <person xml:id="Simonds_MrsB"> <!-- NEW ENTRY -->
                   <persName>Elizabeth Blackall Simonds</persName>
@@ -10822,7 +10845,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <death when="1842">
                      <placeName>London</placeName>
                   </death>
-                  <note resp="#hjb">Potentially the Mrs. Blackall Symonds mentioned on <date when="1820-12-16">December 16 1820</date>. Wife of <persName ref="#Simonds_MrB">William Blackall Simonds</persName> and mother of <persName ref="#Simonds_H">Henry Simonds</persName>.</note>
+                  <note resp="#hjb">Potentially the Mrs. Blackall Symonds mentioned on <date when="1820-12-16">December 16 1820</date>. 
+                     Wife of <persName ref="#Simonds_MrB">William Blackall Simonds</persName> and mother of <persName ref="#Simonds_H">Henry Simonds</persName>.</note>
                </person>
                <person xml:id="Smith_Farm"> <!-- NEW ENTRY -->
                   <persName>Farmer Smith</persName>
@@ -10837,7 +10861,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <note>
                      <ref target="https://www.ancestry.com/imageviewer/collections/8767/images/BRKRG9_748_752-0718?treeid=&amp;personid=&amp;usePUB=true&amp;_phsrc=fAx568&amp;_phstart=successSource&amp;pId=8314035"/>
                   </note>
-                  <note resp="#hjb">Most likely Farmer Smith based on Ancestry records. Likely neighbor of <persName ref="#MRM">Mitford</persName> at <placeName ref="#ThreeMileCross">her home</placeName>.</note>
+                  <note resp="#hjb">Most likely Farmer Smith based on Ancestry records. Likely neighbor of <persName ref="#MRM">Mitford</persName> 
+                     at <placeName ref="#ThreeMileCross">her home</placeName>.</note>
                </person>
                
                <person xml:id="Southey_R" sex="m"> <!-- 2024-07-03 ebb with hjb updating this entry with Journal refs. -->
@@ -10856,13 +10881,19 @@ Publisher:	London : [publisher not identified], 1786.
                   <occupation type="scholar"/>
                   <occupation type="literary" subtype="biographer"/>
                   <occupation type="literary" subtype="essayist"/>
-                  <note resp="#lmw">English poet, historian, essayist, and biographer. Early friend of <persName ref="#Coleridge_ST">Coleridge</persName>. He was Poet Laureate of England from 1813 to 1843. Mitford mentions reading Southey’s <title level="m">Life of Wesley</title> in her Journal on April 27, 28, and May 9 1820.</note>
+                  <note resp="#lmw">English poet, historian, essayist, and biographer. Early friend of <persName ref="#Coleridge_ST">Coleridge</persName>. 
+                     He was Poet Laureate of England from 1813 to 1843. Mitford mentions reading Southey’s <title level="m">Life of Wesley</title> 
+                     in her Journal on April 27, 28, and May 9 1820.</note>
                   <note>
                      <ref target="http://viaf.org/viaf/61576896"/>
                   </note>
                </person>
                 <person xml:id="Ude_L" sex="m"> <!-- 2024-07-03 ebb with hjb: We cannot determine why we added this entry, 
-                   but are searching for where we may have found reference to this interesting person!  -->
+                   but are searching for where we may have found reference to this interesting person!  
+                Hadleigh think she ran into this reference combing though Mitford's letters during the timeframe of this journal,
+                that she mentioned a book in the Journal or in the letters that was identified as this one. We think we should add it
+                anyway just in case it turns up! 
+                -->
                     <persName>Louis Eustache Ude</persName>
                     <persName>
                         <surname>Ude</surname>
@@ -10876,7 +10907,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Author of a highly successful cookbook, <title ref="#FrenchCooking">The
                             French Cook</title>.</note>
                 </person>
-               <person xml:id="Wordsworth_Wm" sex="m"><!-- 2024-07-03 ebb with hjb: Correcting and updating this entry slightly. -->
+               <person xml:id="Wordsworth_Wm" sex="m"><!-- UPDATE 2024-07-03 ebb with hjb: Correcting and updating this entry slightly. -->
                   <persName>William Wordsworth</persName>
                   <persName>
                      <surname>Wordsworth</surname>
@@ -10909,7 +10940,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <location>
                      <geo>51.383 -1.150<!-- latitude followed by long separated only by a space--></geo>
                   </location>
-                  <note>Village that <persName ref="#MRM">Mitford</persName> mentions visiting with her father and the dogs in the Journal, <date when="1820-11-10">10 November 1820</date>. They continued on that day to the village of <placeName ref="#Tadley">Tadley</placeName>.</note>
+                  <note>Village that <persName ref="#MRM">Mitford</persName> mentions visiting with her father and the dogs in the Journal, 
+                     <date when="1820-11-10">10 November 1820</date>. They continued on that day to the village of <placeName ref="#Tadley">Tadley</placeName>.</note>
                </place>
                <place xml:id="Arbour"> <!-- NEW ENTRY -->
                   <placeName>Arbour</placeName>
@@ -10929,7 +10961,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#hjb">
                      <ref target="https://en.wikipedia.org/wiki/St_Mary%27s_Church,_Castle_Street,_Reading"/>
                   </note>
-                  <note resp="#hjb">Visited by <persName ref="#MRM">Mitford</persName> on <date when="1820-09-10">September 10 1820</date>. Church where <persName ref="#Hill_Charles">Mr. Hill</persName> and <persName ref="#Hill_Lucy">Lucy</persName> married.</note>
+                  <note resp="#hjb">Visited by <persName ref="#MRM">Mitford</persName> on <date when="1820-09-10">September 10 1820</date>. 
+                     Church where <persName ref="#Hill_Charles">Mr. Hill</persName> and <persName ref="#Hill_Lucy">Lucy</persName> married.</note>
                </place>
                
                <place xml:id="Egham"> <!-- NEW ENTRY -->
@@ -10959,7 +10992,10 @@ Publisher:	London : [publisher not identified], 1786.
                   <location>
                      <geo>51.403333 -0.3375</geo>
                   </location>
-                  <note resp="#rnes">A Grade I palace owned by the royal family. Built in the early sixteenth century by Cardinal Wolsey, then, after Wolsey’s fall, the residence of Henry VIII, Hampton Court Palace has been the residence of royals including <persName ref="#GeoII">George II</persName>, who was the last monarch to occupy it as an official residence. <persName ref="#ChasI">Charles I</persName> spent part of his house arrest there during his imprisonment by Parliament. Mitford mentions visiting Hampton Court in her Journal on 3 July 1820, describing it as an <q>delightful place</q> with <q>enchanting Cartoons</q>, which included an impressive self-portrait of Titian.</note>
+                  <note resp="#rnes #hjb">Built in the early sixteenth century by Cardinal Wolsey, then, after Wolsey’s fall, 
+                     the residence of Henry VIII, Hampton Court Palace has been the residence of royals including <persName ref="#GeoII">George II</persName>, 
+                     who was the last monarch to occupy it as an official residence. <persName ref="#ChasI">Charles I</persName> spent part of his house arrest there during his imprisonment by Parliament. 
+                     Mitford mentions visiting Hampton Court in her Journal on 3 July 1820, describing it as an <q>delightful place</q> with <q>enchanting Cartoons</q>, which included an impressive self-portrait of Titian.</note>
                   <note>
                      <ref target="https://www.hrp.org.uk/hampton-court-palace/#gs.PBGIDr8"/>
                   </note>
@@ -11004,9 +11040,10 @@ Publisher:	London : [publisher not identified], 1786.
                      <ref target="http://www.arborfieldhistory.org.uk/properties_mill.htm"/>
                      <ref target="https://en.wikipedia.org/wiki/Arborfield_Hall"/>
                   </note>
-                  <note resp="#hjb">A paper mill that used a 48 inch paper machine. Most likely produced fine brown paper. Currently used by Thames water. Visited by Mitford on <date when="1820-08-29">Tuesday 29th</date>, and <date when="1819-10-12">Tuesday 12 </date>.</note>
+                  <note resp="#hjb">In Mitford's time, this was a paper mill that used a 48-inch paper machine. Most likely produced fine brown paper. 
+                     Visited by Mitford on <date when="1820-08-29">Tuesday 29th, 1820</date>, and <date when="1819-10-12">Tuesday 12 October, 1819</date>.</note>
                </place>
-               <place xml:id="Overton"> <!-- ADDING ASSOCIATIONS -->
+               <place xml:id="Overton"> <!--UPDATE: ADDING JOURNAL MENTIONS -->
                   <placeName>Overton</placeName>
                   <region>Hampshire</region>
                   <country>England</country>
@@ -11035,21 +11072,25 @@ Publisher:	London : [publisher not identified], 1786.
                   </location>
                   <note resp="#hjb"><persName ref="#MRM">Mitford</persName> rode through on <date when="1820-06-27">June 27, 1820</date>.</note>
                </place>
-               <place xml:id="Saint_Amand"> <!-- Don't remember why this is here -->
+               <place xml:id="Saint_Amand"> <!-- Don't remember why this is here. ebb: Not finding a reference to this in the Journal, wondering if this is part of the French cookbook info? 
+               -->
                   <placeName>Saint-Amand-Montrond</placeName>
                   <district type="department">Cher</district>
                   <region>Centre-Val de Loire</region>
                   <country>France</country>
                   <note resp="#hjb">Commune in France.</note>
                </place>
-               <place xml:id="St_Queen33"> <!-- NEW ENTRY -->
+               <place xml:id="Newbery_house_St_Queen33"> <!-- NEW ENTRY -->
                   <placeName>33 Great Queen Street</placeName>
                   <region>London</region>
                   <country>England</country>
                   <location>
                      <geo>51.515305662435175, -0.12163909072409469</geo>
                   </location>
-                  <note resp="#hjb">A specific address on <placeName ref="#St_QueenG">Great Queen Street</placeName>. Most likely owned by <persName ref="#Newberry_J">Mr. Newbery</persName>. Mentioned by <persName ref="#MRM">Mitford</persName> on <date when="1820-12-05">5 December 1820</date>, <q><persName ref="#Newberry_J">Mr. Newbery</persName>'s, 33 Great Queen Street, which we had all to ourselves</q></note>
+                  <note resp="#hjb">A specific address on <placeName ref="#St_QueenG">Great Queen Street</placeName>. 
+                     Most likely owned by <persName ref="#Newberry_J">Mr. Newbery</persName>. 
+                     Mentioned by <persName ref="#MRM">Mitford</persName> on <date when="1820-12-05">5 December 1820</date>, 
+                     <q><persName ref="#Newberry_J">Mr. Newbery</persName>'s, 33 Great Queen Street, which we had all to ourselves</q></note>
                </place>
                <place xml:id="St_QueenG"> <!-- NEW ENTRY -->
                   <placeName>Great Queen Street</placeName>
@@ -11058,7 +11099,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <location>
                      <geo>51.51571315852602 -0.12101546898777185</geo>
                   </location>
-                  <note resp="#hjb">Mentioned by <persName ref="#MRM">Mitford</persName> on <date when="1820-06-27">June 27 1820</date>, <date when="1820-06-28">June 28 1820</date>, and <date when="1820-12-05">December 5 1820</date>.</note>
+                  <note resp="#hjb">Mentioned by <persName ref="#MRM">Mitford</persName> on <date when="1820-06-27">June 27 1820</date>, 
+                     <date when="1820-06-28">June 28 1820</date>, and <date when="1820-12-05">December 5 1820</date>.</note>
                </place>
                <place xml:id="Tadley"> <!-- NEW ENTRY -->
                   <placeName>Tadley</placeName>
@@ -11068,42 +11110,47 @@ Publisher:	London : [publisher not identified], 1786.
                   <location>
                      <geo>51.3506 -1.1376</geo>
                   </location>
-                  <note>Village that <persName ref="#MRM">Mitford</persName> travels to with her father and the dogs while coursing on <date when="1820-11-10">10 November 1820</date>. They visit here after stopping in <placeName ref="#Aldermaston">Aldermaston</placeName>.</note>
+                  <note>Village that <persName ref="#MRM">Mitford</persName> travels to with her father and the dogs while coursing on 
+                     <date when="1820-11-10">10 November 1820</date>. They visit here after stopping in <placeName ref="#Aldermaston">Aldermaston</placeName>.</note>
                </place>
-               <place xml:id="Thea_Lyceum"> <!-- NEW ENTRY -->
-                  <placeName>Lyceum Theatre</placeName>
+               <place xml:id="Opera_House"> <!-- NEW ENTRY -->
+                  <placeName notAfter="1830">English Opera House</placeName>
+                  <placeName notBefore="1834">New Theatre Royal, Lyceum and English Opera House</placeName>
                   <region>London</region>
                   <country>England</country>
                   <location>
                      <geo>51.511683730658035 -0.12006460946319568</geo>
                   </location>
                   <note resp="#hjb">
-                     <ref target="https://www.thelionking.co.uk/the-lion-king-lyceum-theatre#:~:text=The%20current%20Lyceum%20Theatre%20is,the%20main%20portico%20pillared%20entrance."/>
+                     <ref target="https://www.regencyhistory.net/blog/lyceum-theatre-regency-history-guide-london"/>
                      <ref target="https://en.wikipedia.org/wiki/Lyceum_Theatre,_London"/>
                   </note>
-                  <note resp="#hjb">Was previously the English Opera House until it burnt down in 1830. It was then rebuilt and reopened as the Theatre Royal Lyceum &amp; English Opera House in 1834. After threats to demolish the building by London City Council, the theatre closed in 1939. It then reopened after the war and renamed itself the Lyceum Ballroom. Was then closed in 1986 but then reopened for theatrical use as the Lyceum Theatre. Is currently playing The Lion King Musical. Mitford saw Miss Kelley here on <date when="1820-06-29">June 29, 1820</date>.</note>
+                  <note resp="#hjb">Was known as the <q>English Opera House</q> until it burnt down in 1830. 
+                     It was then rebuilt and reopened as the Theatre Royal Lyceum &amp; English Opera House in 1834. 
+                     After threats to demolish the building by London City Council, the theatre closed in 1939. It then reopened after the war and renamed itself the Lyceum Ballroom. 
+                     Was then closed in 1986 but then reopened for theatrical use as the Lyceum Theatre. Mitford mentions in her Journal on <date when="1820-06-29">June 29, 1820</date> 
+                     that she was going to London to see <persName>Miss Kelly</persName> perform here.</note>
                </place>
             </listPlace>
          </div>
 
          <div type="nature">
 
-
-            <list sortKey="plants">
-
-               <item xml:id="flower"/>
-               <!-- srr: Not found in local SI or in Published SI -->
-
-            </list>
-
             <list sortKey="animals">
-               <item xml:id="mare"> <!-- NEW ENTRY -->
-                  <name>Mare</name>
-                  <note resp="#hjb"><persName ref="#Smith_Farm">Farmer Smith</persName> owns one that Mitford borrows on <date when="1820-06-27">June 27 1820</date>, and <date when="1820-09-04">September 4 1820</date>.</note>
+          
+               <item xml:id="butterfly"> <!-- UPDATED -->
+                  <name>butterfly</name>
+                  <note resp="#alw #lmw #srr">
+                     Mitford mentions seeing <q>a most beautiful butterfly</q> in the grounds near her home in her Journal 
+                     on <date when="1819-09-19">19 September 1819</date>. Insect of the order Lepidoptera with two pairs of large wings that are covered with tiny scales, 
+                     usually brightly colored, and typically held erect when at rest.</note>
+                  <note>
+                     <ptr target="https://species.wikimedia.org/wiki/Lepidoptera"/>
+                  </note>
+                  <note>
+                     <ptr target="https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/butterflies/"/>
+                  </note>
                </item>
-               <item xml:id="butterfly"/>
-               <!-- srr: Not found in local SI or in Published SI -->
-
             </list>
          </div>
 
@@ -11149,7 +11196,7 @@ Publisher:	London : [publisher not identified], 1786.
                            of Poetry</title> (1819)</bibl>.</note>
                </bibl>
                <bibl xml:id="BurkeWks_Rivington">
-                  <!-- 2024-05-28 ebb to hjb: Let's UPDATE this entry! -->
+                  <!-- UPDATED -->
                   <title level="m">The Works of the Right Honorable Edmund Burke</title>
                   <author ref="#Burke_E">Edmund Burke</author>
                   <pubPlace>
@@ -11219,7 +11266,7 @@ Publisher:	London : [publisher not identified], 1786.
                <bibl xml:id="LIEO_Poems"> <!-- UPDATING ENTRY -->
                   <title level="m">Lamia, Isabella, The Eve of St. Agnes, and Other Poems</title>
                   <author>
-                     <persName ref="#Keats"/>
+                     <persName ref="#Keats">John Keats</persName>
                   </author>
                   <pubPlace>
                      <placeName ref="#London_city">London</placeName>
@@ -11232,7 +11279,9 @@ Publisher:	London : [publisher not identified], 1786.
                      <title level="m">Lamia, Isabella, The Eve of St. Agnes, and Other Poems</title>,
                      published in <date when="1820-07">July 1820</date>, was the last volume of
                      Keats’ poems to appear in print during his lifetime. Keats died from
-                     tuberculosis a little over half a year later, in February 1821. Potentially read by Mitford on <date when="1820-09-30">September 30, 1820</date>.</note>
+                     tuberculosis a little over half a year later, in February 1821. 
+                     Potentially read by Mitford, as she mentions Keats's poems in her Journal 
+                     on <date when="1820-09-30">September 30, 1820</date>.</note>
                </bibl>
                <bibl xml:id="Mademoiselle_Tournon"> <!-- NEW ENTRY -->
                   <title>Mademoiselle de Tournon</title>
@@ -11284,17 +11333,16 @@ Publisher:	London : [publisher not identified], 1786.
                   <publisher><orgName>Arthur Hall, Virtue, &amp; Co.</orgName></publisher>
                   <date when="1820">1820</date>
                </bibl>
-               <bibl xml:id="RecluseScotland"> <!-- hjb: I do not think this exists -->
+               <bibl xml:id="RecluseScotland"> <!-- NEW ENTRY -->
                   <title level="m">The Recluse of the Appenines; or the Automaton Chief. A
-                     Romance. By Miss S. L. Breckenridge, Author of <title>Observations on the
-                        present state of Ireland</title></title>
+                     Romance.</title>
                   <author>Sophia Louisa Breckenridge</author>
                   <pubPlace ref="#London_city">London</pubPlace>
                   <publisher><orgName>Sherwood, Neely, and Jones</orgName></publisher>
                   <date when="1820">1820</date>
                   <note resp="#hjb">Read by <persName ref="#MRM">Mitford</persName> in September 1820.</note>
                </bibl>
-               <bibl xml:id="Refugee"> <!-- I cannot find this in the journal, nor can I find an entry on Gleig -->
+               <bibl xml:id="Refugee"> <!-- NEW ENTRY -->
                   <title level="m">The Refugee, a Novel. By the author of <q>The Subalterns</q></title>
                   <author ref="#Gleig_GRA">George Robert Gleig</author>
                   <pubPlace><placeName>Edinburgh</placeName></pubPlace>
@@ -11303,20 +11351,29 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#lmw">3 vols. <persName ref="#MRM">Mitford</persName> mentions reading this book in her journal
                      entry of <date when="1821-08-21">August 21, 1821</date>.</note>
                </bibl>
-               <bibl xml:id="Schlegel"> <!-- Another entry that I cannot find reference to in Journal -->
-                  <title>Vorlesungen über dramatische Kunst und Litteratur</title>
+               <bibl xml:id="Schlegel"> <!-- Another entry that I cannot find reference to in Journal
+               2024-07-10: ebb to hjb TRY TO FIND THE MENTION? WAS IT IN THE LETTERS?
+               --><title>A course of lectures on dramatic art and literature</title>
+ 
                   <author ref="#Schlegel_AW">August Wilhelm Schlegel</author>
+                 <editor role="translator">John Black</editor>
                   <pubPlace>
-                     <placeName ref="#Vienna">Vienna</placeName>
+                     <placeName ref="#London">London</placeName>
                   </pubPlace>
-                  <publisher><orgName>C. Schätz</orgName></publisher>
-                  <date when="1809">1809</date>
-                  <note resp="#hjb">Possibly read by <persName ref="#MRM">Mitford</persName> in 1821.</note>
+                  <publisher><orgName>Baldwin</orgName></publisher>
+                  <date when="1815">1815</date>
+                  <note resp="#hjb #ebb">Translation of <bibl>Schlegel's <title>Vorlesungen über dramatische Kunst und Litteratur</title>, first published in <date>1809</date></bibl>.
+                     Possibly read by <persName ref="#MRM">Mitford</persName> in 1821.</note>
                </bibl>
                <bibl xml:id="Simple_Story">
-                  <title ref="#Simple_Story">A Simple Story</title>
+                  <title level="m">A Simple Story</title>
+                  <author ref="#Inchbald_E">Elizabeth Inchbald</author>
+                  <pubPlace><placeName ref="#London_city">London</placeName></pubPlace>
+                  <publisher>F.C. and J. Rivington</publisher>
+                  <date when="1820">1820</date>
+                <note resp="#ebb #hjb">Mitford mentions reading this book in her Journal on <date when="1820-10-16">October 16, 1820</date>.</note>
                </bibl>
-               <bibl xml:id="Sketches_France"> <!-- No reference to this -->
+              <!-- NOT FOUND  <bibl xml:id="Sketches_France"> <!-\- No reference to this -\->
                   <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
                      account of travels in various parts of France and Switzerland, in the same
                      years.</title>
@@ -11329,7 +11386,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </publisher>
                   <date when="1820">1820</date>
                   <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
-               </bibl>
+               </bibl>-->
                <bibl xml:id="StMagdaleneAM"> <!-- NEW ENTRY -->
                   <title>The fast of St. Magdalen: A Romance</title>
                   <author ref="#Porter_AM">Anna Maria Porter</author>
@@ -11385,19 +11442,6 @@ Publisher:	London : [publisher not identified], 1786.
                   <date when="1821">1821</date>
                   <note resp="#hjb">Mitford mentions reading this on <date when="1821-09-29">September 29, 1821</date>.</note>
                </bibl>
-               <bibl xml:id="Walladmor_Wilson"> <!-- 2024-07-05 hjb: Yet another entry I definitely do not remember putting in... this is so weird -->
-                  <title>Walladmor</title>
-                  <author ref="#Wilson_J">John Wilson</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>
-                     <orgName>Baldwin, Cradock, and Joy</orgName>
-                  </publisher>
-                  <date when="1824">1824</date>
-                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> mentions reading this book in her journal on 28
-                     September 1824.</note>
-               </bibl>
                <bibl xml:id="Wanderer"> <!-- NEW ENTRY -->
                   <title>The Wanderer, a Poem</title>
                   <author ref="#Macfarlane_Chas">Charles Macfarlane</author>
@@ -11405,18 +11449,17 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName>London</placeName>
                   </pubPlace>
                   <date when="1820">1820</date>
+                 
+                  <note resp="#hjb #ebb"><persName ref="#MRM">Mitford</persName> mentions that MacFarlane sent her his poem in her on <date when="1820-08-25">August 25
+                        1820</date>. The Jackson Bibliograpy of Romantic Poetry notes that MacFarlane claims to have published this poem in 1820, but 
+                  no published copy has been found.</note>
                   <note resp="#hjb">
                      <ref target="https://jacksonbibliography.library.utoronto.ca/book/details/the-wanderer-a-poem/24069"/>
                      <ref target="https://jacksonbibliography.library.utoronto.ca/author/details/macfarlane-charles/9169"/>
                      <ref target="https://lordbyron.org/monograph.php?doc=ChMacfa.1917&amp;select=Ch28.2"/>
                   </note>
-                  <note resp="#hjb">A poem that has since been lost to time. No record of the
-                     original exists, and no transcription or copy has been found. Was most
-                     likely published in the London Magazine, but after searching for an hour, I
-                     am empty handed. Read by <persName ref="#MRM">Mitford</persName> on <date when="1820-08-25">August 25
-                        1820</date>.</note>
                </bibl>
-               <bibl xml:id="Waverley"> <!-- FIXING ENTRY --> 
+               <bibl xml:id="Waverley"> <!-- UPDATING ENTRY --> 
                   <title>Waverley</title>
                   <author ref="#Scott_Wal">Walter Scott</author>
                   <pubPlace>
@@ -11424,8 +11467,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </pubPlace>
                   <publisher ref="#Constable_pub">Archibald Constable</publisher>
                   <date when="1814">1814</date>
-                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> mentions reading this book in her journal on 19 May
-                     1819.</note>
+                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> mentions reading this book in her journal several times in 1819 and 1820.</note>
                </bibl>
 
             </listBibl>
