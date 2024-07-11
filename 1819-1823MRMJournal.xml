@@ -6122,14 +6122,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--<persName ref="#Haydon">Mr.
                         Haydon</persName> came &amp; spent the day with us--read <persName
                         ref="#Hofland_B">Mrs. Hofland</persName>'s <title ref="#PrioryTales_H">Tales</title> &amp;
-                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Discourses_Chalmers">new sermons</title>--happy
-                     day.<!-- srr: Is Tales and Chalmers one or two titles? --></p>
+                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Sermons_Chalmers">new sermons</title>--happy
+                     day.</p>
                </div>
                <div type="entry" xml:id="e-551">
 
                   <head><date when="1820-07-03">Monday 3rd</date></head>
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see
-                     <placeName ref="#Court_Hampton">Hampton Court</placeName>--delightful place--enchanting
+                     <placeName ref="#Hampton_Court">Hampton Court</placeName>--delightful place--enchanting
                         Cartoons--<rs type="art">beautiful portrait of <persName ref="#Titian"
                            >Titian</persName> by himself</rs>--returned at 6 to dinner, &amp; heard
                      from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming
@@ -6140,7 +6140,7 @@ Publisher:	London : [publisher not identified], 1786.
 
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to
                      <placeName ref="#Kew_village">Kew</placeName>--called on <persName ref="#Nooth_C">Mrs.
-                        Nooth</persName> &amp; went over the <placeName ref="#Court_Hampton">palace</placeName>--most
+                        Nooth</persName> &amp; went over the <placeName ref="#Hampton_Court">palace</placeName>--most
                      lovely little place with fine books &amp; pictures--left my dear friends there,
                      &amp; went <placeName ref="#ThreeMileCross">home</placeName> to <placeName
                         ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear
@@ -7533,7 +7533,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-11-30">Thursday 30th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear
                         <persName ref="#Russell_M">Granny</persName> &amp; <persName
-                        ref="#Molly_pet">Molly</persName>--read <persName ref="#Perry_Anne">Horatia Perry</persName>'s
+                        ref="#Molly_pet">Molly</persName>--read <persName ref="#Perry_Horatia">Horatia Perry</persName>'s
                         Marriage to a <persName ref="#Crawfurd_J">Mr. Crawfurd</persName> in the Bengal Service.</p>
                </div>
             </div>
@@ -7573,7 +7573,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-706">
                   <head><date when="1820-12-05">Tuesday 5th</date></head>
                   <p>Went with dear <persName ref="#Mitford_Geo">Drum</persName> to <placeName
-                        ref="#London_city">London</placeName>(<persName ref="#Newberry_J">Mr.
+                        ref="#London_city">London</placeName>(<persName ref="#Newbery_J">Mr.
                            Newbery</persName>'s, <placeName ref="#Newbery_house_St_Queen33">33 Great Queen Street</placeName>, which we
                      had all to ourselves)--heard from <persName ref="#Nooth_C">Miss
                         Nooth</persName>--saw <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
@@ -10197,7 +10197,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1099">
                   <head><date when="1821-12-30">Sunday 30th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--read the <title ref="#thePirate">Pirate</title>--began my <title>Tragedy</title>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--read <title ref="#Pirate_novel">the Pirate</title>--began my <title>Tragedy</title>.</p>
                </div>
                <div type="entry" xml:id="e-1100">
                   <head><date when="1821-12-31">Monday 31st</date></head>
@@ -10222,7 +10222,7 @@ Publisher:	London : [publisher not identified], 1786.
       <back>
          <div type="Mitford_Team">
             <listPerson sortKey="Mitford_Team">
-               <person xml:id="hjb">
+               <person xml:id="hjb"> <!-- NEW ENTRY -->
                   <persName>
                      <surname>Bills</surname>
                      <forename>Hadleigh</forename>
@@ -10230,11 +10230,11 @@ Publisher:	London : [publisher not identified], 1786.
                      <roleName>Research Assistant</roleName>
                   </persName>
                   <note resp="#hjb">Hadleigh Jae Bills is a student at Penn State Behrend. Started
-                     working on the <persName ref="#MRM">Mitford</persName> Jornal in October 2023 on transcription and
+                     working on Mitford’s Journal in October 2023 on transcription and
                      proof-checking between the typescript and photofacsimile. She is working
                      towards a B.A. in Digital Media, Arts, and Technology.</note>
                </person>
-               <person xml:id="ham">
+               <person xml:id="ham"> <!-- NEW ENTRY -->
                   <persName>
                      <surname>Hammer</surname>
                      <forename>Nathan</forename>
@@ -10242,17 +10242,24 @@ Publisher:	London : [publisher not identified], 1786.
                      <roleName>Research Assistant</roleName>
                   </persName>
                   <note resp="#ham">Nathan Hammer is a student at Penn State Behrend. Started
-                     working on the <persName ref="#MRM">Mitford</persName> Jornal in October 2023 assigned to write out the
-                     typescript entries from Mary Russell's journal. He is currently exploring
+                     working on Mitford’s Journal in October 2023 
+                     assigned to encode and check the typescript entries from the Coles transcript 
+                     and to develop digital mapping of locations mentioned in the Journal. He is currently exploring
                      technology and digital entertainment, pursuing a B.A. in Digital Media, Arts,
                      and Technology @ Penn State Behrend, with a planned graduation year of
                      2025.</note>
                </person>
             </listPerson>
-            <listOrg sortKey="archives">
-               <org xml:id="BritishMuseum">
-                  <orgName>British Museum</orgName>
-                  <note resp="#hjb">Holds the transcript notebook of Mary Russel Mitford. Presumably own the Copyright for the notes MS, beginning on 1 January 1819 to 11 March 1823.</note>
+            <listOrg sortKey="archives"> 
+               <org xml:id="BL"> <!-- UPDATED ENTRY -->
+                  <orgName notBefore="1973">British Library</orgName>
+                  <orgName from="1753" notAfter="1973">British Museum</orgName>
+                  <note resp="#ghb #hjb">After 1973, the British Library formally separated from the British Museum, 
+                     but papers filed with the British Museum stamp are now held by the British Library. 
+                     Holds around 125 letters, Mitford’s handwritten journal of 1819-1823, as well as manuscripts of Mitford’s
+                     plays submitted to the Examiner’s Office after <date>1825</date>, including
+                     <title ref="#CharlesI_MRMplay">Charles I</title>, <title ref="#Foscari_MRMplay">Foscari</title>, <title ref="#Rienzi">Rienzi</title>,
+                     <title ref="#Inez_deCastro_MRMplay">Inez de Castro</title>, and <title ref="#Sadak_Kalasrade">Sadak and Kalasrade</title>.</note>
                </org>
             </listOrg>
          </div>
@@ -10332,12 +10339,6 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#hjb">Contains <persName ref="#Newell_Mr">Mr. Newell</persName> and
                      <persName ref="#Newell_Mrs">Mrs. Newell</persName>.</note>
                </org>
-               <org xml:id="Perrys"> <!-- NEW ENTRY -->
-                  <orgName>the Perrys</orgName>
-                  <surname>Perry</surname>
-                  <note resp="#hjb">Contains <persName ref="#Perry_James">James
-                     Perry</persName>.</note>
-               </org>
                <org xml:id="Simonds"> <!-- NEW ENTRY -->
                   <orgName>the Simonds</orgName>
                   <surname>Simonds</surname>
@@ -10393,7 +10394,12 @@ Publisher:	London : [publisher not identified], 1786.
                             Anstruther</persName>. <persName ref="#MRM">Mitford</persName> visited
                         her in <placeName ref="#Reading_city">Reading</placeName> in 1819. Forename
                         unknown. Dates unknown.</note>
-                    <!-- 2024-06-28 hjb: I am almost 100% certain that this is Mary Anstruther because Mary is the daughter that married Henry Mitford... which would explain why <persName ref="#MRM">Mary Mitford</persName> would know of the Anstruthers. He could be a distant cousin. They are in the same family tree but I am struggling to find out exactly how the two are related. https://www.ancestry.com/family-tree/person/tree/79120268/person/340183901819/facts -->
+                    <!-- 2024-06-28 hjb: I am almost 100% certain that this is Mary Anstruther because 
+                       Mary is the daughter that married Henry Mitford... which would explain why
+                       <persName ref="#MRM">Mary Mitford</persName> would know of the Anstruthers. 
+                       He could be a distant cousin. They are in the same family tree but I am struggling to 
+                       find out exactly how the two are related. 
+                       https://www.ancestry.com/family-tree/person/tree/79120268/person/340183901819/facts -->
                 </person>
                 <person xml:id="Anstruther_Mrs" sex="f"> <!-- THIS WILL BE A NEW ENTRY IN THE SI -->
                     <persName>Mary Donaldson</persName>
@@ -10459,6 +10465,28 @@ Publisher:	London : [publisher not identified], 1786.
                      <ref target="https://en.wikipedia.org/wiki/Pierre_Brumoy"/>
                   </note>
                </person> 
+               <person xml:id="Chalmers_T">
+                  <persName>Thamas Chalmers</persName>
+                  <persName>
+                     <surname>Chalmers</surname>
+                     <forename>Thomas</forename>
+                  </persName>
+                  <birth when="1780-03-17"><placeName>Anstruther, Fife, Scotland</placeName></birth>
+                  <death when="1847-05-31"><placeName>Edinburgh, Scotland</placeName></death>
+                  <occupation type="religious" subtype="minister"/>
+                  <occupation type="government" subtype="reformer"/>
+                  <note resp="#ebb">Evangelical Presybterian minister of the Church of Scotland 
+                     who sought reform of poor relief and advocated for 
+                     <persName ref="#Malthus_Thomas">Malthus</persName>’s ideas on population 
+                     and resources. He became famous across England for his sermons. Chalmers delivered and published 
+                     a famous memorial sermon on the death of <persName ref="#PrincessCharlotte">Princess Charlotte</persName> 
+                     that called attention to poverty in Glasgow. Mitford mentions in her Journal 
+                     on <date when="1820-07-02">July 2, 1820</date> reading Chalmers's <q>new sermons</q> 
+                     (likely his <title level="m" ref="#Sermons_Chalmers">Sermons preached in the Tron Church, Glasgow</title>) 
+                     while in <placeName ref="#Richmond">Richmond</placeName>.</note>
+                  <note><ref target="https://viaf.org/viaf/64076481/"/></note>
+                  <note><ref target="https://en.wikipedia.org/wiki/Thomas_Chalmers"/></note>
+               </person>
                <person xml:id="Charlotte_Duchess"> <!-- NEW ENTRY -->
                   <persName>Friederike Charlotte Ulrike Katharina, Duchess of York and Albany</persName>
                   <persName>
@@ -10485,13 +10513,18 @@ Publisher:	London : [publisher not identified], 1786.
                     <death when="1868-05-11">
                         <placeName>South Kensington, Middlesex, England</placeName>
                     </death>
-                    <note resp="#hjb">
-                        <ref target="https://www.ancestry.com/family-tree/person/tree/64949843/person/272200920371/facts"/>
-                    </note>
-                    <note resp="#hjb">Married to <persName ref="#Perry_Anne">Horatia
-                            Perry</persName> on <date when="1820-11-25">25 November 1820</date>
-                        which was read by <persName ref="#MRM">Mitford</persName> on <date when="1820-11-30">30 November
-                        1820</date>.</note>
+                  <occupation type="government" subtype="diplomat"/>
+                  <occupation type="government" subtype="administrator"/>
+                    <note resp="#ebb #hjb">British colonial administrator to Southeast Asia, where he studied Malaysian language and culture, and 
+                       served on diplomatic missions to <placeName>Siam</placeName>, <placeName>Bali</placeName>, and <placeName>Java</placeName>. 
+                       Married to <persName ref="#Perry_Horatia">Horatia
+                            Perry</persName> on <date when="1820-11-25">25 November 1820</date>, who traveled with him to Siam in 1821. 
+                       <persName ref="#MRM">Mitford</persName> mentions reading about the marriage on <date when="1820-11-30">30 November
+                        1820</date>, prior to attending a dinner gathering in December 1820 at the home of 
+                       Crawfurd’s new father-in-law, <persName ref="#Perry_James">James Perry</persName>.</note>
+                   <note resp="#hjb">
+                      <ref target="https://www.ancestry.com/family-tree/person/tree/64949843/person/272200920371/facts"/>
+                   </note>
                 </person>
                 <person xml:id="Dodd_Anne"><!-- NEW ENTRY -->
                    <!-- ebb: Is she any relation to DoddCE (Charles Dodd) in our SI? -->
@@ -10703,14 +10736,28 @@ Publisher:	London : [publisher not identified], 1786.
                         <surname>Howell</surname>
                         <roleName>Mrs.</roleName>
                     </persName>
-                    <note resp="#hjb">
-                        <ref target="https://www.ancestry.com/imageviewer/collections/1904/images/31874_222778-00483?pId=1906172"/>
-                        <ref target="https://www.ancestry.com/family-tree/person/tree/116999867/person/290161479174/facts"/>
-                    </note>
-                    <note resp="#hjb">Potential mother or wife of <persName ref="#Howell_W">William
-                            Howell</persName>. Likely neighbor of <persName ref="#MRM">Mitford</persName> while living at <placeName
-                            ref="#Bertram_house">Bertram House</placeName>.</note>
+                    <note resp="#hjb #ebb">Likely a neighbor of <persName ref="#MRM">Mitford</persName> either at <placeName
+                       ref="#Bertram_house">Bertram House</placeName> or <placeName ref="#ThreeMileCross">Three Mile Cross</placeName>, where she 
+                       moved by the end of <date when="1820-03">March 1820</date>. Mitford mentions iin her Journal on <date when="1820-03-24">March 24, 1820</date> 
+                       that she had a quarrel with Mrs. Howell <q>about my Carnations which she stole</q>.
+                       Possibly the mother or wife of <persName ref="#Howell_W">William Howell</persName>, mentioned later 
+                       in the Journal on <date when="1820-08-13">August 13, 1820</date>.</note>
+                   <note resp="#hjb">
+                      <ref target="https://www.ancestry.com/imageviewer/collections/1904/images/31874_222778-00483?pId=1906172"/>
+                      <ref target="https://www.ancestry.com/family-tree/person/tree/116999867/person/290161479174/facts"/>
+                   </note>
                 </person>
+               <person xml:id="Howell_W">
+                  <persName>Will Howell</persName>
+                  <persName>
+                     <surname>Howell</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <note resp="#ebb"><persName ref="#MRM">Mitford</persName> mentions Will Howell in her Journal 
+                     on <date when="1820-08-13">August 13, 1820</date>,
+                  and he appears to be a neighbor of hers. May possibly be related to Mrs. Howell, mentioned in 
+                  her Journal on <date when="1820-03-24">March 24, 1820</date>.</note>
+               </person>
                <person xml:id="Hunt_Mrs"> <!-- NEW ENTRY -->
                   <persName>Hannah Cooper</persName>
                   <persName>
@@ -10735,9 +10782,16 @@ Publisher:	London : [publisher not identified], 1786.
                     <death when="1821-08-01">
                         <placeName>London</placeName>
                     </death>
+                   <occupation type="theater" subtype="actor"/>
+                   <occupation type="literary" subtype="playwright"/>
+                   <occupation type="literary" subtype="translator"/>
                     <occupation type="literary" subtype="novelist"/>
-                    <note resp="#hjb">Author of <title ref="#Simple_Story">A Simple Story</title>.</note>
-                   <note resp="#hjb">
+                    <note resp="#hjb #ebb">Actor, playwright, novelist, and translator, Inchbald is well-known her translation of 
+                       <persName ref="#Kotzebue">August von Kotzebue</persName>’s play, 
+                       <title level="m">Lover’s Vows</title>, which features in <persName ref="#Austen_Jane">Jane Austen</persName>’s <title level="m" ref="#MansfieldPk">Mansfield Park</title>. .
+                       Mitford mentions reading Inchbald’s novel, <title level="m" ref="#Simple_Story">A Simple Story</title> 
+                       in her Journal on <date when="1820-10-16">16 October 1820</date>.</note>
+                   <note resp="#hjb">A
                         <ref target="https://en.wikipedia.org/wiki/Elizabeth_Inchbald"/>
                     </note>
                 </person>
@@ -10784,10 +10838,10 @@ Publisher:	London : [publisher not identified], 1786.
                     <note resp="#hjb">Associated with <persName ref="#Hayward_Wm_father">William
                        Hayward</persName>.Married to <persName ref="#Newell_Mrs">Mrs. Newell</persName>.</note>
                 </person>
-                <person xml:id="Perry_Anne"> <!-- NEW ENTRY -->
+                <person xml:id="Perry_Horatia"> <!-- NEW ENTRY -->
                     <persName>Horatia Anne Perry</persName>
                     <persName>
-                        <surname type="married">Crawfurd</surname>
+                        <surname type="married">Crawfurd <date from="1820-11-25"/></surname>
                         <surname type="paternal">Perry</surname>
                         <forename>Horatia</forename>
                         <forename>Anne</forename>
@@ -10798,10 +10852,58 @@ Publisher:	London : [publisher not identified], 1786.
                     <death when="1861-09-22">
                         <placeName>Kensington, London, England</placeName>
                     </death>
-                    <note resp="#hjb">Married <persName ref="#Crawfurd_J">John Crawfurd</persName>
-                        on <date when="1820-11-25">25 November 1820</date> which was read by Mitford
-                        on <date when="1820-11-30">30 November 1820</date>.</note>
+                    <note resp="#ebb #hjb">Daughter of <persName ref="#Perry_James">James Perry</persName>, 
+                       who invited Mitford to a dinner party in <placeName ref="#London_city">London</placeName> in December 1820.
+                       Mitford mentions in her Journal entry of <date when="1820-11-30">30 November 1820</date> that she read of 
+                       Horatia Perry’s marriage (a week earlier) to the diplomat <persName ref="#Crawfurd_J">John Crawfurd</persName>, then in the Bengali Service.
+                       <date from="1821" to="1822">From 1821 to 1822</date>, Horatia accompanied her husband on a far-eastern mission to Courts of Siamand Cochin 
+                       and was reportedly a subject of great interest in a first contact with islanders in the 
+                       Gulf of Siam.</note>
                 </person>
+               <person xml:id="Perry_James">
+                  <persName>James Perry</persName>
+                  <persName>James Pirie</persName>
+                  <persName>
+                     <surname>Perry</surname>
+                     <forename>James</forename>
+                  </persName>
+                  <occupation type="literary" subtype="journalist"/>
+                  <birth when="1756-10-30"><placeName>Aberdeen, Scotland</placeName></birth>
+                  <death when="1821-12-04"><placeName>Brighton, England</placeName></death>
+                  <note resp="#ebb">Born as James Pirie in Scotland, he presumably anglicized his name on moving to 
+                     London in <date when="1777">1777</date>, where he became a prominent Whig political journalist and owner of <title level="j">The Morning Chronicle</title> from 
+                     <date from="1790" to="1817">1790 to 1817</date>, after which retired from newspaper service due to declining health. 
+                     In the early 1790s he provided thorough on-site reporting of the French Revolution 
+                     from <placeName ref="#Paris">Paris</placeName> and helped to establish <title level="j">The Morning Chronicle</title>’s reputation 
+                     for thorough, accurate reporting [Source: ODNB]. Mitford mentions reading of his daughter <persName ref="#Perry_Horatia">Horatia Anne Perry</persName>’s marriage to 
+                     the east-Asian diplomat <persName ref="#Crawfurd_J">John Crawfurd</persName> in her Journal in November 1820, and soon after, 
+                     on <date when="1820-12-09">December 9, 1820</date> attending a dinner party at James Perry’s house in <placeName ref="#London_city">London</placeName>.
+                     Almost exactly a year later, she mentions that she <q>heard of poor dear <persName ref="#Perry_James">Mr. Perry</persName>'s death</q> 
+                     in her Journal entry on <date when="1821-12-08">8 December 1821</date>.</note>
+               </person>
+               <person xml:id="Schlegel_AW">
+                  <persName>August Wilhelm von Schlegel</persName>
+                  <persName>
+                     <surname>von Schlegel</surname>
+                     <forename>August</forename>
+                     <forename>Wilhelm</forename>
+                  </persName>
+                  <birth when="1767-09-08"><placeName>Hanover, Electorate of Hanover</placeName></birth>
+                  <death when="1845-05-12"><placeName>Bonn, Rhine Province</placeName></death>
+                  <occupation type="literary" subtype="poet"/>
+                  <occupation type="literary" subtype="playwright"/>
+                  <occupation type="literary" subtype="critic"/>
+                  <occupation type="literary" subtype="translator"/>
+                  <note resp="#ebb">Brother of <persName ref="#SchlegelF">Friedrich Wilhelm von Schlegel</persName>, 
+                     advisor to <persName ref="#deStael">Madame de Staël</persName> and tutor to her children,
+                     prolific poet and translator, as well as theorist on drama. He wrote a play, <title level="m">Ion</title>, 
+                     in the style of <persName ref="#Euripides">Euripedes</persName> in <date when="1802">1802</date> 
+                     that likely influenced <persName ref="#Talfourd_Thos">Thomas Noon Talfourd</persName>’s play of the same title. 
+                     <persName ref="#MRM">Mitford</persName> may have read an English translation of his 
+                     <bibl corresp="#Lectures_Dramatic">lectures on drama and literature</bibl> in 1821.
+                  </note>
+                  <note><ref target="https://viaf.org/viaf/59123443/"/></note>
+               </person>
                <person xml:id="Simonds_H"> <!-- NEW ENTRY -->
                   <persName>Henry Simonds</persName>
                   <persName>
@@ -10947,10 +11049,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <placeName>Arbour</placeName>
                   <note resp="#hjb">Mitford often works in this area. Potentially a part of her home at <placeName ref="#ThreeMileCross">Three Mile Cross</placeName>.</note>
                </place>
-               <place xml:id="Church_Shinfield"> <!-- NEW ENTRY -->
-                  <placeName>Shinfield Church</placeName>
-               </place>
-               <place xml:id="Church_StMary">
+               <place xml:id="Church_StMary">  <!-- NEW ENTRY -->
                   <placeName>St Mary's Church</placeName>
                   <district>Shinfield</district>
                   <region>Berkshire</region>
@@ -11088,9 +11187,9 @@ Publisher:	London : [publisher not identified], 1786.
                      <geo>51.515305662435175, -0.12163909072409469</geo>
                   </location>
                   <note resp="#hjb">A specific address on <placeName ref="#St_QueenG">Great Queen Street</placeName>. 
-                     Most likely owned by <persName ref="#Newberry_J">Mr. Newbery</persName>. 
+                     Most likely owned by <persName ref="#Newbery_J">Mr. Newbery</persName>. 
                      Mentioned by <persName ref="#MRM">Mitford</persName> on <date when="1820-12-05">5 December 1820</date>, 
-                     <q><persName ref="#Newberry_J">Mr. Newbery</persName>'s, 33 Great Queen Street, which we had all to ourselves</q></note>
+                     <q><persName ref="#Newbery_J">Mr. Newbery</persName>'s, 33 Great Queen Street, which we had all to ourselves</q></note>
                </place>
                <place xml:id="St_QueenG"> <!-- NEW ENTRY -->
                   <placeName>Great Queen Street</placeName>
@@ -11228,15 +11327,17 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#hjb">Read by <persName ref="#MRM">Mitford</persName> on 12 June
                      1820.</note>
                </bibl>
-               <bibl xml:id="Discourses_Chalmers"> <!-- NEW ENTRY -->
-                  <title>The Application of Christianity to the Commerical and Ordinary Affairs of
-                     Life: in a Series of Discourses</title>
+               <bibl xml:id="Sermons_Chalmers"> <!-- NEW ENTRY -->
+                  <title level="m">Sermons preached in the Tron Church, Glasgow</title>
                   <author ref="#Chalmers_T">Thomas Chalmers</author>
                   <pubPlace>
                      <placeName ref="#Glasgow">Glasgow</placeName>
                   </pubPlace>
-                  <publisher><orgName>James Starke, Trongate, for Chalmers &amp; Collins</orgName></publisher>
-                  <note resp="#hjb">Possibly read by <persName ref="#MRM">Mitford</persName> on 2 August 1820.</note>
+                  <publisher>John Smith; William Whyte</publisher>
+                  <date when="1819">1819</date>
+                  <note resp="#ebb #hjb">Likely the <q>new sermons</q> that <persName ref="#MRM">Mitford</persName> mentions 
+                     reading in her Journal on <date when="1820-07-02">2 July 1820</date>, on the same day that she began reading
+                     <persName ref="#Hofland_B">Barbara Hofland</persName>’s <title level="m" >Tales of the Priory</title>.</note>
                </bibl>
                <bibl xml:id="Heraline_LMH"> <!-- NEW ENTRY -->
                   <title level="m">Heraline; or, Opposite Proceedings</title>
@@ -11328,10 +11429,12 @@ Publisher:	London : [publisher not identified], 1786.
                </bibl>
                <bibl xml:id="PrioryTales_H"> <!-- NEW ENTRY -->
                   <title>Tales of the Priory</title>
-                  <author ref="#Hofland_Barbara">Barbara Hofland</author>
+                  <author ref="#Hofland_B">Barbara Hofland</author>
                   <pubPlace><placeName>London</placeName></pubPlace>
                   <publisher><orgName>Arthur Hall, Virtue, &amp; Co.</orgName></publisher>
                   <date when="1820">1820</date>
+                  <note resp="#ebb"><persName ref="#MRM">Mitford</persName> mentions reading these tales in her Journal entries
+                     of <date when="1820-07">July 1820</date>, finding them <q>too dismal but very good</q>.</note>
                </bibl>
                <bibl xml:id="RecluseScotland"> <!-- NEW ENTRY -->
                   <title level="m">The Recluse of the Appenines; or the Automaton Chief. A
@@ -11342,19 +11445,9 @@ Publisher:	London : [publisher not identified], 1786.
                   <date when="1820">1820</date>
                   <note resp="#hjb">Read by <persName ref="#MRM">Mitford</persName> in September 1820.</note>
                </bibl>
-               <bibl xml:id="Refugee"> <!-- NEW ENTRY -->
-                  <title level="m">The Refugee, a Novel. By the author of <q>The Subalterns</q></title>
-                  <author ref="#Gleig_GRA">George Robert Gleig</author>
-                  <pubPlace><placeName>Edinburgh</placeName></pubPlace>
-                  <publisher><orgName>Printed for Waugh and Innes</orgName></publisher>
-                  <date when="1821">1821</date>
-                  <note resp="#lmw">3 vols. <persName ref="#MRM">Mitford</persName> mentions reading this book in her journal
-                     entry of <date when="1821-08-21">August 21, 1821</date>.</note>
-               </bibl>
-               <bibl xml:id="Schlegel"> <!-- Another entry that I cannot find reference to in Journal
+               <bibl xml:id="Lectures_Dramatic"> <!-- Another entry that I cannot find reference to in Journal
                2024-07-10: ebb to hjb TRY TO FIND THE MENTION? WAS IT IN THE LETTERS?
                --><title>A course of lectures on dramatic art and literature</title>
- 
                   <author ref="#Schlegel_AW">August Wilhelm Schlegel</author>
                  <editor role="translator">John Black</editor>
                   <pubPlace>
@@ -11371,22 +11464,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <pubPlace><placeName ref="#London_city">London</placeName></pubPlace>
                   <publisher>F.C. and J. Rivington</publisher>
                   <date when="1820">1820</date>
-                <note resp="#ebb #hjb">Mitford mentions reading this book in her Journal on <date when="1820-10-16">October 16, 1820</date>.</note>
+                <note resp="#ebb #hjb">Mitford mentions reading this novel in her Journal on <date when="1820-10-16">October 16, 1820</date>.</note>
                </bibl>
-              <!-- NOT FOUND  <bibl xml:id="Sketches_France"> <!-\- No reference to this -\->
-                  <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
-                     account of travels in various parts of France and Switzerland, in the same
-                     years.</title>
-                  <author ref="#Eaton_Charlotte_A">Charlotte A. Eaton</author>
-                  <pubPlace>
-                     <placeName ref="#London_city">London</placeName>
-                  </pubPlace>
-                  <publisher>
-                     <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
-                  </publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
-               </bibl>-->
                <bibl xml:id="StMagdaleneAM"> <!-- NEW ENTRY -->
                   <title>The fast of St. Magdalen: A Romance</title>
                   <author ref="#Porter_AM">Anna Maria Porter</author>
@@ -11415,7 +11494,7 @@ Publisher:	London : [publisher not identified], 1786.
                      series, in her Journal, 1820, and <ref target="https://search.worldcat.org/title/40179266">WorldCat</ref>.<date
                         when="1821-01-02">1821 January 2</date></note>
                </bibl>
-               <bibl xml:id="thePirate"> <!-- NEW ENTRY -->
+               <bibl xml:id="Pirate_novel"> <!-- NEW ENTRY -->
                   <title>The Pirate</title>
                   <author ref="#Scott">Walter Scott</author>
                   <date when="1822">1822</date>
@@ -11449,7 +11528,6 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName>London</placeName>
                   </pubPlace>
                   <date when="1820">1820</date>
-                 
                   <note resp="#hjb #ebb"><persName ref="#MRM">Mitford</persName> mentions that MacFarlane sent her his poem in her on <date when="1820-08-25">August 25
                         1820</date>. The Jackson Bibliograpy of Romantic Poetry notes that MacFarlane claims to have published this poem in 1820, but 
                   no published copy has been found.</note>
@@ -11459,14 +11537,12 @@ Publisher:	London : [publisher not identified], 1786.
                      <ref target="https://lordbyron.org/monograph.php?doc=ChMacfa.1917&amp;select=Ch28.2"/>
                   </note>
                </bibl>
-               <bibl xml:id="Waverley"> <!-- UPDATING ENTRY --> 
-                  <title>Waverley</title>
-                  <author ref="#Scott_Wal">Walter Scott</author>
-                  <pubPlace>
-                     <placeName>Edinburgh</placeName>
-                  </pubPlace>
+               <bibl xml:id="Waverley"><!-- UPDATING ENTRY --> 
+                  <title level="m">Waverley; or ’Tis Sixty Years Since</title>
+                  <author ref="#Scott_Wal"/>
                   <publisher ref="#Constable_pub">Archibald Constable</publisher>
-                  <date when="1814">1814</date>
+                  <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+                  <date>1814</date>
                   <note resp="#hjb"><persName ref="#MRM">Mitford</persName> mentions reading this book in her journal several times in 1819 and 1820.</note>
                </bibl>
 
