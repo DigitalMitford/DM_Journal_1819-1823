@@ -155,7 +155,7 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [ ] Harcourt 
 - [ ] Hazlitt_LecDramatic ebb: Correct this to "LecDramatic_WHaz" (already in SI)
 - [ ] Hist_Burnet  ebb: Correct this to "History_Burnet" (already in SI)
-- [ ] Life_JHVaux  
+- [ ] Life_JHVaux  ebb: Correct this to "Mems_Vaux" (already in SI)
 - [ ] Life_Wesley_RS  ebb: Correct this to "Life_Wesley" (already in SI)
 - [ ] Lives_HaydenMoz  ebb: Correct this to "Lives_HaydnMoz" (already in SI)
 - [ ] Ltrs_CapeofGH 
