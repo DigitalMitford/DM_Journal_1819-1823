@@ -113,7 +113,7 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [ ] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] Reading_City  ebb: Correct this to "Reading_city" (already in SI)
 - [ ] Tilehurst 
-- [ ] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plnatation_BH"
+- [ ] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] whiteGate_BH  ^^^^^
 - [ ] Winchester  ebb: Correct this to Winchester_city (already in SI)
 - [ ] wood_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
