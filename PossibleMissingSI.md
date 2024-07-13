@@ -105,21 +105,21 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [ ] garden_TMC
 - [ ] hayfield_BH 
 - [ ] lane_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] lowerPlantation_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [ ] lowerPlantation_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] Manchester 
-- [ ] middlePlantation_BH ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [ ] middlePlantation_BH ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] Mill_Chas  ebb: Correct this to "Mills_Chas" (already in SI)
 - [ ] park_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [ ] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] Reading_City  ebb: Correct this to "Reading_city" (already in SI)
 - [ ] Tilehurst 
-- [ ] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] whiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [ ] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plnatation_BH"
+- [ ] whiteGate_BH  ^^^^^
 - [ ] Winchester  ebb: Correct this to Winchester_city (already in SI)
-- [ ] wood_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] WoodcockLn
-- [ ] WoodcockLn
-- [ ] WOrchard_BH 
+- [ ] wood_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [ ] WoodcockLn ebb: Correct this to "Woodcock_Ln" (already in SI)
+- [ ] WoodcockLn  ^^^^ 
+- [ ] WOrchard_BH   ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 
 
 ## orgName
