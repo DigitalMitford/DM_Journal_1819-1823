@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
-type="application/xml" 
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://digitalmitford.org/si" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://digitalmitford.org/si.xml"
- xmlns="http://www.tei-c.org/ns/1.0">
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
    <!--LMW: do we know it was Coles, or someone else? Vera Watson? verify  -->
 
@@ -72,7 +67,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   of Mary Russell Mitford's notebook. From the title page of the source text: <q>The
                      transcript of which this is a copy is in the possession of the Public Library,
                      Reading, Berks, England. A photostat copy of the MS is also available at that
-                     library.</q> Copyright presumably rests with the <orgName ref="#BritishMuseum">British Museum</orgName>. <date
+                     library.</q> Copyright presumably rests with the <orgName ref="#BL">British Museum</orgName>. <date
                      when="1955-07">July 1955</date>.
                   <!--ebb: Check with British Library (now housing the British Museum manuscripts) re copyright permissions before posting an html view of this file.--></p>
             </msDesc>
@@ -160,14 +155,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          </div>
          <div type="title">
             <head><persName ref="#MRM">MARY RUSSELL MITFORD</persName><lb/> Transcript of notebook of <persName ref="#MRM">Mary Russell Mitford</persName><lb/>
-               contained in the <orgName ref="#BritishMuseum">British Museum</orgName> (P 24834 : C.60.b.7.)</head>
+               contained in the <orgName ref="#BL">British Museum</orgName> (P 24834 : C.60.b.7.)</head>
             <p>The note-book has a printed title page <q>The Literary Pocket-Book; or, Companion for
                   the lover of Nature &amp; Art, 1819</q>. The size of the notebook is 13 x 8
                cm.</p>
             <p><persName ref="#MRM">Miss Mitford's</persName> notes begin on 1 January 1819 and end 11 March 1823.</p>
             <p>The transcript of which this is a copy is in the possession of the Public Library,
                <placeName ref="#Reading_city">Reading, Berks, England</placeName>. A photostat copy of the MS is also available at that
-               library. Copyright presumably rests with the <orgName ref="#BritishMuseum">British Museum</orgName>.</p>
+               library. Copyright presumably rests with the <orgName ref="#BL">British Museum</orgName>.</p>
             <p><emph rend="underline">July 1955</emph>.</p>
 
             <pb n="iv"/>
@@ -8680,7 +8675,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-845">
                   <head><date when="1821-04-23">Monday 23rd</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--put <name ref="#Leech">leeches</name>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--put <name ref="#leech">leeches</name>
                      on dear <persName>M [?]</persName>--bled her for six hours--frightened me to
                      death--<orgName ref="#Dickinsons">Mr. &amp; Mrs. Dickinson</orgName> called, &amp; <persName ref="#Crowther_Mr">Mr.
                         Crowther</persName> &amp; <persName ref="#Brooke_Miss">Miss
@@ -10498,75 +10493,75 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1822-03-13"></date></head>
                   <p>Heard from Miss Nooth--violetting.</p>
                </div>
-               <div type="entry" xml:id="e-1172">
+               <div type="entry" xml:id="e-1173">
                   <head><date when="1822-03-14"></date></head>
                   <p>Violetting--found some beautiful blue ones &amp; sent to Mrs. Crowther--Foscari.</p>
                </div>
-               <div type="entry" xml:id="e-1173">
+               <div type="entry" xml:id="e-1174">
                   <head><date when="1822-03-15"></date></head>
                   <p>Captain Montague called--Drum came home--wrote to Archdeacon Wrangham.</p>
                </div>
-               <div type="entry" xml:id="e-1174">
+               <div type="entry" xml:id="e-1175">
                   <head><date when="1822-03-16"></date></head>
                   <p>Luce came to see us--went violetting.</p>
                </div>
-               <div type="entry" xml:id="e-1175">
+               <div type="entry" xml:id="e-1176">
                   <head><date when="1822-03-17"></date></head>
                   <p>Got a great many violets--worked at Foscari.</p>
                </div>
-               <div type="entry" xml:id="e-1176">
+               <div type="entry" xml:id="e-1177">
                   <head><date when="1822-03-18"></date></head>
                   <p>Heard from Miss Brooke--wrote to Miss Brooke &amp; Mary Webb--worked at Foscari.</p>
                </div>
-               <div type="entry" xml:id="e-1177">
+               <div type="entry" xml:id="e-1178">
                   <head><date when="1822-03-19"></date></head>
                   <p>Mr. Crowther called--heard from Mary Webb--finished the new alteration to Foscari.</p>
                </div>
-               <div type="entry" xml:id="e-1178">
+               <div type="entry" xml:id="e-1179">
                   <head><date when="1822-03-20"></date></head>
                   <p>At home--heard from Miss Laman--wrote to Mr. Talfourd with Foscari.</p>
                </div>
-               <div type="entry" xml:id="e-1179">
+               <div type="entry" xml:id="e-1180">
                   <head><date when="1822-03-21"></date></head>
                   <p>At home--went to Reading--called on the Valpys, Miss Brooke &amp;c.--heard from Miss James--wrote to Miss James &amp; Mrs. Dickinson &amp; Miss Nooth--a pleasant morning.</p>
                </div>
-               <div type="entry" xml:id="e-1180">
+               <div type="entry" xml:id="e-1181">
                   <head><date when="1822-03-22"></date></head>
                   <p>Called at Mrs. Crowther's &amp; Richard Body's--wrote to Miss Johnson.</p>
                </div>
-               <div type="entry" xml:id="e-1181">
+               <div type="entry" xml:id="e-1182">
                   <head><date when="1822-03-23"></date></head>
                   <p>At home--went violetting.</p>
                </div>
-               <div type="entry" xml:id="e-1182">
+               <div type="entry" xml:id="e-1183">
                   <head><date when="1822-03-24"></date></head>
                   <p>Heard from Aunt Mary.</p>
                </div>
-               <div type="entry" xml:id="e-1183">
+               <div type="entry" xml:id="e-1184">
                   <head><date when="1822-03-25"></date></head>
                   <p>Had a very uncivil letter from Miss James--wrote her a good peppering--dramatic scene.</p>
                </div> <!-- LOL -->
-               <div type="entry" xml:id="e-1184">
+               <div type="entry" xml:id="e-1185">
                   <head><date when="1822-03-26"></date></head>
                   <p>Heard from Mrs. Rowden &amp; George Robins--wrote to Mr. Talfourd--had the piles very bad.</p>
                </div>
-               <div type="entry" xml:id="e-1185">
+               <div type="entry" xml:id="e-1186">
                   <head><date when="1822-03-27"></date></head>
                   <p>Heard from Miss James--a very foolish letter--&amp; then again, a contrite note--heard from Miss Johnson--worked at Agnes.</p>
                </div>
-               <div type="entry" xml:id="e-1186">
+               <div type="entry" xml:id="e-1187">
                   <head><date when="1822-03-28"></date></head>
                   <p>Went to Wokingham--dined, &amp; came home at night--pleasant day.</p>
                </div>
-               <div type="entry" xml:id="e-1187">
+               <div type="entry" xml:id="e-1188">
                   <head><date when="1822-03-29"></date></head>
                   <p>Heard from Mrs. Rowden--went to Arborfield--wrote to Miss Johndon.</p>
                </div> <!-- Johndon or Johnson? -->
-               <div type="entry" xml:id="e-1188">
+               <div type="entry" xml:id="e-1189">
                   <head><date when="1822-03-30"></date></head>
                   <p>At home--wrote to Mrs. Rowden &amp; Miss James--worked at my Dramatic Sketch.</p>
                </div>
-               <div type="entry" xml:id="e-1189">
+               <div type="entry" xml:id="e-1190">
                   <head><date when="1822-03-31"></date></head>
                   <p>At home--heard from Mr. Talfourd &amp; Sir W. Elford--went to Penge Wood with dear Drum--wrote to Mr. Talfourd.</p>
                </div>
@@ -10578,9 +10573,8 @@ Publisher:	London : [publisher not identified], 1786.
                
             </div>
                
-
+         </div>
          
-
 
       </body>
       <back>
@@ -10589,22 +10583,19 @@ Publisher:	London : [publisher not identified], 1786.
                <person></person>
             </listPerson>
             <listOrg sortKey="archives">
-               <org xml:id="BritishMuseum">
-                  <orgName>British Museum</orgName>
-                  <note resp="#hjb">Holds the transcript notebook of Mary Russel Mitford. Presumably own the Copyright for the notes MS, beginning on 1 January 1819 to 11 March 1823.</note>
-               </org>
+                      <!-- 2024-07-13 ebb: The British Museum reference is just an update of the British Library entry. I made the update and added the info about the 
+                      British Museum to it. (The gist that I added was that British Library and British Museum were the same organization up until 1973. 
+                      -->
+               <org></org>
+             
             </listOrg>
          </div>
 
 
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
-               <org xml:id="Perrys"> <!-- NEW ENTRY -->
-                  <orgName>the Perrys</orgName>
-                  <surname>Perry</surname>
-                  <note resp="#hjb">Contains <persName ref="#Perry_James">James
-                     Perry</persName>.</note>
-               </org>          
+                     <!-- 2024-07-13 ebb: I added the Perrys to the Si-ADD today.  -->
+               <org></org>
             </listOrg>
         
             <listPerson sortKey="histPersons">
@@ -10616,24 +10607,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </persName>
                   <note resp="#hjb">Mitford mentions seeing him on <date when="1820-06-07">June 7 1820</date>, as well as saw <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> the same day.</note>
                </person>
-                <person xml:id="Perry_Anne"> <!-- NEW ENTRY -->
-                    <persName>Horatia Anne Perry</persName>
-                    <persName>
-                        <surname type="married">Crawfurd</surname>
-                        <surname type="paternal">Perry</surname>
-                        <forename>Horatia</forename>
-                        <forename>Anne</forename>
-                    </persName>
-                    <birth when="1793-07-05">
-                        <placeName>London, Middlesex, England</placeName>
-                    </birth>
-                    <death when="1861-09-22">
-                        <placeName>Kensington, London, England</placeName>
-                    </death>
-                    <note resp="#hjb">Married <persName ref="#Crawfurd_J">John Crawfurd</persName>
-                        on <date when="1820-11-25">25 November 1820</date> which was read by Mitford
-                        on <date when="1820-11-30">30 November 1820</date>.</note>
-                </person>
+               
             </listPerson>
          </div>
 
@@ -10647,8 +10621,8 @@ Publisher:	London : [publisher not identified], 1786.
 
          <div type="nature">
             <list sortKey="animals">
-               <item xml:id="Leech">
-                  <name>Leech</name>
+               <item xml:id="leech">
+                  <name>leech</name>
                   <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment in a process known as bloodletting.</note>
                </item>
             </list>
@@ -10735,28 +10709,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#hjb">A tragic romance novel read by Mitford on <date when="1820-10-23">Monday 23rd</date>. Tells 
                      the tale of star-crossed lovers, a Portuguese missionary to India and an Indian prophetess.</note>
                </bibl>
-               <bibl xml:id="Refugee"> <!-- NEW ENTRY -->
-                  <title level="m">The Refugee, a Novel. By the author of <q>The Subalterns</q></title>
-                  <author ref="#Gleig_GRA">George Robert Gleig</author>
-                  <pubPlace><placeName>Edinburgh</placeName></pubPlace>
-                  <publisher><orgName>Printed for Waugh and Innes</orgName></publisher>
-                  <date when="1821">1821</date>
-                  <note resp="#lmw">3 vols. <persName ref="#MRM">Mitford</persName> mentions reading this book in her journal
-                     entry of <date when="1821-08-21">August 21, 1821</date>.</note>
-               </bibl>
-               <bibl xml:id="Schlegel"> <!-- Another entry that I cannot find reference to in Journal
-               2024-07-10: ebb to hjb TRY TO FIND THE MENTION? WAS IT IN THE LETTERS?
-               --><title>A course of lectures on dramatic art and literature</title>
-                  <author ref="#Schlegel_AW">August Wilhelm Schlegel</author>
-                 <editor role="translator">John Black</editor>
-                  <pubPlace>
-                     <placeName ref="#London">London</placeName>
-                  </pubPlace>
-                  <publisher><orgName>Baldwin</orgName></publisher>
-                  <date when="1815">1815</date>
-                  <note resp="#hjb #ebb">Translation of <bibl>Schlegel's <title>Vorlesungen über dramatische Kunst und Litteratur</title>, first published in <date>1809</date></bibl>.
-                     Possibly read by <persName ref="#MRM">Mitford</persName> in 1821.</note>
-               </bibl>
+          
+            
                <bibl xml:id="Sintram_Comp"> <!-- 2024-07-10 NEW ENTRY -->
                   <title>Sintram and His Companions: A Romance</title>
                   <author>Friedrich Heinrich Karl La Motte-Fouqué</author>
@@ -10810,6 +10764,7 @@ Publisher:	London : [publisher not identified], 1786.
                      then confirmed to be written by Polidori.</note>
                </bibl>
             </listBibl>
+         </div>
       </back>
    </text>
 </TEI>
