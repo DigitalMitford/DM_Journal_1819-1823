@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
 type="application/xml" 
-schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digitalmitford.github.io/DM_documentation/MitfordODD/out/mitfordODD.rng"
-type="application/xml" 
 schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://digitalmitford.org/si" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://digitalmitford.org/si.xml"
+ xmlns="http://www.tei-c.org/ns/1.0">
 
 
    <!-- RJP: We need to add to this TEIheader our use of resp on page breaks and notes in relation to Coles -->
@@ -3064,7 +3065,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <head><date when="1819-09-03">Friday 3 </date></head>
                   <p>At <placeName ref="#Bertram_house">home</placeName>--worked my shirt--dressed
                      my <name ref="#flower">flower</name>s (only my little basket)--read <persName
-                        ref="#Burnet_Gil">Burnet</persName>'s <title ref="#History_Burnet"
+                        ref="#Burnet_Gil">Burnet</persName>'s <title ref="#Hist_Burnet"
                         >History</title> &amp; <title ref="#Peters_Letters_novel">Peter’s Letters to
                         his Kinfolk</title>. Missed my own darling very much indeed.</p>
 
@@ -5821,10 +5822,12 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-06-05">Monday 5th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--gave little <persName
                         ref="#Keep_Harriet">Miss Keep</persName> a pretty needlebook and
-                     pincushion--read <title ref="#George3_CourtFam">George 3rd his Court &amp; Family</title>--sad
+                     pincushion--read <title>George 3rd his [?] &amp; Family</title>--sad
                      stupid stuff--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName>
                      called--weeded my little <name ref="#flower">flower</name> Court.</p>
+                  <!--TEAC: If we can figure out the question mark while reviewing the original documents we can then research the book and add it to our SI-->
                </div>
+               <!--TSA: 2022-11-07 I couldn't quite make out what was indicated by a question mark, but my guesses would be that the last few letters are "ut" or "it" making potential words "out" or maybe "skit"-->
                <div type="entry" xml:id="e-524">
                   <head><date when="1820-06-06">Tuesday 6th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went twice walking with
@@ -5840,7 +5843,6 @@ Publisher:	London : [publisher not identified], 1786.
                         <persName ref="#Nares_Mr">Mr. Nares</persName>, <persName ref="#MacFarlane_Chas">Mr.
                         MacFarlane</persName> &amp; a great many people--came home to dinner &amp;
                      walked after--pleasant day. </p>
-                  <!--TEAC: Mr. Nares needs to be add to the SI. MacFarlane may also have to be added I can find his SI ref but the previous coders put the ref that I used on his name-->
                </div>
                <!--TSA: 2022-11-07 Everything in the above entries looked good unless marked otherwise. This past entry I made one change indicating "Co." rather than "c." I found that it appeared to be the case that it was short for company. -->
                <!--TSA: 2023-1-13 The following entries are new and may need revised, or some info might need to go into the SI-->
@@ -5936,7 +5938,6 @@ Publisher:	London : [publisher not identified], 1786.
                      <persName ref="#Dubois_JA">Dubois</persName>' <title ref="#AccountOfIndia">account of India</title>--a curious
                      book.</p>
                </div>
-               <!--TSA 2023-1-20 Dubois' Account of India doesn't have a ref. It is referenced in the previous and next entry.-->
                <div type="entry" xml:id="e-536">
                   <head><date when="1820-06-18">Sunday 18th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from dear <persName
@@ -6120,14 +6121,14 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--<persName ref="#Haydon">Mr.
                         Haydon</persName> came &amp; spent the day with us--read <persName
                         ref="#Hofland_B">Mrs. Hofland</persName>'s <title ref="#PrioryTales_H">Tales</title> &amp;
-                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Sermons_Chalmers">new sermons</title>--happy
-                     day.</p>
+                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Discourses_Chalmers">new sermons</title>--happy
+                     day.<!-- srr: Is Tales and Chalmers one or two titles? --></p>
                </div>
                <div type="entry" xml:id="e-551">
 
                   <head><date when="1820-07-03">Monday 3rd</date></head>
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to see
-                     <placeName ref="#Hampton_Court">Hampton Court</placeName>--delightful place--enchanting
+                     <placeName ref="#Court_Hampton">Hampton Court</placeName>--delightful place--enchanting
                         Cartoons--<rs type="art">beautiful portrait of <persName ref="#Titian"
                            >Titian</persName> by himself</rs>--returned at 6 to dinner, &amp; heard
                      from my own dear <placeName ref="#ThreeMileCross">home</placeName>--charming
@@ -6138,7 +6139,7 @@ Publisher:	London : [publisher not identified], 1786.
 
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--went by water to
                      <placeName ref="#Kew_village">Kew</placeName>--called on <persName ref="#Nooth_C">Mrs.
-                        Nooth</persName> &amp; went over the <placeName ref="#Hampton_Court">palace</placeName>--most
+                        Nooth</persName> &amp; went over the <placeName ref="#Court_Hampton">palace</placeName>--most
                      lovely little place with fine books &amp; pictures--left my dear friends there,
                      &amp; went <placeName ref="#ThreeMileCross">home</placeName> to <placeName
                         ref="#Wokingham_city">Wokingham</placeName> on the top of the Coach--dear
@@ -6288,7 +6289,7 @@ Publisher:	London : [publisher not identified], 1786.
                         <persName ref="#James_Miss">Miss James</persName>--read <persName
                            ref="#Hazlitt_Wm">Hazlitt</persName>'s <title ref="#Hazlitt_LecDramatic">Lectures on the age of
                         Elizabeth</title>--<persName ref="#Body_Richard">Mr. Body</persName> called
-                     &amp; brought us some <name>fruit</name>--walked with <persName
+                     &amp; brought us some fruit--walked with <persName
                         ref="#Russell_M">Granny</persName> &amp; the Pets.</p>
                </div>
                <div type="entry" xml:id="e-568">
@@ -6624,7 +6625,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Marsh_Henry">Harry</persName> &amp; <persName ref="#Marsh_Mrs">Mrs. Marsh</persName>
                      called--wrote to <persName ref="#Elford_SirWm">Sir William Elford</persName>
                      &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>--read the
-                        <title>Festival of Flora</title>--very pretty.</p>
+                        <title ref="#Flora_Fest">Festival of Flora</title>--very pretty.</p>
                </div>
                <fw>August--1820 Three Mile Cross</fw>
                <!--TSA 2023-03-27 Is "Harry" Henry Marsh? Check the handwritten journal-->
@@ -6747,11 +6748,11 @@ Publisher:	London : [publisher not identified], 1786.
                         <persName ref="#James_Miss">Miss James</persName>--read <title>Domestic
                         Scenes</title>--good--walked with <persName ref="#Mitford_Geo"
                         >Drum</persName> &amp; <persName ref="#Russell_M">Granny</persName>.</p>
-               </div>
+               </div> <!-- 2024-07-10 hjb: Cannot find what Domestic Scenes she may have read. -->
                <div type="entry" xml:id="e-616">
                   <head><date when="1820-09-06">Wednesday 6th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my
-                     flounce--read <title>Sintram &amp; his companions</title>--very fine--wrote to
+                     flounce--read <title ref="#Sintram_Comp">Sintram &amp; his companions</title>--very fine--wrote to
                         <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName
                         ref="#James_Emily">Miss Emily James</persName>.</p>
                </div>
@@ -6912,7 +6913,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
                         ref="#Dickinson_Charles">Mr. Dickinson</persName> called--walked with dear
                         <persName ref="#Russell_M">Granny</persName>--finished my letter to
-                        <persName ref="#James_Miss">Miss James</persName>--read <title>Beaumont
+                        <persName ref="#James_Miss">Miss James</persName>--read <title ref="#Beau_Fletch">Beaumont
                         &amp; Fletcher</title>.</p>
                </div>
                <!--TSA 2023-05-17 Beaumont and Fletcher are a duo of playwrights/dramatists. I could not find their ref.-->
@@ -7032,7 +7033,7 @@ Publisher:	London : [publisher not identified], 1786.
                         Crowther</persName> called, &amp; <orgName ref="#Dickinsons">Mr. &amp; Mrs. Dickinson</orgName>--walked with dear <persName ref="#Russell_M"
                         >Granny</persName> &amp; my <persName ref="#Molly_pet">Molly</persName>,
                      &amp; took dear <persName ref="#Haydon">Mr. Haydon</persName>'s dogs--read
-                        <title>Advice to Julia</title>, a so so Poem.</p>
+                        <title ref="#Advice_Julia">Advice to Julia</title>, a so so Poem.</p>
                </div>
                <div type="entry" xml:id="e-648">
                   <head><date when="1820-10-08">Sunday 8th</date></head>
@@ -7176,7 +7177,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-10-22">Sunday 22nd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; the pets--read <persName
-                        ref="#Hazlitt_Wm">Hazlitt</persName>'s <title>Age of Elizabeth</title>
+                        ref="#Hazlitt_Wm">Hazlitt</persName>'s <title ref="#Age_Elizabeth">Age of Elizabeth</title>
                      again, &amp; made some extracts from it--famous.</p>
                </div>
                <div type="entry" xml:id="e-663">
@@ -7184,7 +7185,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at <persName
                         ref="#James_Miss">Miss James</persName>'s collar &amp; frill--walked with
                      dear <persName ref="#Russell_M">Granny</persName>--read the
-                        <title>Missionary</title>--very romantic.</p>
+                        <title ref="#Missionary_SO">Missionary</title>--very romantic.</p>
                </div>
                <div type="entry" xml:id="e-664">
                   <head><date when="1820-10-24">Tuesday 24th</date></head>
@@ -7252,7 +7253,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-10-31">Tuesday 31st</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; the pets--read <persName
-                        ref="#Opie_Amelia">Mrs. Opie</persName>'s <title>Tales of the
+                        ref="#Opie_Amelia">Mrs. Opie</persName>'s <title ref="#Tales_Heart">Tales of the
                      Heart</title>--middling.</p>
                </div>
             </div>
@@ -7286,9 +7287,9 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-675">
                   <head><date when="1820-11-04">Saturday 4th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear
-                        <persName ref="#Russell_M">Granny</persName> &amp; the pets--read the
-                        <title>Vampyre</title>, very stupid--wrote to <persName ref="#Haydon">Mr.
-                        Haydon</persName>.</p>
+                        <persName ref="#Russell_M">Granny</persName> &amp; the pets--read <title ref="#theVampyre">the
+                     Vampyre</title>, very stupid--wrote to <persName ref="#Haydon">Mr.
+                           Haydon</persName>.</p>
                </div>
                <div type="entry" xml:id="e-676">
                   <head><date when="1820-11-05">Sunday 5th</date></head>
@@ -7455,7 +7456,7 @@ Publisher:	London : [publisher not identified], 1786.
                      at dear <persName ref="#Russell_M">Granny</persName>'s frill--heard from
                         <persName ref="#Webb_Eliza">Eliza Webb</persName>--read
                         <persName>Fleury</persName>'s <title>Memoire de Napoleon</title>.</p>
-               </div>
+               </div> <!-- 2024-07-11 hjb: Potentially not written by a Fleury? Check MS to see if this is correct. -->
                <div type="entry" xml:id="e-693">
                   <head><date when="1820-11-22">Wednesday 22nd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName
@@ -7531,7 +7532,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-11-30">Thursday 30th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear
                         <persName ref="#Russell_M">Granny</persName> &amp; <persName
-                        ref="#Molly_pet">Molly</persName>--read <persName ref="#Perry_Horatia">Horatia Perry</persName>'s
+                        ref="#Molly_pet">Molly</persName>--read <persName ref="#Perry_Anne">Horatia Perry</persName>'s
                         Marriage to a <persName ref="#Crawfurd_J">Mr. Crawfurd</persName> in the Bengal Service.</p>
                </div>
             </div>
@@ -8117,7 +8118,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1821-02-06">Tuesday 6th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went flowering with dear
                         <persName ref="#Mitford_Geo">Drum</persName> &amp; the pets--found one
-                        <name>white violet</name> in the lane beyond <persName ref="#Davies_Mr"
+                     <name ref="#violet">white violet</name> in the lane beyond <persName ref="#Davies_Mr"
                         >Davis</persName>'s--wrote to <persName ref="#Dickinson_Mrs">Mrs.
                         Dickinson</persName>.</p>
                </div>
@@ -8679,7 +8680,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-845">
                   <head><date when="1821-04-23">Monday 23rd</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--put <name>leeches</name>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--put <name ref="#Leech">leeches</name>
                      on dear <persName>M [?]</persName>--bled her for six hours--frightened me to
                      death--<orgName ref="#Dickinsons">Mr. &amp; Mrs. Dickinson</orgName> called, &amp; <persName ref="#Crowther_Mr">Mr.
                         Crowther</persName> &amp; <persName ref="#Brooke_Miss">Miss
@@ -9016,7 +9017,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-893">
                   <head><date when="1821-06-10">Sunday 10th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <persName
-                        ref="#Baillie_Joanna">Mrs. Baillie</persName>'s <title>Legends</title> &amp;
+                        ref="#Baillie_Joanna">Mrs. Baillie</persName>'s <title ref="#Legends_B">Legends</title> &amp;
                         <persName ref="#Bowles_Wm">Bowles</persName>'s <title>Pamphlets</title>
                      &amp; walked.<note resp="#ebb">Mitford met Bowles while visiting the Valpy's,
                         as recorded in her journal on 31 May, and as she mentions in a letter to Sir
@@ -10195,7 +10196,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1099">
                   <head><date when="1821-12-30">Sunday 30th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--read <title ref="#Pirate_novel">the Pirate</title>--began my <title>Tragedy</title>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; <persName ref="#James_Miss">Miss James</persName>--read the <title ref="#Pirate_novel">Pirate</title>--began my <title>Tragedy</title>.</p>
                </div>
                <div type="entry" xml:id="e-1100">
                   <head><date when="1821-12-31">Monday 31st</date></head>
@@ -10209,8 +10210,373 @@ Publisher:	London : [publisher not identified], 1786.
             </head>
             <div type="month" xml:id="Jan-1822">
                
+               <div type="entry" xml:id="e-1101">
+                  <head><date when="1822-01-01"></date></head>
+               <p>Heard from Sir W. Elford--went to Reading with Drum--dined at the Tuppens--made many calls--home in the evening--worked at my [play?].</p>
+               </div>
+               <div type="entry" xml:id="e-1102">
+                  <head><date when="1822-01-02"></date></head>
+                  <p>At home--wrote to Miss Johnson &amp; Mrs. Tuppen, with some tatting--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1103">
+                  <head><date when="1822-01-03"></date></head>
+                  <p>At home--wrote a letter to Sir William Elford--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1104">
+                  <head><date when="1822-01-04"></date></head>
+                  <p>At home--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1105">
+                  <head><date when="1822-01-05"></date></head>
+                  <p>At home--read Loyd Byron's</p>
+               </div> <!-- Probably is not finished -->
+               <div type="entry" xml:id="e-1106">
+                  <head><date when="1822-01-06"></date></head>
+                  <p>At home--worked at Julian all day.</p>
+               </div>
+               <div type="entry" xml:id="e-1107">
+                  <head><date when="1822-01-07"></date></head>
+                  <p>At home--read Magazines.</p>
+               </div>
+               <div type="entry" xml:id="e-1108">
+                  <head><date when="1822-01-08"></date></head>
+                  <p>At home--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1109">
+                  <head><date when="1822-01-09"></date></head>
+                  <p>Wrote to Sir William--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1110">
+                  <head><date when="1822-01-10"></date></head>
+                  <p>At home--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1111">
+                  <head><date when="1822-01-11"></date></head>
+                  <p>Mr. Crowther called--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1112">
+                  <head><date when="1822-01-12"></date></head>
+                  <p>Heard of poor dear Mr. Webb's death, which happened yesterday--worked at Julian.</p>
+               </div> <!-- Check who died -->
+               <div type="entry" xml:id="e-1113">
+                  <head><date when="1822-01-13"></date></head>
+                  <p>At home--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1114">
+                  <head><date when="1822-01-14"></date></head>
+                  <p>At home--worked at Julian--wrote to Mr. Talfourd.</p>
+               </div>
+               <div type="entry" xml:id="e-1115">
+                  <head><date when="1822-01-15"></date></head>
+                  <p>At home--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1116">
+                  <head><date when="1822-01-16"></date></head>
+                  <p>At home--Mr. Body called.</p>
+               </div>
+               <div type="entry" xml:id="e-1117">
+                  <head><date when="1822-01-17"></date></head>
+                  <p>At home--heard from Miss James--went into Reading--saw Mr. Tafourdell &amp;c.--poor Papa attended Mr. Webb's funeral.</p>
+               </div> <!-- Is this actually Mr. Talfourd? -->
+               <div type="entry" xml:id="e-1118">
+                  <head><date when="1822-01-18"></date></head>
+                  <p>Wrote to Miss James--called on Mrs. Body.</p>
+               </div>
+               <div type="entry" xml:id="e-1119">
+                  <head><date when="1822-01-19"></date></head>
+                  <p>Mr. Crowther called--Mr. &amp; Mrs. Crowther wrote to me 3 times, &amp; I to them, about Foscari--worked a little at Julian, but very hazy--mean to do better.</p>
+               </div>
+               <div type="entry" xml:id="e-1120">
+                  <head><date when="1822-01-20"></date></head>
+                  <p>At home--wrote to Mr. Talfourd.</p>
+               </div>
+               <div type="entry" xml:id="e-1121">
+                  <head><date when="1822-01-21"></date></head>
+                  <p>Went primrosing--got a great many--Granny went to Winchester--wrote to Mary Webb.</p>
+               </div>
+               <div type="entry" xml:id="e-1122">
+                  <head><date when="1822-01-22"></date></head>
+                  <p>At home--heard from Miss James &amp; Mrs. Hofland &amp; Miss Ogbourn--went to Reading &amp; Coley--came home to dinner--pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-1123">
+                  <head><date when="1822-01-23"></date></head>
+                  <p>At home--heard from Miss Nooth &amp; dear Granny--had a coursing morning at Mortimer Common--went to see dear Luce--wrote to Granny.</p>
+               </div>
+               <div type="entry" xml:id="e-1124">
+                  <head><date when="1822-01-24"></date></head>
+                  <p>At home--wrote to Granny.</p>
+               </div>
+               <div type="entry" xml:id="e-1125">
+                  <head><date when="1822-01-25"></date></head>
+                  <p>At home--heard from Granny--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1126">
+                  <head><date when="1822-01-26"></date></head>
+                  <p>At home--heard from Mrs. Jolliffe--wrote to Miss Ogbourne &amp; Miss Brooke.</p>
+               </div>
+               <div type="entry" xml:id="e-1127">
+                  <head><date when="1822-01-27"></date></head>
+                  <p>At home--Drum went to Winchester--went primrosing--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1128">
+                  <head><date when="1822-01-28"></date></head>
+                  <p>At home--heard from Granny--wrote to Miss Nooth--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1129">
+                  <head><date when="1822-01-29"></date></head>
+                  <p>At home--poor May very ill--heard from Granny, Mrs. Hayward &amp; Mr. Talfourd--Mr. Crowther called--had a bad cold.</p>
+               </div>
+               <div type="entry" xml:id="e-1130">
+                  <head><date when="1822-01-30"></date></head>
+                  <p>At home--wrote to Miss James, Mrs. Hofland, &amp; Miss Jolliffe--heard from Granny--wrote the alteration of Foscari--May better.</p>
+               </div>
+               <div type="entry" xml:id="e-1131">
+                  <head><date when="1822-01-31"></date></head>
+                  <p>May much better--Mrs. Ragget &amp; Miss Bricknell called--called on Mrs. Crowther--Drum &amp; Granny came home; had a bad cold.</p>
+               </div> <!-- Says "sad cold" in typescript. Double check plz -->
+               <div type="entry" xml:id="e-1132">
+                  <head><date when="1822-02-01"></date></head>
+                  <p>At home--wrote to Miss Johnson &amp; Miss Ogbourn--cold better--worked at Julian</p>
+               </div>
+               <div type="entry" xml:id="e-1133">
+                  <head><date when="1822-02-02"></date></head>
+                  <p>At home--very unwell.</p>
+               </div>
+               <div type="entry" xml:id="e-1134">
+                  <head><date when="1822-02-03"></date></head>
+                  <p>At home--still ill--worked at Julian.</p>
+               </div>
+               <div type="entry" xml:id="e-1135">
+                  <head><date when="1822-02-04"></date></head>
+                  <p>At home--still worse--did nothing.</p>
+               </div>
+               <div type="entry" xml:id="e-1136">
+                  <head><date when="1822-02-05"></date></head>
+                  <p>At home--rather better--did nothing.</p>
+               </div>
+               <div type="entry" xml:id="e-1137">
+                  <head><date when="1822-02-06"></date></head>
+                  <p>At home--rather better--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1138">
+                  <head><date when="1822-02-07"></date></head>
+                  <p>At home--better--wrote to Mrs. Dickinson.</p>
+               </div>
+               <div type="entry" xml:id="e-1139">
+                  <head><date when="1822-02-08"></date></head>
+                  <p>At home--very bad--did nothing.</p>
+               </div>
+               <div type="entry" xml:id="e-1140">
+                  <head><date when="1822-02-09"></date></head>
+                  <p>At home--rather better--heard from Sir W. Elford--wrote to Sir W. Elford--heard from Mrs. Crowther--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1141">
+                  <head><date when="1822-02-10"></date></head>
+                  <p>Better--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1142">
+                  <head><date when="1822-02-11"></date></head>
+                  <p>At home--heard from Miss James.</p>
+               </div>
+               <div type="entry" xml:id="e-1143">
+                  <head><date when="1822-02-12"></date></head>
+                  <p>Better--wrote to Miss James.</p>
+               </div>
+               <div type="entry" xml:id="e-1144">
+                  <head><date when="1822-02-13"></date></head>
+                  <p>Went to Wockingham to see the poor dear Webbs--home to dinner--better.</p>
+               </div>
+               <div type="entry" xml:id="e-1145">
+                  <head><date when="1822-02-14"></date></head>
+                  <p>At home--Drum &amp; Granny went to Mr. Newberry's Christening--I staid at home--went primrosing--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1146">
+                  <head><date when="1822-02-15"></date></head>
+                  <p>At home--Mr. &amp; Mrs. Body called--went primrosing with Drum--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1147">
+                  <head><date when="1822-02-16"></date></head>
+                  <p>At home--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1148">
+                  <head><date when="1822-02-17"></date></head>
+                  <p>At home--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1149">
+                  <head><date when="1822-02-18"></date></head>
+                  <p>At home--Drum went to Watlington--Mrs. &amp; Miss Briscoe called--called on Mrs. Body--wrote to Mrs. Dickinson &amp; Mr. Talfourd--worked at Foscari.</p> <!-- Who is Briscoe -->
+               </div>
+               <div type="entry" xml:id="e-1150">
+                  <head><date when="1822-02-19"></date></head>
+                  <p>At home--Mary &amp; Eliza Webb dined here--a pleasant day--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1151">
+                  <head><date when="1822-02-20"></date></head>
+                  <p>At home--wrote to Mr. Talfourd.</p>
+               </div>
+               <div type="entry" xml:id="e-1152">
+                  <head><date when="1822-02-21"></date></head>
+                  <p>At home--heard from Mrs. Dickinson.</p>
+               </div>
+               <div type="entry" xml:id="e-1153">
+                  <head><date when="1822-02-22"></date></head>
+                  <p>At home--Mrs. Dickinson called after his return from Exmouth, &amp; gave an amusing account of her quarrel with <persName ref="#Dickinson_Charles">her husband</persName> about the great gaiety there--very entertaining indeed.</p>
+               </div>
+               <div type="entry" xml:id="e-1154">
+                  <head><date when="1822-02-23"></date></head>
+                  <p>At home--dear Drum came back.</p>
+               </div>
+               <div type="entry" xml:id="e-1155">
+                  <head><date when="1822-02-24"></date></head>
+                  <p>Went primrosing with dear Drum.</p>
+               </div>
+               <div type="entry" xml:id="e-1156">
+                  <head><date when="1822-02-25"></date></head>
+                  <p>At home--walked with Granny.</p>
+               </div>
+               <div type="entry" xml:id="e-1157">
+                  <head><date when="1822-02-26"></date></head>
+                  <p>At home--went coursing--North did up my garden--worked at Foscari.</p>
+               </div> <!-- Is North supposed to be Nooth?-->
+               <div type="entry" xml:id="e-1158">
+                  <head><date when="1822-02-27"></date></head>
+                  <p>At home--Went to Reading.</p>
+               </div>
+               <div type="entry" xml:id="e-1159">
+                  <head><date when="1822-02-28"></date></head>
+                  <p>Wrote to Miss James--dined at Wockingham--home again at night--pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-1160">
+                  <head><date when="1822-03-01"></date></head>
+                  <p>At home--found the first violets.</p>
+               </div>
+               <div type="entry" xml:id="e-1161">
+                  <head><date when="1822-03-02"></date></head>
+                  <p>At home--went violetting--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1162">
+                  <head><date when="1822-03-03"></date></head>
+                  <p>Mr. Crowther called--wrote to Miss Laman &amp; Sir William Elford.</p>
+               </div> <!-- Is this Miss James? Check MS -->
+               <div type="entry" xml:id="e-1163">
+                  <head><date when="1822-03-04"></date></head>
+                  <p>Went to Reading to the assizes--saw Mr. Talfourd--dined at Dr. Valpy's--made many calls--came back at night--delightful day.</p>
+               </div> <!-- What is the assizes? -->
+               <div type="entry" xml:id="e-1164">
+                  <head><date when="1822-03-05"></date></head>
+                  <p>Went again to Reading--sate near the judge--made many calls--dined at Dr. Valpy's &amp; saw Mr. Talfourd--very pleasant day indeed.</p>
+               </div>
+               <div type="entry" xml:id="e-1165">
+                  <head><date when="1822-03-06"></date></head>
+                  <p>At home--heard from Miss James &amp; Mr. Talfourd--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1166">
+                  <head><date when="1822-03-07"></date></head>
+                  <p>At home--went violetting--wrote to Mr. Talfourd &amp; Miss James--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1167">
+                  <head><date when="1822-03-08"></date></head>
+                  <p>At home--wrote to Miss James--Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1168">
+                  <head><date when="1822-03-09"></date></head>
+                  <p>Went violetting--wrote to Mrs. Crowther--heard from Mrs. Crowther.</p>
+               </div>
+               <div type="entry" xml:id="e-1169">
+                  <head><date when="1822-03-10"></date></head>
+                  <p>Went violetting--Drum went to Overton.</p>
+               </div>
+               <div type="entry" xml:id="e-1170">
+                  <head><date when="1822-03-11"></date></head>
+                  <p>Drum from home--Dr. Valpy called &amp; brought me a letter from Archdeacon Wrangham--heard from Mrs. Dickinson--worked at Foscari.</p>
+               </div> <!-- Archdeacon Wrangham is a crazy name... Who is this? -->
+               <div type="entry" xml:id="e-1171">
+                  <head><date when="1822-03-12"></date></head>
+                  <p>Went violetting--Worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1172">
+                  <head><date when="1822-03-13"></date></head>
+                  <p>Heard from Miss Nooth--violetting.</p>
+               </div>
+               <div type="entry" xml:id="e-1172">
+                  <head><date when="1822-03-14"></date></head>
+                  <p>Violetting--found some beautiful blue ones &amp; sent to Mrs. Crowther--Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1173">
+                  <head><date when="1822-03-15"></date></head>
+                  <p>Captain Montague called--Drum came home--wrote to Archdeacon Wrangham.</p>
+               </div>
+               <div type="entry" xml:id="e-1174">
+                  <head><date when="1822-03-16"></date></head>
+                  <p>Luce came to see us--went violetting.</p>
+               </div>
+               <div type="entry" xml:id="e-1175">
+                  <head><date when="1822-03-17"></date></head>
+                  <p>Got a great many violets--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1176">
+                  <head><date when="1822-03-18"></date></head>
+                  <p>Heard from Miss Brooke--wrote to Miss Brooke &amp; Mary Webb--worked at Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1177">
+                  <head><date when="1822-03-19"></date></head>
+                  <p>Mr. Crowther called--heard from Mary Webb--finished the new alteration to Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1178">
+                  <head><date when="1822-03-20"></date></head>
+                  <p>At home--heard from Miss Laman--wrote to Mr. Talfourd with Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1179">
+                  <head><date when="1822-03-21"></date></head>
+                  <p>At home--went to Reading--called on the Valpys, Miss Brooke &amp;c.--heard from Miss James--wrote to Miss James &amp; Mrs. Dickinson &amp; Miss Nooth--a pleasant morning.</p>
+               </div>
+               <div type="entry" xml:id="e-1180">
+                  <head><date when="1822-03-22"></date></head>
+                  <p>Called at Mrs. Crowther's &amp; Richard Body's--wrote to Miss Johnson.</p>
+               </div>
+               <div type="entry" xml:id="e-1181">
+                  <head><date when="1822-03-23"></date></head>
+                  <p>At home--went violetting.</p>
+               </div>
+               <div type="entry" xml:id="e-1182">
+                  <head><date when="1822-03-24"></date></head>
+                  <p>Heard from Aunt Mary.</p>
+               </div>
+               <div type="entry" xml:id="e-1183">
+                  <head><date when="1822-03-25"></date></head>
+                  <p>Had a very uncivil letter from Miss James--wrote her a good peppering--dramatic scene.</p>
+               </div> <!-- LOL -->
+               <div type="entry" xml:id="e-1184">
+                  <head><date when="1822-03-26"></date></head>
+                  <p>Heard from Mrs. Rowden &amp; George Robins--wrote to Mr. Talfourd--had the piles very bad.</p>
+               </div>
+               <div type="entry" xml:id="e-1185">
+                  <head><date when="1822-03-27"></date></head>
+                  <p>Heard from Miss James--a very foolish letter--&amp; then again, a contrite note--heard from Miss Johnson--worked at Agnes.</p>
+               </div>
+               <div type="entry" xml:id="e-1186">
+                  <head><date when="1822-03-28"></date></head>
+                  <p>Went to Wokingham--dined, &amp; came home at night--pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-1187">
+                  <head><date when="1822-03-29"></date></head>
+                  <p>Heard from Mrs. Rowden--went to Arborfield--wrote to Miss Johndon.</p>
+               </div> <!-- Johndon or Johnson? -->
+               <div type="entry" xml:id="e-1188">
+                  <head><date when="1822-03-30"></date></head>
+                  <p>At home--wrote to Mrs. Rowden &amp; Miss James--worked at my Dramatic Sketch.</p>
+               </div>
+               <div type="entry" xml:id="e-1189">
+                  <head><date when="1822-03-31"></date></head>
+                  <p>At home--heard from Mr. Talfourd &amp; Sir W. Elford--went to Penge Wood with dear Drum--wrote to Mr. Talfourd.</p>
+               </div>
+               
+               
+               
+               
+               
+               
             </div>
-         </div>
                
 
          
@@ -10222,37 +10588,228 @@ Publisher:	London : [publisher not identified], 1786.
             <listPerson sortKey="Mitford_Team">
                <person></person>
             </listPerson>
-            <listOrg sortKey="archives"> 
-               <org></org>
+            <listOrg sortKey="archives">
+               <org xml:id="BritishMuseum">
+                  <orgName>British Museum</orgName>
+                  <note resp="#hjb">Holds the transcript notebook of Mary Russel Mitford. Presumably own the Copyright for the notes MS, beginning on 1 January 1819 to 11 March 1823.</note>
+               </org>
             </listOrg>
          </div>
-          <div type="historical_people">
+
+
+         <div type="historical_people">
             <listOrg sortKey="histOrgs">
-               <org></org>
+               <org xml:id="Perrys"> <!-- NEW ENTRY -->
+                  <orgName>the Perrys</orgName>
+                  <surname>Perry</surname>
+                  <note resp="#hjb">Contains <persName ref="#Perry_James">James
+                     Perry</persName>.</note>
+               </org>          
             </listOrg>
         
             <listPerson sortKey="histPersons">
-              <person></person>
+               <person xml:id="Nares_Mr"> <!-- 2024-07-11 NEW ENTRY (mentioned in Journal but has no entry) -->
+                  <persName>Mr. Nares</persName>
+                  <persName>
+                     <surname>Nares</surname>
+                     <roleName>Mr.</roleName>
+                  </persName>
+                  <note resp="#hjb">Mitford mentions seeing him on <date when="1820-06-07">June 7 1820</date>, as well as saw <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> the same day.</note>
+               </person>
+                <person xml:id="Perry_Anne"> <!-- NEW ENTRY -->
+                    <persName>Horatia Anne Perry</persName>
+                    <persName>
+                        <surname type="married">Crawfurd</surname>
+                        <surname type="paternal">Perry</surname>
+                        <forename>Horatia</forename>
+                        <forename>Anne</forename>
+                    </persName>
+                    <birth when="1793-07-05">
+                        <placeName>London, Middlesex, England</placeName>
+                    </birth>
+                    <death when="1861-09-22">
+                        <placeName>Kensington, London, England</placeName>
+                    </death>
+                    <note resp="#hjb">Married <persName ref="#Crawfurd_J">John Crawfurd</persName>
+                        on <date when="1820-11-25">25 November 1820</date> which was read by Mitford
+                        on <date when="1820-11-30">30 November 1820</date>.</note>
+                </person>
             </listPerson>
          </div>
 
          <div type="places">
             <listPlace sortKey="histPlaces">
-               <place></place>
+               <place xml:id="Church_Shinfield"> <!-- NEW ENTRY -->
+                  <placeName>Shinfield Church</placeName>
+               </place>
             </listPlace>
          </div>
-         <div type="nature">
 
+         <div type="nature">
             <list sortKey="animals">
-               <item></item>            
+               <item xml:id="Leech">
+                  <name>Leech</name>
+                  <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment in a process known as bloodletting.</note>
+               </item>
             </list>
          </div>
 
          <div type="publications">
+
             <listBibl sortKey="work_MRM">
-              <bibl></bibl>
+               <bibl xml:id="Advice_Julia"> <!-- 2024-07-10: NEW ENTRY -->
+                  <title level="m">Advice to Julia: A Letter in Rhyme</title>
+                  <author>Henry Luttrell</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>John Murray</publisher>
+                  <date when="1820">1820</date>
+                  <note resp="#hjb">A poem read by Mitford on <date when="1820-10-07">October 7 1820</date>.</note>
+               </bibl>
+               <bibl xml:id="Age_Elizabeth"> <!-- 2024-07-10: NEW ENTRY -->
+                  <title level="m">Lectures Chiefly on the Dramatic Literature of the Age of Elizabeth</title>
+                  <author ref="#Hazlitt_Wm">William Hazlitt</author>
+                  <pubPlace>London, Edinburgh</pubPlace>
+                  <publisher>Stodart and Steuart; Bell and Bradfute</publisher>
+                  <date when="1820">1820</date>
+                  <note resp="#hjb">Read by Mitford on <date when="1820-10-22">October 22, 1820</date>.</note>
+               </bibl>
+               <bibl xml:id="Beau_Fletch"> <!-- 2024-07-10: NEW ENTRY -->
+                  <title>The Works of Beaumont and Fletcher, in Fourteen Volumes: With an Introduction and Explanatory Notes</title>
+                  <author>Francis Beaumont</author>
+                  <author>John Fletcher</author>
+                  <editor>Henry William Weber</editor>
+                  <pubPlace>London, Edinburgh</pubPlace>
+                  <publisher>J. Ballantyne and Company for F.C. and J. Rivington</publisher>
+                  <date when="1812">1812</date>
+                  <note resp="#hjb">
+                     <ref target="https://search.worldcat.org/title/2083155"/>
+                  </note>
+                  <note resp="#hjb">Read by Mitford on <date when="1820-09-25">September 25 1820</date>.</note>
+               </bibl>
+               <bibl xml:id="Discourses_Chalmers"> <!-- NEW ENTRY -->
+                  <title>The Application of Christianity to the Commerical and Ordinary Affairs of
+                     Life: in a Series of Discourses</title>
+                  <author ref="#Chalmers_T">Thomas Chalmers</author>
+                  <pubPlace>
+                     <placeName ref="#Glasgow">Glasgow</placeName>
+                  </pubPlace>
+                  <publisher><orgName>James Starke, Trongate, for Chalmers &amp; Collins</orgName></publisher>
+                  <note resp="#hjb">Possibly read by <persName ref="#MRM">Mitford</persName> on 2 August 1820.</note>
+               </bibl>
+               <bibl xml:id="Flora_Fest"> <!-- 2024-07-10: NEW ENTRY -->
+                  <title>Festival of Flora</title>
+                  <title level="m">The Festival of Flora: A Poem with Botanical Notes</title>
+                  <author>Arthur Crichton</author>
+                  <pubPlace>
+                     <placeName>London</placeName>
+                  </pubPlace>
+                  <publisher>N. Hailes</publisher>
+                  <date when="1818">1818</date>
+                  <note resp="#hjb">
+                     <ref target="https://search.worldcat.org/title/36063200"/>
+                  </note>
+                  <note resp="#hjb">Read by Mitford on <date when="1820-08-24">August 24 1820</date>. Second Edition.</note>
+               </bibl>
+               <bibl xml:id="Legends_B"> <!-- NEW ENTRY -->
+                  <title>Metrical Legends of Exalted Characters</title>
+                  <author ref="#Baillie_Joanna">Joanna Baillie</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <date when="1821">1821</date>
+                  <note>
+                     <ref target="https://search.worldcat.org/title/2986872"/>
+                  </note>
+                  <note resp="#hjb">Read by Mitford on <date when="1821-06-10">June 10 1821</date>.</note>
+               </bibl>
+               <bibl xml:id="Missionary_SO"> <!-- 2024-07-10: NEW ENTRY -->
+                  <title>The Missionary: An Indian Tale</title>
+                  <author>Sydney Owenson</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>J.J. Stockdale</publisher>
+                  <date when="1811">1811</date>
+                  <note resp="#hjb">
+                     <ref target="https://search.worldcat.org/title/830959325"/>
+                     <ref target="https://play.google.com/books/reader?id=3zZW6pUXUrwC&amp;pg=GBS.PP1&amp;hl=en"/>
+                     <ref target="https://broadviewpress.com/product/the-missionary/#tab-description"/>
+                  </note>
+                  <note resp="#hjb">A tragic romance novel read by Mitford on <date when="1820-10-23">Monday 23rd</date>. Tells 
+                     the tale of star-crossed lovers, a Portuguese missionary to India and an Indian prophetess.</note>
+               </bibl>
+               <bibl xml:id="Refugee"> <!-- NEW ENTRY -->
+                  <title level="m">The Refugee, a Novel. By the author of <q>The Subalterns</q></title>
+                  <author ref="#Gleig_GRA">George Robert Gleig</author>
+                  <pubPlace><placeName>Edinburgh</placeName></pubPlace>
+                  <publisher><orgName>Printed for Waugh and Innes</orgName></publisher>
+                  <date when="1821">1821</date>
+                  <note resp="#lmw">3 vols. <persName ref="#MRM">Mitford</persName> mentions reading this book in her journal
+                     entry of <date when="1821-08-21">August 21, 1821</date>.</note>
+               </bibl>
+               <bibl xml:id="Schlegel"> <!-- Another entry that I cannot find reference to in Journal
+               2024-07-10: ebb to hjb TRY TO FIND THE MENTION? WAS IT IN THE LETTERS?
+               --><title>A course of lectures on dramatic art and literature</title>
+                  <author ref="#Schlegel_AW">August Wilhelm Schlegel</author>
+                 <editor role="translator">John Black</editor>
+                  <pubPlace>
+                     <placeName ref="#London">London</placeName>
+                  </pubPlace>
+                  <publisher><orgName>Baldwin</orgName></publisher>
+                  <date when="1815">1815</date>
+                  <note resp="#hjb #ebb">Translation of <bibl>Schlegel's <title>Vorlesungen über dramatische Kunst und Litteratur</title>, first published in <date>1809</date></bibl>.
+                     Possibly read by <persName ref="#MRM">Mitford</persName> in 1821.</note>
+               </bibl>
+               <bibl xml:id="Sintram_Comp"> <!-- 2024-07-10 NEW ENTRY -->
+                  <title>Sintram and His Companions: A Romance</title>
+                  <author>Friedrich Heinrich Karl La Motte-Fouqué</author>
+                  <editor role="translator">Julius Charles Hare</editor>
+                  <note resp="#hjb">
+                     <ref target="https://search.worldcat.org/title/6875205"/>
+                  </note>
+                  <note resp="#hjb">Read by Mitford on <date when="1820-09-06">September 6 1820</date>.</note>
+               </bibl>
+              <!-- NOT FOUND  <bibl xml:id="Sketches_France"> <!-\- No reference to this -\->
+                  <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
+                     account of travels in various parts of France and Switzerland, in the same
+                     years.</title>
+                  <author ref="#Eaton_Charlotte_A">Charlotte A. Eaton</author>
+                  <pubPlace>
+                     <placeName ref="#London_city">London</placeName>
+                  </pubPlace>
+                  <publisher>
+                     <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
+                  </publisher>
+                  <date when="1820">1820</date>
+                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
+               </bibl>-->
+               <bibl xml:id="Tales_Heart"> <!-- 2024-07-10 NEW ENTRY -->
+                  <title>Tales of the heart</title>
+                  <author ref="#Opie_Amelia">Amelia Opie</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                  <date when="1820">1820</date>
+                  <note>
+                     <ref target="https://archive.org/details/talesofhear01opie/mode/2up"/>
+                     <ref target="https://search.worldcat.org/title/539322535"/>
+                  </note>
+                  <note resp="#hjb">Read by Mitford on <date when="1820-10-31">October 31 1820</date>.</note>
+               </bibl>
+               <bibl xml:id="theVampyre"> <!-- 2024-07-11 NEW ENTRY -->
+                  <title level="m">The Vampyre: A Tale</title>
+                  <author>John William Polidori</author>
+                  <pubPlace>
+                     <placeName>London</placeName>
+                  </pubPlace>
+                  <publisher>Sherwood, Neely, and Jones</publisher>
+                  <date when="1819">1819</date>
+                  <note resp="#hjb">
+                     <ref target="https://archive.org/details/vampyretale00poli/page/n7/mode/2up"/>
+                     <ref target="https://en.wikipedia.org/wiki/John_William_Polidori"/>
+                  </note>
+                  <note resp="#hjb">The first published modern vampire story read by Mitford on 
+                     <date when="1820-11-04">November 4 1820</date>. Mitford described it as 
+                     <q>very stupid</q> in her journal. Originally credited to Lord Byron, but was 
+                     then confirmed to be written by Polidori.</note>
+               </bibl>
             </listBibl>
-         </div>   
       </back>
    </text>
 </TEI>
