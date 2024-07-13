@@ -2,8 +2,8 @@
 
 ## persName
 
-- [ X ] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
-- [ X ] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
+- [x] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
+- [x] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
 - [ ] Bobby_pet 
 - [ ] Bocket_Mr
 - [ ] Butcher
@@ -23,7 +23,7 @@
 - [ ] Harley_Mr
 - [ ] Hayward_da
 - [ ] HeudeWm 
-- [ X] Hofland_Barbara ebb: **Correct to "Hofland_B"**
+- [x] Hofland_Barbara ebb: **Correct to "Hofland_B"**
 - [ ] Howell_W 
 - [ ] hunt  ebb: Check if this is a person: It should probably be corrected to "Hunt" (for James Henry Leigh Hunt who published the journal book she's writing in and lots of other stuff, some of it politically charged).
 - [ ] Jephson_Miss ebb: We should check this, but we are *thinking* this may be a reference to Emily Jephson, in the SI already as "Jephson_Em"
