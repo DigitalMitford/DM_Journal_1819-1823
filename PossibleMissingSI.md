@@ -153,17 +153,17 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [ ] Emmeline_MB 
 - [ ] FallofJerusalem_HM
 - [ ] Harcourt 
-- [ ] Hazlitt_LecDramatic
-- [ ] Hist_Burnet 
-- [ ] Life_JHVaux 
-- [ ] Life_Wesley_RS
-- [ ] Lives_HaydenMoz 
+- [ ] Hazlitt_LecDramatic ebb: Correct this to "LecDramatic_WHaz" (already in SI)
+- [ ] Hist_Burnet  ebb: Correct this to "History_Burnet" (already in SI)
+- [ ] Life_JHVaux  
+- [ ] Life_Wesley_RS  ebb: Correct this to "Life_Wesley" (already in SI)
+- [ ] Lives_HaydenMoz  ebb: Correct this to "Lives_HaydnMoz" (already in SI)
 - [ ] Ltrs_CapeofGH 
-- [ ] Mazeppa 
-- [ ] Mems_MrsHamilton 
-- [ ] Monastery_WS
-- [ ] MoralTales_MR 
-- [ ] MunsterCBoy
+- [ ] Mazeppa   ebb: Correct this to "Mazeppa_By" (already in SI)
+- [ ] Mems_MrsHamilton  ebb: Correct this to "Mems_ElizHamilton" (already in SI)
+- [ ] Monastery_WS  ebb: Correct this to "Monastery" (already in SI)
+- [ ] MoralTales_MR  ebb: Correct this to "MoralTales_ME" (already in SI)
+- [ ] MunsterCBoy 
 - [ ] MunsterCBoy
 - [ ] Narr_BrigCommerce
 - [ ] Nourjahad
