@@ -6116,7 +6116,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#Richmond">Richmond</placeName>--<persName ref="#Haydon">Mr.
                         Haydon</persName> came &amp; spent the day with us--read <persName
                         ref="#Hofland_B">Mrs. Hofland</persName>'s <title ref="#PrioryTales_H">Tales</title> &amp;
-                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Discourses_Chalmers">new sermons</title>--happy
+                        <persName ref="#Chalmers_T">Chalmers</persName>'s <title ref="#Sermons_Chalmers">new sermons</title>--happy
                      day.<!-- srr: Is Tales and Chalmers one or two titles? --></p>
                </div>
                <div type="entry" xml:id="e-551">
@@ -10571,9 +10571,9 @@ Publisher:	London : [publisher not identified], 1786.
                
                
                
-            </div>
+            </div><!-- month div ends here-->
                
-         </div>
+         </div><!-- year div ends here-->
          
 
       </body>
@@ -10623,7 +10623,8 @@ Publisher:	London : [publisher not identified], 1786.
             <list sortKey="animals">
                <item xml:id="leech">
                   <name>leech</name>
-                  <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment in a process known as bloodletting.</note>
+                  <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment 
+                     in a process known as bloodletting.</note>
                </item>
             </list>
          </div>
@@ -10660,16 +10661,10 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                   <note resp="#hjb">Read by Mitford on <date when="1820-09-25">September 25 1820</date>.</note>
                </bibl>
-               <bibl xml:id="Discourses_Chalmers"> <!-- NEW ENTRY -->
-                  <title>The Application of Christianity to the Commerical and Ordinary Affairs of
-                     Life: in a Series of Discourses</title>
-                  <author ref="#Chalmers_T">Thomas Chalmers</author>
-                  <pubPlace>
-                     <placeName ref="#Glasgow">Glasgow</placeName>
-                  </pubPlace>
-                  <publisher><orgName>James Starke, Trongate, for Chalmers &amp; Collins</orgName></publisher>
-                  <note resp="#hjb">Possibly read by <persName ref="#MRM">Mitford</persName> on 2 August 1820.</note>
-               </bibl>
+             <!-- 2024-07-13 ebb: I added Chalmers_T and a different reference for his sermons: 
+                I think it's his New Sermons instead of Discourses, based on her mention and dates of publication. 
+                Thomas Chalmers stuff is already in the SI-Add and tagging updated here.
+             -->
                <bibl xml:id="Flora_Fest"> <!-- 2024-07-10: NEW ENTRY -->
                   <title>Festival of Flora</title>
                   <title level="m">The Festival of Flora: A Poem with Botanical Notes</title>
