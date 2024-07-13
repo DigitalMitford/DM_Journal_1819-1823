@@ -56,7 +56,7 @@
 - [ ] ROgers_Miss    ebb: We don't have an orgname for a family of Rogers, though... 
 - [ ] Rogers_Miss
 - [ ] Ross_Miss 
-- [ ] Schlegel_AW ebb: I added this to the current siADD list
+- [x] Schlegel_AW ebb: I added this to the current siADD list in the DM_SiteIndex repo
 - [ ] Scott   ebb: If it's the author of a novel, correct it to "Scott_Wa"
 - [ ] Shaw_Sam 
 - [ ] Sidney_SirP
