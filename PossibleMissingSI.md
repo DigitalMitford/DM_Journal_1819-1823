@@ -286,11 +286,11 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [x] Missionary
 - [x] Tales of the Heart
 - [ ] Reviews
-- [ ] Monthly Review
+- [ ] Monthly Review   ebb: Could this be the Monthly Mag? (New_Monthly_Mag in the SI)
 - [ ] [?]ellingford
 - [ ] Fool of Quality
 - [ ] Methodietical Mythology
-- [ ] Memoire de Napoleon
+- [ ] Memoire de Napoleon ebb: This is probably "Napoleon_memoir_nonfict" (already in SI) but check the SI entry and the Journal. Does that seem to be the same book?
 - [ ] Letters intended for the Post not for the press
 - [ ] Convent Garden : ebb: ALMOST CERTAINLY this should be tagged as an **placeName** for Covent_Garden_Theatre. Check the MS, I am 98% certain this is an error. 
 - [ ] Wallace &amp; the Warlock
