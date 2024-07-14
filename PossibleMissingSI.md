@@ -11,7 +11,7 @@
 - [ ] Champion_Mr 
 - [ ] Clarkson_Wm
 - [ ] Cowper_Mr
-- [ ] deGenlis 
+- [ ] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
 - [ ] deGenlis 
 - [ ] Deverell_J 
 - [ ] Deverell_Miss 
