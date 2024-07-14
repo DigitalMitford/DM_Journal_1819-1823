@@ -17,7 +17,7 @@
 - [ ] Deverell_Miss 
 - [ ] Elliott_John 
 - [ ] Elliott_Mr 
-- [ ] Gleig_GRA ebb: **WHERE IS THIS TAGGED? I could not find it in the Journal so I removed it from the back list**. Gleig was mostly not writing until the late 1820s. I found no specific reference to titles by him in the Journal, but am I missing something? 
+- [ ] Gleig_GRA ebb: **Not sure we want this one? I could not find it in the Journal so I removed it from the back list**. Gleig was mostly not writing until the late 1820s. I found no specific reference to titles by him in the Journal, but am I missing something? 
 - [ ] Graham_DofMontrose
 - [ ] Greene_Mr 
 - [ ] Harley_Mr
