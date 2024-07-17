@@ -4,7 +4,7 @@
 
 - [x] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
 - [x] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
-- [ ] Bobby_pet 
+- [ ] Bobby_pet ebb: Mark as the English robin as a wild bird 
 - [ ] Bocket_Mr
 - [ ] Butcher
 - [ ] Chalmers_T 
