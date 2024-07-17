@@ -28,7 +28,7 @@
 - [ ] Jeremy_Miss 
 - [ ] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. She's mentioned 19 times, so she'd better have her own entry. CANONICAL FORM IS with one 'l'.
 - [ ] Jollife_Mrs ^^^^
-- [ ] Knox_Robt
+- [ ] Knox_Robt   ALREADY IN SI as  Knox_Rbt
 - [ ] LaFontaine 
 - [ ] Lane
 - [ ] LeghT 
