@@ -10224,7 +10224,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1105">
                   <head><date when="1822-01-05"></date></head>
                   <p>At home--read Loyd Byron's</p>
-               </div> <!-- Probably is not finished -->
+               </div> <!-- 2024-07-14 hjb: Probably is not finished. Check MS -->
                <div type="entry" xml:id="e-1106">
                   <head><date when="1822-01-06"></date></head>
                   <p>At home--worked at Julian all day.</p>
@@ -10252,7 +10252,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1112">
                   <head><date when="1822-01-12"></date></head>
                   <p>Heard of poor dear Mr. Webb's death, which happened yesterday--worked at Julian.</p>
-               </div> <!-- Check who died -->
+               </div> <!-- 2024-07-14 hjb: Check who died -->
                <div type="entry" xml:id="e-1113">
                   <head><date when="1822-01-13"></date></head>
                   <p>At home--worked at Julian.</p>
@@ -10272,7 +10272,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1117">
                   <head><date when="1822-01-17"></date></head>
                   <p>At home--heard from Miss James--went into Reading--saw Mr. Tafourdell &amp;c.--poor Papa attended Mr. Webb's funeral.</p>
-               </div> <!-- Is this actually Mr. Talfourd? -->
+               </div> <!-- 2024-07-14 hjb: Is this actually Mr. Talfourd? -->
                <div type="entry" xml:id="e-1118">
                   <head><date when="1822-01-18"></date></head>
                   <p>Wrote to Miss James--called on Mrs. Body.</p>
@@ -10328,7 +10328,9 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1131">
                   <head><date when="1822-01-31"></date></head>
                   <p>May much better--Mrs. Ragget &amp; Miss Bricknell called--called on Mrs. Crowther--Drum &amp; Granny came home; had a bad cold.</p>
-               </div> <!-- Says "sad cold" in typescript. Double check plz -->
+               </div> <!-- 2024-07-14 hjb: Says "sad cold" in typescript. Double check plz -->
+            </div>
+            <div type="month" xml:id="Feb-1822">
                <div type="entry" xml:id="e-1132">
                   <head><date when="1822-02-01"></date></head>
                   <p>At home--wrote to Miss Johnson &amp; Miss Ogbourn--cold better--worked at Julian</p>
@@ -10399,7 +10401,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1149">
                   <head><date when="1822-02-18"></date></head>
-                  <p>At home--Drum went to Watlington--Mrs. &amp; Miss Briscoe called--called on Mrs. Body--wrote to Mrs. Dickinson &amp; Mr. Talfourd--worked at Foscari.</p> <!-- Who is Briscoe -->
+                  <p>At home--Drum went to Watlington--Mrs. &amp; Miss Briscoe called--called on Mrs. Body--wrote to Mrs. Dickinson &amp; Mr. Talfourd--worked at Foscari.</p> <!-- 2024-07-14 hjb: Who is Briscoe -->
                </div>
                <div type="entry" xml:id="e-1150">
                   <head><date when="1822-02-19"></date></head>
@@ -10432,7 +10434,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1157">
                   <head><date when="1822-02-26"></date></head>
                   <p>At home--went coursing--North did up my garden--worked at Foscari.</p>
-               </div> <!-- Is North supposed to be Nooth?-->
+               </div> <!-- 2024-07-14 hjb: Is North supposed to be Nooth?-->
                <div type="entry" xml:id="e-1158">
                   <head><date when="1822-02-27"></date></head>
                   <p>At home--Went to Reading.</p>
@@ -10441,6 +10443,8 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1822-02-28"></date></head>
                   <p>Wrote to Miss James--dined at Wockingham--home again at night--pleasant day.</p>
                </div>
+            </div>
+            <div type="month" xml:id="Mar-1822">
                <div type="entry" xml:id="e-1160">
                   <head><date when="1822-03-01"></date></head>
                   <p>At home--found the first violets.</p>
@@ -10452,11 +10456,11 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1162">
                   <head><date when="1822-03-03"></date></head>
                   <p>Mr. Crowther called--wrote to Miss Laman &amp; Sir William Elford.</p>
-               </div> <!-- Is this Miss James? Check MS -->
+               </div> <!-- 2024-07-14 hjb: Is this Miss James? Check MS -->
                <div type="entry" xml:id="e-1163">
                   <head><date when="1822-03-04"></date></head>
                   <p>Went to Reading to the assizes--saw Mr. Talfourd--dined at Dr. Valpy's--made many calls--came back at night--delightful day.</p>
-               </div> <!-- What is the assizes? -->
+               </div> <!-- 2024-07-14 hjb: What is the assizes? -->
                <div type="entry" xml:id="e-1164">
                   <head><date when="1822-03-05"></date></head>
                   <p>Went again to Reading--sate near the judge--made many calls--dined at Dr. Valpy's &amp; saw Mr. Talfourd--very pleasant day indeed.</p>
@@ -10484,7 +10488,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1170">
                   <head><date when="1822-03-11"></date></head>
                   <p>Drum from home--Dr. Valpy called &amp; brought me a letter from Archdeacon Wrangham--heard from Mrs. Dickinson--worked at Foscari.</p>
-               </div> <!-- Archdeacon Wrangham is a crazy name... Who is this? -->
+               </div> <!-- 2024-07-14 hjb: Archdeacon Wrangham is a crazy name... Who is this? -->
                <div type="entry" xml:id="e-1171">
                   <head><date when="1822-03-12"></date></head>
                   <p>Went violetting--Worked at Foscari.</p>
@@ -10540,7 +10544,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1184">
                   <head><date when="1822-03-25"></date></head>
                   <p>Had a very uncivil letter from Miss James--wrote her a good peppering--dramatic scene.</p>
-               </div> <!-- LOL -->
+               </div> <!-- 2024-07-14 hjb: LOL -->
                <div type="entry" xml:id="e-1185">
                   <head><date when="1822-03-26"></date></head>
                   <p>Heard from Mrs. Rowden &amp; George Robins--wrote to Mr. Talfourd--had the piles very bad.</p>
@@ -10556,7 +10560,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-1188">
                   <head><date when="1822-03-29"></date></head>
                   <p>Heard from Mrs. Rowden--went to Arborfield--wrote to Miss Johndon.</p>
-               </div> <!-- Johndon or Johnson? -->
+               </div> <!-- 2024-07-14 hjb: Johndon or Johnson? -->
                <div type="entry" xml:id="e-1189">
                   <head><date when="1822-03-30"></date></head>
                   <p>At home--wrote to Mrs. Rowden &amp; Miss James--worked at my Dramatic Sketch.</p>
@@ -10565,15 +10569,1412 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1822-03-31"></date></head>
                   <p>At home--heard from Mr. Talfourd &amp; Sir W. Elford--went to Penge Wood with dear Drum--wrote to Mr. Talfourd.</p>
                </div>
-               
-               
-               
-               
-               
-               
+            </div>
+            <div type="month" xml:id="Apr-1822">
+               <div type="entry" xml:id="e-1191">
+                  <head><date when="1822-04-01"></date></head>
+                  <p>At home--Miss James &amp; Eliza Webb came to dinner--wrote to Mrs. Crowther--Drum went to London.</p>
+               </div>
+               <div type="entry" xml:id="e-1192">
+                  <head><date when="1822-04-02"></date></head>
+                  <p>Went violetting--heard from dear Drum--worked at Agnes.</p>
+               </div>
+               <div type="entry" xml:id="e-1193">
+                  <head><date when="1822-04-03"></date></head>
+                  <p>At home--went to Wokingham to meet Drum--walked to Chapel Green--heard from Miss Nooth--returned at night--pleasant day.</p>
+               </div>
+               <div type="entry" xml:id="e-1194">
+                  <head><date when="1822-04-04"></date></head>
+                  <p>Mrs. Raggett called--Miss Johnson came--wrote to Miss Nooth.</p>
+               </div>
+               <div type="entry" xml:id="e-1195">
+                  <head><date when="1822-04-05"></date></head>
+                  <p>At home--Miss Johnson here.</p>
+               </div>
+               <div type="entry" xml:id="e-1196">
+                  <head><date when="1822-04-06"></date></head>
+                  <p>At home--Miss Johnson went away--I drove her to Reading--made called &amp;c.</p>
+               </div>
+               <div type="entry" xml:id="e-1197">
+                  <head><date when="1822-04-07"></date></head>
+                  <p>At home--walked with Drum.</p>
+               </div>
+               <div type="entry" xml:id="e-1198">
+                  <head><date when="1822-04-08"></date></head>
+                  <p>At home--went with Granny into Reading--made purchases &amp; calls--home to dinner--pleasant day</p>
+               </div>
+               <div type="entry" xml:id="e-1199">
+                  <head><date when="1822-04-09"></date></head>
+                  <p>At home-called at Mr. Body's--heard from Mrs. Rowden with a letter from Mr. Charles Kemble--wrote to Mr. Talfourd &amp; Mrs. Dickinson--worked at Agnes--Mr. Crowther called--Read Horace Walpole's Memoirs.</p>
+               </div>
+               <div type="entry" xml:id="e-1200">
+                  <head><date when="1822-04-10"></date></head>
+                  <p>At home--went into Reading &amp; made purchases--home to dinner--finished Agnes.</p>
+               </div>
+               <div type="entry" xml:id="e-1201">
+                  <head><date when="1822-04-11"></date></head>
+                  <p>At home--heard from Miss James &amp; Mrs. Hofland--wrote to John Valpy with Agnes.</p>
+               </div>
+               <div type="entry" xml:id="e-1202">
+                  <head><date when="1822-04-12"></date></head>
+                  <p>At home--heard from Miss Johnson with lace--wrote to Miss Johnson &amp; Miss James.</p>
+               </div> <!-- Is this actually Lace? Or could it be Luce? -->
+               <div type="entry" xml:id="e-1203">
+                  <head><date when="1822-04-13"></date></head>
+                  <p>At home--Mrs. Raggett called.</p>
+               </div>
+               <div type="entry" xml:id="e-1204">
+                  <head><date when="1822-04-14"></date></head>
+                  <p>At home--wrote to Sir W. Elford &amp; Eliza Webb--worked on a prose article.</p>
+               </div>
+               <div type="entry" xml:id="e-1205">
+                  <head><date when="1822-04-15"></date></head>
+                  <p>Went to Reading--called on Miss Brooke--went shopping--dined at Mr. Newberry's--came home at night--left dear Granny to sleep</p>
+               </div>
+               <div type="entry" xml:id="e-1206">
+                  <head><date when="1822-04-16"></date></head>
+                  <p>At home--dear Granny came home--Drum went to Newbury--worked at the Farm house.</p>
+               </div>
+               <div type="entry" xml:id="e-1207">
+                  <head><date when="1822-04-17"></date></head>
+                  <p>At home--Drum came home.</p>
+               </div>
+               <div type="entry" xml:id="e-1208">
+                  <head><date when="1822-04-18"></date></head>
+                  <p>Wrote to Mr. Talfourd--he came &amp; drank tea here--delightful--worked at prose article [sic].</p>
+               </div>
+               <div type="entry" xml:id="e-1209">
+                  <head><date when="1822-04-19"></date></head>
+                  <p>Heard from Miss Elford with an account of her father's accident--Mrs. Dickinson &amp; Mr. Crowther called--finished a great farm house.</p>
+               </div>
+               <div type="entry" xml:id="e-1210">
+                  <head><date when="1822-04-20"></date></head>
+                  <p>At home--wrote to Sir W. Elford.</p>
+               </div>
+               <div type="entry" xml:id="e-1211">
+                  <head><date when="1822-04-21"></date></head>
+                  <p>At home--went to Farley Hill &amp; meant to go to Wokingham--but came from the rain.</p>
+               </div>
+               <div type="entry" xml:id="e-1212">
+                  <head><date when="1822-04-22"></date></head>
+                  <p>At home--read Walpole's Memoirs.</p>
+               </div>
+               <div type="entry" xml:id="e-1213">
+                  <head><date when="1822-04-23"></date></head>
+                  <p>At home--began a prose article.</p>
+               </div>
+               <div type="entry" xml:id="e-1214">
+                  <head><date when="1822-04-24"></date></head>
+                  <p>At home--heard from Miss Johnson, Miss Brooke &amp; Eliza Webb--wrote to Miss Brooke &amp; Mrs. [?]</p>
+               </div>
+               <div type="entry" xml:id="e-1215">
+                  <head><date when="1822-04-25"></date></head>
+                  <p>Heard from Talfourd, a very hopeful letter about Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1216">
+                  <head><date when="1822-04-26"></date></head>
+                  <p>Heard from Miss James--wrote to her &amp; [?]</p>
+               </div>
+               <div type="entry" xml:id="e-1217">
+                  <head><date when="1822-04-27"></date></head>
+                  <p>At home--worked at a prose article.</p>
+               </div>
+               <div type="entry" xml:id="e-1218">
+                  <head><date when="1822-04-28"></date></head>
+                  <p>Went to the dear Wokingham Brewery for the last time--the dear girls very sad.</p>
+               </div><!-- Who are these girls? -->
+               <div type="entry" xml:id="e-1219">
+                  <head><date when="1822-04-29"></date></head>
+                  <p>At home--had the Museum, with a very uncivil notice--wrote a peppering letter to John Valpy on the occasion.</p>
+               </div>
+               <div type="entry" xml:id="e-1220">
+                  <head><date when="1822-04-30"></date></head>
+                  <p>Went to Odiam with Miss Brooke &amp; Mrs. Newton--made several calls--dined at Mrs. Raggett's to meet Colonel Johnson &amp; Mr. Chardsley--came home at night--pleasant day.</p>
+               </div> <!-- Gotta find Colonel Johnson and Mr. Chardsley -->
+            </div>
+            <div type="month" xml:id="May-1822">
+               <div type="entry" xml:id="e-1221">
+                  <head><date when="1822-05-01"></date></head>
+                  <p>Went to Reading fair--met several people &amp; made calls, &amp; dined at the Doctor's to meet Mr. Wheble, the Shuters, &amp;c.--heard from Miss Nooth &amp; Eliza Webb--came home at night--a pleasant day.</p>
+               </div> <!-- Who is the doctor? -->
+               <div type="entry" xml:id="e-1222">
+                  <head><date when="1822-05-02"></date></head>
+                  <p>At home--went with Drum to the meadows--lost poor dear Molly--found her again, sweet lamb, thank God.</p>
+               </div>
+               <div type="entry" xml:id="e-1223">
+                  <head><date when="1822-05-03"></date></head>
+                  <p>At home--went with Drum to the meadow to see our new cow, Pleasant--wrote to Miss Valpy &amp; Eliza Webb--Miss Anstruther called.</p>
+               </div>
+               <div type="entry" xml:id="e-1224">
+                  <head><date when="1822-05-04"></date></head>
+                  <p>At home--Mr. Crowther called--heard from John Valpy &amp; the Editor of the Museum with an apology--&amp; from poor Mary Webb</p>
+               </div>
+               <div type="entry" xml:id="e-1225">
+                  <head><date when="1822-05-05"></date></head>
+                  <p>Heard from Talfourd--wrote to Talfourd, John Valpy, &amp; the Editor of the Museum, Mr. Bailey.</p>
+               </div>
+               <div type="entry" xml:id="e-1226">
+                  <head><date when="1822-05-06"></date></head>
+                  <p>At home--went to Reading--made calls--home to dinner--began a dramatic article.</p>
+               </div>
+               <div type="entry" xml:id="e-1227">
+                  <head><date when="1822-05-07"></date></head>
+                  <p>At home--heard from Miss James--wrote to Miss James &amp; Mrs. Raggett.</p> 
+               </div>
+               <div type="entry" xml:id="e-1228">
+                  <head><date when="1822-05-08"></date></head>
+                  <p>Worked at the Bridal Eve.</p>
+               </div>
+               <div type="entry" xml:id="e-1229">
+                  <head><date when="1822-05-09"></date></head>
+                  <p>At home--Mr. Hailey [Harley?] &amp; Mr. Greene called.</p>
+               </div>
+               <div type="entry" xml:id="e-1230">
+                  <head><date when="1822-05-10"></date></head>
+                  <p>At home--worked at the Bridal Eve.</p>
+               </div>
+               <div type="entry" xml:id="e-1231">
+                  <head><date when="1822-05-11"></date></head>
+                  <p>At home--worked at the Bridal Eve.</p>
+               </div> 
+               <div type="entry" xml:id="e-1232">
+                  <head><date when="1822-05-12"></date></head>
+                  <p>At home--Mr. Crowther &amp; Mr. Joseph Crowther called--worked at the Bridal Eve.</p>
+               </div>
+               <div type="entry" xml:id="e-1233">
+                  <head><date when="1822-05-13"></date></head>
+                  <p>At home--heard from Miss James &amp; Mrs. Crowther--wrote to Mrs. Crowther.</p>
+               </div>
+               <div type="entry" xml:id="e-1234">
+                  <head><date when="1822-05-14"></date></head>
+                  <p>At home--went with Drum to see Englefield House--[what a ?] place--home to dinner--bright Mrs. Crowther some outtings of Geranium &amp; sent her--worked at the Bridal Eve.</p>
+               </div>
+               <div type="entry" xml:id="e-1235">
+                  <head><date when="1822-05-15"></date></head>
+                  <p>At home--Dr. Valpy called--worked at scene.</p>
+               </div>
+               <div type="entry" xml:id="e-1236">
+                  <head><date when="1822-05-16"></date></head>
+                  <p>Went to Reading--worked at Scene.</p>
+               </div>
+               <div type="entry" xml:id="e-1237">
+                  <head><date when="1822-05-17"></date></head>
+                  <p>Called on Mrs. Crowther--saw a young lady from Staffordshire, Miss Torrant--heard from Talfourd--wrote to Mrs. Jolliffe.</p>
+               </div>
+               <div type="entry" xml:id="e-1238">
+                  <head><date when="1822-05-18"></date></head>
+                  <p>At home--Mr. Crowther &amp; Miss Torrant called--wrote to Miss James, Mrs. Rowden &amp; Miss Nooth--finished my Dramatic Scene.</p>
+               </div>
+               <div type="entry" xml:id="e-1239">
+                  <head><date when="1822-05-19"></date></head>
+                  <p>At home--wrote to Talfourd--heard from Dr. Valpy--sent Julian to Mr. Macready.</p>
+               </div>
+               <div type="entry" xml:id="e-1240">
+                  <head><date when="1822-05-20"></date></head>
+                  <p>At home--wrote to Eliza Webb--Drum went to London about Foscari, poor dear love.</p>
+               </div>
+               <div type="entry" xml:id="e-1241">
+                  <head><date when="1822-05-21"></date></head>
+                  <p>At home--heard from Drum &amp; Eliza Webb--wrote to Drum &amp; Eliza Webb--copied Foscari.</p>
+               </div>
+               <div type="entry" xml:id="e-1242">
+                  <head><date when="1822-05-22"></date></head>
+                  <p>At home--Drum came back.</p>
+               </div>
+               <div type="entry" xml:id="e-1243">
+                  <head><date when="1822-05-23"></date></head>
+                  <p>At home--went to Bramley Maying, &amp; saw the church &amp; Mr. Brocas's beautiful Monument--charming country but bad roads.</p>
+               </div>
+               <div type="entry" xml:id="e-1244">
+                  <head><date when="1822-05-24"></date></head>
+                  <p>At home--read Belshazzar--reviewed Mrs. Hof.'s Tales of the Manor--&amp; gardened.</p>
+               </div>
+               <div type="entry" xml:id="e-1245">
+                  <head><date when="1822-05-25"></date></head>
+                  <p>Heard from Miss James--wrote to Miss James.</p>
+               </div>
+               <div type="entry" xml:id="e-1246">
+                  <head><date when="1822-05-26"></date></head>
+                  <p>Finished reviewing Mrs. Hof.'s Tales.</p>
+               </div>
+               <div type="entry" xml:id="e-1247">
+                  <head><date when="1822-05-27"></date></head>
+                  <p>Heard from Miss Johndon--wrote to Miss Johnson--planted flowers in my garden.</p>
+               </div>
+               <div type="entry" xml:id="e-1248">
+                  <head><date when="1822-05-28"></date></head>
+                  <p>At home--heard from Miss James &amp; Mr. Crowther--wrote to Mr. C. Kemble &amp; Mr. Crowther--Granny had leeches.</p>
+               </div>
+               <div type="entry" xml:id="e-1249">
+                  <head><date when="1822-05-29"></date></head>
+                  <p>At home--wrote to Miss James--the Moncks called--packed up--read the Fortunes of Nigel.</p>
+               </div>
+               <div type="entry" xml:id="e-1250">
+                  <head><date when="1822-05-30"></date></head>
+                  <p>Went to London to Mrs. Tuckett, 47, Upper Norton street--saw Miss James &amp; Mrs. Clarke.</p>
+               </div>
+               <div type="entry" xml:id="e-1251">
+                  <head><date when="1822-05-31"></date></head>
+                  <p>Went to Covent Garden Theatre--saw Mr. C. Kemble--then to John Valpy's, Whitakers, &amp; the Exhibition--Miss James would not go with me to John Valpy's party, so staid at home.</p>
+               </div>
+            </div>
+            <div type="month" xml:id="Jun-1822">
+                    <div type="entry" xml:id="e-1252">
+                        <head><date when="1822-06-01"></date></head>
+                        <p>Drum went home--[?] with Miss James--staid at home till the evening, then called on Mrs. Vardill--heard of her daughter's marriage, &amp; saw Miss Porden--heard from</p>
+                    </div> <!-- Check MS for ending -->
+                    <div type="entry" xml:id="e-1253">
+                        <head><date when="1822-06-02"></date></head>
+                        <p>At Mrs. Tuckett's--Mrs. Young, John Valpy, Mr. [?], Mr. Haydon &amp; Mr. Talfourd called--wrote to [?], Mrs. Rowden, Mrs. Shuter &amp; Mrs. Hofland.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1254">
+                        <head><date when="1822-06-03"></date></head>
+                        <p>Came home--wrote to Miss James from London--heard from Mr. [?], &amp; wrote to him at night--so glad to get</p>
+                    </div> <!-- Check MS for ending -->
+                    <div type="entry" xml:id="e-1255">
+                        <head><date when="1822-06-04"></date></head>
+                        <p>At home--wrote to Mrs. [?]--my garden quite beautiful.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1256">
+                        <head><date when="1822-06-05"></date></head>
+                        <p>At home--the Tuppens called.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1257">
+                        <head><date when="1822-06-06"></date></head>
+                        <p>At home--the Bodys called.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1258">
+                        <head><date when="1822-06-07"></date></head>
+                        <p>At home--my dear Mother had leeches on--Mr. Crowther called--heard from Mr. Haydon--wrote to Mrs. Rowden.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1259">
+                        <head><date when="1822-06-08"></date></head>
+                        <p>At home--worked at a Review of Coeur de Lion, Miss Porden's Poem.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1260">
+                        <head><date when="1822-06-09"></date></head>
+                        <p>Worked at Review--wrote a sonnet to Miss Porden.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1261">
+                        <head><date when="1822-06-10"></date></head>
+                        <p>At home--worked at Review.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1262">
+                        <head><date when="1822-06-11"></date></head>
+                        <p>At home--heard from Sir W. Elford--worked in my garden &amp; at my review--wrote to Miss Porden.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1263">
+                        <head><date when="1822-06-12"></date></head>
+                        <p>At home--finished my review.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1264">
+                        <head><date when="1822-06-13"></date></head>
+                        <p>Wrote to Mr. Whittaker &amp; Mr. Haydon--read &amp; gardened.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1265">
+                        <head><date when="1822-06-14"></date></head>
+                        <p>At home--heard from Mrs. Clarke--wrote to Mrs. Clarke--Mrs. Dickinson called--shaved dear Molly &amp; killed her fleas, poor lamb.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1266">
+                        <head><date when="1822-06-15"></date></head>
+                        <p>Dear Granny's birthday--Mrs. Raggett called, &amp; Mrs. Dickinson--heard from Eliza Webb--wrote to Sir William Elford.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1267">
+                        <head><date when="1822-06-16"></date></head>
+                        <p>At home--worked at Foscari.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1268">
+                        <head><date when="1822-06-17"></date></head>
+                        <p>At home--did gardening.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1269">
+                        <head><date when="1822-06-18"></date></head>
+                        <p>Went to Wokingham &amp; Farley Hill--saw the Webbs &amp; the Wheelers--came home to dinner--a delightful morning.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1270">
+                        <head><date when="1822-06-19"></date></head>
+                        <p>Heard from Miss Nooth.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1271">
+                        <head><date when="1822-06-20"></date></head>
+                        <p>At home--went to Reading--saw the Valpys, &amp;c.--came home to dinner.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1272">
+                        <head><date when="1822-06-21"></date></head>
+                        <p>At home--heard from Miss &amp; Mr. Porden--wrote to Miss Porden &amp; Miss Brooke.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1273">
+                        <head><date when="1822-06-22"></date></head>
+                        <p>At home--heard from Mrs. Hofland--wrote to Miss Nooth &amp; Mrs. Rowden.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1274">
+                        <head><date when="1822-06-23"></date></head>
+                        <p>At home--Mrs. Dickinson called.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1275">
+                        <head><date when="1822-06-24"></date></head>
+                        <p>At home--worked at Foscari.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1276">
+                        <head><date when="1822-06-25"></date></head>
+                       <p>At home--worked at Foscari.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1277">
+                        <head><date when="1822-06-26"></date></head>
+                        <p>At home--wrote to Mr. Talfourd &amp; Mr. Monck--finished &amp; sent off the last act of Foscari.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1278">
+                        <head><date when="1822-06-27"></date></head>
+                        <p>At home--read Corneille.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1279">
+                        <head><date when="1822-06-28"></date></head>
+                        <p>At home.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1280">
+                        <head><date when="1822-06-29"></date></head>
+                        <p>At home--wrote a sonnet on Englefield.</p>
+                    </div>
+                    <div type="entry" xml:id="e-1281">
+                        <head><date when="1822-06-30"></date></head>
+                        <p>At home--heard from Mr. Bagley.</p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Jul-1822">
+                    <div type="entry" xml:id="e-1282">
+                        <head><date when="1822-07-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1283">
+                        <head><date when="1822-07-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1284">
+                        <head><date when="1822-07-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1285">
+                        <head><date when="1822-07-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1286">
+                        <head><date when="1822-07-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1287">
+                        <head><date when="1822-07-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1288">
+                        <head><date when="1822-07-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1289">
+                        <head><date when="1822-07-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1290">
+                        <head><date when="1822-07-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1291">
+                        <head><date when="1822-07-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1292">
+                        <head><date when="1822-07-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1293">
+                        <head><date when="1822-07-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1294">
+                        <head><date when="1822-07-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1295">
+                        <head><date when="1822-07-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1296">
+                        <head><date when="1822-07-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1297">
+                        <head><date when="1822-07-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1298">
+                        <head><date when="1822-07-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1299">
+                        <head><date when="1822-07-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1300">
+                        <head><date when="1822-07-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1301">
+                        <head><date when="1822-07-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1302">
+                        <head><date when="1822-07-21"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1303">
+                        <head><date when="1822-07-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1304">
+                        <head><date when="1822-07-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1305">
+                        <head><date when="1822-07-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1306">
+                        <head><date when="1822-07-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1307">
+                        <head><date when="1822-07-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1308">
+                        <head><date when="1822-07-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1309">
+                        <head><date when="1822-07-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1310">
+                        <head><date when="1822-07-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1311">
+                        <head><date when="1822-07-30"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1312">
+                        <head><date when="1822-07-31"></date></head>
+                        <p></p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Aug-1822">
+                    <div type="entry" xml:id="e-1313">
+                        <head><date when="1822-08-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1314">
+                        <head><date when="1822-08-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1315">
+                        <head><date when="1822-08-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1316">
+                        <head><date when="1822-08-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1317">
+                        <head><date when="1822-08-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1318">
+                        <head><date when="1822-08-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1319">
+                        <head><date when="1822-08-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1320">
+                        <head><date when="1822-08-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1321">
+                        <head><date when="1822-08-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1322">
+                        <head><date when="1822-08-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1323">
+                        <head><date when="1822-08-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1324">
+                        <head><date when="1822-08-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1325">
+                        <head><date when="1822-08-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1326">
+                        <head><date when="1822-08-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1327">
+                        <head><date when="1822-08-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1328">
+                        <head><date when="1822-08-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1329">
+                        <head><date when="1822-08-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1330">
+                        <head><date when="1822-08-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1331">
+                        <head><date when="1822-08-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1332">
+                        <head><date when="1822-08-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1333">
+                        <head><date when="1822-08-21"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1334">
+                        <head><date when="1822-08-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1335">
+                        <head><date when="1822-08-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1336">
+                        <head><date when="1822-08-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1337">
+                        <head><date when="1822-08-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1338">
+                        <head><date when="1822-08-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1339">
+                        <head><date when="1822-08-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1340">
+                        <head><date when="1822-08-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1341">
+                        <head><date when="1822-08-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1342">
+                        <head><date when="1822-08-30"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1343">
+                        <head><date when="1822-08-31"></date></head>
+                        <p></p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Sept-1822">
+                    <div type="entry" xml:id="e-1344">
+                        <head><date when="1822-09-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1345">
+                        <head><date when="1822-09-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1346">
+                        <head><date when="1822-09-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1347">
+                        <head><date when="1822-09-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1348">
+                        <head><date when="1822-09-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1349">
+                        <head><date when="1822-09-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1350">
+                        <head><date when="1822-09-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1351">
+                        <head><date when="1822-09-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1352">
+                        <head><date when="1822-09-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1353">
+                        <head><date when="1822-09-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1354">
+                        <head><date when="1822-09-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1355">
+                        <head><date when="1822-09-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1356">
+                        <head><date when="1822-09-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1357">
+                        <head><date when="1822-09-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1358">
+                        <head><date when="1822-09-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1359">
+                        <head><date when="1822-09-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1360">
+                        <head><date when="1822-09-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1361">
+                        <head><date when="1822-09-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1362">
+                        <head><date when="1822-09-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1363">
+                        <head><date when="1822-09-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1364">
+                        <head><date when="1822-09-21"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1365">
+                        <head><date when="1822-09-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1366">
+                        <head><date when="1822-09-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1367">
+                        <head><date when="1822-09-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1368">
+                        <head><date when="1822-09-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1369">
+                        <head><date when="1822-09-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1370">
+                        <head><date when="1822-09-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1371">
+                        <head><date when="1822-09-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1372">
+                        <head><date when="1822-09-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1373">
+                        <head><date when="1822-09-30"></date></head>
+                        <p></p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Oct-1822">
+                    <div type="entry" xml:id="e-1374">
+                        <head><date when="1822-10-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1375">
+                        <head><date when="1822-10-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1376">
+                        <head><date when="1822-10-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1377">
+                        <head><date when="1822-10-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1378">
+                        <head><date when="1822-10-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1379">
+                        <head><date when="1822-10-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1380">
+                        <head><date when="1822-10-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1381">
+                        <head><date when="1822-10-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1382">
+                        <head><date when="1822-10-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1383">
+                        <head><date when="1822-10-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1384">
+                        <head><date when="1822-10-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1385">
+                        <head><date when="1822-10-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1386">
+                        <head><date when="1822-10-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1387">
+                        <head><date when="1822-10-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1388">
+                        <head><date when="1822-10-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1389">
+                        <head><date when="1822-10-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1390">
+                        <head><date when="1822-10-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1391">
+                        <head><date when="1822-10-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1392">
+                        <head><date when="1822-10-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1393">
+                        <head><date when="1822-10-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1394">
+                        <head><date when="1822-10-21"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1395">
+                        <head><date when="1822-10-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1396">
+                        <head><date when="1822-10-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1397">
+                        <head><date when="1822-10-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1398">
+                        <head><date when="1822-10-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1399">
+                        <head><date when="1822-10-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1400">
+                        <head><date when="1822-10-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1401">
+                        <head><date when="1822-10-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1402">
+                        <head><date when="1822-10-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1403">
+                        <head><date when="1822-10-30"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1404">
+                        <head><date when="1822-10-31"></date></head>
+                        <p></p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Nov-1822">
+                    <div type="entry" xml:id="e-1405">
+                        <head><date when="1822-11-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1406">
+                        <head><date when="1822-11-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1407">
+                        <head><date when="1822-11-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1408">
+                        <head><date when="1822-11-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1409">
+                        <head><date when="1822-11-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1410">
+                        <head><date when="1822-11-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1411">
+                        <head><date when="1822-11-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1412">
+                        <head><date when="1822-11-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1413">
+                        <head><date when="1822-11-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1414">
+                        <head><date when="1822-11-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1415">
+                        <head><date when="1822-11-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1416">
+                        <head><date when="1822-11-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1417">
+                        <head><date when="1822-11-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1418">
+                        <head><date when="1822-11-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1419">
+                        <head><date when="1822-11-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1420">
+                        <head><date when="1822-11-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1421">
+                        <head><date when="1822-11-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1422">
+                        <head><date when="1822-11-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1423">
+                        <head><date when="1822-11-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1424">
+                        <head><date when="1822-11-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1425">
+                        <head><date when="1822-11-21"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1426">
+                        <head><date when="1822-11-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1427">
+                        <head><date when="1822-11-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1428">
+                        <head><date when="1822-11-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1429">
+                        <head><date when="1822-11-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1430">
+                        <head><date when="1822-11-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1431">
+                        <head><date when="1822-11-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1432">
+                        <head><date when="1822-11-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1433">
+                        <head><date when="1822-11-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1434">
+                        <head><date when="1822-11-30"></date></head>
+                        <p></p>
+                    </div>
+                </div>
+                <div type="month" xml:id="Dec-1822">
+                    <div type="entry" xml:id="e-1435">
+                        <head><date when="1822-12-01"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1436">
+                        <head><date when="1822-12-02"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1437">
+                        <head><date when="1822-12-03"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1438">
+                        <head><date when="1822-12-04"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1439">
+                        <head><date when="1822-12-05"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1440">
+                        <head><date when="1822-12-06"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1441">
+                        <head><date when="1822-12-07"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1442">
+                        <head><date when="1822-12-08"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1443">
+                        <head><date when="1822-12-09"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1444">
+                        <head><date when="1822-12-10"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1445">
+                        <head><date when="1822-12-11"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1446">
+                        <head><date when="1822-12-12"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1447">
+                        <head><date when="1822-12-13"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1448">
+                        <head><date when="1822-12-14"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1449">
+                        <head><date when="1822-12-15"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1450">
+                        <head><date when="1822-12-16"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1451">
+                        <head><date when="1822-12-17"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1452">
+                        <head><date when="1822-12-18"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1453">
+                        <head><date when="1822-12-19"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1454">
+                        <head><date when="1822-12-20"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1455">
+                        <head><date when="1822-12-22"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1456">
+                        <head><date when="1822-12-23"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1457">
+                        <head><date when="1822-12-24"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1458">
+                        <head><date when="1822-12-25"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1459">
+                        <head><date when="1822-12-26"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1460">
+                        <head><date when="1822-12-27"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1461">
+                        <head><date when="1822-12-28"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1462">
+                        <head><date when="1822-12-29"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1463">
+                        <head><date when="1822-12-30"></date></head>
+                        <p></p>
+                    </div>
+                    <div type="entry" xml:id="e-1464">
+                        <head><date when="1822-12-31"></date></head>
+                        <p></p>
+                    </div>
             </div><!-- month div ends here-->
                
          </div><!-- year div ends here-->
+         <div>
+            <div type="month" xml:id="Jan-1823">
+               <div type="entry" xml:id="e-1465">
+                  <head><date when="1823-01-01"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1466">
+                  <head><date when="1823-01-02"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1467">
+                  <head><date when="1823-01-03"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1468">
+                  <head><date when="1823-01-04"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1469">
+                  <head><date when="1823-01-05"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1470">
+                  <head><date when="1823-01-06"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1471">
+                  <head><date when="1823-01-07"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1472">
+                  <head><date when="1823-01-08"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1473">
+                  <head><date when="1823-01-09"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1474">
+                  <head><date when="1823-01-10"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1475">
+                  <head><date when="1823-01-11"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1476">
+                  <head><date when="1823-01-12"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1477">
+                  <head><date when="1823-01-13"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1478">
+                  <head><date when="1823-01-14"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1479">
+                  <head><date when="1823-01-15"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1480">
+                  <head><date when="1823-01-16"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1481">
+                  <head><date when="1823-01-17"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1482">
+                  <head><date when="1823-01-18"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1483">
+                  <head><date when="1823-01-19"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1484">
+                  <head><date when="1823-01-20"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1485">
+                  <head><date when="1823-01-21"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1486">
+                  <head><date when="1823-01-22"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1487">
+                  <head><date when="1823-01-23"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1488">
+                  <head><date when="1823-01-24"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1489">
+                  <head><date when="1823-01-25"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1490">
+                  <head><date when="1823-01-26"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1491">
+                  <head><date when="1823-01-27"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1492">
+                  <head><date when="1823-01-28"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1493">
+                  <head><date when="1823-01-29"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1494">
+                  <head><date when="1823-01-30"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1495">
+                  <head><date when="1823-01-31"></date></head>
+                  <p></p>
+               </div>
+            </div>
+            <div type="month" xml:id="Feb-1823">
+               <div type="entry" xml:id="e-1496">
+                  <head><date when="1823-02-01"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1497">
+                  <head><date when="1823-02-02"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1498">
+                  <head><date when="1823-02-03"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1499">
+                  <head><date when="1823-02-04"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1500">
+                  <head><date when="1823-02-05"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1501">
+                  <head><date when="1823-02-06"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1502">
+                  <head><date when="1823-02-07"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1503">
+                  <head><date when="1823-02-08"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1504">
+                  <head><date when="1823-02-09"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1505">
+                  <head><date when="1823-02-10"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1506">
+                  <head><date when="1823-02-11"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1507">
+                  <head><date when="1823-02-12"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1508">
+                  <head><date when="1823-02-13"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1509">
+                  <head><date when="1823-02-14"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1510">
+                  <head><date when="1823-02-15"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1511">
+                  <head><date when="1823-02-16"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1512">
+                  <head><date when="1823-02-17"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1513">
+                  <head><date when="1823-02-18"></date></head>
+                  <p></p> 
+               </div>
+               <div type="entry" xml:id="e-1514">
+                  <head><date when="1823-02-19"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1515">
+                  <head><date when="1823-02-20"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1516">
+                  <head><date when="1823-02-21"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1517">
+                  <head><date when="1823-02-22"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1518">
+                  <head><date when="1823-02-23"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1519">
+                  <head><date when="1823-02-24"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1520">
+                  <head><date when="1823-02-25"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1521">
+                  <head><date when="1823-02-26"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1522">
+                  <head><date when="1823-02-27"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1523">
+                  <head><date when="1823-02-28"></date></head>
+                  <p></p>
+               </div>
+            </div>
+            <div type="month" xml:id="Mar-1823">
+               <div type="entry" xml:id="e-1524">
+                  <head><date when="1823-03-01"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1525">
+                  <head><date when="1823-03-02"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1526">
+                  <head><date when="1823-03-03"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1527">
+                  <head><date when="1823-03-04"></date></head>
+                  <p></p>
+               </div> 
+               <div type="entry" xml:id="e-1528">
+                  <head><date when="1823-03-05"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1529">
+                  <head><date when="1823-03-06"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1530">
+                  <head><date when="1823-03-07"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1531">
+                  <head><date when="1823-03-08"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1532">
+                  <head><date when="1823-03-09"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1533">
+                  <head><date when="1823-03-10"></date></head>
+                  <p></p>
+               </div>
+               <div type="entry" xml:id="e-1534">
+                  <head><date when="1823-03-11"></date></head>
+                  <p></p>
+               </div> 
+            </div>
+            
+         </div>
          
 
       </body>
