@@ -7,7 +7,6 @@
 - [ ] Bobby_pet ebb: Mark as the English robin as a wild bird 
 - [ ] Bocket_Mr
 - [ ] Butcher
-- [ ] Chalmers_T 
 - [ ] Champion_Mr 
 - [ ] Clarkson_Wm
 - [ ] Cowper_Mr
@@ -15,40 +14,39 @@
 - [ ] deGenlis 
 - [ ] Deverell_J 
 - [ ] Deverell_Miss 
-- [ ] Elliott_John 
-- [ ] Elliott_Mr 
+- [ ] Elliott_John (son)
+- [ ] Elliott_Mr  (father)
 - [ ] Gleig_GRA ebb: **Not sure we want this one? I could not find it in the Journal so I removed it from the back list**. Gleig was mostly not writing until the late 1820s. I found no specific reference to titles by him in the Journal, but am I missing something? 
 - [ ] Graham_DofMontrose
 - [ ] Greene_Mr 
 - [ ] Harley_Mr
-- [ ] Hayward_da
+- [ ] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree)
 - [ ] HeudeWm 
 - [x] Hofland_Barbara ebb: **Correct to "Hofland_B"**
 - [ ] Howell_W 
-- [ ] hunt  ebb: Check if this is a person: It should probably be corrected to "Hunt" (for James Henry Leigh Hunt who published the journal book she's writing in and lots of other stuff, some of it politically charged).
 - [ ] Jephson_Miss ebb: We should check this, but we are *thinking* this may be a reference to Emily Jephson, in the SI already as "Jephson_Em"
 - [ ] Jeremy_Miss 
-- [ ] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. 
-- [ ] Jollife_Mrs
+- [ ] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. She's mentioned 19 times, so she'd better have her own entry. CANONICAL FORM IS with one 'l'.
+- [ ] Jollife_Mrs ^^^^
 - [ ] Knox_Robt
 - [ ] LaFontaine 
 - [ ] Lane
 - [ ] LeghT 
-- [ ] LockeJ 
+- [ ] LockeJ  SHOULD BE IN SI
 - [ ] Maturin_Chas 
 - [ ] Molesworth 
 - [ ] Morier_J
 - [ ] Morse_Miss
 - [ ] MuschetN 
-- [ ] NeckerdeS_A
+- [ ] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
 - [ ] Newbery_J ebb: already in the SI as exactly this.
-- [ ] NewtonI
+- [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton
 - [ ] Nicholls 
 - [ ] Palmer_ChasF ebb: Correct this to "Palmer_CF" (already in SI) 
 - [ ] Perry_James 
-- [ ] PlumptreA 
+- [ ] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
 - [ ] Radcliffe_A  ebb: Correct this to "Radcliffe_Ann" (already in SI)
-- [ ] Rapley_Ha   ebb: We have several Rapleys in the SI (but no one with "Ha" so I wonder if it's "Jack" or John"?). Apparently this one is tricky (two different people named "John Rapley": I think we should check the passage in the journal (look at the MS too), and ask Lisa Wilson and Sam Webb for help on this one. 
+- [ ] Rapley_Ha   ebb: We have several Rapleys in the SI (but no one with "Ha"): This one is "Hannah". Apparently this one is tricky (two different people named "John Rapley": I think we should check the passage in the journal (look at the MS too), and ask Lisa Wilson and Sam Webb for help on this one.  LMW says this is maybe John's wife or sister? Read the other Rapley entries in the SI. LMW maybe can check with Sam Webb about this.
 - [ ] Rigby_Mr: ebb: we have a generic entry for "Rigby_family" that we can use if we don't know their names. I think probably it's not necessary to create new entries unless we're seeing LOTS of references to them as individuals? 
 - [ ] Rigby_Mrs (see above)
 - [ ] Riley_James
@@ -59,23 +57,26 @@
 - [x] Schlegel_AW ebb: I added this to the current siADD list in the DM_SiteIndex repo
 - [ ] Scott   ebb: If it's the author of a novel, correct it to "Scott_Wa"
 - [ ] Shaw_Sam 
-- [ ] Sidney_SirP
+- [ ] Sidney_SirP  look for Sir Philip Sidney in the SI 
 - [ ] Smith_James
 - [ ] Stephenson_Mr
-- [ ] Sweetser_Ch
+- [ ] Sweetser_Ch  This is her maid's brother (she will marry Charles Hill. WE NEED A NEW ENTRY. Also check LMW's tree on ancestry
 - [ ] Symmon_Chas ebb: In the SI already: correct to "Symmons_Chas"
 - [ ] Tweddell_Miss
-- [ ] TwissH
-- [ ] Valpy_Anne: ebb: Can we tell if this is a daughter of Richard Valpy? We've identified three: Frances, Penelope, or Catherine based on marriage records because we know that all of Richard Valpy's daughters married, but there may have been
+- [ ] TwissH : an author named Horace Twiss
+- [x] Valpy_Anne: ebb: Can we tell if this is a daughter of Richard Valpy? We've identified three: Frances, Penelope, or Catherine based on marriage records because we know that all of Richard Valpy's daughters married, but there may have been
 others that we didn't trace yet. We actually created an umbrella entry for "Valpy_Miss" when we're not sure of her name. But what's the context for "Anne Valpy" in the journal? 
+**ANSWER** Anne Valpy is married to Edward Valpy who is Richard Valpy's brother. (ENTRIES ADDED)
 - [ ] Valpy_das ebb: I bet this is a generic reference to the Valpy daughters as a group: in which case we can use "Valpys" or "Valpy_Miss"
-- [ ] Valpy_Ed  ebb: Check the MS / transcript. Could this be one of the other Valpys?
+- [x] Valpy_Ed  ebb: Check the MS / transcript. Could this be one of the other Valpys?
 - [ ] Valpy_Mrs  ebb: We don't have a separate entry for her at this point. Is this definitely "Mrs" in the journal? Read the SI entry for Richard Valpy (="Valpy_Richard") and you'll see all the names we have... Do we need a new entry for Mary Benwell Valpy, who was the mother of the 2nd group of Valpy siblings whom MRM knew? 
-- [ ] Waristoun
-- [ ] Warrener_pet 
-- [ ] Wasp_pet
+**ANSWER** She is the same as Harris_Anna (already in SI) and married to Anthony Valpy (A.J. Valpy)
+- [ ] Waristoun  
+- [ ] Warrener_pet  (a dog of the Webb family! LMW MIGHT HAVE AN ENTRY SOMEWHERE?)
+- [ ] Wasp_pet   (another dog of the Webb family! LMW MIGHT HAVE AN ENTRY SOMEWHERE?)
 - [ ] Waverley_Novels : ebb: I don't think we need an entry for this unless *MRM herself* refers to the entire set of novels. The phrase just indicates the novels that Walter Scott first published without his name as "by the author of *Waverley*" (which was his first novel). Everyone knew he was writing them apparently. We're mostly interested in the specific novels that she read, and we just mention somewhere in the novel entry that it was one of the Waverley novels. **Do we see MRM commenting on the entire series**?
-- [ ] Webb_farmer: ebb: We have all the names of the Webb family spelled out now. MRM's friends are the Webb sisters: Webb_Eliza, Webb_Mary_younger, and their aunt, Webb_Mary_elder. The father is a brewer who lives in Wokingham--probably not a farmer. We have an entry for a Webb_John who we say is "Likely `<q>Uncle John,</q>` uncle
+- [ ] Webb_farmer:  LMW: This is a local farmer who owns land near the Bertram house. From JOURNAL: He gave Fly to MRM! We can update the Fly entry, AND make a new entry for him to make sure he's not connected to the usual Webb family: "As far as we know, not related to..."
+ebb: We have all the names of the Webb family spelled out now. MRM's friends are the Webb sisters: Webb_Eliza, Webb_Mary_younger, and their aunt, Webb_Mary_elder. The father is a brewer who lives in Wokingham--probably not a farmer. We have an entry for a Webb_John (LMW: HE DOESN'T LIVE IN THE AREA) who we say is "Likely `<q>Uncle John,</q>` uncle
                      to Eliza and Mary Webb and younger brother to James Webb". So does this Webb seem like he's a relative, maybe Uncle John? 
 - [x] Webb_Mary ebb: We changed this to Webb_Mary_elder (for an auntie) and Webb_Mary_younger for the Webb sister that MRM typically writes to. Can we tell which one is being referenced? 
 - [ ] Wesley_Chas
