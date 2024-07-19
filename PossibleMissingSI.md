@@ -4,14 +4,13 @@
 
 - [x] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
 - [x] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
-- [ ] Bobby_pet ebb: Mark as the English robin as a wild bird 
+- [x] Bobby_pet ebb: Mark as the English robin as a wild bird 
 - [ ] Bocket_Mr
 - [ ] Butcher
 - [ ] Champion_Mr 
 - [ ] Clarkson_Wm
 - [ ] Cowper_Mr
-- [ ] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
-- [ ] deGenlis 
+- [x] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
 - [ ] Deverell_J 
 - [ ] Deverell_Miss 
 - [ ] Elliott_John (son)
@@ -20,15 +19,15 @@
 - [ ] Graham_DofMontrose
 - [ ] Greene_Mr 
 - [ ] Harley_Mr
-- [ ] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree)
+- [ ] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree) hjb: LMW put a comment saying "ck. treem who was born in 1820?
 - [ ] HeudeWm 
 - [x] Hofland_Barbara ebb: **Correct to "Hofland_B"**
 - [ ] Howell_W 
-- [ ] Jephson_Miss ebb: We should check this, but we are *thinking* this may be a reference to Emily Jephson, in the SI already as "Jephson_Em"
+- [ ] Jephson_Miss ebb: We should check this, but we are *thinking* this may be a reference to Emily Jephson, in the SI already as "Jephson_Em" :: hjb: hjb: Next to two of the attributes for this, it says "cert="low""
 - [ ] Jeremy_Miss 
-- [ ] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. She's mentioned 19 times, so she'd better have her own entry. CANONICAL FORM IS with one 'l'.
-- [ ] Jollife_Mrs ^^^^
-- [ ] Knox_Robt   ALREADY IN SI as  Knox_Rbt
+- [x] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. She's mentioned 19 times, so she'd better have her own entry. CANONICAL FORM IS with one 'l'.
+- [x] Jollife_Mrs ^^^^
+- [x] Knox_Robt   ALREADY IN SI as  Knox_Rbt
 - [ ] LaFontaine 
 - [ ] Lane
 - [ ] LeghT 
@@ -40,24 +39,24 @@
 - [ ] MuschetN 
 - [ ] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
 - [x] Newbery_J ebb: already in the SI as exactly this.
-- [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton
+- [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton :: hjb: I couldn't find any in the SI
 - [ ] Nicholls 
 - [x] Palmer_ChasF ebb: Correct this to "Palmer_CF" (already in SI) 
 - [ ] Perry_James 
-- [ ] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
+- [x] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
 - [x] Radcliffe_A  ebb: Correct this to "Radcliffe_Ann" (already in SI)
 - [ ] Rapley_Ha   ebb: We have several Rapleys in the SI (but no one with "Ha"): This one is "Hannah". Apparently this one is tricky (two different people named "John Rapley": I think we should check the passage in the journal (look at the MS too), and ask Lisa Wilson and Sam Webb for help on this one.  LMW says this is maybe John's wife or sister? Read the other Rapley entries in the SI. LMW maybe can check with Sam Webb about this.
 - [ ] Rigby_Mr: ebb: we have a generic entry for "Rigby_family" that we can use if we don't know their names. I think probably it's not necessary to create new entries unless we're seeing LOTS of references to them as individuals? 
 - [ ] Rigby_Mrs (see above)
 - [ ] Riley_James
-- [ ] Roger_Sam  ebb: PROBABLY should be "Rogers_Sam" (already in SI)
+- [x] Roger_Sam  ebb: PROBABLY should be "Rogers_Sam" (already in SI)
 - [ ] ROgers_Miss    ebb: We don't have an orgname for a family of Rogers, though... 
 - [ ] Rogers_Miss
 - [ ] Ross_Miss 
 - [x] Schlegel_AW ebb: I added this to the current siADD list in the DM_SiteIndex repo
 - [ ] Scott   ebb: If it's the author of a novel, correct it to "Scott_Wa"
 - [ ] Shaw_Sam 
-- [ ] Sidney_SirP  look for Sir Philip Sidney in the SI 
+- [ ] Sidney_SirP  look for Sir Philip Sidney in the SI :: hjb: There is no persName, but there is a book titled "Memoirs of the Life and Writings of Sir Philip Sidney" with the tag "#Mems_Sidney_TZ"
 - [ ] Smith_James
 - [ ] Stephenson_Mr
 - [ ] Sweetser_Ch  This is her maid's brother (she will marry Charles Hill. WE NEED A NEW ENTRY. Also check LMW's tree on ancestry
@@ -69,7 +68,7 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 **ANSWER** Anne Valpy is married to Edward Valpy who is Richard Valpy's brother. (ENTRIES ADDED)
 - [ ] Valpy_das ebb: I bet this is a generic reference to the Valpy daughters as a group: in which case we can use "Valpys" or "Valpy_Miss"
 - [x] Valpy_Ed  ebb: Check the MS / transcript. Could this be one of the other Valpys?
-- [ ] Valpy_Mrs  ebb: We don't have a separate entry for her at this point. Is this definitely "Mrs" in the journal? Read the SI entry for Richard Valpy (="Valpy_Richard") and you'll see all the names we have... Do we need a new entry for Mary Benwell Valpy, who was the mother of the 2nd group of Valpy siblings whom MRM knew? 
+- [x] Valpy_Mrs  ebb: We don't have a separate entry for her at this point. Is this definitely "Mrs" in the journal? Read the SI entry for Richard Valpy (="Valpy_Richard") and you'll see all the names we have... Do we need a new entry for Mary Benwell Valpy, who was the mother of the 2nd group of Valpy siblings whom MRM knew? 
 **ANSWER** She is the same as Harris_Anna (already in SI) and married to Anthony Valpy (A.J. Valpy)
 - [ ] Waristoun  
 - [ ] Warrener_pet  (a dog of the Webb family! LMW MIGHT HAVE AN ENTRY SOMEWHERE?)
@@ -82,8 +81,8 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Wesley_Chas
 - [ ] Wesley_John
 - [x] Wheeler_J  ebb: Correct to "Wheeler_James" (already in SI)
-- [ ] Wheeler_John  ebb: Check the "Wheeler_James" entry in the SI. Check the MS: Could this be James, or is this definitely someone else?
-- [ ] Wheeler_Mr  ebb: see above: should this be "Wheeler_James"?
+- [ ] Wheeler_John  ebb: Check the "Wheeler_James" entry in the SI. Check the MS: Could this be James, or is this definitely someone else? :: hjb: He is mentioned as "Mr. John Wheeler" in the journals.
+- [ ] Wheeler_Mr  ebb: see above: should this be "Wheeler_James"? :: hjb: There are "two Mr. Wheelers: according to MRM's journal entry on 1819-05-24. It has a Wheeler_Mr and Wheeler_James tagged on that quote.
 - [ ] Whistle_pet 
 - [ ] WilsonRbt 
 - [x] Woodburn_Mr  ebb: Correct to "Woodburn_J" (already in SI)
