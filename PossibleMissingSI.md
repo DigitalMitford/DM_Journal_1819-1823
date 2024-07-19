@@ -39,13 +39,13 @@
 - [ ] Morse_Miss
 - [ ] MuschetN 
 - [ ] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
-- [ ] Newbery_J ebb: already in the SI as exactly this.
+- [x] Newbery_J ebb: already in the SI as exactly this.
 - [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton
 - [ ] Nicholls 
-- [ ] Palmer_ChasF ebb: Correct this to "Palmer_CF" (already in SI) 
+- [x] Palmer_ChasF ebb: Correct this to "Palmer_CF" (already in SI) 
 - [ ] Perry_James 
 - [ ] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
-- [ ] Radcliffe_A  ebb: Correct this to "Radcliffe_Ann" (already in SI)
+- [x] Radcliffe_A  ebb: Correct this to "Radcliffe_Ann" (already in SI)
 - [ ] Rapley_Ha   ebb: We have several Rapleys in the SI (but no one with "Ha"): This one is "Hannah". Apparently this one is tricky (two different people named "John Rapley": I think we should check the passage in the journal (look at the MS too), and ask Lisa Wilson and Sam Webb for help on this one.  LMW says this is maybe John's wife or sister? Read the other Rapley entries in the SI. LMW maybe can check with Sam Webb about this.
 - [ ] Rigby_Mr: ebb: we have a generic entry for "Rigby_family" that we can use if we don't know their names. I think probably it's not necessary to create new entries unless we're seeing LOTS of references to them as individuals? 
 - [ ] Rigby_Mrs (see above)
@@ -61,7 +61,7 @@
 - [ ] Smith_James
 - [ ] Stephenson_Mr
 - [ ] Sweetser_Ch  This is her maid's brother (she will marry Charles Hill. WE NEED A NEW ENTRY. Also check LMW's tree on ancestry
-- [ ] Symmon_Chas ebb: In the SI already: correct to "Symmons_Chas"
+- [x] Symmon_Chas ebb: In the SI already: correct to "Symmons_Chas"
 - [ ] Tweddell_Miss
 - [ ] TwissH : an author named Horace Twiss
 - [x] Valpy_Anne: ebb: Can we tell if this is a daughter of Richard Valpy? We've identified three: Frances, Penelope, or Catherine based on marriage records because we know that all of Richard Valpy's daughters married, but there may have been
@@ -81,46 +81,45 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [x] Webb_Mary ebb: We changed this to Webb_Mary_elder (for an auntie) and Webb_Mary_younger for the Webb sister that MRM typically writes to. Can we tell which one is being referenced? 
 - [ ] Wesley_Chas
 - [ ] Wesley_John
-- [ ] Wheeler_J  ebb: Correct to "Wheeler_James" (already in SI)
+- [x] Wheeler_J  ebb: Correct to "Wheeler_James" (already in SI)
 - [ ] Wheeler_John  ebb: Check the "Wheeler_James" entry in the SI. Check the MS: Could this be James, or is this definitely someone else?
 - [ ] Wheeler_Mr  ebb: see above: should this be "Wheeler_James"?
 - [ ] Whistle_pet 
 - [ ] WilsonRbt 
-- [ ] Woodburn_Mr  ebb: Correct to "Woodburn_J" (already in SI)
+- [x] Woodburn_Mr  ebb: Correct to "Woodburn_J" (already in SI)
 - [ ] Woodburn_Mrs   ebb: Looks like we need to make a new family entry for this group...
 - [ ] Woodburn_son   (see above)
-- [ ] ZouchT  ebb: Correct to Zouch_T (already in SI)
+- [x] ZouchT  ebb: Correct to Zouch_T (already in SI)
 
 
 ## placeName
 
 - [ ] Arborfield
 - [ ] arbour  ebb: probably not a name. It's just a word that means a tree-shaded garden area
-- [ ] Ashmolean_old   ebb: Correct to Ashmolean_Old (already in SI)
-- [ ] Bedford_town  ebb: Correct to Bedford (already in SI)
+- [x] Ashmolean_old   ebb: Correct to Ashmolean_Old (already in SI)
+- [x] Bedford_town  ebb: Correct to Bedford (already in SI)
 - [ ] Bodys_lane   
-- [ ] Court_Hampton ebb: Correct to Hampton_Court (already in SI)
+- [x] Court_Hampton ebb: Correct to Hampton_Court (already in SI)
 - [ ] Crown_Inn   
 - [ ] Davies_fields
 - [ ] fields_BH
 - [ ] garden_TMC
 - [ ] hayfield_BH 
-- [ ] lane_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] lowerPlantation_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] lane_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [x] lowerPlantation_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [ ] Manchester 
-- [ ] middlePlantation_BH ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
-- [ ] Mill_Chas  ebb: Correct this to "Mills_Chas" (already in SI)
-- [ ] park_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
-- [ ] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
-- [ ] Reading_City  ebb: Correct this to "Reading_city" (already in SI)
+- [x] middlePlantation_BH ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] Mill_Chas  ebb: Correct this to "Mills_Chas" (already in SI)
+- [x] park_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
+- [x] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] Reading_City  ebb: Correct this to "Reading_city" (already in SI)
 - [ ] Tilehurst 
-- [ ] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
-- [ ] whiteGate_BH  ^^^^^
-- [ ] Winchester  ebb: Correct this to Winchester_city (already in SI)
-- [ ] wood_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
-- [ ] WoodcockLn ebb: Correct this to "Woodcock_Ln" (already in SI)
-- [ ] WoodcockLn  ^^^^ 
-- [ ] WOrchard_BH   ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] whiteGate_BH  ^^^^^
+- [x] Winchester  ebb: Correct this to Winchester_city (already in SI)
+- [x] wood_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
+- [x] WoodcockLn ebb: Correct this to "Woodcock_Ln" (already in SI)
+- [x] WOrchard_BH   ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 
 
 ## orgName
@@ -154,16 +153,16 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Emmeline_MB 
 - [ ] FallofJerusalem_HM
 - [ ] Harcourt 
-- [ ] Hazlitt_LecDramatic ebb: Correct this to "LecDramatic_WHaz" (already in SI)
-- [ ] Hist_Burnet  ebb: Correct this to "History_Burnet" (already in SI)
-- [ ] Life_JHVaux  ebb: Correct this to "Mems_Vaux" (already in SI)
-- [ ] Life_Wesley_RS  ebb: Correct this to "Life_Wesley" (already in SI)
-- [ ] Lives_HaydenMoz  ebb: Correct this to "Lives_HaydnMoz" (already in SI)
+- [x] Hazlitt_LecDramatic ebb: Correct this to "LecDramatic_WHaz" (already in SI)
+- [x] Hist_Burnet  ebb: Correct this to "History_Burnet" (already in SI)
+- [x] Life_JHVaux  ebb: Correct this to "Mems_Vaux" (already in SI)
+- [x] Life_Wesley_RS  ebb: Correct this to "Life_Wesley" (already in SI)
+- [x] Lives_HaydenMoz  ebb: Correct this to "Lives_HaydnMoz" (already in SI)
 - [ ] Ltrs_CapeofGH 
-- [ ] Mazeppa   ebb: Correct this to "Mazeppa_By" (already in SI)
-- [ ] Mems_MrsHamilton  ebb: Correct this to "Mems_ElizHamilton" (already in SI)
-- [ ] Monastery_WS  ebb: Correct this to "Monastery" (already in SI)
-- [ ] MoralTales_MR  ebb: Correct this to "MoralTales_ME" (already in SI)
+- [x] Mazeppa   ebb: Correct this to "Mazeppa_By" (already in SI)
+- [x] Mems_MrsHamilton  ebb: Correct this to "Mems_ElizHamilton" (already in SI)
+- [x] Monastery_WS  ebb: Correct this to "Monastery" (already in SI)
+- [x] MoralTales_MR  ebb: Correct this to "MoralTales_ME" (already in SI)
 - [ ] MunsterCBoy 
 - [ ] MunsterCBoy
 - [ ] Narr_BrigCommerce
@@ -240,7 +239,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Wheatley
 - [ ] John Bulley
 - [ ] Miss Wheeler
-- [ ] Fleury
+- [x] Fleury
 - [ ] Brown
 - [ ] Turner
 - [ ] Miss Bentley
@@ -291,9 +290,9 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] [?]ellingford
 - [ ] Fool of Quality
 - [ ] Methodietical Mythology
-- [ ] Memoire de Napoleon ebb: This is probably "Napoleon_memoir_nonfict" (already in SI) but check the SI entry and the Journal. Does that seem to be the same book?
+- [x] Memoire de Napoleon ebb: This is probably "Napoleon_memoir_nonfict" (already in SI) but check the SI entry and the Journal. Does that seem to be the same book?
 - [ ] Letters intended for the Post not for the press
-- [ ] Convent Garden : ebb: ALMOST CERTAINLY this should be tagged as an **placeName** for Covent_Garden_Theatre. Check the MS, I am 98% certain this is an error. 
+- [x] Convent Garden : ebb: ALMOST CERTAINLY this should be tagged as an **placeName** for Covent_Garden_Theatre. Check the MS, I am 98% certain this is an error. 
 - [ ] Wallace &amp; the Warlock
 
 ## name
