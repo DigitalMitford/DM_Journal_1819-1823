@@ -198,102 +198,214 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 
 ## persName
 
-- [ ] Tom Smith
-- [ ] little girl
-- [ ] <unclear>Mud</unclear>
-- [ ] Mrs. Wilson
-- [ ] Mr. Eastaff
-- [ ] Miss Danny
-- [ ] Young Tanner
-- [ ] Miss Newman
-- [ ] Lord Dysart
-- [ ] Mrs. Palairet
-- [ ] Maria
-- [ ] Miss Tuppen
-- [ ] Trim
-- [ ] Aleen
-- [ ] Mrs. <unclear>Comyn</unclear>
-- [ ] Miss. <unclear>Comyn</unclear>
-- [ ] Bligh
-- [ ] Mr. Wilson
-- [ ] Peter Hunt
-- [ ] Elizabeth
-- [ ] Hathaway
-- [ ] George
-- [ ] Sally
-- [ ] Mr. Vidal
-- [ ] young Procter
-- [ ] St. John
-- [ ] John Woodburn
-- [ ] Miss Hollis
-- [ ] Mr. Stephenson
-- [ ] Lady Cecil Percy
-- [ ] Mr. Shaw Lefevre
-- [ ] Mrs. Shaw Lefevre
 - [ ] [?]ckers
-- [ ] Mary
-- [ ] Mrs. Davies
-- [ ] Queen
-- [ ] Lowten
-- [ ] Wheatley
-- [ ] John Bulley
-- [ ] Miss Wheeler
-- [x] Fleury
+- [ ] <unclear>Mud</unclear>
+- [ ] Aleen
+- [ ] Anne Tweddall
+- [ ] Anne Tweddell
+- [ ] Archdeacon Wrangham
+- [ ] Betty Tuppen
+- [ ] Bligh
 - [ ] Brown
-- [ ] Turner
+- [ ] Charles Lamb
+- [ ] Colonel Johnson
+- [ ] Dr. Smith
+- [ ] Editor of the Museum
+- [ ] Elizabeth
+- [x] Fleury
+- [ ] George
+- [ ] God
+- [ ] Guido
+- [ ] Hathaway
+- [ ] John Bulley
+- [ ] John Woodburn
+- [ ] Lady Cecil Percy
+- [ ] Little Eliza
+- [ ] little girl
+- [ ] Lord Dysart
+- [ ] Lowten
+- [ ] Loyd Byron
+- [ ] Madge
+- [ ] Maria
+- [ ] Mary
 - [ ] Miss Bentley
+- [ ] Miss Bricknell
+- [ ] Miss Danny
+- [ ] Miss Dominicetti
+- [ ] Miss Elford
+- [ ] Miss Havell
+- [ ] Miss Hollis
+- [ ] Miss Johndon
+- [ ] Miss Laman
+- [ ] Miss Newman
+- [ ] Miss Porden
+- [ ] Miss Torrant
+- [ ] Miss Tuppen
+- [ ] Miss Vardill
+- [ ] Miss Weston
+- [ ] Miss Wheeler
+- [ ] Miss. <unclear>Comyn</unclear>
+- [ ] Mr. Bagley
+- [ ] Mr. Bailey
+- [ ] Mr. Bayley
+- [ ] Mr. Brocas
+- [ ] Mr. C. Kemble
+- [ ] Mr. Chardsley
+- [ ] Mr. Charles Kemble
+- [ ] Mr. Cove
+- [ ] Mr. Coxe
+- [ ] Mr. Drover
+- [ ] Mr. Eastaff
+- [ ] Mr. Hailey
+- [ ] Mr. Hamilton
+- [ ] Mr. Harley
+- [ ] Mr. Hofland
+- [ ] Mr. Joseph Crowther
+- [ ] Mr. Kemble
+- [ ] Mr. Shaw Lefevre
+- [ ] Mr. Stephenson
+- [ ] Mr. Tafourdell
+- [ ] Mr. Vidal
+- [ ] Mr. Wheble
+- [ ] Mr. Whittaker
+- [ ] Mr. Wilson
+- [ ] Mrs. &amp; Miss Briscoe
+- [ ] Mrs. <unclear>Comyn</unclear>
+- [ ] Mrs. Davies
+- [ ] Mrs. Davies
+- [ ] Mrs. Mathews
+- [ ] Mrs. Newton
+- [ ] Mrs. Palairet
+- [ ] Mrs. Shaw Lefevre
+- [ ] Mrs. Shuter
+- [ ] Mrs. Smith
+- [ ] Mrs. Story
+- [ ] Mrs. Tuckett
+- [ ] Mrs. Valpy
+- [ ] Mrs. Wilson
+- [ ] Mrs. Young
+- [ ] North
+- [ ] Peter Hunt
+- [ ] Queen
+- [ ] Sally
+- [ ] Selina
+- [ ] St. John
+- [ ] Tom Smith
+- [ ] Trim
+- [ ] Turner
 - [ ] Walker
+- [ ] Wheatley
+- [ ] young Procter
+- [ ] Young Tanner
 
 
 ## placeName
 
+- [ ] 47, Upper Norton street
+- [ ] Abingdon
 - [ ] arcade
-- [ ] Insurance Office
-- [ ] Exhibition
-- [ ] Star Office
-- [ ] Sun Office
-- [ ] Chronicle Office
-- [ ] British Gallery
-- [ ] Pope's Place
-- [ ] grotto
-- [ ] Strawberry Hill
-- [ ] Kibes Lane
-- [ ] Mortimer Westend
-- [ ] old wells
-- [ ] Fair
-- [ ] Whitley Cottage
-- [ ] Wail [?]
-- [ ] Hook
 - [ ] Avenue
 - [ ] Black friar's bridge
+- [ ] Bramley Maying
+- [ ] British Gallery
+- [ ] Chapel Green
+- [ ] Chronicle Office
+- [ ] church
+- [ ] Englefield
+- [ ] Englefield House
+- [ ] Exhibition
+- [ ] Fair
+- [ ] Finchamstead
+- [ ] Green room
+- [ ] grotto
+- [ ] Hook
+- [ ] Insurance Office
+- [ ] Kibes Lane
+- [ ] Mortimer Westend
+- [ ] Newbury
+- [ ] Newman Street
+- [ ] Odiam
+- [ ] Odiham
+- [ ] old house at Arborfield
+- [ ] old wells
+- [ ] Penge Wood
+- [ ] Pope's Place
+- [ ] Reading fair
+- [ ] Staffordshire
+- [ ] Star Office
+- [ ] Strawberry Hill
+- [ ] Sun Office
+- [ ] their new house
+- [ ] Wail [?]
+- [ ] Webb's new house
+- [ ] Whitley Cottage
 
 ## orgName
 
-- [ ] Matthews
 - [ ] <unclear>[S]almons</unclear>
+- [ ] Binfields
+- [ ] Captain &amp; Mrs. Valpy 
+- [ ] Matthews
+- [ ] Montagues
+- [ ] Mr. &amp; Mrs. Raggett
+- [ ] Mr. &amp; Mrs. Talfourd
+- [ ] Palmers
+- [ ] Ragetts
+- [ ] Storys
+- [ ] the Miss Webbs
+- [ ] Vaughans
+- [ ] Whebles
+- [ ] Whitakers
 
 ## title
 
-- [ ] tale
-- [ ] the Life of <unclear>Sand</unclear>
-- [x] Festival of Flora
-- [ ] Domestic Scenes
-- [x] Sintram &amp; his companions
-- [x] Beaumont &amp; Fletcher: ebb: These are two **persName**s for two writers who collaborated on plays. We have them individually and should use those tags, *unless* MRM is referring to them together a lot: Maybe we should introduce them as a `<org>` similar to the way we handle group refs to people? 
+- [ ] [?]ellingford
 - [x] Advice to Julia
 - [x] Age of Elizabeth
-- [x] Missionary
-- [x] Tales of the Heart
-- [ ] Reviews
-- [ ] Monthly Review   ebb: Could this be the Monthly Mag? (New_Monthly_Mag in the SI)
-- [ ] [?]ellingford
-- [ ] Fool of Quality
-- [ ] Methodietical Mythology
-- [x] Memoire de Napoleon ebb: This is probably "Napoleon_memoir_nonfict" (already in SI) but check the SI entry and the Journal. Does that seem to be the same book?
-- [ ] Letters intended for the Post not for the press
+- [ ] Agnes
+- [x] Beaumont &amp; Fletcher: ebb: These are two **persName**s for two writers who collaborated on plays. We have them individually and should use those tags, *unless* MRM is referring to them together a lot: Maybe we should introduce them as a `<org>` similar to the way we handle group refs to people? 
+- [ ] Belshazzar
+- [ ] Bridal Eve
 - [x] Convent Garden : ebb: ALMOST CERTAINLY this should be tagged as an **placeName** for Covent_Garden_Theatre. Check the MS, I am 98% certain this is an error. 
+- [ ] Corneille
+- [ ] Doge
+- [ ] Domestic Scenes
+- [ ] Dramatic Scene
+- [ ] Dramatic Sketch
+- [ ] Farm house
+- [x] Festival of Flora
+- [ ] Fool of Quality
+- [ ] Fortunes of Nigel
+- [ ] Hannah
+- [ ] Letters intended for the Post not for the press
+- [ ] Magazines
+- [x] Memoire de Napoleon ebb: This is probably "Napoleon_memoir_nonfict" (already in SI) but check the SI entry and the Journal. Does that seem to be the same book?
+- [ ] Memoirs
+- [ ] Methodietical Mythology
+- [ ] Miss Porden's Poem
+- [x] Missionary
+- [ ] Monthly Review   ebb: Could this be the Monthly Mag? (New_Monthly_Mag in the SI)
+- [ ] Mr. Brocas's beautiful Monument
+- [ ] Museum
+- [ ] Review
+- [ ] Review of Coeur de Lion
+- [ ] Reviews
+- [x] Sintram &amp; his companions
+- [ ] tale
+- [ ] Tales
+- [x] Tales of the Heart
+- [ ] Tales of the Manor
+- [ ] the Exhibition
+- [ ] The Forget me not
+- [ ] the Life of <unclear>Sand</unclear>
+- [ ] Tragedy, the Charter of Seville
+- [ ] Walks in the Country
 - [ ] Wallace &amp; the Warlock
+- [ ] Walpole's Memoirs
 
 ## name
 
 - [ ] fruit
+- [ ] fleas
+- [ ] Geranium
+
