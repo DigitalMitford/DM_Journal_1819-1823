@@ -224,7 +224,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] little girl
 - [ ] Lord Dysart
 - [ ] Lowten
-- [ ] Loyd Byron
 - [ ] Madge
 - [ ] Maria
 - [ ] Mary
@@ -271,6 +270,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Mr. Wilson
 - [ ] Mrs. &amp; Miss Briscoe
 - [ ] Mrs. <unclear>Comyn</unclear>
+- [ ] Mrs. Blandy
 - [ ] Mrs. Davies
 - [ ] Mrs. Davies
 - [ ] Mrs. Mathews
