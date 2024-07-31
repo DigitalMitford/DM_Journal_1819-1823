@@ -31,13 +31,13 @@
 - [ ] LaFontaine 
 - [ ] Lane
 - [ ] LeghT 
-- [ ] LockeJ  SHOULD BE IN SI
+- [ ] LockeJ  SHOULD BE IN SI :: hjb: I can't find it
 - [ ] Maturin_Chas 
 - [ ] Molesworth 
 - [ ] Morier_J
 - [ ] Morse_Miss
 - [ ] MuschetN 
-- [ ] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
+- [x] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
 - [x] Newbery_J ebb: already in the SI as exactly this.
 - [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton :: hjb: I couldn't find any in the SI
 - [ ] Nicholls 
@@ -75,8 +75,7 @@ others that we didn't trace yet. We actually created an umbrella entry for "Valp
 - [ ] Wasp_pet   (another dog of the Webb family! LMW MIGHT HAVE AN ENTRY SOMEWHERE?)
 - [ ] Waverley_Novels : ebb: I don't think we need an entry for this unless *MRM herself* refers to the entire set of novels. The phrase just indicates the novels that Walter Scott first published without his name as "by the author of *Waverley*" (which was his first novel). Everyone knew he was writing them apparently. We're mostly interested in the specific novels that she read, and we just mention somewhere in the novel entry that it was one of the Waverley novels. **Do we see MRM commenting on the entire series**?
 - [ ] Webb_farmer:  LMW: This is a local farmer who owns land near the Bertram house. From JOURNAL: He gave Fly to MRM! We can update the Fly entry, AND make a new entry for him to make sure he's not connected to the usual Webb family: "As far as we know, not related to..."
-ebb: We have all the names of the Webb family spelled out now. MRM's friends are the Webb sisters: Webb_Eliza, Webb_Mary_younger, and their aunt, Webb_Mary_elder. The father is a brewer who lives in Wokingham--probably not a farmer. We have an entry for a Webb_John (LMW: HE DOESN'T LIVE IN THE AREA) who we say is "Likely `<q>Uncle John,</q>` uncle
-                     to Eliza and Mary Webb and younger brother to James Webb". So does this Webb seem like he's a relative, maybe Uncle John? 
+ebb: We have all the names of the Webb family spelled out now. MRM's friends are the Webb sisters: Webb_Eliza, Webb_Mary_younger, and their aunt, Webb_Mary_elder. The father is a brewer who lives in Wokingham--probably not a farmer. We have an entry for a Webb_John (LMW: HE DOESN'T LIVE IN THE AREA) who we say is "Likely `<q>Uncle John,</q>` uncle to Eliza and Mary Webb and younger brother to James Webb". So does this Webb seem like he's a relative, maybe Uncle John? 
 - [x] Webb_Mary ebb: We changed this to Webb_Mary_elder (for an auntie) and Webb_Mary_younger for the Webb sister that MRM typically writes to. Can we tell which one is being referenced? 
 - [ ] Wesley_Chas
 - [ ] Wesley_John
@@ -169,7 +168,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Ormond
 - [ ] Pamphleteer 
 - [ ] parvenus 
-- [ ] Petition1819_TNT +D21
+- [ ] Petition1819_TNT
 - [ ] Purity_Heart 
 - [ ] Rhoda
 - [ ] SecondJourney_JM
@@ -178,7 +177,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] TalesofMyLandlord_3rd
 - [ ] Tentamen
 - [ ] Theatre_Grecs
-- [ ] theOrestes
+- [x] theOrestes :: hjb: Switched this to Orestes_play
 - [ ] WalpoleLtrstoCole 
 - [ ] WalpoletoMontague 
 - [ ] Will_DrValpy
@@ -324,20 +323,19 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Mortimer Westend
 - [ ] Newbury
 - [ ] Newman Street
-- [ ] Odiam
-- [ ] Odiham
+- [x] Odiam
+- [x] Odiham
 - [ ] old house at Arborfield
 - [ ] old wells
 - [ ] Penge Wood
 - [ ] Pope's Place
 - [ ] Reading fair
-- [ ] Staffordshire
+- [x] Staffordshire
 - [ ] Star Office
 - [ ] Strawberry Hill
 - [ ] Sun Office
-- [ ] their new house
+- [ ] their new house :: hjb: This is the Webb's new house
 - [ ] Wail [?]
-- [ ] Webb's new house
 - [ ] Whitley Cottage
 
 ## orgName
@@ -406,6 +404,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 ## name
 
 - [ ] fruit
-- [ ] fleas
-- [ ] Geranium
+- [x] fleas
+- [x] Geranium
 
