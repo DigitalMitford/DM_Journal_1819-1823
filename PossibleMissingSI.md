@@ -13,13 +13,13 @@
 - [x] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
 - [ ] Deverell_J 
 - [ ] Deverell_Miss 
-- [ ] Elliott_John (son)
-- [ ] Elliott_Mr  (father)
+- [x] Elliott_John (son)
+- [x] Elliott_Mr  (father)
 - [ ] Gleig_GRA ebb: **Not sure we want this one? I could not find it in the Journal so I removed it from the back list**. Gleig was mostly not writing until the late 1820s. I found no specific reference to titles by him in the Journal, but am I missing something? 
 - [ ] Graham_DofMontrose
-- [ ] Greene_Mr 
+- [x] Greene_Mr :: hjb: Changed to Green_Mr
 - [ ] Harley_Mr
-- [ ] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree) hjb: LMW put a comment saying "ck. treem who was born in 1820?
+- [x] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree) hjb: LMW put a comment saying "ck. treem who was born in 1820?
 - [ ] HeudeWm 
 - [x] Hofland_Barbara ebb: **Correct to "Hofland_B"**
 - [ ] Howell_W 
@@ -30,7 +30,7 @@
 - [x] Knox_Robt   ALREADY IN SI as  Knox_Rbt
 - [ ] LaFontaine 
 - [ ] Lane
-- [ ] LeghT 
+- [x] LeghT :: Changed to Legh_T
 - [ ] LockeJ  SHOULD BE IN SI :: hjb: I can't find it
 - [ ] Maturin_Chas 
 - [ ] Molesworth 
@@ -92,8 +92,8 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 
 ## placeName
 
-- [ ] Arborfield
-- [ ] arbour  ebb: probably not a name. It's just a word that means a tree-shaded garden area
+- [x] Arborfield
+- [ ] arbour  ebb: probably not a name. It's just a word that means a tree-shaded garden area :: hjb: Should we tag this as Three Mile Cross where she refers to this?
 - [x] Ashmolean_old   ebb: Correct to Ashmolean_Old (already in SI)
 - [x] Bedford_town  ebb: Correct to Bedford (already in SI)
 - [ ] Bodys_lane   
@@ -101,7 +101,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Crown_Inn   
 - [ ] Davies_fields
 - [ ] fields_BH
-- [ ] garden_TMC
+- [ ] garden_TMC :: hjb: This is referred to as "our garden" by Mitford in her journal on April 7 1820
 - [ ] hayfield_BH 
 - [x] lane_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
 - [x] lowerPlantation_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
@@ -217,7 +217,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Guido
 - [ ] Hathaway
 - [ ] John Bulley
-- [ ] John Woodburn
+- [x] John Woodburn :: hjb: Changed to Woodburn_J
 - [ ] Lady Cecil Percy
 - [ ] Little Eliza
 - [ ] little girl
@@ -235,7 +235,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Miss Hollis
 - [ ] Miss Johndon
 - [ ] Miss Laman
-- [ ] Miss Newman
+- [x] Miss Newman
 - [ ] Miss Porden
 - [ ] Miss Torrant
 - [ ] Miss Tuppen
