@@ -46,15 +46,15 @@
 - [x] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
 - [x] Radcliffe_A  ebb: Correct this to "Radcliffe_Ann" (already in SI)
 - [ ] Rapley_Ha   ebb: We have several Rapleys in the SI (but no one with "Ha"): This one is "Hannah". Apparently this one is tricky (two different people named "John Rapley": I think we should check the passage in the journal (look at the MS too), and ask Lisa Wilson and Sam Webb for help on this one.  LMW says this is maybe John's wife or sister? Read the other Rapley entries in the SI. LMW maybe can check with Sam Webb about this.
-- [ ] Rigby_Mr: ebb: we have a generic entry for "Rigby_family" that we can use if we don't know their names. I think probably it's not necessary to create new entries unless we're seeing LOTS of references to them as individuals? 
-- [ ] Rigby_Mrs (see above)
+- [x] Rigby_Mr: ebb: we have a generic entry for "Rigby_family" that we can use if we don't know their names. I think probably it's not necessary to create new entries unless we're seeing LOTS of references to them as individuals? 
+- [x] Rigby_Mrs (see above) :: hjb: They are mentioned a total of three times, so I changed both to Rigby_family
 - [ ] Riley_James
 - [x] Roger_Sam  ebb: PROBABLY should be "Rogers_Sam" (already in SI)
 - [ ] ROgers_Miss    ebb: We don't have an orgname for a family of Rogers, though... 
 - [ ] Rogers_Miss
 - [ ] Ross_Miss 
 - [x] Schlegel_AW ebb: I added this to the current siADD list in the DM_SiteIndex repo
-- [ ] Scott   ebb: If it's the author of a novel, correct it to "Scott_Wa"
+- [x] Scott   ebb: If it's the author of a novel, correct it to "Scott_Wa"
 - [ ] Shaw_Sam 
 - [ ] Sidney_SirP  look for Sir Philip Sidney in the SI :: hjb: There is no persName, but there is a book titled "Memoirs of the Life and Writings of Sir Philip Sidney" with the tag "#Mems_Sidney_TZ"
 - [ ] Smith_James
@@ -62,7 +62,7 @@
 - [ ] Sweetser_Ch  This is her maid's brother (she will marry Charles Hill. WE NEED A NEW ENTRY. Also check LMW's tree on ancestry
 - [x] Symmon_Chas ebb: In the SI already: correct to "Symmons_Chas"
 - [ ] Tweddell_Miss
-- [ ] TwissH : an author named Horace Twiss
+- [x] TwissH : an author named Horace Twiss
 - [x] Valpy_Anne: ebb: Can we tell if this is a daughter of Richard Valpy? We've identified three: Frances, Penelope, or Catherine based on marriage records because we know that all of Richard Valpy's daughters married, but there may have been
 others that we didn't trace yet. We actually created an umbrella entry for "Valpy_Miss" when we're not sure of her name. But what's the context for "Anne Valpy" in the journal? 
 **ANSWER** Anne Valpy is married to Edward Valpy who is Richard Valpy's brother. (ENTRIES ADDED)
@@ -139,7 +139,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Anecdotes_King 
 - [ ] BaronMunchausen
 - [ ] Beppo 
-- [ ] CaribCh
+- [x] CaribCh
 - [ ] ClanAlbyn
 - [ ] Coelebs_Dec
 - [ ] Constitution 
