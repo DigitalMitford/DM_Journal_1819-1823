@@ -12315,7 +12315,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </publisher>
                   <date when="1820">1820</date>
                   <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
-               </bibl>-->
+               </bibl>
                <bibl xml:id="Tales_Heart"> <!-- 2024-07-10 NEW ENTRY -->
                   <title>Tales of the heart</title>
                   <author ref="#Opie_Amelia">Amelia Opie</author>
