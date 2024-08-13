@@ -188,7 +188,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] apricot 
 - [ ] glowworm 
 - [ ] pansy 
-- [ ] wood
 
 
 
@@ -403,7 +402,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 
 ## name
 
-- [ ] fruit
 - [x] fleas
 - [x] Geranium
 
