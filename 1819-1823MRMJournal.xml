@@ -11435,7 +11435,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1400">
                         <head><date when="1822-10-27">Sunday 27th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName>Mr. Bayley</persName>--worked at my prose article--&amp; walked.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Bayley_P">Mr. Bayley</persName>--worked at my prose article--&amp; walked.</p>
                     </div>
                     <div type="entry" xml:id="e-1401">
                         <head><date when="1822-10-28">Monday 28</date></head>
