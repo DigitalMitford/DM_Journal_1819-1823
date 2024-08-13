@@ -91,7 +91,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 
 
 ## placeName
-
 - [x] Arborfield
 - [ ] arbour  ebb: probably not a name. It's just a word that means a tree-shaded garden area :: hjb: Should we tag this as Three Mile Cross where she refers to this?
 - [x] Ashmolean_old   ebb: Correct to Ashmolean_Old (already in SI)
@@ -111,7 +110,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [x] park_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "garden_BH"
 - [x] plantation_whGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [x] Reading_City  ebb: Correct this to "Reading_city" (already in SI)
-- [ ] Tilehurst 
+- [ ] Tilehurst
 - [x] WhiteGate_BH  ebb: If this is referring to the grounds of Bertram House, this entry is good: "plantation_BH"
 - [x] whiteGate_BH  ^^^^^
 - [x] Winchester  ebb: Correct this to Winchester_city (already in SI)
@@ -123,32 +122,32 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 ## orgName
 
 - [ ] Bulleys
-- [ ] Dearesleys 
+- [ ] Dearesleys
 - [ ] Parfitt_das
 - [ ] Reading_Inst
-- [ ] Reading_Inst 
+- [ ] Reading_Inst
 - [ ] Rowdens
-- [ ] Wheelers 
-- [ ] Woodburns 
+- [ ] Wheelers
+- [ ] Woodburns
 
 ## title
 
 - [ ] Abolition_SlaveTrade
-- [ ] Age_Youth 
+- [ ] Age_Youth
 - [ ] Anastasius
-- [ ] Anecdotes_King 
+- [ ] Anecdotes_King
 - [ ] BaronMunchausen
 - [ ] Beppo 
 - [x] CaribCh
 - [ ] ClanAlbyn
 - [ ] Coelebs_Dec
-- [ ] Constitution 
+- [ ] Constitution
 - [ ] DeadLtrOfc
 - [ ] Decision
 - [ ] deStael_Intro
-- [ ] Edinburgh_Rev 
-- [ ] EdinburghMag_1785to1816 
-- [ ] Emmeline_MB 
+- [ ] Edinburgh_Rev
+- [ ] EdinburghMag_1785to1816
+- [ ] Emmeline_MB
 - [ ] FallofJerusalem_HM
 - [ ] Harcourt 
 - [x] Hazlitt_LecDramatic ebb: Correct this to "LecDramatic_WHaz" (already in SI)
@@ -188,7 +187,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] apricot 
 - [ ] glowworm 
 - [ ] pansy 
-
 
 
 # No attribute
