@@ -12301,7 +12301,8 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                   <note resp="#hjb">Read by Mitford on <date when="1820-09-06">September 6 1820</date>.</note>
                </bibl>
-              <!-- NOT FOUND  <bibl xml:id="Sketches_France"> <!-\- No reference to this -\->
+              <bibl xml:id="Sketches_France"> <!-- No reference to this  
+                 ebb: This may not be fully ref'd in journal, but seems like we should keep it. Check letters. -->
                   <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
                      account of travels in various parts of France and Switzerland, in the same
                      years.</title>
