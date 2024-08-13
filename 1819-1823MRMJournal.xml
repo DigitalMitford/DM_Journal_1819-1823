@@ -7281,7 +7281,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-675">
                   <head><date when="1820-11-04">Saturday 4th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--walked with dear
-                        <persName ref="#Russell_M">Granny</persName> &amp; the pets--read <title ref="#theVampyre">the
+                        <persName ref="#Russell_M">Granny</persName> &amp; the pets--read <title ref="#Vampyre">the
                      Vampyre</title>, very stupid--wrote to <persName ref="#Haydon">Mr.
                            Haydon</persName>.</p>
                </div>
@@ -11810,8 +11810,8 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="month" xml:id="Feb-1823">
                <div type="entry" xml:id="e-1491">
                   <head><date when="1823-02-01">Saturday 1st of February</date></head>
-                  <p>Heard from poor Mrs. [?] ley of her husband's death--wrote to her &amp; <persName ref="#Valpy_John">John Valpy</persName>.</p>
-               </div> <!-- 2024-07-29 hjb: Check who died on this day and check MS -->
+                  <p>Heard from poor <persName ref="#Bayley_Mrs">Mrs. <unclear reason="illegible">B<supplied>ay</supplied>ley</unclear></persName> of her husband's death--wrote to her &amp; <persName ref="#Valpy_John">John Valpy</persName>.</p>
+               </div> <!-- 2024-07-29 hjb: Check who died on this day and check MS: Turns out it was Peter Bayley, a frequent correspond of MRM. -->
                <div type="entry" xml:id="e-1492">
                   <head><date when="1823-02-02">Sunday 2nd</date></head>
                   <p>Heard from <persName>Miss Weston</persName> &amp; <persName ref="#Elford_SirWm">Sir W. Elford</persName>--<orgName>Montagues</orgName> called--worked at article.</p>
@@ -11878,7 +11878,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1508">
                   <head><date when="1823-02-18">Tuesday 18th</date></head>
-                  <p>Not well with a cold--worked at <title>Article</title>.</p> 
+                  <p>Not well with a cold--worked at <title>Article</title>.<!-- Let's look this up in the letters. --></p> 
                </div>
                <div type="entry" xml:id="e-1509">
                   <head><date when="1823-02-19">Wednesday</date></head>
@@ -11886,7 +11886,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1510">
                   <head><date when="1823-02-20">20th</date></head>
-                  <p>Not well.</p>
+                  <p>Not well. xxxxxxxx</p>
                </div>
                <div type="entry" xml:id="e-1511">
                   <head><date when="1823-02-21">Friday 21st</date></head>
@@ -11898,7 +11898,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1513">
                   <head><date when="1823-02-23">Sunday 23rd</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--very unwell--could not go to see <persName ref="#James_Miss">Miss James</persName>--shoe could not come to me on account of the weather--heard from her twice, with a veil, &amp; a ribbon &amp; roses from <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; Miss [?] Wrote to her, dear saint, &amp; to <persName ref="#Talfourd_Thos">Talfourd</persName>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--very unwell--could not go to see <persName ref="#James_Miss">Miss James</persName>--she could not come to me on account of the weather--heard from her twice, with a veil, &amp; a ribbon &amp; roses from <persName ref="#Hofland_B">Mrs. Hofland</persName> &amp; Miss <unclear><gap reason="illegible"/></unclear> Wrote to her, dear lamb, &amp; to <persName ref="#Talfourd_Thos">Talfourd</persName>.</p>
                </div>
                <div type="entry" xml:id="e-1514">
                   <head><date when="1823-02-24">Monday 24th</date></head>
@@ -11928,7 +11928,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1520">
                   <head><date when="1823-03-02">Sunday March 2nd</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName>Mr. Drover</persName>'s to meet <persName ref="#Talfourd_Thos">Talfourd</persName>--delightful day--<placeName ref="#ThreeMileCross">home</placeName> at night.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--dined at <persName ref="#Drover_JamesJr">Mr. Drover</persName>'s to meet <persName ref="#Talfourd_Thos">Talfourd</persName>--delightful day--<placeName ref="#ThreeMileCross">home</placeName> at night.</p>
                </div>
                <div type="entry" xml:id="e-1521">
                   <head><date when="1823-03-03">Monday</date></head>
@@ -11940,19 +11940,21 @@ Publisher:	London : [publisher not identified], 1786.
                </div> 
                <div type="entry" xml:id="e-1523">
                   <head><date when="1823-03-05">Wednesday 5th</date></head>
-                  <p>Went to <placeName ref="#Reading_city">Reading</placeName> to see <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--called at several places--bought net for cap--nothing over like <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>'s kindness.</p>
+                  <p>Went to <placeName ref="#Reading_city">Reading</placeName> to see <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--called at several places--bought net for cap--nothing ever like <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>'s kindness.</p>
                </div>
                <div type="entry" xml:id="e-1524">
                   <head><date when="1823-03-06">Thursday</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<orgName>Mr. &amp; Mrs. Raggett</orgName> called.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Raggett_Mr #Raggett_Mrs">Mr. &amp; Mrs. Raggett</persName> called.</p>
                </div>
                <div type="entry" xml:id="e-1525">
                   <head><date when="1823-03-07">Friday</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from Charles Kemble--wrote to Talfourd &amp; <persName ref="#Hofland_B">Mrs. Hof.</persName>--worked at my article.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Kemble_C">Charles Kemble</persName>--wrote to <persName ref="#Talfourd_Thos">Talfourd</persName> &amp; <persName ref="#Hofland_B">Mrs. Hof.</persName>--worked at my article.</p>
                </div>
                <div type="entry" xml:id="e-1526">
                   <head><date when="1823-03-08">Saturday</date></head>
-                  <p>Heard from <persName ref="#Valpy_John">John Valpy</persName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName> &amp; <persName>Miss Havell</persName>--article.</p>
+                  <p>Heard from <persName ref="#Valpy_John">John Valpy</persName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName> &amp; <persName>Miss Havell</persName>--article.</p><!-- 2024-08-13 ebb hjb lmw: We need a new entry for Miss Havell. 
+                  We only have Mrs. Havell, a stub entry, in the si, and this is definitely not the same person.
+                  -->
                </div>
                <div type="entry" xml:id="e-1527">
                   <head><date when="1823-03-09">Sunday</date></head>
@@ -11964,7 +11966,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-1529">
                   <head><date when="1823-03-11">Tuesday</date></head>
-                   <p>Packed for going to <placeName ref="#Reading_city">Town</placeName>--heard from <persName ref="#Elford_SirWm">Sir William</persName>--wrote to <persName ref="#Elford_SirWm">Sir William</persName>, <persName>Mr. Hamilton</persName>.</p>
+                  <p>Packed for going to <placeName ref="#London_city">Town</placeName>--heard from <persName ref="#Elford_SirWm">Sir William</persName>--wrote to <persName ref="#Elford_SirWm">Sir William</persName> &amp;<persName>Mr. Ham<supplied>ilton</supplied></persName>.</p>
                </div> 
             </div>
             
@@ -11994,6 +11996,17 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
         
             <listPerson sortKey="histPersons">
+               
+               <person xml:id="Bayley_Mrs" sex="f"><!-- UPDATED ENTRY (adding forename from Journal) -->
+                  <persName>Mrs. Bayley</persName>
+                  <persName>
+                     <surname type="married">Bayley</surname>
+                     <forename>Mary</forename>
+                     <roleName>Mrs.</roleName>
+                  </persName>
+                  <occupation type="literary" subtype="editor"/>
+                  <note resp="#lmw">Mrs. Bayley, spouse of <persName ref="#Bayley_P">Peter Bayley</persName>. After his sudden death in <date when="1823">1823</date>, she arranged to publish his poems posthumously and to have performed and published his tragedy <title ref="#Orestes_PB">Orestes in Argos</title>. Forename unknown. Dates unknown.<!--look for his wife in ancestry.com #rnes LMW: I checked unsuccessfully (worldcat and ancestry):  2017-07-09.--></note>
+               </person>
                <person xml:id="Elliott_John"> <!-- NEW ENTRY -->
                   <persName>John Elliott</persName>
                   <persName>
@@ -12314,7 +12327,7 @@ Publisher:	London : [publisher not identified], 1786.
                   </note>
                   <note resp="#hjb">Read by Mitford on <date when="1820-10-31">October 31 1820</date>.</note>
                </bibl>
-               <bibl xml:id="theVampyre"> <!-- 2024-07-11 NEW ENTRY -->
+               <bibl xml:id="Vampyre"> <!-- 2024-07-11 NEW ENTRY -->
                   <title level="m">The Vampyre: A Tale</title>
                   <author>John William Polidori</author>
                   <pubPlace>
