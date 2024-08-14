@@ -242,11 +242,11 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Miss. <unclear>Comyn</unclear>
 - [ ] Mr. Bagley
 - [ ] Mr. Bailey
-- [ ] Mr. Bayley :: hjb: Correct to Bayley_P
+- [x] Mr. Bayley :: hjb: Correct to Bayley_P
 - [ ] Mr. Brocas
-- [ ] Mr. C. Kemble :: hjb: Correct to Kemble_C
+- [x] Mr. C. Kemble :: hjb: Correct to Kemble_C
 - [ ] Mr. Chardsley
-- [ ] Mr. Charles Kemble :: hjb: Correct to Kemble_C
+- [x] Mr. Charles Kemble :: hjb: Correct to Kemble_C
 - [ ] Mr. Cove
 - [ ] Mr. Coxe
 - [ ] Mr. Drover
@@ -256,7 +256,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Mr. Harley
 - [ ] Mr. Hofland
 - [ ] Mr. Joseph Crowther
-- [ ] Mr. Kemble :: hjb: Correct to Kemble_C
+- [x] Mr. Kemble :: hjb: Correct to Kemble_C
 - [ ] Mr. Shaw Lefevre
 - [ ] Mr. Stephenson
 - [ ] Mr. Tafourdell
