@@ -11,36 +11,36 @@
 - [ ] Clarkson_Wm
 - [ ] Cowper_Mr
 - [x] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
-- [ ] Deverell_J 
+- [x] Deverell_J :: hjb: Changed to Deverell_John
 - [ ] Deverell_Miss 
 - [x] Elliott_John (son)
 - [x] Elliott_Mr  (father)
 - [ ] Gleig_GRA ebb: **Not sure we want this one? I could not find it in the Journal so I removed it from the back list**. Gleig was mostly not writing until the late 1820s. I found no specific reference to titles by him in the Journal, but am I missing something? 
-- [ ] Graham_DofMontrose
+- [x] Graham_DofMontrose :: hjb: Changed to Duke_Montrose
 - [x] Greene_Mr :: hjb: Changed to Green_Mr
 - [ ] Harley_Mr
 - [x] Hayward_da (notes from discussion with LJW: part of Webb / Hayward family tree) hjb: LMW put a comment saying "ck. treem who was born in 1820?
-- [ ] HeudeWm 
+- [x] HeudeWm :: hjb: changed to Heude_Wm
 - [x] Hofland_Barbara ebb: **Correct to "Hofland_B"**
 - [ ] Howell_W 
 - [ ] Jephson_Miss ebb: We should check this, but we are *thinking* this may be a reference to Emily Jephson, in the SI already as "Jephson_Em" :: hjb: hjb: Next to two of the attributes for this, it says "cert="low""
-- [ ] Jeremy_Miss 
+- [ ] Jeremy_Miss :: hjb: Seems to already be somewhere? Not sure, cant find it in SI
 - [x] Joliffe_Mrs ebb: We have a collective tag for anyone in the Joliffe family: "Joliffes" Is this appropriate? Are there lots of references to only Mrs Joliffe, or any other Joliffes mentioned? We can update the orgname we're using. She's mentioned 19 times, so she'd better have her own entry. CANONICAL FORM IS with one 'l'.
 - [x] Jollife_Mrs ^^^^
 - [x] Knox_Robt   ALREADY IN SI as  Knox_Rbt
-- [ ] LaFontaine 
-- [ ] Lane
+- [ ] LaFontaine :: hjb: Is this Russell_LadyMarie???
+- [ ] Lane :: hjb: Is this Lane_Wm???
 - [x] LeghT :: Changed to Legh_T
 - [ ] LockeJ  SHOULD BE IN SI :: hjb: I can't find it
 - [ ] Maturin_Chas 
-- [ ] Molesworth 
+- [ ] Molesworth :: hjb: Is this MolesworthRbt???
 - [ ] Morier_J
 - [ ] Morse_Miss
-- [ ] MuschetN 
+- [x] MuschetN :: hjb: Changed to MuschatN
 - [x] NeckerdeS_A. ebb and lmw: She's Mme de Stael, already in the SI. 
 - [x] Newbery_J ebb: already in the SI as exactly this.
 - [ ] NewtonI  ebb and lmw: In SI, look for Sir Isaac Newton :: hjb: I couldn't find any in the SI
-- [ ] Nicholls 
+- [x] Nicholls :: hjb: Changed to Nichols_J
 - [x] Palmer_ChasF ebb: Correct this to "Palmer_CF" (already in SI) 
 - [ ] Perry_James 
 - [x] PlumptreA   lmw: should be in already: Annabel Plumptre (or Plumtre?)
@@ -83,7 +83,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Wheeler_John  ebb: Check the "Wheeler_James" entry in the SI. Check the MS: Could this be James, or is this definitely someone else? :: hjb: He is mentioned as "Mr. John Wheeler" in the journals.
 - [ ] Wheeler_Mr  ebb: see above: should this be "Wheeler_James"? :: hjb: There are "two Mr. Wheelers: according to MRM's journal entry on 1819-05-24. It has a Wheeler_Mr and Wheeler_James tagged on that quote.
 - [ ] Whistle_pet 
-- [ ] WilsonRbt 
+- [ ] WilsonRbt :: hjb: Is this Wilson_RT???
 - [x] Woodburn_Mr  ebb: Correct to "Woodburn_J" (already in SI)
 - [ ] Woodburn_Mrs   ebb: Looks like we need to make a new family entry for this group...
 - [ ] Woodburn_son   (see above)
@@ -197,13 +197,13 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] [?]ckers
 - [ ] <unclear>Mud</unclear>
 - [ ] Aleen
-- [ ] Anne Tweddall
-- [ ] Anne Tweddell
-- [ ] Archdeacon Wrangham
-- [ ] Betty Tuppen
+- [ ] Anne Tweddall :: hjb: Is this Tweddell_Miss???
+- [ ] Anne Tweddell :: hjb: Is this Tweddell_Miss???
+- [ ] Archdeacon Wrangham :: hjb: Is this Wrangham_Fr???
+- [ ] Betty Tuppen :: hjb: Is this Tuppen_Mrs???
 - [ ] Bligh
-- [ ] Brown
-- [ ] Charles Lamb
+- [ ] Brown :: hjb: Is this Brown_Benjamin???
+- [x] Charles Lamb :: hjb: Changed to Lamb_Chas
 - [ ] Colonel Johnson
 - [ ] Dr. Smith
 - [ ] Editor of the Museum
@@ -213,7 +213,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] God
 - [ ] Guido
 - [ ] Hathaway
-- [ ] John Bulley
+- [x] John Bulley :: hjb: Created Bulley_John
 - [x] John Woodburn :: hjb: Changed to Woodburn_J
 - [ ] Lady Cecil Percy
 - [ ] Little Eliza
@@ -228,18 +228,18 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Miss Bricknell
 - [ ] Miss Danny
 - [ ] Miss Dominicetti
-- [ ] Miss Elford
-- [ ] Miss Havell
+- [ ] Miss Elford :: hjb: Is this Elford_Grace or Elford_Elizabeth???
+- [ ] Miss Havell :: hjb: Is this Havell_Mrs???
 - [ ] Miss Hollis
-- [ ] Miss Johndon
 - [ ] Miss Laman
 - [x] Miss Newman
-- [ ] Miss Porden
+- [ ] Miss Porden :: hjb: Is this Franklin_Eleanor???
 - [ ] Miss Torrant
-- [ ] Miss Tuppen
+- [ ] Miss Tuppen :: hjb: Is this Tuppen_Mrs???
 - [ ] Miss Vardill
 - [ ] Miss Weston
-- [ ] Miss Wheeler
+- [ ] Miss Wheeler :: hjb: Is this Wheeler_Kate???
+<!-- Check for more in SI after this comment -->
 - [ ] Miss. <unclear>Comyn</unclear>
 - [ ] Mr. Bagley
 - [ ] Mr. Bailey
