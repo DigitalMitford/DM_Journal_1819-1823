@@ -186,7 +186,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 
 - [ ] apricot 
 - [ ] glowworm 
-- [ ] pansy 
+- [x] pansy :: hjb: Changed to hearts_ease 
 
 
 # No attribute
