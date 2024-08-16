@@ -2,12 +2,12 @@
 
 ## persName
 
-[x] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
-[x] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
-[x] Bobby_pet ebb: Mark as the English robin as a wild bird 
-[ ] Bocket_Mr
-[ ] Butcher
-[ ] Champion_Mr 
+- [x] AikinJ ebb: In the SI already: **Correct it to "Aikin_J"** 
+- [x] Barrow_J ebb: In the SI already (and we need to remove an extra entry for him, too): Correct to **"Barrow_John"**
+- [x] Bobby_pet ebb: Mark as the English robin as a wild bird 
+- [ ] Bocket_Mr
+- [ ] Butcher
+- [ ] Champion_Mr 
 - [ ] Clarkson_Wm
 - [ ] Cowper_Mr
 - [x] deGenlis ebb: Correct to "deGenlis_Mme" (already in the SI)
