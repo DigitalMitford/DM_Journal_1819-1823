@@ -239,42 +239,38 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Miss Vardill
 - [ ] Miss Weston
 - [ ] Miss Wheeler :: hjb: Is this Wheeler_Kate???
-<!-- Check for more in SI after this comment -->
 - [ ] Miss. <unclear>Comyn</unclear>
 - [ ] Mr. Bagley
-- [ ] Mr. Bailey
+- [x] Mr. Bailey :: hjb: Changed to Bailey_Mr
 - [x] Mr. Bayley :: hjb: Correct to Bayley_P
-- [ ] Mr. Brocas
+- [x] Mr. Brocas :: hjb: Changed to Brocas_Bernard
 - [x] Mr. C. Kemble :: hjb: Correct to Kemble_C
 - [ ] Mr. Chardsley
 - [x] Mr. Charles Kemble :: hjb: Correct to Kemble_C
 - [ ] Mr. Cove
-- [ ] Mr. Coxe
-- [ ] Mr. Drover
+- [ ] Mr. Coxe :: hjb: Is this Coxe_Wm???
+- [x] Mr. Drover :: hjb: Changed to Drover_JamesJr
 - [ ] Mr. Eastaff
-- [ ] Mr. Hailey
-- [ ] Mr. Hamilton
-- [ ] Mr. Harley
-- [ ] Mr. Hofland
-- [ ] Mr. Joseph Crowther
+- [x] Mr. Hailey :: hjb: Is most likely Harley_Mr, so I changed it to Harley_Mr
+- [ ] Mr. Hamilton :: hjb: Is this Hamilton_S???
+- [x] Mr. Hofland :: hjb: Changed to Hofland_TC
+- [ ] Mr. Joseph Crowther :: hjb: This is NOT Crowther_Mr
 - [x] Mr. Kemble :: hjb: Correct to Kemble_C
-- [ ] Mr. Shaw Lefevre
-- [ ] Mr. Stephenson
-- [ ] Mr. Tafourdell
+- [x] Mr. Shaw Lefevre :: hjb: Changed to ShawLefevre_C1
 - [ ] Mr. Vidal
-- [ ] Mr. Wheble
-- [ ] Mr. Whittaker
-- [ ] Mr. Wilson
+- [ ] Mr. Wheble :: hjb: Is this publisher John Wheble???
+- [ ] Mr. Whittaker :: hjb: Is this Whittaker_Geo or Whittaker_WB???
+- [ ] Mr. Wilson :: hjb: There are a few people this could be referring to
+<!-- Check for more in SI after this comment -->
 - [ ] Mrs. &amp; Miss Briscoe
 - [ ] Mrs. <unclear>Comyn</unclear>
-- [ ] Mrs. Blandy
-- [ ] Mrs. Davies
+- [x] Mrs. Blandy :: hjb: Changed to Blandy_Mrs
 - [ ] Mrs. Davies
 - [ ] Mrs. Mathews
 - [ ] Mrs. Newton
 - [ ] Mrs. Palairet
 - [ ] Mrs. Shaw Lefevre
-- [ ] Mrs. Shuter
+- [ ] Mrs. Shuter :: hjb: Is this Valpy_Sarah???
 - [ ] Mrs. Smith
 - [ ] Mrs. Story
 - [ ] Mrs. Tuckett
@@ -283,6 +279,7 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Mrs. Young
 - [ ] North
 - [ ] Peter Hunt
+<!-- Check for more in SI after this comment -->
 - [ ] Queen
 - [ ] Sally
 - [ ] Selina
