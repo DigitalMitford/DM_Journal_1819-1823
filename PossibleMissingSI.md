@@ -261,7 +261,6 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] Mr. Wheble :: hjb: Is this publisher John Wheble???
 - [ ] Mr. Whittaker :: hjb: Is this Whittaker_Geo or Whittaker_WB???
 - [ ] Mr. Wilson :: hjb: There are a few people this could be referring to
-<!-- Check for more in SI after this comment -->
 - [ ] Mrs. &amp; Miss Briscoe
 - [ ] Mrs. <unclear>Comyn</unclear>
 - [x] Mrs. Blandy :: hjb: Changed to Blandy_Mrs
@@ -280,16 +279,16 @@ ebb: We have all the names of the Webb family spelled out now. MRM's friends are
 - [ ] North
 - [ ] Peter Hunt
 <!-- Check for more in SI after this comment -->
-- [ ] Queen
+- [x] Queen :: hjb: Created Charolette
 - [ ] Sally
-- [ ] Selina
-- [ ] St. John
-- [ ] Tom Smith
-- [ ] Trim
-- [ ] Turner
-- [ ] Walker
+- [ ] Selina :: hjb: This person died sometime around 1823-01-11
+- [ ] St. John :: hjb: Described as young, who is this?
+- [ ] Tom Smith :: hjb: Described as a <q>prig of a person</q>
+- [ ] Trim :: hjb: Probably a dog
+- [x] Turner :: hjb: Created Turner_D
+- [ ] Walker :: hjb: Is this Walker_Mr???
 - [ ] Wheatley
-- [ ] young Procter
+- [ ] young Procter :: hjb: A student
 - [ ] Young Tanner
 
 
