@@ -18,8 +18,6 @@
             <editor ref="#rjp">Rebecca J. Parker</editor>
             <editor ref="#ebb">Elisa Beshero-Bondar</editor>
             <editor ref="#lmw">Lisa M. Wilson</editor>
-            <!-- LMW where to credit Coles? -->
-            <!--ebb: Add more editor elements as other editors become involved. -->
             <sponsor>
                <orgName>Mary Russell Mitford Society: Digital Mitford Project</orgName>
             </sponsor>
@@ -48,12 +46,10 @@
             <date>2024</date>
             <availability>
                <p>Reproduced by courtesy of the <placeName>Reading Central
-                  Library</placeName>.<!--ebb:Double-check permissions bc the original manuscript
-                    is at the British Library. Any issues for us since we're reproducing the typed transcript from Reading Central Library?--></p>
+                  Library</placeName>.</p>
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
             </availability>
-
          </publicationStmt>
          <sourceDesc>
 
