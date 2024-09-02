@@ -12,9 +12,10 @@
          <titleStmt>
             <title>Mary Russell Mitford's Notebook of 1819 to 1823</title>
             <author ref="#MRM">Mary Russell Mitford</author>
-            <editor ref="#rjp">Rebecca J. Parker</editor>
-            <editor ref="#srr">Savannah Ricks</editor>
+            <editor ref="#hjb">Hadleigh Jae Bills</editor>
             <editor ref="#TSA">Tyler Akam</editor>
+            <editor ref="#srr">Savannah Ricks</editor> 
+            <editor ref="#rjp">Rebecca J. Parker</editor>
             <editor ref="#ebb">Elisa Beshero-Bondar</editor>
             <editor ref="#lmw">Lisa M. Wilson</editor>
             <!-- LMW where to credit Coles? -->
@@ -25,9 +26,10 @@
             <principal>Elisa Beshero-Bondar</principal>
             <respStmt>
                <resp>Transcription and coding by</resp>
-               <persName ref="#rjp">Rebecca J. Parker</persName>
-               <persName ref="#srr">Savannah Ricks</persName>
+               <persName ref="#hjb">Hadleigh Jae Bills</persName>
                <persName ref="#TSA">Tyler Akam</persName>
+               <persName ref="#srr">Savannah Ricks</persName>
+               <persName ref="#rjp">Rebecca J. Parker</persName>
                <persName ref="#ebb">Elisa Beshero-Bondar</persName>
                <persName ref="#lmw">Lisa M. Wilson</persName>
             </respStmt>
