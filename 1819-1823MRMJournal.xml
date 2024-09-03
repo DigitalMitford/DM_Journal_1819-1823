@@ -2329,7 +2329,7 @@
                         <persName ref="#Carter_Mr">Mr. Carter</persName> there--very pleasant
                      day--came <placeName ref="#Bertram_house">home</placeName> at night.</p>
                   <p><add hand="#MRM">1819</add> The friends to whom we sent my Poems were <persName
-                        ref="#Harley_Miss">Miss Harley</persName>--the <persName ref="#Holden_Misses"
+                        ref="#Harley_Miss">Miss Harley</persName>--the <persName ref="#Holden_Miss"
                         >Miss Holdens</persName>, <persName ref="#Deverell_Miss">Miss
                         Deverell</persName>--<persName ref="#Woodburn_Mrs">Mrs. Woodburn</persName>
                      &amp; Miss <unclear/> At the same time sent a spaniel Puppy to <persName ref="#Holden_John">John Holden</persName>
@@ -4132,8 +4132,8 @@
                </div>
                <div type="entry" xml:id="e-355">
                   <head><date when="1819-12-20">Monday 20 </date></head>
-                  <p><add hand="#hunt"><persName ref="#NewtonI">Sir Isaac Newton</persName>, <date
-                           when="1647">1647</date></add>.</p>
+             <!--     <p><add hand="#hunt"><persName ref="#NewtonI">Sir Isaac Newton</persName>, <date
+                           when="1647">1647</date></add>.</p>-->
                   <p>At <placeName ref="#Bertram_house">home</placeName>--went <name ref="#fir"
                         >fir</name>topping with <persName ref="#Molly_pet">Molly</persName> &amp;
                      the other Pets--read <title ref="#Sacrifice_Isabel"><persName
@@ -4611,9 +4611,8 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                         <persName ref="#Marsh_Henry">Harry Marsh</persName> &amp; <persName
                         ref="#Sherwood_Mr">Mr. Sherwood</persName> came in the evening--excellent
                      dinner--very pleasant day--corrected some proofs of <persName
-                        ref="#Joliffe_Mrs">Mrs. Jolliffe</persName>'s <title ref="#Tales_MrsJoliffe"
-                        >little Tales</title><!--unpublished? Anonymous?-->--came <placeName
-                        ref="#Bertram_house">home</placeName> at night.</p>
+                        ref="#Joliffe_Mrs">Mrs. Jolliffe</persName>'s little Tales<!-- unpublished? Anonymous? 2024-09-02 ebb: As yet unidentified-->--came <placeName
+                        ref="#Bertram_house">home</placeName> at night. <note resp="#ebb">As yet we have not traced these tales by Mrs. Joliffe.</note></p>
                </div>
                <pb n="35"/>
                <div type="entry" xml:id="e-408">
@@ -5904,7 +5903,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Mitford_Geo">Drum</persName>--wrote to <persName ref="#Mitford_Geo"
                         >Drum</persName> &amp; <persName ref="#Hayward_MrsW">Mrs.
                      Hayward</persName>--read a very sweet Italian novel (the only Italian novel)
-                     called <title ref="#LettersOfOrtis">Ultime Lettere de Jacopo Ortis</title>, written by <persName ref="#Foscolo_Ugo">Ugo
+                     called <title ref="#Last_Letters_Jac_Ortis">Ultime Lettere de Jacopo Ortis</title>, written by <persName ref="#Foscolo_Ugo">Ugo
                         Foscolo</persName> who is now in <placeName ref="#England">Eng</placeName>:
                      writing for the <title ref="#QuarterlyRev_per">Quarterly</title>--too dismal
                      but good--walked with the pets--sent off little <persName ref="#Fly_pet"
@@ -6034,7 +6033,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
                         ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo"
                         >Drum</persName> in <persName>Mr. Eastaff</persName>'s gig &amp; with
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>--drove by <placeName
+                     <persName ref="#Smith_Farmer">Farmer Smith</persName>'s <name ref="#horse">mare</name>--drove by <placeName
                         ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted--then by
                      <placeName ref="#Egham">Egham</placeName> through <placeName ref="#Park_Windsor">Windsor Park</placeName> (a
                      most beautiful drive), &amp; drank tea at <placeName ref="#Richmond"
@@ -6259,7 +6258,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-07-16">Sunday 16th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName
                         ref="#James_Miss">Miss James</persName>--sate in my
-                     <placeName ref="#arbour">Arbour</placeName>--read the <title ref="#LondonMag">London
+                     Arbour--read the <title ref="#LondonMag">London
                         Magazine</title>--famous--walked with <persName ref="#Mitford_Geo"
                         >Drum</persName>, <persName ref="#Russell_M">Granny</persName> &amp; the
                      pets--saw the <name ref="#glow_worm">glow-worm</name>.</p>
@@ -6731,7 +6730,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName ref="#Tadley">Tadley</placeName>--went to see the <placeName>old
                         wells</placeName>--dined &amp; drank tea with <persName ref="#Hill_Lucy"
                         >Lucy</persName>--nearly upset on our way home by that restive beast
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>.</p>
+                     <persName ref="#Smith_Farmer">Farmer Smith</persName>'s <name ref="#horse">mare</name>.</p>
                </div>
                <div type="entry" xml:id="e-615">
                   <head><date when="1820-09-05">Tuesday 5th</date></head>
@@ -6882,12 +6881,12 @@ Publisher:	London : [publisher not identified], 1786.
                         >Miss Brooke</persName> &amp; <persName ref="#Webb_Eliza">Eliza
                         Webb</persName>--worked at my flounce--walked with <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; the pets--read
-                     <title ref="#Mademoiselle_Tournon">Madamemoiselle de Tournon [?]</title>.</p>
+                     <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon</title>.</p>
                </div>
                <div type="entry" xml:id="e-633">
                   <head><date when="1820-09-23">Saturday 23rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my flounce in
-                     my <placeName ref="#arbour">Arbour</placeName>--read <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon
+                     my Arbour--read <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon
                         [?]</title>, pretty enough but dismal--walked with <persName
                            ref="#Mitford_Geo">Drum</persName>.</p>
                </div>
@@ -9412,9 +9411,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-953">
                   <head><date when="1821-08-09">Thursday 9th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <title ref="#Heraline_LMH"
-                        >Heraline</title>.</p>
-                  <!-- 2024-01-23 hjb: Heraline might be a book, but I am not sure. -->
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <title ref="#Heraline_LMH">Heraline</title>.</p>
                </div>
                <div type="entry" xml:id="e-954">
                   <head><date when="1821-08-10">Friday 10th</date></head>
@@ -11973,6 +11970,7 @@ Publisher:	London : [publisher not identified], 1786.
 
       </body>
       <back>
+         <!-- 2024-09-02 ebb: ALL BACKLIST ENTRIES TO THIS POINT ARE MOVED TO THE SI REPO FOR RELEASE TO THE SI.  -->
          <div type="Mitford_Team">
             <listPerson sortKey="Mitford_Team">
                <person></person>
@@ -11994,355 +11992,29 @@ Publisher:	London : [publisher not identified], 1786.
             </listOrg>
         
             <listPerson sortKey="histPersons">
-               
-               <person xml:id="Bayley_Mrs" sex="f"><!-- UPDATED ENTRY (adding forename from Journal) -->
-                  <persName>Mrs. Bayley</persName>
-                  <persName>
-                     <surname type="married">Bayley</surname>
-                     <forename>Mary</forename>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <occupation type="literary" subtype="editor"/>
-                  <note resp="#lmw">Mrs. Bayley, spouse of <persName ref="#Bayley_P">Peter Bayley</persName>. After his sudden death in <date when="1823">1823</date>, she arranged to publish his poems posthumously and to have performed and published his tragedy <title ref="#Orestes_PB">Orestes in Argos</title>. Forename unknown. Dates unknown.<!--look for his wife in ancestry.com #rnes LMW: I checked unsuccessfully (worldcat and ancestry):  2017-07-09.--></note>
-               </person>
-               <person xml:id="Elliott_John"> <!-- NEW ENTRY -->
-                  <persName>John Elliott</persName>
-                  <persName>
-                     <surname>Elliott</surname>
-                     <forename>John</forename>
-                  </persName>
-                  <note resp="#hjb">Son of <persName ref="#Elliott_Mr">Mr. Elliot</persName>.</note>
-               </person>
-               <person xml:id="Elliott_Mr"> <!-- NEW ENTRY -->
-                  <persName>Mr. Elliott</persName>
-                  <persName>
-                     <surname>Elliott</surname>
-                  </persName>
-                  <note resp="#hjb">Father of <persName ref="#Elliott_John">John Elliot</persName></note>
-               </person>
-               <person xml:id="Hayward_da"> <!-- NEW ENTRY -->
-                  <persName>Mrs. Hayward's little girl</persName>
-                  <persName>
-                     <surname>Hayward</surname>
-                  </persName>
-                  <birth when="1820-01-02"/>
-                  <note resp="#hjb">Potential daughter of <persName ref="#Hayward_MrsW">Mrs. Hayward</persName> and <persName ref="#Hayward_Wm_father">William Hayward</persName>. Mentioned by Mitford in her journal on <date when="1820-01-27">1820 January 27</date>.</note>
-               </person>
-               <person xml:id="Joliffe_Mrs"> <!-- NEW ENTRY -->
-                  <persName>Mrs. Joliffe</persName>
-                  <persName>
-                     <surname>Joliffe</surname>
-                  </persName>
-                  <note resp="#hjb">Friend of Mitford.</note>
-               </person>
-               <person xml:id="Nares_Mr" sex="m"> <!-- 2024-07-11 NEW ENTRY (mentioned in Journal but has no entry) -->
-                  <persName>Mr. Nares</persName>
-                  <persName>
-                     <surname>Nares</surname>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#hjb">Mitford mentions seeing him on <date when="1820-06-07">June 7 1820</date>, as well as saw <persName ref="#MacFarlane_Chas">Mr. MacFarlane</persName> the same day.</note>
-               </person>
-               <person xml:id="NewtonI"> <!-- NEW ENTRY :: NEEDS MORE INFO -->
-                  <persName>Sir Isaac Newton</persName>
-               </person>
-               <person xml:id="Rapley_Ha" sex="f"> <!-- NEW ENTRY -->
-                  <persName>Hannah Rapley</persName>
-                  <note resp="#hjb">Began living with <persName ref="#Dickinson_Mrs">Mrs. Dickinson</persName> on <date when="1820-01-24"> January 24 1820</date>. Mitford dined with her on <date when="1819-07-15">Thursday 15 </date></note>
-               </person>
-               <person xml:id="Shaw_Sam"> <!-- NEW ENTRY -->
-                  <persName>Sam Shaw</persName>
-                  <persName>
-                     <surname>Shaw</surname>
-                     <forename>Samuel</forename>
-                  </persName>
-                  <note resp="#hjb">Author of <title ref="#IntNarr_Bruce">An Interesting Narrative of the Travels of James Bruce, Esq. into Abyssinia</title>. Mentioned by Mitford on <date when="1819-06-20">June 20 1819</date></note>
-               </person>
-               <person xml:id="TwissH"> <!-- NEW ENTRY :: NEEDS MORE INFORMATION-->
-                  <persName>Horace Twiss</persName>
-                  <persName>
-                     <surname>Twiss</surname>
-                     <forename>Horace</forename>
-                  </persName>
-                  <occupation type="literary"/>
-                  <birth when="1787-02-28"/>
-                  <death when="1849-05"/>
-                  <note resp="#hjb">
-                     <ref target="https://www.historyofparliamentonline.org/volume/1820-1832/member/twiss-horace-1787-1849"/>
-                  </note>
-                  <note resp="#hjb">Author of <title ref="#CaribCh">The Carib Chief</title>, a play, which was mentioned by Mitford 
-                     on <date when="1819-12-18">December 18 1819</date>. In <date when="1814">1814</date>, he published some 
-                     clever Posthumous Parodies of famous poets.</note>
-               </person>
-               <person xml:id="Valpy_Anne" sex="f"> <!-- NEW ENTRY -->
-                  <persName>Anne Valpy</persName>
-                  <persName>
-                     <surname type="married">Valpy</surname>
-                     <surname type="paternal">Western</surname>
-                     <forename>Anne</forename>
-                  </persName>
-                  <birth when="1765-09-14">
-                     <placeName>Great Abingdon, Berkshire, England</placeName>
-                  </birth>
-                  <death when="1835-04-15">
-                     <placeName>Little Yarmouth, Suffolk, England</placeName>
-                  </death>
-                  <note resp="#hjb">
-                     <ref target="https://www.ancestry.com/family-tree/person/tree/185359508/person/182437067805/facts"/>
-                  </note>
-                  <note resp="#hjb">Married <persName ref="#Valpy_Ed">Mr. Edward Valpy</persName>, the brother of <persName ref="#Valpy_Richard">Dr. Valpy</persName>, in her second marriage. Mitford met her when she called at the <orgName ref="#Valpys">Valpy's</orgName> on <date when="1820-06-23">June 23, 1820</date>.</note>
-               </person>
-               <person xml:id="Valpy_Ed" sex="m"> <!-- NEW ENTRY -->
-                  <persName>Mr. Edward Valpy</persName>
-                  <persName>
-                     <surname>Valpy</surname>
-                     <forename>Edward</forename>
-                     <roleName>Rev.</roleName>
-                  </persName>
-                  <birth when="1764-04">
-                     <placeName>St Helier, Jersey, Channel Islands</placeName>
-                  </birth>
-                  <death when="1832-04-15">
-                     <placeName>Great Yarmouth, Norfolk, England</placeName>
-                  </death>
-                  <note resp="#hjb">
-                     <ref target="https://www.ancestry.com/family-tree/person/tree/185359508/person/182433203290/facts"/>
-                  </note>
-                  <note resp="#hjb">Husband to <persName ref="#Valpy_Anne">Anne Western Valpy</persName> and younger brother of <persName ref="#Valpy_Richard">Dr. Valpy</persName>. Mitford met him when she called at the <orgName ref="#Valpys">Valpy's</orgName> on <date when="1820-06-23">June 23, 1820</date>.</note>
-               </person>
-               <person xml:id="Wheeler_John"> <!-- NEW ENTRY -->
-                  <persName>John Wheeler</persName>
-                  <persName>
-                     <surname>Wheeler</surname>
-                     <forename>John</forename>
-                     <roleName>Mr.</roleName>
-                  </persName>
-                  <note resp="#hjb">Spouse of <persName ref="#Wheeler_Mrs">Mrs. John Wheeler</persName>.</note>
-               </person>
-               <person xml:id="Wheeler_Mrs" sex="f"> <!-- UPDATING ENTRY -->
-                  <persName>Mrs. John Wheeler</persName>
-                  <persName>
-                     <surname type="married">Wheeler</surname>
-                     <roleName>Mrs.</roleName>
-                  </persName>
-                  <note resp="#lmw">A correspondent of <persName ref="#MRM">Mary Russell Mitford</persName> in <date when="1840">1840</date>. Spouse of <persName ref="#Wheeler_John">John Wheeler</persName>. Forename unknown. Dates unknown.<!--LMW: any connection to Kate Wheeler?--><!--LMW: There are also Wheelers in the Webb extended family tree.--></note>
-               </person>
-               
+                <person/>
+     
             </listPerson>
          </div>
 
          <div type="places">
             <listPlace sortKey="histPlaces">
                
-               <place xml:id="Arborfield"> <!-- NEW ENTRY -->
-                  <placeName>Arborfield</placeName>
-                  <region>South East</region>
-                  <country>England</country>
-                  <location>
-                     <geo>51.401 -0.916</geo>
-                  </location>
-                  <note resp="#hjb">A village in England. Visited by Mitford on <date when="1820-05-12">March 12 1820</date>, <date when="1820-07-11">July 11 1820</date>, and <date when="1822-03-29">March 29 1822</date></note>
-               </place>
-               <place xml:id="Church_Shinfield"> <!-- NEW ENTRY -->
-                  <placeName>Shinfield Church</placeName>
-               </place>
-               <place xml:id="Manchester">
-                  <placeName>Manchester</placeName>
-                  <region>North West</region>
-                  <country>England</country>
-                  <location>
-                     <geo>53.479 -2.2452</geo>
-                  </location>
-                  <note resp="#hjb">Mitford mentions this place on <date when="1819-11-15">November 15 1819</date></note>
-               </place>
-               <place xml:id="Odiham"> <!-- NEW ENTRY -->
-                  <placeName>Odiham</placeName>
-                  <district>Hart</district>
-                  <region>South East</region>
-                  <country>England</country>
-                  <location>
-                     <geo>51.254 -0.939</geo>
-                  </location>
-                  <note resp="#hjb">
-                     <ref target="https://www.visit-hampshire.co.uk/explore/villages/odiham"/>
-                  </note>
-                  <note resp="#hjb">A market town in Hampshire. <persName ref="#Russell_M">Granny</persName> and/or <persName ref="#Mitford_Geo">Drum</persName> visited on <date when="1821-09-06">Wednesday 6th</date>, <date when="1822-07-08">Monday 8th</date>, <date when="1822-10-31">Thursday 31st</date></note>
-               </place>
-               <place xml:id="Staffordshire"> <!-- NEW ENTRY -->
-                  <placeName>Staffordshire</placeName>
-                  <country>England</country>
-                  <location>
-                     <geo>52.806944 -2.116111</geo>
-                  </location>
-                  <note>
-                     <ref target="https://www.britannica.com/place/Staffordshire"/>
-                  </note>
-                  <note resp="#hjb">A county in England. Mitford <q>saw a young lady</q> from here named <persName>Miss Torrant</persName> on <date when="1822-05-17">1822 May 17th</date>.</note>
-               </place>
+              <place/>
+   
             </listPlace>
          </div>
 
          <div type="nature">
             <list sortKey="animals">
-               <item xml:id="leech"> <!-- NEW ENTRY -->
-                  <name>leech</name>
-                  <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment 
-                     in a process known as bloodletting.</note>
-               </item>
-               <item xml:id="flea"> <!-- NEW ENTRY -->
-                  <name>flea</name>
-                  <note resp="#hjb">
-                     <ref target="https://ohioline.osu.edu/factsheet/HYG-2081-11"/>
-                  </note>
-                  <note resp="#hjb">A type of insect that typically bite animals and humans.</note>
-               </item>
+               <item/>
             </list>
          </div>
 
          <div type="publications">
 
             <listBibl sortKey="work_MRM">
-               <bibl xml:id="Advice_Julia"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title level="m">Advice to Julia: A Letter in Rhyme</title>
-                  <author>Henry Luttrell</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>John Murray</publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb">A poem read by Mitford on <date when="1820-10-07">October 7 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Age_Elizabeth"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title level="m">Lectures Chiefly on the Dramatic Literature of the Age of Elizabeth</title>
-                  <author ref="#Hazlitt_Wm">William Hazlitt</author>
-                  <pubPlace>London, Edinburgh</pubPlace>
-                  <publisher>Stodart and Steuart; Bell and Bradfute</publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-10-22">October 22, 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Beau_Fletch"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>The Works of Beaumont and Fletcher, in Fourteen Volumes: With an Introduction and Explanatory Notes</title>
-                  <author>Francis Beaumont</author>
-                  <author>John Fletcher</author>
-                  <editor>Henry William Weber</editor>
-                  <pubPlace>London, Edinburgh</pubPlace>
-                  <publisher>J. Ballantyne and Company for F.C. and J. Rivington</publisher>
-                  <date when="1812">1812</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/2083155"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-09-25">September 25 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="CaribCh"> <!-- NEW ENTRY -->
-                  <title>The Carib Chief: A Tragedy, in Five Acts</title>
-                  <author ref="#TwissH">Horace Twiss</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1819">1819</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/75469722"/>
-                     <ref target="https://www.loc.gov/resource/gdcmassbookdig.caribchieftraged00twis2/?st=gallery"/>
-                  </note>
-                  <note resp="#hjb">A play read by Mitford on <date when="1819-12-18">December 18 1819</date>. She described it as <q>a tolerable Tragedy</q> in her journal entry.</note>
-               </bibl>
-             <!-- 2024-07-13 ebb: I added Chalmers_T and a different reference for his sermons: 
-                I think it's his New Sermons instead of Discourses, based on her mention and dates of publication. 
-                Thomas Chalmers stuff is already in the SI-Add and tagging updated here.
-             -->
-               <bibl xml:id="Flora_Fest"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>Festival of Flora</title>
-                  <title level="m">The Festival of Flora: A Poem with Botanical Notes</title>
-                  <author>Arthur Crichton</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>N. Hailes</publisher>
-                  <date when="1818">1818</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/36063200"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-08-24">August 24 1820</date>. Second Edition.</note>
-               </bibl>
-               <bibl xml:id="Legends_B"> <!-- NEW ENTRY -->
-                  <title>Metrical Legends of Exalted Characters</title>
-                  <author ref="#Baillie_Joanna">Joanna Baillie</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1821">1821</date>
-                  <note>
-                     <ref target="https://search.worldcat.org/title/2986872"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1821-06-10">June 10 1821</date>.</note>
-               </bibl>
-               <bibl xml:id="Missionary_SO"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>The Missionary: An Indian Tale</title>
-                  <author>Sydney Owenson</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>J.J. Stockdale</publisher>
-                  <date when="1811">1811</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/830959325"/>
-                     <ref target="https://play.google.com/books/reader?id=3zZW6pUXUrwC&amp;pg=GBS.PP1&amp;hl=en"/>
-                     <ref target="https://broadviewpress.com/product/the-missionary/#tab-description"/>
-                  </note>
-                  <note resp="#hjb">A tragic romance novel read by Mitford on <date when="1820-10-23">Monday 23rd</date>. Tells 
-                     the tale of star-crossed lovers, a Portuguese missionary to India and an Indian prophetess.</note>
-               </bibl>
-          
-            
-               <bibl xml:id="Sintram_Comp"> <!-- 2024-07-10 NEW ENTRY -->
-                  <title>Sintram and His Companions: A Romance</title>
-                  <author>Friedrich Heinrich Karl La Motte-Fouqué</author>
-                  <editor role="translator">Julius Charles Hare</editor>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/6875205"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-09-06">September 6 1820</date>.</note>
-               </bibl>
-              <bibl xml:id="Sketches_France"> <!-- No reference to this  
-                 ebb: This may not be fully ref'd in journal, but seems like we should keep it. Check letters. -->
-                  <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
-                     account of travels in various parts of France and Switzerland, in the same
-                     years.</title>
-                  <author ref="#Eaton_Charlotte_A">Charlotte A. Eaton</author>
-                  <pubPlace>
-                     <placeName ref="#London_city">London</placeName>
-                  </pubPlace>
-                  <publisher>
-                     <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
-                  </publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
-               </bibl>
-               <bibl xml:id="Tales_Heart"> <!-- 2024-07-10 NEW ENTRY -->
-                  <title>Tales of the heart</title>
-                  <author ref="#Opie_Amelia">Amelia Opie</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1820">1820</date>
-                  <note>
-                     <ref target="https://archive.org/details/talesofhear01opie/mode/2up"/>
-                     <ref target="https://search.worldcat.org/title/539322535"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-10-31">October 31 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Vampyre"> <!-- 2024-07-11 NEW ENTRY -->
-                  <title level="m">The Vampyre: A Tale</title>
-                  <author>John William Polidori</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>Sherwood, Neely, and Jones</publisher>
-                  <date when="1819">1819</date>
-                  <note resp="#hjb">
-                     <ref target="https://archive.org/details/vampyretale00poli/page/n7/mode/2up"/>
-                     <ref target="https://en.wikipedia.org/wiki/John_William_Polidori"/>
-                  </note>
-                  <note resp="#hjb">The first published modern vampire story read by Mitford on 
-                     <date when="1820-11-04">November 4 1820</date>. Mitford described it as 
-                     <q>very stupid</q> in her journal. Originally credited to Lord Byron, but was 
-                     then confirmed to be written by Polidori.</note>
-               </bibl>
+            <bibl/>
             </listBibl>
          </div>
       </back>
