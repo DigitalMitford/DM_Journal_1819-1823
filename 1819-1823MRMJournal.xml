@@ -11654,7 +11654,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                    <div type="entry" xml:id="e-1455">
                       <head><date when="1822-12-21">Saturday 21st</date></head>
-                      <p>At <placeName ref="#ThreeMileCross">home</placeName>--began a collar--heard from <persName ref="#Jeremy_Miss">Miss Jeremy</persName>, <persName>Miss Porden</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
+                      <p>At <placeName ref="#ThreeMileCross">home</placeName>--began a collar--heard from <persName ref="#Jeremy_Miss">Miss Jeremy</persName>, <persName ref="#Franklin_Eleanor">Miss Porden</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
                    </div>
                     <div type="entry" xml:id="e-1456">
                         <head><date when="1822-12-22">Sunday 22nd</date></head>
@@ -11970,7 +11970,9 @@ Publisher:	London : [publisher not identified], 1786.
 
       </body>
       <back>
-         <!-- 2024-09-02 ebb: ALL BACKLIST ENTRIES TO THIS POINT ARE MOVED TO THE SI REPO FOR RELEASE TO THE SI.  -->
+         <!-- 2024-09-02 ebb: ALL BACKLIST ENTRIES TO THIS POINT ARE MOVED TO THE SI REPO FOR RELEASE TO THE SI. 
+         NOTE: Many tags in here are coming up yellow, meaning they don't point to any references in the SI or backlists. More SI work is needed! 
+         -->
          <div type="Mitford_Team">
             <listPerson sortKey="Mitford_Team">
                <person></person>
