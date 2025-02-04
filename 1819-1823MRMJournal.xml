@@ -12,22 +12,22 @@
          <titleStmt>
             <title>Mary Russell Mitford's Notebook of 1819 to 1823</title>
             <author ref="#MRM">Mary Russell Mitford</author>
-            <editor ref="#rjp">Rebecca J. Parker</editor>
-            <editor ref="#srr">Savannah Ricks</editor>
+            <editor ref="#hjb">Hadleigh Jae Bills</editor>
             <editor ref="#TSA">Tyler Akam</editor>
+            <editor ref="#srr">Savannah Ricks</editor> 
+            <editor ref="#rjp">Rebecca J. Parker</editor>
             <editor ref="#ebb">Elisa Beshero-Bondar</editor>
             <editor ref="#lmw">Lisa M. Wilson</editor>
-            <!-- LMW where to credit Coles? -->
-            <!--ebb: Add more editor elements as other editors become involved. -->
             <sponsor>
                <orgName>Mary Russell Mitford Society: Digital Mitford Project</orgName>
             </sponsor>
             <principal>Elisa Beshero-Bondar</principal>
             <respStmt>
                <resp>Transcription and coding by</resp>
-               <persName ref="#rjp">Rebecca J. Parker</persName>
-               <persName ref="#srr">Savannah Ricks</persName>
+               <persName ref="#hjb">Hadleigh Jae Bills</persName>
                <persName ref="#TSA">Tyler Akam</persName>
+               <persName ref="#srr">Savannah Ricks</persName>
+               <persName ref="#rjp">Rebecca J. Parker</persName>
                <persName ref="#ebb">Elisa Beshero-Bondar</persName>
                <persName ref="#lmw">Lisa M. Wilson</persName>
             </respStmt>
@@ -38,20 +38,18 @@
             </respStmt>
          </titleStmt>
          <editionStmt>
-            <edition>First digital edition in TEI, date: 19 May 2014. P5.</edition>
+            <edition>First digital edition in TEI, date: 03 September 2024. P5.</edition>
          </editionStmt>
          <publicationStmt>
             <authority>Digital Mitford: The Mary Russell Mitford Archive</authority>
-            <pubPlace>Greensburg, PA, USA</pubPlace>
-            <date>2014</date>
+            <pubPlace>Penn State Erie, The Behrend College</pubPlace>
+            <date>2024</date>
             <availability>
                <p>Reproduced by courtesy of the <placeName>Reading Central
-                  Library</placeName>.<!--ebb:Double-check permissions bc the original manuscript
-                    is at the British Library. Any issues for us since we're reproducing the typed transcript from Reading Central Library?--></p>
+                  Library</placeName>.</p>
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
             </availability>
-
          </publicationStmt>
          <sourceDesc>
 
@@ -114,7 +112,7 @@
             <p>In this journal, after 1819 (when she no longer has print indications of the date
                from the published journal), Mitford usually indicates the month and year at the top
                of her pages. Mitford began adding the location where she wrote her entries around
-               October 1820 to the top of each page near the date. When she had no room towrite the
+               October 1820 to the top of each page near the date. When she had no room to write the
                place name after the date, e.g. <q>Three Mile Cross</q>, she the split the place name
                so part of it appears before the date, and part after the date, for example: <q>Three
                   Mile October 1820 Cross</q>. We have decided to represent these form headings in
@@ -1987,7 +1985,7 @@
                         <persName ref="#Carter_Mr">Mr. Carter</persName> there--very pleasant
                      day--came <placeName ref="#Bertram_house">home</placeName> at night.</p>
                   <p><add hand="#MRM">1819</add> The friends to whom we sent my Poems were <persName
-                        ref="#Harley_Miss">Miss Harley</persName>--the <persName ref="#Holden_Misses"
+                        ref="#Harley_Miss">Miss Harley</persName>--the <persName ref="#Holden_Miss"
                         >Miss Holdens</persName>, <persName ref="#Deverell_Miss">Miss
                         Deverell</persName>--<persName ref="#Woodburn_Mrs">Mrs. Woodburn</persName>
                      &amp; Miss <unclear/> At the same time sent a spaniel Puppy to <persName ref="#Holden_John">John Holden</persName>
@@ -2106,7 +2104,7 @@
                      >Lockinge</placeName>--dressed my <name ref="#flower">flower</name>s--lay in
                      the <name ref="#hay">hay</name>--walked down <placeName ref="#garden_BH">the
                         lane</placeName> with <persName ref="#Hill_Lucy">Luce</persName> &amp; saw a
-                     beautiful <name ref="#glowworm">glowworm</name> on a weed in the ditch.</p>
+                     beautiful <name ref="#glow_worm">glowworm</name> on a weed in the ditch.</p>
                </div>
                <div type="entry" xml:id="e-197">
                   <head><date when="1819-07-14">Wednesday 14</date></head>
@@ -3077,7 +3075,7 @@
                   <p>At <placeName ref="#SeymourCt">Seymour Court</placeName>--heard from <persName
                         ref="#Elford_SirWm">Sir William</persName>--went to <placeName
                         ref="#Wokingham_city">Wokingham</placeName>--dined there &amp; met <persName
-                        ref="#Jeremy_Miss">Miss Jeremy</persName> &amp; <persName
+                        ref="#Jeremy_Caro">Miss Jeremy</persName> &amp; <persName
                         ref="#Wheeler_James">James Wheeler</persName>--came <placeName
                         ref="#Bertram_house">home</placeName> at night--a pleasant day--read
                         <persName ref="#Leyden_John">Dr. Leyden</persName>'s <title
@@ -3207,7 +3205,7 @@
                         volume she read, it is likely she reads one the <title
                            ref="#EdinburghMag1817to1826">new series</title> volumes (1817, 1818,
                         1819), published by Constable starting in 1817, rather than the <title
-                           ref="#EdinburghMag_1785to1816">old series</title>, started in
+                           ref="#EdinburghMag1785to1816">old series</title>, started in
                         1785.</note> &amp; <title ref="#Age_Youth">Age &amp; Youth</title> by
                         <persName ref="#LaFontaine">La Fontaine</persName>--a pretty thing.</p>
                </div>
@@ -3221,7 +3219,7 @@
                         Knights and its contents, necessitated by the Duke's bankruptcy.</note>
                      &amp; then with the <orgName ref="#Webbs">Webbs</orgName> home to dinner to
                      meet <persName ref="#Wheeler_James">James Wheeler</persName> &amp; <persName
-                        ref="#Jeremy_Miss">Miss Jeremy</persName>--came <placeName
+                        ref="#Jeremy_Caro">Miss Jeremy</persName>--came <placeName
                         ref="#Bertram_house">home</placeName> at night--met a great many people at
                      the sale--a pleasant day.</p>
                </div>
@@ -3453,7 +3451,7 @@
                   <head><date when="1819-11-22">Monday 22</date></head>
                   <p>At <placeName ref="#Bertram_house">home</placeName>--<persName
                         ref="#Webb_Mary_younger">Mary Webb</persName> &amp; <persName
-                        ref="#Jeremy_Miss">Miss Jeremy</persName> &amp; <persName ref="#Jolliffe_Mr"
+                        ref="#Jeremy_Caro">Miss Jeremy</persName> &amp; <persName ref="#Jolliffe_Mr"
                         >Mr. Joliffe</persName> dined with us &amp; the ladies slept here--<persName
                         ref="#Mitford_Geo">Drum</persName> bought dear <persName ref="#Russell_M"
                         >Granny</persName>'s new Puce cloth gown--dear lamb--a very pleasant
@@ -3463,7 +3461,7 @@
                   <head><date when="1819-11-23">Tuesday 23</date></head>
                   <p>At <placeName ref="#Bertram_house">home</placeName>--<persName
                         ref="#Webb_Mary_younger">Mary Webb</persName> &amp; <persName
-                        ref="#Jeremy_Miss">Miss Jeremy</persName> went away this morning--a very
+                        ref="#Jeremy_Caro">Miss Jeremy</persName> went away this morning--a very
                      agreeable visit--Read <title ref="#Ltrs_Capeof GH">Letters from the Cage in
                         answer to Warden</title>--famous praise of <rs type="person" ref="#Napoleon"
                         >my beloved Emperor</rs>.</p>
@@ -4217,9 +4215,8 @@ Publisher:	London : Printed for the Author, 1817.-->.</p>
                         <persName ref="#Marsh_Henry">Harry Marsh</persName> &amp; <persName
                         ref="#Sherwood_Mr">Mr. Sherwood</persName> came in the evening--excellent
                      dinner--very pleasant day--corrected some proofs of <persName
-                        ref="#Joliffe_Mrs">Mrs. Jolliffe</persName>'s <title ref="#Tales_MrsJoliffe"
-                        >little Tales</title><!--unpublished? Anonymous?-->--came <placeName
-                        ref="#Bertram_house">home</placeName> at night.</p>
+                        ref="#Joliffe_Mrs">Mrs. Jolliffe</persName>'s little Tales<!-- unpublished? Anonymous? 2024-09-02 ebb: As yet unidentified-->--came <placeName
+                        ref="#Bertram_house">home</placeName> at night. <note resp="#ebb">As yet we have not traced these tales by Mrs. Joliffe.</note></p>
                </div>
                <pb n="35"/>
                <div type="entry" xml:id="e-409">
@@ -5510,7 +5507,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Mitford_Geo">Drum</persName>--wrote to <persName ref="#Mitford_Geo"
                         >Drum</persName> &amp; <persName ref="#Hayward_MrsW">Mrs.
                      Hayward</persName>--read a very sweet Italian novel (the only Italian novel)
-                     called <title ref="#LettersOfOrtis">Ultime Lettere de Jacopo Ortis</title>, written by <persName ref="#Foscolo_Ugo">Ugo
+                     called <title ref="#Last_Letters_Jac_Ortis">Ultime Lettere de Jacopo Ortis</title>, written by <persName ref="#Foscolo_Ugo">Ugo
                         Foscolo</persName> who is now in <placeName ref="#England">Eng</placeName>:
                      writing for the <title ref="#QuarterlyRev_per">Quarterly</title>--too dismal
                      but good--walked with the pets--sent off little <persName ref="#Fly_pet"
@@ -5640,7 +5637,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--went to <placeName
                         ref="#London_city">London</placeName> with <persName ref="#Mitford_Geo"
                         >Drum</persName> in <persName>Mr. Eastaff</persName>'s gig &amp; with
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>--drove by <placeName
+                     <persName ref="#Smith_Farmer">Farmer Smith</persName>'s <name ref="#horse">mare</name>--drove by <placeName
                         ref="#Wokingham_city">Wokingham</placeName>, where we breakfasted--then by
                      <placeName ref="#Egham">Egham</placeName> through <placeName ref="#Park_Windsor">Windsor Park</placeName> (a
                      most beautiful drive), &amp; drank tea at <placeName ref="#Richmond"
@@ -5865,7 +5862,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <head><date when="1820-07-16">Sunday 16th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName
                         ref="#James_Miss">Miss James</persName>--sate in my
-                     <placeName ref="#arbour">Arbour</placeName>--read the <title ref="#LondonMag">London
+                     Arbour--read the <title ref="#LondonMag">London
                         Magazine</title>--famous--walked with <persName ref="#Mitford_Geo"
                         >Drum</persName>, <persName ref="#Russell_M">Granny</persName> &amp; the
                      pets--saw the <name ref="#glow_worm">glow-worm</name>.</p>
@@ -6337,7 +6334,7 @@ Publisher:	London : [publisher not identified], 1786.
                      <placeName ref="#Tadley">Tadley</placeName>--went to see the <placeName>old
                         wells</placeName>--dined &amp; drank tea with <persName ref="#Hill_Lucy"
                         >Lucy</persName>--nearly upset on our way home by that restive beast
-                     <persName ref="#Smith_Farm">Farmer Smith</persName>'s <name ref="#horse">mare</name>.</p>
+                     <persName ref="#Smith_Farmer">Farmer Smith</persName>'s <name ref="#horse">mare</name>.</p>
                </div>
                <div type="entry" xml:id="e-616">
                   <head><date when="1820-09-05">Tuesday 5th</date></head>
@@ -6488,12 +6485,12 @@ Publisher:	London : [publisher not identified], 1786.
                         >Miss Brooke</persName> &amp; <persName ref="#Webb_Eliza">Eliza
                         Webb</persName>--worked at my flounce--walked with <persName
                         ref="#Mitford_Geo">Drum</persName> &amp; the pets--read
-                     <title ref="#Mademoiselle_Tournon">Madamemoiselle de Tournon [?]</title>.</p>
+                     <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon</title>.</p>
                </div>
                <div type="entry" xml:id="e-634">
                   <head><date when="1820-09-23">Saturday 23rd</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at my flounce in
-                     my <placeName ref="#arbour">Arbour</placeName>--read <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon
+                     my Arbour--read <title ref="#Mademoiselle_Tournon">Mademoiselle de Tournon
                         [?]</title>, pretty enough but dismal--walked with <persName
                            ref="#Mitford_Geo">Drum</persName>.</p>
                </div>
@@ -9018,8 +9015,7 @@ Publisher:	London : [publisher not identified], 1786.
                </div>
                <div type="entry" xml:id="e-954">
                   <head><date when="1821-08-09">Thursday 9th</date></head>
-                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <title ref="#Heraline_LMH"
-                        >Heraline</title>.</p>
+                  <p>At <placeName ref="#ThreeMileCross">home</placeName>--read <title ref="#Heraline_LMH">Heraline</title>.</p>
                </div>
                <div type="entry" xml:id="e-955">
                   <head><date when="1821-08-10">Friday 10th</date></head>
@@ -9174,7 +9170,7 @@ Publisher:	London : [publisher not identified], 1786.
                <div type="entry" xml:id="e-981">
                   <head><date when="1821-09-05">Wednesday 5th</date></head>
                   <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName
-                        ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName> called while we were out--wrote to 
+                        ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Em">Miss Jephson</persName> called while we were out--wrote to 
                         <persName ref="#Crowther_Mr">Mr. Crowther</persName>.</p>
                </div>
                <!-- nlh 2023-10-30:  the next 5 entries have [sic] next to their dates. what does it mean? -->
@@ -9191,7 +9187,7 @@ Publisher:	London : [publisher not identified], 1786.
                         ref="#Crowther_Mr">Mr. Crowther</persName>--dear <persName ref="#Russell_M"
                         >Granny</persName> went to <placeName ref="#Odiham">Odiam</placeName><!-- 2023-10-31 ebb tsa: We think this is probably Odiham in Hamsphire (and
                      MRM is spelling it based on pronunciation. but we need to write a new SI entry for this (not mentioned in our SI yet). -->
-                     for a few days--<persName ref="#Jephson_Miss">Miss Jephson</persName>
+                     for a few days--<persName ref="#Jephson_Em">Miss Jephson</persName>
                      spent the morning here--a very charming young woman from <persName 
                         ref="#Crowther_Mr">Mr. Crowther</persName>'s.</p>
                </div>
@@ -9220,7 +9216,7 @@ Publisher:	London : [publisher not identified], 1786.
                   <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th,
                      and introduces a discrepancy. The date number is correct here but on consulting
                      a perpetual calendar, the day of the week should be Sunday.</note>
-                  <p><persName ref="#Jephson_Miss" cert="low">Miss Jephson</persName> &amp; <persName
+                  <p><persName ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
                         ref="#Crowther_Mr">Mr. Crowther</persName> spent the morning here--not well
                      at night--<persName ref="#Russell_M">Granny</persName> away XXX</p>
                </div>
@@ -9259,7 +9255,7 @@ Publisher:	London : [publisher not identified], 1786.
                   introduces a discrepancy. The date number is correct here but on consulting a
                   perpetual calendar, the day of the week should be Thursday.</note>
                <p>Better--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName
-                     ref="#Jephson_Miss" cert="low">Miss Jephson</persName> &amp; <persName
+                     ref="#Jephson_Em" cert="low">Miss Jephson</persName> &amp; <persName
                      ref="#Dickinson_Mrs">Mrs Dickinson</persName> called--wrote to <persName
                      ref="#James_Miss">Miss James</persName>.</p>
             </div>
@@ -9288,7 +9284,7 @@ Publisher:	London : [publisher not identified], 1786.
                <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName 
                      ref="#Nooth_C">Miss Nooth</persName> &amp; to <persName ref="#Talfourd_Thos"
                      >Mr. Talfourd</persName>--worked at <title ref="#Foscari_MRMplay"
-                     >Foscari</title>--<persName ref="#Jephson_Miss" cert="low">Miss
+                     >Foscari</title>--<persName ref="#Jephson_Em" cert="low">Miss
                      Jephson</persName> called.</p>
             </div>
             <div type="entry" xml:id="e-993">
@@ -9308,7 +9304,7 @@ Publisher:	London : [publisher not identified], 1786.
                <note resp="#ebb">Mitford has repeated the day of the week starting on the 6th, and
                   introduces a discrepancy. The date number is correct here but on consulting a
                   perpetual calendar, the day of the week should be Tuesday.</note>
-               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Miss">Miss Jephson</persName>, dear sweet girl, called to take leave &amp;
+               <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Em">Miss Jephson</persName>, dear sweet girl, called to take leave &amp;
                      gave me a pretty ring of her own making--worked a little at <title
                      ref="#Foscari_MRMplay">Foscari</title>.</p>
             </div>
@@ -10421,7 +10417,7 @@ Publisher:	London : [publisher not identified], 1786.
             <div type="month" xml:id="Jun-1822">
                     <div type="entry" xml:id="e-1253">
                         <head><date when="1822-06-01">Saturday June 1st</date></head>
-                        <p><persName ref="#Mitford_Geo">Drum</persName> went <placeName ref="#ThreeMileCross">home</placeName>--[?] with <persName ref="#James_Miss">Miss James</persName>--staid at <placeName ref="#ThreeMileCross">home</placeName> till the evening, then called on Mrs. Vardill--heard of her daughter's marriage, &amp; saw <persName>Miss Porden</persName>--heard from<unclear/></p>
+                        <p><persName ref="#Mitford_Geo">Drum</persName> went <placeName ref="#ThreeMileCross">home</placeName>--[?] with <persName ref="#James_Miss">Miss James</persName>--staid at <placeName ref="#ThreeMileCross">home</placeName> till the evening, then called on Mrs. Vardill--heard of her daughter's marriage, &amp; saw <persName ref="#Franklin_Eleanor">Miss Porden</persName>--heard from<unclear/></p>
                     </div>
                     <div type="entry" xml:id="e-1254">
                         <head><date when="1822-06-02">Sunday June 2nd</date></head>
@@ -10450,11 +10446,11 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1260">
                         <head><date when="1822-06-08">Saturday</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at a <title>Review of Coeur de Lion</title>, <persName>Miss Porden</persName>'s <title>Poem</title>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--worked at a <title>Review of Coeur de Lion</title>, <persName ref="#Franklin_Eleanor">Miss Porden</persName>'s <title>Poem</title>.</p>
                     </div>
                     <div type="entry" xml:id="e-1261">
                         <head><date when="1822-06-09">Sunday</date></head>
-                        <p>Worked at <title>Review</title>--wrote a sonnet to <persName>Miss Porden</persName>.</p>
+                        <p>Worked at <title>Review</title>--wrote a sonnet to <persName ref="#Franklin_Eleanor">Miss Porden</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1262">
                         <head><date when="1822-06-10">Monday June 10th</date></head>
@@ -10462,7 +10458,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1263">
                         <head><date when="1822-06-11">Tuesday 11th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir W. Elford</persName>--worked in my garden &amp; at my <title>review</title>--wrote to <persName>Miss Porden</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir W. Elford</persName>--worked in my garden &amp; at my <title>review</title>--wrote to <persName ref="#Franklin_Eleanor">Miss Porden</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1264">
                         <head><date when="1822-06-12">Wednesday 12th</date></head>
@@ -10504,7 +10500,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1273">
                         <head><date when="1822-06-21">Friday 21st</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from Miss &amp; Mr. Porden--wrote to <persName>Miss Porden</persName> &amp; <persName ref="#Brooke_Miss">Miss Brooke</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from Miss &amp; Mr. Porden--wrote to <persName ref="#Franklin_Eleanor">Miss Porden</persName> &amp; <persName ref="#Brooke_Miss">Miss Brooke</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1274">
                         <head><date when="1822-06-22">Saturday 22nd</date></head>
@@ -10615,7 +10611,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1300">
                         <head><date when="1822-07-18">Thursday 18th</date></head>
-                        <p>Heard from <persName ref="#James_Miss">Miss James</persName>, <persName ref="#Talfourd_Thos">Mr. Talfourd</persName> &amp; dear <persName ref="#Mitford_Geo">Drum</persName>--<persName ref="#Jephson_Miss">Miss Jephson</persName> called--went back with her &amp; saw <persName>Mrs. Smith</persName> &amp; <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
+                        <p>Heard from <persName ref="#James_Miss">Miss James</persName>, <persName ref="#Talfourd_Thos">Mr. Talfourd</persName> &amp; dear <persName ref="#Mitford_Geo">Drum</persName>--<persName ref="#Jephson_Em">Miss Jephson</persName> called--went back with her &amp; saw <persName>Mrs. Smith</persName> &amp; <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>--worked at <title ref="#Foscari_MRMplay">Foscari</title>.</p>
                     </div>
                     <div type="entry" xml:id="e-1301">
                         <head><date when="1822-07-19">Friday 19th</date></head>
@@ -10624,14 +10620,15 @@ Publisher:	London : [publisher not identified], 1786.
                     <div type="entry" xml:id="e-1302">
                         <head><date when="1822-07-20">Saturday 20th</date></head>
                         <p>Sent <title ref="#Foscari_MRMplay">Foscari</title> to <persName ref="#Kemble_C">Mr. Kemble</persName>--called on <persName ref="#Crowther_Mrs">Mrs. Crowther</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName>--<persName ref="#Dickinson_Charles">Mr. Dickinson</persName> called on us--heard from <persName ref="#Brooke_Miss">Miss Brook</persName>--wrote to <persName ref="#Brooke_Miss">Miss Brooke</persName>.</p>
+
                     </div>
                     <div type="entry" xml:id="e-1303">
                         <head><date when="1822-07-21">Sunday 21st</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--heard from <persName ref="#Jephson_Miss">Miss Jephson</persName>, <persName ref="#Nooth_C">Miss Nooth</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote to <persName ref="#Talfourd_Thos">Mr. Talfourd</persName>--heard from <persName ref="#Jephson_Em">Miss Jephson</persName>, <persName ref="#Nooth_C">Miss Nooth</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1304">
                         <head><date when="1822-07-22">Monday 22nd</date></head>
-                       <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName> &amp; <persName ref="#Green_Mr">Mr. Green</persName> &amp; <persName ref="#Anstruther_Miss">Miss Anstruther</persName> called.</p>
+                       <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Em">Miss Jephson</persName> &amp; <persName ref="#Green_Mr">Mr. Green</persName> &amp; <persName ref="#Anstruther_Miss">Miss Anstruther</persName> called.</p>
                     </div>
                     <div type="entry" xml:id="e-1305">
                         <head><date when="1822-07-23">Tuesday 23rd</date></head>
@@ -10643,7 +10640,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1307">
                         <head><date when="1822-07-25">Thursday 25th</date></head>
-                        <p><persName ref="#Jephson_Miss">Miss Jephson</persName> drank tea with us.</p>
+                        <p><persName ref="#Jephson_Em">Miss Jephson</persName> drank tea with us.</p>
                     </div>
                     <div type="entry" xml:id="e-1308">
                         <head><date when="1822-07-26">Friday 26th</date></head>
@@ -10651,7 +10648,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1309">
                         <head><date when="1822-07-27">Saturday 27th</date></head>
-                        <p>Went with <persName ref="#Jephson_Miss">Miss Jephson</persName> to the <placeName>old house at Arborfield</placeName>--<placeName ref="#ThreeMileCross">home</placeName> to dinner. XXX</p>
+                        <p>Went with <persName ref="#Jephson_Em">Miss Jephson</persName> to the <placeName>old house at Arborfield</placeName>--<placeName ref="#ThreeMileCross">home</placeName> to dinner.</p>
                     </div>
                     <div type="entry" xml:id="e-1310">
                         <head><date when="1822-07-28">Sunday 28th</date></head>
@@ -10659,21 +10656,21 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1311">
                         <head><date when="1822-07-29">Monday 29th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote a sonnet to <persName ref="#Jephson_Miss">Miss Jephson</persName> &amp; sent her--drank tea at <persName ref="#Crowther_Mr">Mr. Crowther</persName>'s.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--wrote a sonnet to <persName ref="#Jephson_Em">Miss Jephson</persName> &amp; sent her--drank tea at <persName ref="#Crowther_Mr">Mr. Crowther</persName>'s.</p>
                     </div>
                     <div type="entry" xml:id="e-1312">
                         <head><date when="1822-07-30">Tuesday 30th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir W. Elford</persName>--took <persName ref="#Jephson_Miss">Miss Jephson</persName> to <placeName ref="#Silchester">Silchester</placeName>--she was delighted--<placeName ref="#ThreeMileCross">home</placeName> to dinner--wrote to <persName ref="#James_Miss">Miss James</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Elford_SirWm">Sir W. Elford</persName>--took <persName ref="#Jephson_Em">Miss Jephson</persName> to <placeName ref="#Silchester">Silchester</placeName>--she was delighted--<placeName ref="#ThreeMileCross">home</placeName> to dinner--wrote to <persName ref="#James_Miss">Miss James</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1313">
                         <head><date when="1822-07-31">Wednesday</date></head>
-                        <p>Wrote to <persName ref="#Elford_SirWm">Sir W. Elford</persName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName> called--heard from <persName>Mrs. Story</persName>.</p>
+                        <p>Wrote to <persName ref="#Elford_SirWm">Sir W. Elford</persName>--<persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; <persName ref="#Jephson_Em">Miss Jephson</persName> called--heard from <persName>Mrs. Story</persName>.</p>
                     </div> <!-- 2024-07-14 hjb: Who is Mrs. Story? -->
                 </div>
                 <div type="month" xml:id="Aug-1822">
                     <div type="entry" xml:id="e-1314">
                         <head><date when="1822-08-01">Thursday 1st</date></head>
-                        <p><persName>Mrs. Smith</persName> &amp; <persName ref="#Jephson_Miss">Miss Jephson</persName> called.</p>
+                        <p><persName>Mrs. Smith</persName> &amp; <persName ref="#Jephson_Em">Miss Jephson</persName> called.</p>
                     </div>
                     <div type="entry" xml:id="e-1315">
                         <head><date when="1822-08-02">Friday 2nd</date></head>
@@ -10852,7 +10849,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1357">
                         <head><date when="1822-09-13">Friday 13th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Palmer_Mad">Lady Madelina Palmer</persName> &amp; <persName>Mrs. Mathews</persName> called--heard from <persName ref="#Jephson_Miss">Miss Jephson</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Palmer_Mad">Lady Madelina Palmer</persName> &amp; <persName>Mrs. Mathews</persName> called--heard from <persName ref="#Jephson_Em">Miss Jephson</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1358">
                         <head><date when="1822-09-14">Saturday 14th</date></head>
@@ -10919,7 +10916,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1373">
                         <head><date when="1822-09-29">Sunday 29th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName>Miss Porden</persName>--went to <persName>Miss Porden</persName>--wrote to <persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; sent my collar to <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>--heard from <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>.</p>
+                       <p>At <placeName ref="#ThreeMileCross">home</placeName>--heard from <persName ref="#Franklin_Eleanor">Miss Porden</persName>--went to <persName ref="#Franklin_Eleanor">Miss Porden</persName>--wrote to <persName ref="#Crowther_Mr">Mr. Crowther</persName> &amp; sent my collar to <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>--heard from <persName ref="#Crowther_Mrs">Mrs. Crowther</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1374">
                         <head><date when="1822-09-30">Monday 30th</date></head>
@@ -10998,11 +10995,11 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1391">
                         <head><date when="1822-10-17">Thursday 17th</date></head>
-                        <p>Called at <persName ref="#Crowther_Mr">Mr. Crowther</persName>'s to see <persName ref="#Jephson_Miss">Miss Jephson</persName>--wrote to <persName>Mr. Hofland</persName>, <persName>Miss Porden</persName>, <persName ref="#Rowden_Fr">Mrs. Rowden</persName>, <persName ref="#Nooth_C">Miss Nooth</persName>, &amp; Miss Webb.</p>
+                       <p>Called at <persName ref="#Crowther_Mr">Mr. Crowther</persName>'s to see <persName ref="#Jephson_Em">Miss Jephson</persName>--wrote to <persName ref="#Hofland_TC">Mr. Hofland</persName>, <persName ref="#Franklin_Eleanor">Miss Porden</persName>, <persName ref="#Rowden_Fr">Mrs. Rowden</persName>, <persName ref="#Nooth_C">Miss Nooth</persName>, &amp; <persName ref="#Webb_Mary_younger">Miss Webb</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1392">
                         <head><date when="1822-10-18">Friday 18th</date></head>
-                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Miss">Miss Jephson</persName> called--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Havell_Mrs">Mrs. Havell</persName>.</p>
+                        <p>At <placeName ref="#ThreeMileCross">home</placeName>--<persName ref="#Jephson_Em">Miss Jephson</persName> called--wrote to <persName ref="#James_Miss">Miss James</persName> &amp; <persName ref="#Havell_Mrs">Mrs. Havell</persName>.</p>
                     </div>
                     <div type="entry" xml:id="e-1393">
                         <head><date when="1822-10-19">Saturday 19th</date></head>
@@ -11164,7 +11161,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1432">
                         <head><date when="1822-11-27">Wednesday</date></head>
-                        <p>Heard from <persName>Miss Porden</persName>--had my garden beautifully done up, &amp; new flowers from Mr.</p>
+                       <p>Heard from <persName ref="#Franklin_Eleanor">Miss Porden</persName>--had my garden beautifully done up, &amp; new flowers from Mr.</p>
                     </div> <!-- 2024-07-29 hjb: Check MS for ending of this journal -->
                     <div type="entry" xml:id="e-1433">
                         <head><date when="1822-11-28">Thursday</date></head>
@@ -11176,7 +11173,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                     <div type="entry" xml:id="e-1435">
                         <head><date when="1822-11-30">Saturday 30th</date></head>
-                        <p>Wrote to <persName>Miss Porden</persName>--my frill.</p>
+                       <p>Wrote to <persName ref="#Franklin_Eleanor">Miss Porden</persName>--my frill.</p>
                     </div>
                 </div>
                 <div type="month" xml:id="Dec-1822">
@@ -11262,7 +11259,7 @@ Publisher:	London : [publisher not identified], 1786.
                     </div>
                    <div type="entry" xml:id="e-1456">
                       <head><date when="1822-12-21">Saturday 21st</date></head>
-                      <p>At <placeName ref="#ThreeMileCross">home</placeName>--began a collar--heard from <persName ref="#Jeremy_Miss">Miss Jeremy</persName>, <persName>Miss Porden</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
+                      <p>At <placeName ref="#ThreeMileCross">home</placeName>--began a collar--heard from <persName ref="#Jeremy_Caro">Miss Jeremy</persName>, <persName ref="#Franklin_Eleanor">Miss Porden</persName> &amp; <persName ref="#Webb_Eliza">Eliza Webb</persName>.</p>
                    </div>
                     <div type="entry" xml:id="e-1457">
                         <head><date when="1822-12-22">Sunday 22nd</date></head>
@@ -11578,6 +11575,9 @@ Publisher:	London : [publisher not identified], 1786.
 
       </body>
       <back>
+         <!-- 2024-09-02 ebb: ALL BACKLIST ENTRIES TO THIS POINT ARE MOVED TO THE SI REPO FOR RELEASE TO THE SI. 
+         NOTE: Many tags in here are coming up yellow, meaning they don't point to any references in the SI or backlists. More SI work is needed! 
+         -->
          <div type="Mitford_Team">
             <listPerson sortKey="Mitford_Team">
                <person></person>
@@ -11595,758 +11595,33 @@ Publisher:	London : [publisher not identified], 1786.
          <div type="historical_people">
             <listOrg sortKey="histOrgs">
                      <!-- 2024-07-13 ebb: I added the Perrys to the Si-ADD today.  -->
-               <org xml:id="Valpy_das">
-                  <orgName>the Miss Valpys</orgName>
-                  <surname>Valpy</surname>
-               </org>
                <org></org>
             </listOrg>
         
             <listPerson sortKey="histPersons">
-               
-               <person xml:id="Bayley_Mrs" sex="f"> <!-- UPDATED ENTRY (adding forename from Journal) -->
-                    <persName>Mrs. Bayley</persName>
-                    <persName>
-                        <surname type="married">Bayley</surname>
-                        <forename>Mary</forename>
-                        <roleName>Mrs.</roleName>
-                    </persName>
-                    <occupation type="literary" subtype="editor"/>
-                    <note resp="#lmw">Mrs. Bayley, spouse of <persName ref="#Bayley_P">Peter
-                            Bayley</persName>. After his sudden death in <date when="1823"
-                            >1823</date>, she arranged to publish his poems posthumously and to have
-                        performed and published his tragedy <title ref="#Orestes_PB">Orestes in
-                            Argos</title>. Forename unknown. Dates
-                        unknown.<!--look for his wife in ancestry.com #rnes LMW: I checked unsuccessfully (worldcat and ancestry):  2017-07-09.--></note>
-                </person>
-                <person xml:id="Bocket_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mr. Bocket</persName>
-                    <persName>
-                       <surname>Bocket</surname>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-               <person xml:id="Bulley_John">
-                  <persName>John Bulley</persName>
-                  <note resp="#hjb">Father of <persName ref="#Bulley_F">Frederick Bulley</persName>.</note>
-               </person>
-                <person xml:id="Butcher"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>the Butcher</persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Champion_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mr. Champion</persName>
-                    <persName>
-                        <surname>Champion</surname>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-               <person xml:id="Charlotte">
-                  <persName>Charlotte Sophia of Mecklenburg-Strelitz</persName>
-                  <persName>
-                     <forename>Charolette</forename>
-                     <forename>Sophia</forename>
-                     <surname><nameLink>of</nameLink> Mecklenburg-Strelitz</surname>
-                     <roleName>Queen Consort of England</roleName>
-                  </persName>
-                  <birth when="1744-05-19"/>
-                  <death when="1818-11-17"/>
-                  <note resp="#hjb">
-                     <ref target="https://www.britannica.com/biography/Charlotte-queen-of-England"/>
-                  </note>
-                  <note resp="#hjb">Mentioned by Mitford exactly two years after the queens passing on <date when="1820-11-17">November 17th, 1820</date>. It says <q><placeName ref="#ThreeMileCross">Three Mile Cross</placeName> was illuminated in honour of the <persName>Queen</persName></q>.</note>
-               </person>
-                <person xml:id="Clarkson_Wm"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Clarkson</persName>
-                    <persName>
-                        <surname>Clarkson</surname>
-                        <forename></forename>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Cowper_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mr. Cowper</persName>
-                    <persName>
-                        <surname>Cowper</surname>
-                        <forename></forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb">NOT Cowper in the SI.</note>
-                </person>
-                <person xml:id="Deverell_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                   <persName>Miss Deverell</persName>
-                    <persName>
-                       <surname>Deverell</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Elliott_John"> <!-- NEW ENTRY -->
-                    <persName>John Elliott</persName>
-                    <persName>
-                        <surname>Elliott</surname>
-                        <forename>John</forename>
-                    </persName>
-                    <note resp="#hjb">Son of <persName ref="#Elliott_Mr">Mr.
-                        Elliot</persName>.</note>
-                </person>
-                <person xml:id="Elliott_Mr"> <!-- NEW ENTRY -->
-                    <persName>Mr. Elliott</persName>
-                    <persName>
-                        <surname>Elliott</surname>
-                    </persName>
-                    <note resp="#hjb">Father of <persName ref="#Elliott_John">John
-                        Elliot</persName></note>
-                </person>
-                <person xml:id="Harley_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mr. Harley</persName>
-                    <persName>
-                        <surname>Harley</surname>
-                        <forename></forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                   <note resp="#hjb">Potential relation to <persName ref="Harley_Miss">Miss Harley</persName>.</note>
-                </person>
-                <person xml:id="Hayward_da"> <!-- NEW ENTRY -->
-                    <persName>Mrs. Hayward's little girl</persName>
-                    <persName>
-                        <surname>Hayward</surname>
-                    </persName>
-                    <birth when="1820-01-02"/>
-                    <note resp="#hjb">Potential daughter of <persName ref="#Hayward_MrsW">Mrs.
-                            Hayward</persName> and <persName ref="#Hayward_Wm_father">William
-                            Hayward</persName>. Mentioned by Mitford in her journal on <date
-                            when="1820-01-27">1820 January 27</date>.</note>
-                </person>
-                <person xml:id="Howell_W"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Will Howell</persName>
-                    <persName>
-                        <surname>Howell</surname>
-                        <forename>Will</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Jephson_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Miss Jephson</persName>
-                    <persName>
-                        <surname>Jephson</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Joliffe_Mrs"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mrs. Joliffe</persName>
-                    <persName>
-                        <surname>Joliffe</surname>
-                       <roleName>Mrs.</roleName>
-                    </persName>
-                    <note resp="#hjb">Friend of Mitford.</note>
-                </person>
-                <person xml:id="LaFontaine"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>La Fontaine</persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Lane"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Lane</persName>
-                    <persName>
-                        <surname>Lane</surname>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="LockeJ"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>John Locke</persName>
-                    <persName>
-                        <surname>Locke</surname>
-                        <forename>John</forename>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Molesworth"> <!-- NEED INFO :: NEW ENTRY -->
-                   <persName>Lord Molesworth</persName>
-                    <persName>
-                       <surname>Molesworth</surname>
-                        <forename></forename>
-                        <roleName>Lord</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Morier_J"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName></persName>
-                    <persName>
-                        <surname>Morier</surname>
-                        <forename></forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Morse_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName></persName>
-                    <persName>
-                        <surname>Morse</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Nares_Mr" sex="m"> <!-- 2024-07-11 NEW ENTRY (mentioned in Journal but has no entry) -->
-                    <persName>Mr. Nares</persName>
-                    <persName>
-                        <surname>Nares</surname>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb">Mitford mentions seeing him on <date when="1820-06-07">June 7
-                            1820</date>, as well as saw <persName ref="#MacFarlane_Chas">Mr.
-                            MacFarlane</persName> the same day.</note>
-                </person>
-                <person xml:id="NewtonI"> <!-- NEW ENTRY :: NEEDS MORE INFO -->
-                    <persName>Sir Isaac Newton</persName>
-                </person>
-                <person xml:id="Perry_James"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>James Perry</persName>
-                    <persName>
-                        <surname>Perry</surname>
-                        <forename>James</forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Rapley_Ha" sex="f"> <!-- NEW ENTRY -->
-                    <persName>Hannah Rapley</persName>
-                    <note resp="#hjb">Began living with <persName ref="#Dickinson_Mrs">Mrs.
-                            Dickinson</persName> on <date when="1820-01-24"> January 24 1820</date>.
-                        Mitford dined with her on <date when="1819-07-15">Thursday 15</date></note>
-                </person>
-                <person xml:id="Riley_James"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Captain James Riley</persName>
-                    <persName>
-                        <surname>Riley</surname>
-                        <forename>James</forename>
-                        <roleName>Captain</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Rogers_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Miss Rogers</persName>
-                    <persName>
-                        <surname>Rogers</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Ross_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Miss Ross</persName>
-                    <persName>
-                        <surname>Ross</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Shaw_Sam"> <!-- NEW ENTRY -->
-                    <persName>Sam Shaw</persName>
-                    <persName>
-                        <surname>Shaw</surname>
-                        <forename>Samuel</forename>
-                    </persName>
-                    <note resp="#hjb">Author of <title ref="#IntNarr_Bruce">An Interesting Narrative
-                            of the Travels of James Bruce, Esq. into Abyssinia</title>. Mentioned by
-                        Mitford on <date when="1819-06-20">June 20 1819</date></note>
-                </person>
-                <person xml:id="Sidney_SirP"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Sir Philip Sydney</persName>
-                    <persName>
-                        <surname>Sidney</surname>
-                        <forename>Philip</forename>
-                        <roleName>Sir</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Smith_James"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>James Smith</persName>
-                    <persName>
-                        <surname>Smith</surname>
-                        <forename>James</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Stephenson_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                   <persName>Mr. Stephenson</persName>
-                    <persName>
-                       <surname>Stephenson</surname>
-                        <forename></forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Sweetser_Ch"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Charles Sweetser</persName>
-                    <persName>
-                        <surname>Sweetser</surname>
-                        <forename>Charles</forename>
-                    </persName>
-                    <note resp="#hjb">Brother of Lucy</note>
-                </person>
-               <person xml:id="Turner_D"> <!-- NEED INFO :: NEW ENTRY -->
-                  <persName>Dawson Turner</persName>
-                  <persName>
-                     <surname>Turner</surname>
-                     <forename>Dawson</forename>
-                  </persName>
-                  <occupation type="literary"/>
-                  <note resp="#hjb">Author of <title ref="#Tour_Normandy">Account of a Tour in Normandy</title>.</note>
-               </person>
-                <person xml:id="TwissH"> <!-- NEW ENTRY :: NEEDS MORE INFORMATION-->
-                    <persName>Horace Twiss</persName>
-                    <persName>
-                        <surname>Twiss</surname>
-                        <forename>Horace</forename>
-                    </persName>
-                    <occupation type="literary"/>
-                    <birth when="1787-02-28"/>
-                    <death when="1849-05"/>
-                    <note resp="#hjb">
-                        <ref target="https://www.historyofparliamentonline.org/volume/1820-1832/member/twiss-horace-1787-1849"/>
-                    </note>
-                    <note resp="#hjb">Author of <title ref="#CaribCh">The Carib Chief</title>, a
-                        play, which was mentioned by Mitford on <date when="1819-12-18">December 18
-                            1819</date>. In <date when="1814">1814</date>, he published some clever
-                        Posthumous Parodies of famous poets.</note>
-                </person>
-                <person xml:id="Tweddell_Miss"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Miss Tweddell</persName>
-                    <persName>
-                        <surname>Tweddell</surname>
-                        <forename></forename>
-                        <roleName>Miss</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Valpy_Anne" sex="f"> <!-- NEW ENTRY -->
-                    <persName>Anne Valpy</persName>
-                    <persName>
-                        <surname type="married">Valpy</surname>
-                        <surname type="paternal">Western</surname>
-                        <forename>Anne</forename>
-                    </persName>
-                    <birth when="1765-09-14">
-                        <placeName>Great Abingdon, Berkshire, England</placeName>
-                    </birth>
-                    <death when="1835-04-15">
-                        <placeName>Little Yarmouth, Suffolk, England</placeName>
-                    </death>
-                    <note resp="#hjb">
-                        <ref target="https://www.ancestry.com/family-tree/person/tree/185359508/person/182437067805/facts"/>
-                    </note>
-                    <note resp="#hjb">Married <persName ref="#Valpy_Ed">Mr. Edward Valpy</persName>,
-                        the brother of <persName ref="#Valpy_Richard">Dr. Valpy</persName>, in her
-                        second marriage. Mitford met her when she called at the <orgName
-                            ref="#Valpys">Valpy's</orgName> on <date when="1820-06-23">June 23,
-                            1820</date>.</note>
-                </person>
-                <person xml:id="Valpy_Ed" sex="m"> <!-- NEW ENTRY -->
-                    <persName>Mr. Edward Valpy</persName>
-                    <persName>
-                        <surname>Valpy</surname>
-                        <forename>Edward</forename>
-                        <roleName>Rev.</roleName>
-                    </persName>
-                    <birth when="1764-04">
-                        <placeName>St Helier, Jersey, Channel Islands</placeName>
-                    </birth>
-                    <death when="1832-04-15">
-                        <placeName>Great Yarmouth, Norfolk, England</placeName>
-                    </death>
-                    <note resp="#hjb">
-                        <ref target="https://www.ancestry.com/family-tree/person/tree/185359508/person/182433203290/facts"/>
-                    </note>
-                    <note resp="#hjb">Husband to <persName ref="#Valpy_Anne">Anne Western
-                            Valpy</persName> and younger brother of <persName ref="#Valpy_Richard"
-                            >Dr. Valpy</persName>. Mitford met him when she called at the <orgName
-                            ref="#Valpys">Valpy's</orgName> on <date when="1820-06-23">June 23,
-                            1820</date>.</note>
-                </person>
-                <person xml:id="Waristoun"> <!-- NEED INFO :: NEW ENTRY -->
-                   <persName>Mr. Waristoun</persName>
-                    <persName>
-                       <surname>Waristoun</surname>
-                        <forename></forename>
-                        <roleName>Mr</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Warrener_pet"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Warrener</persName>
-                    <persName>
-                        <surname></surname>
-                        <forename>Warrener</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Wasp_pet"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Wasp</persName>
-                    <persName>
-                        <surname></surname>
-                        <forename>Wasp</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Webb_farmer"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Farmer Webb</persName>
-                    <persName>
-                        <surname>Webb</surname>
-                        <forename></forename>
-                        <roleName>Farmer</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Wesley_Chas"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Charles Wesley</persName>
-                    <persName>
-                        <surname>Wesley</surname>
-                        <forename>Charles</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Wesley_John"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>John Wesley</persName>
-                    <persName>
-                        <surname>Wesley</surname>
-                        <forename>John</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Wheeler_John"> <!-- NEW ENTRY -->
-                    <persName>John Wheeler</persName>
-                    <persName>
-                        <surname>Wheeler</surname>
-                        <forename>John</forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb">Spouse of <persName ref="#Wheeler_Mrs">Mrs. John
-                            Wheeler</persName>.</note>
-                </person>
-                <person xml:id="Wheeler_Mr"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mr. Wheeler</persName>
-                    <persName>
-                        <surname>Wheeler</surname>
-                        <forename></forename>
-                        <roleName>Mr.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Wheeler_Mrs" sex="f"> <!-- UPDATING ENTRY -->
-                    <persName>Mrs. John Wheeler</persName>
-                    <persName>
-                        <surname type="married">Wheeler</surname>
-                        <roleName>Mrs.</roleName>
-                    </persName>
-                    <note resp="#lmw">A correspondent of <persName ref="#MRM">Mary Russell
-                            Mitford</persName> in <date when="1840">1840</date>. Spouse of <persName
-                            ref="#Wheeler_John">John Wheeler</persName>. Forename unknown. Dates
-                        unknown.<!--LMW: any connection to Kate Wheeler?--><!--LMW: There are also Wheelers in the Webb extended family tree.--></note>
-                </person>
-                <person xml:id="Whistle_pet"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Whistle</persName>
-                    <persName>
-                        <surname></surname>
-                        <forename>Whistle</forename>
-                        <roleName></roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="WilsonRbt"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Sir Robert Wilson</persName>
-                    <persName>
-                        <surname>Wilson</surname>
-                        <forename>Robert</forename>
-                        <roleName>Sir</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Woodburn_Mrs"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Mrs. Woodburn</persName>
-                    <persName>
-                        <surname>Woodburn</surname>
-                        <forename></forename>
-                        <roleName>Mrs.</roleName>
-                    </persName>
-                    <note resp="#hjb"></note>
-                </person>
-                <person xml:id="Woodburn_son"> <!-- NEED INFO :: NEW ENTRY -->
-                    <persName>Woodburn</persName>
-                    <persName>
-                        <surname>Woodburn</surname>
-                        <forename></forename>
-                        <roleName></roleName>
-                    </persName>
-                   <note resp="#hjb">Son of <persName ref="#Woodburn_Mrs">Mrs. Woodburn</persName></note>
-                </person>
-               
+                <person/>
+     
             </listPerson>
          </div>
 
          <div type="places">
             <listPlace sortKey="histPlaces">
                
-               <place xml:id="Arborfield"> <!-- NEW ENTRY -->
-                  <placeName>Arborfield</placeName>
-                  <region>South East</region>
-                  <country>England</country>
-                  <location>
-                     <geo>51.401 -0.916</geo>
-                  </location>
-                  <note resp="#hjb">A village in England. Visited by Mitford on <date when="1820-05-12">March 12 1820</date>, <date when="1820-07-11">July 11 1820</date>, and <date when="1822-03-29">March 29 1822</date></note>
-               </place>
-               <place xml:id="Church_Shinfield"> <!-- NEW ENTRY -->
-                  <placeName>Shinfield Church</placeName>
-               </place>
-               <place xml:id="Manchester">
-                  <placeName>Manchester</placeName>
-                  <region>North West</region>
-                  <country>England</country>
-                  <location>
-                     <geo>53.479 -2.2452</geo>
-                  </location>
-                  <note resp="#hjb">Mitford mentions this place on <date when="1819-11-15">November 15 1819</date></note>
-               </place>
-               <place xml:id="Odiham"> <!-- NEW ENTRY -->
-                  <placeName>Odiham</placeName>
-                  <district>Hart</district>
-                  <region>South East</region>
-                  <country>England</country>
-                  <location>
-                     <geo>51.254 -0.939</geo>
-                  </location>
-                  <note resp="#hjb">
-                     <ref target="https://www.visit-hampshire.co.uk/explore/villages/odiham"/>
-                  </note>
-                  <note resp="#hjb">A market town in Hampshire. <persName ref="#Russell_M">Granny</persName> and/or <persName ref="#Mitford_Geo">Drum</persName> visited on <date when="1821-09-06">Wednesday 6th</date>, <date when="1822-07-08">Monday 8th</date>, <date when="1822-10-31">Thursday 31st</date></note>
-               </place>
-               <place xml:id="Staffordshire"> <!-- NEW ENTRY -->
-                  <placeName>Staffordshire</placeName>
-                  <country>England</country>
-                  <location>
-                     <geo>52.806944 -2.116111</geo>
-                  </location>
-                  <note>
-                     <ref target="https://www.britannica.com/place/Staffordshire"/>
-                  </note>
-                  <note resp="#hjb">A county in England. Mitford <q>saw a young lady</q> from here named <persName>Miss Torrant</persName> on <date when="1822-05-17">1822 May 17th</date>.</note>
-               </place>
+              <place/>
+   
             </listPlace>
          </div>
 
          <div type="nature">
             <list sortKey="animals">
-               <item xml:id="leech"> <!-- NEW ENTRY -->
-                  <name>leech</name>
-                  <note resp="#hjb">A type of blood-sucking worm that was often used for medical treatment 
-                     in a process known as bloodletting.</note>
-               </item>
-               <item xml:id="flea"> <!-- NEW ENTRY -->
-                  <name>flea</name>
-                  <note resp="#hjb">
-                     <ref target="https://ohioline.osu.edu/factsheet/HYG-2081-11"/>
-                  </note>
-                  <note resp="#hjb">A type of insect that typically bite animals and humans.</note>
-               </item>
-               <item xml:id="glowworm"> <!-- NEED INFO :: NEW ENTRY -->
-                  <name>glowworm</name>
-               </item>
-            </list>
-            
-            <list sortKey="plants">
-               <item xml:id="apricot"> <!-- NEED INFO :: NEW ENTRY -->
-                  <name>apricot</name>
-                  <note>From the plum family. Grown from <name ref="#apricot_tree">apricot trees</name>.</note>
-               </item>
+               <item/>
             </list>
          </div>
 
          <div type="publications">
 
             <listBibl sortKey="work_MRM">
-               <bibl xml:id="Advice_Julia"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title level="m">Advice to Julia: A Letter in Rhyme</title>
-                  <author>Henry Luttrell</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>John Murray</publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb">A poem read by Mitford on <date when="1820-10-07">October 7 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Age_Elizabeth"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title level="m">Lectures Chiefly on the Dramatic Literature of the Age of Elizabeth</title>
-                  <author ref="#Hazlitt_Wm">William Hazlitt</author>
-                  <pubPlace>London, Edinburgh</pubPlace>
-                  <publisher>Stodart and Steuart; Bell and Bradfute</publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-10-22">October 22, 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="BaronMunchausen"> <!-- NEW ENTRY -->
-                  <title>Wunderbare Reisen zu Wasser und Lande, Feldzüge and lustige Abentheuer des Freyherrn von Münchhausen : wie er dieselben bey der Flasche im Cirkel seiner Freunde selbst zu erzählen pfleg</title>
-                  <author>Gottfried August Bürge</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>[publisher not identified]</publisher>
-                  <date when="1786">1786</date>
-                  <note resp="#hjb">From comment: <q>Meaning fantastical. German story turned into stage melodramas in 1790s.</q> Read by Mitford on <date when="1820-02-24">February 24th 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Beau_Fletch"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>The Works of Beaumont and Fletcher, in Fourteen Volumes: With an Introduction and Explanatory Notes</title>
-                  <author>Francis Beaumont</author>
-                  <author>John Fletcher</author>
-                  <editor>Henry William Weber</editor>
-                  <pubPlace>London, Edinburgh</pubPlace>
-                  <publisher>J. Ballantyne and Company for F.C. and J. Rivington</publisher>
-                  <date when="1812">1812</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/2083155"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-09-25">September 25 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="CaribCh"> <!-- NEW ENTRY -->
-                  <title>The Carib Chief: A Tragedy, in Five Acts</title>
-                  <author ref="#TwissH">Horace Twiss</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1819">1819</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/75469722"/>
-                     <ref target="https://www.loc.gov/resource/gdcmassbookdig.caribchieftraged00twis2/?st=gallery"/>
-                  </note>
-                  <note resp="#hjb">A play read by Mitford on <date when="1819-12-18">December 18 1819</date>. She described it as <q>a tolerable Tragedy</q> in her journal entry.</note>
-               </bibl>
-               <bibl xml:id="Clarissa">
-                  
-               </bibl>
-             <!-- 2024-07-13 ebb: I added Chalmers_T and a different reference for his sermons: 
-                I think it's his New Sermons instead of Discourses, based on her mention and dates of publication. 
-                Thomas Chalmers stuff is already in the SI-Add and tagging updated here.
-             -->
-              
-               <bibl xml:id="Flora_Fest"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>Festival of Flora</title>
-                  <title level="m">The Festival of Flora: A Poem with Botanical Notes</title>
-                  <author>Arthur Crichton</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>N. Hailes</publisher>
-                  <date when="1818">1818</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/36063200"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-08-24">August 24 1820</date>. Second Edition.</note>
-               </bibl>
-               <bibl xml:id="Legends_B"> <!-- NEW ENTRY -->
-                  <title>Metrical Legends of Exalted Characters</title>
-                  <author ref="#Baillie_Joanna">Joanna Baillie</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1821">1821</date>
-                  <note>
-                     <ref target="https://search.worldcat.org/title/2986872"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1821-06-10">June 10 1821</date>.</note>
-               </bibl>
-               <bibl xml:id="Missionary_SO"> <!-- 2024-07-10: NEW ENTRY -->
-                  <title>The Missionary: An Indian Tale</title>
-                  <author>Sydney Owenson</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>J.J. Stockdale</publisher>
-                  <date when="1811">1811</date>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/830959325"/>
-                     <ref target="https://play.google.com/books/reader?id=3zZW6pUXUrwC&amp;pg=GBS.PP1&amp;hl=en"/>
-                     <ref target="https://broadviewpress.com/product/the-missionary/#tab-description"/>
-                  </note>
-                  <note resp="#hjb">A tragic romance novel read by Mitford on <date when="1820-10-23">Monday 23rd</date>. Tells 
-                     the tale of star-crossed lovers, a Portuguese missionary to India and an Indian prophetess.</note>
-               </bibl>
-               <bibl xml:id="Narr_BrigCommerce">
-                  <title>Loss of the American Brig Commerce, wrecked on the western coast of Africa, in the month of August, 1815 : with an account of Tombuctoo, and of the hitherto undiscovered great city of Wassanah.</title>
-                  <author ref="#Riley_James">James Riley, Captain.</author>
-                  <publisher>John Murray, Albemarle Street</publisher>
-                  <pubPlace>London</pubPlace>
-                  <date when="1817">1817</date>
-                  <note resp="#hjb">Mitford called it <q>interesting</q> on <date when="1820-02-24">February 24th 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Sintram_Comp"> <!-- 2024-07-10 NEW ENTRY -->
-                  <title>Sintram and His Companions: A Romance</title>
-                  <author>Friedrich Heinrich Karl La Motte-Fouqué</author>
-                  <editor role="translator">Julius Charles Hare</editor>
-                  <note resp="#hjb">
-                     <ref target="https://search.worldcat.org/title/6875205"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-09-06">September 6 1820</date>.</note>
-               </bibl>
-              <bibl xml:id="Sketches_France"> <!-- No reference to this  
-                 ebb: This may not be fully ref'd in journal, but seems like we should keep it. Check letters. -->
-                  <title>Sketches descriptive of Italy, in the years 1816 and 1817; with a brief
-                     account of travels in various parts of France and Switzerland, in the same
-                     years.</title>
-                  <author ref="#Eaton_Charlotte_A">Charlotte A. Eaton</author>
-                  <pubPlace>
-                     <placeName ref="#London_city">London</placeName>
-                  </pubPlace>
-                  <publisher>
-                     <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
-                  </publisher>
-                  <date when="1820">1820</date>
-                  <note resp="#hjb"><persName ref="#MRM">Mitford</persName> read in the summer of 1820.</note>
-               </bibl>
-               <bibl xml:id="Tales_Heart"> <!-- 2024-07-10 NEW ENTRY -->
-                  <title>Tales of the heart</title>
-                  <author ref="#Opie_Amelia">Amelia Opie</author>
-                  <pubPlace>London</pubPlace>
-                  <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
-                  <date when="1820">1820</date>
-                  <note>
-                     <ref target="https://archive.org/details/talesofhear01opie/mode/2up"/>
-                     <ref target="https://search.worldcat.org/title/539322535"/>
-                  </note>
-                  <note resp="#hjb">Read by Mitford on <date when="1820-10-31">October 31 1820</date>.</note>
-               </bibl>
-               <bibl xml:id="Tour_Normandy"> <!-- UPDATING ENTRY -->
-                  <title level="m">Account of a Tour in Normandy</title>
-                  <author ref="#Turner_D">Dawson Turner</author>
-                  <editor/>
-                  <pubPlace>
-                     <placeName ref="#London_city">London</placeName>
-                  </pubPlace>
-                  <publisher>John &amp; Arthur Arch</publisher>
-                  <date when="1820">1820</date>
-               </bibl>
-               <bibl xml:id="Vampyre"> <!-- 2024-07-11 NEW ENTRY -->
-                  <title level="m">The Vampyre: A Tale</title>
-                  <author>John William Polidori</author>
-                  <pubPlace>
-                     <placeName>London</placeName>
-                  </pubPlace>
-                  <publisher>Sherwood, Neely, and Jones</publisher>
-                  <date when="1819">1819</date>
-                  <note resp="#hjb">
-                     <ref target="https://archive.org/details/vampyretale00poli/page/n7/mode/2up"/>
-                     <ref target="https://en.wikipedia.org/wiki/John_William_Polidori"/>
-                  </note>
-                  <note resp="#hjb">The first published modern vampire story read by Mitford on 
-                     <date when="1820-11-04">November 4 1820</date>. Mitford described it as 
-                     <q>very stupid</q> in her journal. Originally credited to Lord Byron, but was 
-                     then confirmed to be written by Polidori.</note>
-               </bibl>
-               
+            <bibl/>
             </listBibl>
          </div>
       </back>
